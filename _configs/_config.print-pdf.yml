@@ -1,0 +1,4 @@
+# Set site.output == "print-pdf"
+output: "print-pdf"
+# Set site.image-set == "images/print-pdf"
+image-set: "images/print-pdf"

@@ -1,0 +1,13 @@
+{% comment %}A test to compare a value and a variable{% endcomment %}
+
+{% include metadata %}
+
+{% capture value %}{{ include.value }}{% endcapture %}
+{% assign variable-tag-text = include.variable %}
+{% capture variable-output %}{{ [variable-tag-text] }}{% endcapture %}
+
+{% if value == variable-output %}
+  <span class="electric-book-test-variable electric-book-test-variable-pass">Test <strong>passed</strong>: `{{ include.variable }}` is `{{ include.value }}`</span>
+{% else %}
+  <span class="electric-book-test-variable electric-book-test-variable-fail">Test <strong>failed</strong>: `{{ include.variable }}` is `{{ variable-output }}`, not `{{ include.value }}`</span>
+{% endif %}

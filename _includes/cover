@@ -1,0 +1,27 @@
+{% include metadata %}
+
+{% comment %}Assign the default image filename to image{% endcomment %}
+{% assign image = "cover.jpg" %}
+
+{% comment %}Let the user specify a different image file{% endcomment %}
+{% if include.image %}
+    {% capture image %}{{ include.image }}{% endcapture %}
+{% endif %}
+
+{% comment %}
+Adjust HTML based on output format.
+* For web, link the cover to the start page.
+* For other outputs use just the image.
+{% endcomment %}
+
+{% if site.output == "web" %}
+
+[![{{ title }}]({{ images }}/{{ image }}){:.cover}]({{ web-start-page }})
+{:.cover}
+
+{% else %}
+
+![{{ title }}]({{ images }}/{{ image }}){:.cover}
+{:.cover}
+
+{% endif %}
