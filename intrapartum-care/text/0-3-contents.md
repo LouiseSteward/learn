@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Contents
-layout: toc
+style: contents
 ---
 
 # Contents

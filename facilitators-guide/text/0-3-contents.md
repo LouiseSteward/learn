@@ -1,7 +1,6 @@
 ---
-book: "Facilitator's Guide"
 title: Contents
-layout: toc
+style: contents-page
 published: true
 ---
 

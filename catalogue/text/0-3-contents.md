@@ -1,7 +1,6 @@
 ---
-book: Bettercare catalogue
 title: Contents
-layout: toc
+style: contents-page
 ---
 
 # Contents

@@ -1,7 +1,6 @@
 ---
-book: Saving Mothers and Babies
 title: Contents
-layout: toc
+style: contents
 ---
 
 # Contents

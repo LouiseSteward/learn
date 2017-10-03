@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Contents
-layout: toc
+style: contents-page
 ---
 
 # Contents
