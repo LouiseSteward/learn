@@ -1,6 +1,6 @@
 ---
 title: Contents
-style: contents
+style: contents-page
 ---
 
 # Contents
