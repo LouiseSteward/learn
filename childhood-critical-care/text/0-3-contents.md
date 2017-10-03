@@ -1,7 +1,6 @@
 ---
-book: Childhood Critical Care
 title: Contents
-layout: toc
+style: contents-page
 ---
 
 # Contents

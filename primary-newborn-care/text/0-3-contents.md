@@ -1,7 +1,6 @@
 ---
-book: Primary Newborn Care
 title: Contents
-layout: toc
+style: contents
 ---
 
 # Contents

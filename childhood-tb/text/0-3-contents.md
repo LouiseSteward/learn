@@ -1,7 +1,6 @@
 ---
-book: Childhood TB
 title: Contents
-layout: toc
+style: contents-page
 ---
 
 # Contents

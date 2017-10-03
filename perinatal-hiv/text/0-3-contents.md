@@ -1,7 +1,6 @@
 ---
-book: Perinatal HIV
 title: Contents
-layout: toc
+style: contents
 ---
 
 # Contents

@@ -1,7 +1,6 @@
 ---
-book: Breast Care
 title: Contents
-layout: toc
+style: contents-page
 ---
 
 # Contents

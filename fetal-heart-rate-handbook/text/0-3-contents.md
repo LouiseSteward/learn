@@ -1,7 +1,6 @@
 ---
-book: The Fetal Heart Rate Handbook
 title: Contents
-layout: toc
+style: contents-page
 ---
 
 # Contents

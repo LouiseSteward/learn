@@ -1,7 +1,6 @@
 ---
-book: Congenital Disorders
 title: Contents
-layout: toc
+style: contents-page
 ---
 
 # Contents

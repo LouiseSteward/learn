@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Contents
-layout: toc
+style: contents-page
 ---
 
 # Contents

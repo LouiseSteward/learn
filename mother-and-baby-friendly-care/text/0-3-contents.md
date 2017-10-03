@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Friendly Care
 title: Contents
-layout: toc
+style: contents
 ---
 
 # Contents

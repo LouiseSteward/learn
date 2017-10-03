@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Contents
-layout: toc
+style: contents-page
 ---
 
 # Contents

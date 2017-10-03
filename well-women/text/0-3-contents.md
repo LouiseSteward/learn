@@ -1,7 +1,6 @@
 ---
-book: Well Women
 title: Contents
-layout: toc
+style: contents
 ---
 
 # Contents

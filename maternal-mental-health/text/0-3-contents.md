@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Contents
-layout: toc
+style: contents
 ---
 
 # Contents
