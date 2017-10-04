@@ -105,7 +105,7 @@ exclude:
 - congenital-disorders
 - ebola-prevention-and-control
 - empty-book
-- facillitators-guide
+- facilitators-guide
 - fetal-heart-rate-handbook
 - infection-prevention-and-control
 - intrapartum-care
@@ -118,7 +118,7 @@ exclude:
 - primary-maternal-care
 - primary-newborn-care
 - samples
-- saving-mothers-and-baby
+- saving-mothers-and-babies
 - well-women
 - run-linux.sh
 - run-mac.command
