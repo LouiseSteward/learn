@@ -1,7 +1,6 @@
 ---
-book: Ebola Prevention and Control
 title: Test 4. Support Services and Documentation
-layout: test
+style: test
 ---
 
 # Test 4: Support Services and Documentation

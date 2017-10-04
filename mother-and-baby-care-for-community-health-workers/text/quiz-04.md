@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Care for Community Health Workers
 title: Test 4. HIV in mother and baby
-layout: test
+style: test
 ---
 
 # Test 4: HIV in mother and baby

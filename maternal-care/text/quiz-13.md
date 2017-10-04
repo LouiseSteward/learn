@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 13. Medical problems during pregnancy and the puerperium
-layout: test
+style: test
 ---
 
 # Test 13: Medical problems during pregnancy and the puerperium

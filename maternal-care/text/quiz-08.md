@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 8. Monitoring and management of the first stage of labour
-layout: test
+style: test
 ---
 
 # Test 8: Monitoring and management of the first stage of labour

@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

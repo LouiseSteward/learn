@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 6. Upper respiratory tract conditions
-layout: test
+style: test
 ---
 
 # Test 6: Upper respiratory tract conditions

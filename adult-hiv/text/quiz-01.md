@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Test 1. HIV infection
-layout: test
+style: test
 ---
 
 # Test 1: HIV infection

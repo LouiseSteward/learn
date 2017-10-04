@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Test 2. Clinical and immunological diagnosis of HIV infection
-layout: test
+style: test
 ---
 
 # Test 2: Clinical and immunological diagnosis of HIV infection

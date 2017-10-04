@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 15. Communication
-layout: test
+style: test
 ---
 
 ## Test 15: Communication

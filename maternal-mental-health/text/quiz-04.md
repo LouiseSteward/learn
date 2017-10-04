@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Test 4. How to help mothers with mental health problems
-layout: test
+style: test
 ---
 
 # Test 4: How to help mothers with mental health problems

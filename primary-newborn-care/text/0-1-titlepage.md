@@ -1,7 +1,6 @@
 ---
-book: Primary Newborn Care
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Primary Newborn Care

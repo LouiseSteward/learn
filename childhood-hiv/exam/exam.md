@@ -1,7 +1,7 @@
 ---
 title: Bettercare learning programmes
 book: Childhood HIV
-layout: exam
+style: exam
 published: true
 ---
 

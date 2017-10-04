@@ -1,7 +1,6 @@
 ---
-book: Perinatal HIV
 title: Test 3. HIV during labour and delivery
-layout: test
+style: test
 ---
 
 # Test 3: HIV during labour and delivery

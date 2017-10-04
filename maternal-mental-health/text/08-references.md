@@ -1,7 +1,5 @@
 ---
-book: Maternal Mental Health
 title: References
-layout: chapter
 ---
 
 # References

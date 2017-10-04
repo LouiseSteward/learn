@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Quiz 3. Monitoring and management of the first stage of labour
-layout: test
+style: test
 ---
 
 # Quiz 3: Monitoring and management of the first stage of labour

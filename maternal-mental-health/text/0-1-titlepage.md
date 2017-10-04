@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Maternal Mental Health

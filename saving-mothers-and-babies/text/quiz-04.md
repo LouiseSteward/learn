@@ -1,7 +1,6 @@
 ---
-book: Saving Mothers and Babies
 title: Test 4. Maternal and perinatal mortality audits
-layout: test
+style: test
 ---
 
 # Test 4: Maternal and perinatal mortality audits

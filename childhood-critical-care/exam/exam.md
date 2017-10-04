@@ -1,7 +1,7 @@
 ---
 title: Bettercare learning programmes
 book: Title here
-layout: exam
+style: exam
 published: true
 ---
 

@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 7. Monitoring the condition of the fetus during the first stage of labour
-layout: test
+style: test
 ---
 
 # Test 7: Monitoring the condition of the fetus during the first stage of labour

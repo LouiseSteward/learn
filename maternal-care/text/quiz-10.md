@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 10. Managing pain during labour
-layout: test
+style: test
 ---
 
 # Test 10: Managing pain during labour

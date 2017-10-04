@@ -1,7 +1,6 @@
 ---
-book: Primary Maternal Care
 title: Test 6. The puerperium and family planning
-layout: test
+style: test
 ---
 
 # Test 6: The puerperium and family planning

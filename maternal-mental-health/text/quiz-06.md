@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Test 6. Special social issues in maternal mental health
-layout: test
+style: test
 ---
 
 # Test 6: Special social issues in maternal mental health

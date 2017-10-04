@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Reviews
-layout: chapter
 ---
 
 # Reviews

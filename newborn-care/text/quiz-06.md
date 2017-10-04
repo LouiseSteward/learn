@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 6. Feeding sick or high-risk infants
-layout: test
+style: test
 ---
 
 ## Test 6: Feeding sick or high-risk infants

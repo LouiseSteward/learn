@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Quiz 6. Managing pain during labour
-layout: test
+style: test
 ---
 
 # Quiz 6: Managing pain during labour

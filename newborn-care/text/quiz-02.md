@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 2. Assessing gestational age and size at birth
-layout: test
+style: test
 ---
 
 ## Test 2: Assessing gestational age and size at birth

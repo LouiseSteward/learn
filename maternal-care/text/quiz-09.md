@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 9. The second stage of labour
-layout: test
+style: test
 ---
 
 # Test 9: The second stage of labour

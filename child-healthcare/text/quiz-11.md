@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 11. Parasites
-layout: test
+style: test
 ---
 
 # Test 11: Parasites

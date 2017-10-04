@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: About the book
-layout: frontmatter
+style: frontmatter
 ---
 
 # About the book

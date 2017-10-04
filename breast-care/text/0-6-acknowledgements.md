@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Acknowledgements
-layout: chapter
 ---
 
 # Acknowledgements

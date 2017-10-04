@@ -1,7 +1,5 @@
 ---
-book: Primary Maternal Care
 title: Acknowledgements
-layout: chapter
 ---
 
 # Acknowledgements

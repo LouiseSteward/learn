@@ -5,6 +5,9 @@ style: contents-page
 
 # Contents
 
+{% include toc %}
+{% include page-info %}
+
 *	[Acknowledgements](0-4-acknowledgements.html)
 *   [Introduction](0-5-introduction.html)
     *   [About the Bettercare series](0-5-introduction.html#about-the-bettercare-series)

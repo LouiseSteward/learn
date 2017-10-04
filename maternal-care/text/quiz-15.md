@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 15. Regionalised perinatal care
-layout: test
+style: test
 ---
 
 # Test 15: Regionalised perinatal care

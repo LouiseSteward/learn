@@ -1,7 +1,6 @@
 ---
-book: Well Women
 title: Test 5. Abuse of women
-layout: test
+style: test
 ---
 
 # Test 5: Abuse of women

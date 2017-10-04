@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Adult HIV

@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Test 6. Environmental cleaning, waste management and decontamination of medical devices 
-layout: test
+style: test
 ---
 
 # Test 6: Environmental cleaning, waste management and decontamination of medical devices 

@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 11. Oxygen therapy
-layout: test
+style: test
 ---
 
 ## Test 11: Oxygen therapy

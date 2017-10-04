@@ -1,7 +1,5 @@
 ---
-book: "Facilitator's Guide"
 title: Checklists
-layout: chapter
 published: true
 ---
 

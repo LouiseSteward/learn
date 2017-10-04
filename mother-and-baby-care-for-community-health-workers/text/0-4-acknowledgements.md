@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Care for Community Health Workers
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

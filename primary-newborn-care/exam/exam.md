@@ -1,7 +1,7 @@
 ---
 title: Bettercare learning programmes
 book: Primary Newborn Care
-layout: exam
+style: exam
 published: true
 ---
 

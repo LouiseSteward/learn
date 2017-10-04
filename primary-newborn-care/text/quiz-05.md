@@ -1,7 +1,6 @@
 ---
-book: Primary Newborn Care
 title: Test 5. Management of important problems
-layout: test
+style: test
 ---
 
 # Test 5: Management of important problems

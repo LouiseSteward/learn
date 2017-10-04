@@ -1,7 +1,7 @@
 ---
 title: Bettercare learning programmes
 book: Child Healthcare
-layout: exam
+style: exam
 published: true
 ---
 

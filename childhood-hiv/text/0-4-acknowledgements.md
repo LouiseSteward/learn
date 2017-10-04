@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Quiz 8. Family planning after pregnancy
-layout: test
+style: test
 ---
 
 # Quiz 8: Family planning after pregnancy

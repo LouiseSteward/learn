@@ -1,7 +1,6 @@
 ---
-book: Saving Mothers and Babies
 title: Test 2. Maternal mortality
-layout: test
+style: test
 ---
 
 # Test 2: Maternal mortality

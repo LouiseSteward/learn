@@ -1,7 +1,6 @@
 ---
-book: Breast Care
 title: Test 7. Side effects of breast cancer treatment
-layout: test
+style: test
 ---
 
 # Test 7: Side effects of breast cancer treatment

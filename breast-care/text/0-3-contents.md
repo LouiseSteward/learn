@@ -22,7 +22,7 @@ style: contents-page
 
 *	[1. The normal breast](1.html)
     *   [Objectives](1.html#objectives)
-    *   [Case studes](1.html#case-study-1)
+    *   [Case studies](1.html#case-study-1)
     *   [Normal breast appearance](1.html#normal-breast-appearance)
     *   [Normal breast anatomy](1.html#normal-breast-anatomy)
     *   [Changes in the breast which may be worrying](1.html#changes-in-the-breast-which-may-be-worrying)

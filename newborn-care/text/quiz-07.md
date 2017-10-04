@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 7. Temperature control and hypothermia
-layout: test
+style: test
 ---
 
 ## Test 7: Temperature control and hypothermia

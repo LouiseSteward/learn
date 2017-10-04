@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 1. Failure to breathe at birth and resuscitation
-layout: test
+style: test
 ---
 
 Please choose the *one*, most correct answer to each question or statement.

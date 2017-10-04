@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 5. Diarrhoea
-layout: test
+style: test
 ---
 
 # Test 5: Diarrhoea

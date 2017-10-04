@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 1. History and examination
-layout: test
+style: test
 ---
 
 # Test 1: History and examination

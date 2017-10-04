@@ -1,7 +1,6 @@
 ---
-book: Breast Care
 title: Test 4. Benign changes of the breast
-layout: test
+style: test
 ---
 
 # Test 4: Benign changes of the breast

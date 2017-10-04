@@ -1,7 +1,6 @@
 ---
-book: Primary Maternal Care
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Test 9. Antimicrobial stewardship
-layout: test
+style: test
 ---
 
 # Test 9: Antimicrobial stewardship 

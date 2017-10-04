@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 9. Jaundice, anaemia and polycythaemia
-layout: test
+style: test
 ---
 
 ## Test 9: Jaundice, anaemia and polycythaemia

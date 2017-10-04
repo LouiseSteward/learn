@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Test 6. HIV-associated infections
-layout: test
+style: test
 ---
 
 # Test 6: HIV-associated infections

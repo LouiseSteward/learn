@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

@@ -1,7 +1,6 @@
 ---
-book: Ebola Prevention and Control
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

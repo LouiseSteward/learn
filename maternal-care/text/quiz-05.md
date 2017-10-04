@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 5. Preterm labour and preterm rupture of the membranes
-layout: test
+style: test
 ---
 
 # Test 5: Preterm labour and preterm rupture of the membranes

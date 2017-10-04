@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Test 5. Management of children with antiretroviral treatment
-layout: test
+style: test
 ---
 
 # Test 5: Management of children with antiretroviral treatment

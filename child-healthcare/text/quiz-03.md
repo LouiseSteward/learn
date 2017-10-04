@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 3. Growth and development
-layout: test
+style: test
 ---
 
 # Test 3: Growth and development

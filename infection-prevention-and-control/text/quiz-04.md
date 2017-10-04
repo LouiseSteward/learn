@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Test 4. Hand hygiene
-layout: test
+style: test
 ---
 
 # Test 4: Hand hygiene

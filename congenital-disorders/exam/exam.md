@@ -1,7 +1,7 @@
 ---
 title: Bettercare learning programmes
 book: Congenital Disorders
-layout: exam
+style: exam
 published: true
 ---
 

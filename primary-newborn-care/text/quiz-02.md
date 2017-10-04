@@ -1,7 +1,6 @@
 ---
-book: Primary Newborn Care
 title: Test 2. Care of normal infants
-layout: test
+style: test
 ---
 
 # Test 2: Care of normal infants

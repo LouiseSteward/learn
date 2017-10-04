@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Test 3. Making referrals for maternal mental illness
-layout: test
+style: test
 ---
 
 # Test 3: Making referrals for maternal mental illness

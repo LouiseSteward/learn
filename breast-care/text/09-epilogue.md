@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Epilogue
-layout: chapter
 ---
 
 # Epilogue

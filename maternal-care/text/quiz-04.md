@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 4. Antepartum haemorrhage
-layout: test
+style: test
 ---
 
 # Test 4: Antepartum haemorrhage

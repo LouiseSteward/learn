@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

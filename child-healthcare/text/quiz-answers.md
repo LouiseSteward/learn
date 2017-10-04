@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Answers
-layout: answers
+style: answers
 ---
 # Answers
 

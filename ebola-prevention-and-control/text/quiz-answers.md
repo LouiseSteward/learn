@@ -1,7 +1,6 @@
 ---
-book: Ebola Prevention and Control
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

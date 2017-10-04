@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 15. Childhood mortality
-layout: test
+style: test
 ---
 
 # Test 15: Childhood mortality

@@ -1,7 +1,6 @@
 ---
-book: Well Women
 title: Test 1. Reproductive health
-layout: test
+style: test
 ---
 
 # Test 1: Reproductive health

@@ -1,7 +1,6 @@
 ---
-book: Breast Care
 title: Test 1. The normal breast
-layout: test
+style: test
 ---
 
 # Test 1: The normal breast

@@ -1,7 +1,6 @@
 ---
-book: Childhood Critical Care
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Childhood Critical Care

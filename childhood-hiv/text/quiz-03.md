@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Test 3. Management of children with HIV infection
-layout: test
+style: test
 ---
 
 # Test 3: Management of children with HIV infection

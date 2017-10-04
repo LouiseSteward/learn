@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Test 1. Role and structure of infection prevention and control programmes
-layout: test
+style: test
 ---
 
 # Test 1: Role and structure of infection prevention and control programmes

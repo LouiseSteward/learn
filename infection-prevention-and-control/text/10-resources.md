@@ -1,7 +1,5 @@
 ---
-book: Infection Prevention and Control
 title: Resources
-layout: chapter
 ---
 
 # Addendum: Resources for infection prevention and control

@@ -1,6 +1,5 @@
 ---
-book: Adult HIV
 title: Introduction
-layout: chapter
+style: chapter
 ---
 {% include series-intro %}

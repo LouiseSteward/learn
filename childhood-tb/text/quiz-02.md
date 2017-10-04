@@ -1,7 +1,6 @@
 ---
-book: Childhood TB
 title: Test 2. Clinical presentation of childhood tuberculosis
-layout: test
+style: test
 ---
 
 # Test 2: Clinical presentation of childhood tuberculosis

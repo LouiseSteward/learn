@@ -1,7 +1,6 @@
 ---
-book: Saving Mothers and Babies
 title: Test 3. Perinatal mortality
-layout: test
+style: test
 ---
 
 # Test 3: Perinatal mortality

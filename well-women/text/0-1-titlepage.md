@@ -1,7 +1,6 @@
 ---
-book: Well Women
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Well Women

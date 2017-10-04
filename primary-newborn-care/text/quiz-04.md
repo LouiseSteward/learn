@@ -1,7 +1,6 @@
 ---
-book: Primary Newborn Care
 title: Test 4. Emergency management of infants
-layout: test
+style: test
 ---
 
 # Test 4: Emergency management of infants

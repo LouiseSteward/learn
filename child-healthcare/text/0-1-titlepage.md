@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Child Healthcare

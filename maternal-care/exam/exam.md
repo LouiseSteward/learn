@@ -1,7 +1,7 @@
 ---
 title: Bettercare learning programmes
 book: Maternal Care
-layout: exam
+style: exam
 published: true
 ---
 

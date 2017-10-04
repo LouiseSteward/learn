@@ -1,7 +1,6 @@
 ---
-book: Well Women
 title: Test 3. Common genital and urinary infections
-layout: test
+style: test
 ---
 
 # Test 3: Common genital and urinary infections

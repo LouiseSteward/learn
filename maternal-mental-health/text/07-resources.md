@@ -1,7 +1,5 @@
 ---
-book: Maternal Mental Health
 title: 7. Resources
-layout: chapter
 ---
 
 7

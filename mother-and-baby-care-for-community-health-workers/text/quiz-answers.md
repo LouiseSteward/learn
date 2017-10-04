@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Care for Community Health Workers
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

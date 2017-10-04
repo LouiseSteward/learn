@@ -1,7 +1,6 @@
 ---
-book: Congenital Disorders
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

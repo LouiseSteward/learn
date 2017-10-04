@@ -1,7 +1,6 @@
 ---
-book: Congenital Disorders
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Congenital Disorders

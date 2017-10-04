@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

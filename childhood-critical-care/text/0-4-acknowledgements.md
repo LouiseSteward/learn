@@ -1,7 +1,6 @@
 ---
-book: Childhood Critical Care
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Friendly Care
 title: Test 4. Practice of kangaroo mother care
-layout: test
+style: test
 ---
 
 # Test 4: Practice of kangaroo mother care

@@ -1,7 +1,6 @@
 ---
-book: Perinatal HIV
 title: Test 5. HIV and counselling
-layout: test
+style: test
 ---
 
 # Test 5: HIV and counselling

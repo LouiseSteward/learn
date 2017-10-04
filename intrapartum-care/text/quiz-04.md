@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Quiz 4. The second stage of labour
-layout: test
+style: test
 ---
 
 # Quiz 4: The second stage of labour

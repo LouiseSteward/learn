@@ -1,7 +1,6 @@
 ---
-book: Congential Disorders
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

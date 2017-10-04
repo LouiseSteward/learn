@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Support groups in South Africa
-layout: chapter
 ---
 
 # Support groups in South Africa

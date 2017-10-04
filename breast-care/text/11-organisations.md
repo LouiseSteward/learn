@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Other organisations
-layout: chapter
 ---
 
 # Other organisations

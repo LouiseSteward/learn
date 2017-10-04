@@ -1,7 +1,6 @@
 ---
-book: Childhood Critical Care
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

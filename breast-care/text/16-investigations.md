@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Investigations
-layout: chapter
 ---
 
 # Investigations

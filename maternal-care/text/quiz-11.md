@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 11. The third stage of labour
-layout: test
+style: test
 ---
 
 # Test 11: The third stage of labour

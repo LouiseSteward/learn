@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 12. The puerperium
-layout: test
+style: test
 ---
 
 # Test 12: The puerperium

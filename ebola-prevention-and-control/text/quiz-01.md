@@ -1,7 +1,6 @@
 ---
-book: Ebola Prevention and Control
 title: Test 1. Virology and Epidemiology
-layout: test
+style: test
 ---
 
 # Test 1: Virology and Epidemiology

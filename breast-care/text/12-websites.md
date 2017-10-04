@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Useful websites
-layout: chapter
 ---
 
 # Useful websites

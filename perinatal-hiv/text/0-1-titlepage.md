@@ -1,7 +1,6 @@
 ---
-book: Perinatal HIV
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Perinatal HIV

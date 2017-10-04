@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Recipes and diets
-layout: chapter
 ---
 
 # Recipes and diets

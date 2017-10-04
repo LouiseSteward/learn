@@ -1,7 +1,6 @@
 ---
-book: Childhood TB
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

@@ -1,7 +1,6 @@
 ---
-book: Ebola Prevention and Control
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Ebola Prevention and Control

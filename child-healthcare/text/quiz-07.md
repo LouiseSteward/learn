@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 7. Lower respiratory tract conditions
-layout: test
+style: test
 ---
 
 # Test 7: Lower respiratory tract conditions

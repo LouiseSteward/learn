@@ -1,7 +1,6 @@
 ---
-book: Congenital Disorders
 title: Quiz 1. Introduction to congential disorders
-layout: test
+style: test
 ---
 
 Please choose the one most correct answer to each question or statement.

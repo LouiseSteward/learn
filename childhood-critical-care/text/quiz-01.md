@@ -1,7 +1,6 @@
 ---
-book: Childhood Critical Care
 title: Test
-layout: test
+style: test
 ---
 
 # Test 1: Chapter title

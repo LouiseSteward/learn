@@ -1,7 +1,6 @@
 ---
-book: The Fetal Heart Rate Handbook
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

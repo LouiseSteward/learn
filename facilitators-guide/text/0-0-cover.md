@@ -1,7 +1,6 @@
 ---
-book: Facilitator's Guide
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

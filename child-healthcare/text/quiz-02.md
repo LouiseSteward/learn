@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 2. Immunisation
-layout: test
+style: test
 ---
 
 # Test 2: Immunisation

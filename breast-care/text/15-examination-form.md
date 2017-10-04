@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Examination form
-layout: chapter
 ---
 
 # Examination form

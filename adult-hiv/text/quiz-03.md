@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Test 3. Preparation for antiretroviral treatment
-layout: test
+style: test
 ---
 
 # Test 3: Preparation for antiretroviral treatment

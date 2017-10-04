@@ -1,7 +1,5 @@
 ---
-book: "Facilitator's Guide"
 title: Introduction
-layout: chapter
 published: true
 ---
 

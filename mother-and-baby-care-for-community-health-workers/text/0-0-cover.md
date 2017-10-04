@@ -1,7 +1,6 @@
 ---
-book: Community Health Workers
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

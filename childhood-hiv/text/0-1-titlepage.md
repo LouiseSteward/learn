@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Childhood HIV

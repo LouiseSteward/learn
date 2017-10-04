@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Preface
-layout: chapter
 ---
 
 # Preface

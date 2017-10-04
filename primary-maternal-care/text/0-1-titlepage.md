@@ -1,7 +1,6 @@
 ---
-book: Primary Maternal Care
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Primary Maternal Care

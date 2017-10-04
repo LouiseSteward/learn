@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Test 2. Managing people with HIV infection
-layout: test
+style: test
 ---
 
 # Test 2: Managing people with HIV infection

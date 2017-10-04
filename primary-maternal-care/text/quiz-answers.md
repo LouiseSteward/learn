@@ -1,7 +1,6 @@
 ---
-book: Primary Maternal Care
 title: Test
-layout: answers
+style: answers
 ---
 
 # Answers
