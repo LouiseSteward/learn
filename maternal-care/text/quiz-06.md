@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 6. Monitoring the condition of the mother during the first stage of labour
-layout: test
+style: test
 ---
 
 # Test 6: Monitoring the condition of the mother during the first stage of labour

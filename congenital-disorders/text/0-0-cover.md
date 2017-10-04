@@ -1,7 +1,6 @@
 ---
-book: Congenital Disorders
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

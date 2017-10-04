@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 9. HIV infection
-layout: test
+style: test
 ---
 
 # Test 9: HIV infection

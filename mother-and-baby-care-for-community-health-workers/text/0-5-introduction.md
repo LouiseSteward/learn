@@ -1,7 +1,5 @@
 ---
-book: Mother and Baby Care for Community Health Workers
 title: Introduction
-layout: chapter
 ---
 
 # Introduction

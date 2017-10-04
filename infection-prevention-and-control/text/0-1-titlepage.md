@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Infection Prevention and Control

@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 4. Nutrition
-layout: test
+style: test
 ---
 
 # Test 4: Nutrition

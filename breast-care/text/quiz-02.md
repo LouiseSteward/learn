@@ -1,7 +1,6 @@
 ---
-book: Breast Care
 title: Test 2. Clinical assessment of the breast
-layout: test
+style: test
 ---
 
 # Test 2: Clinical assessment of the breast

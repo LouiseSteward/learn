@@ -1,7 +1,6 @@
 ---
-book: Ebola Prevention and Control
 title: About the authors and editor
-layout: frontmatter
+style: frontmatter
 ---
 
 # About the authors

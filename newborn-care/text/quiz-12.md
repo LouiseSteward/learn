@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 12. Infection
-layout: test
+style: test
 ---
 
 ## Test 12: Infection

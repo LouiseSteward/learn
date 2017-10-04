@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Friendly Care
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Mother and Baby Friendly Care

@@ -1,7 +1,6 @@
 ---
-book: "Facilitator's Guide"
 title: Copyright
-layout: frontmatter
+style: frontmatter
 published: true
 ---
 

@@ -1,7 +1,6 @@
 ---
-book: Title Here
 title: Copyright
-layout: frontmatter
+style: frontmatter
 ---
 
 *Bettercare catalogue*

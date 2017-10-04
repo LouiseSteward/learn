@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 13. Trauma and bleeding
-layout: test
+style: test
 ---
 
 ## Test 13: Trauma and bleeding

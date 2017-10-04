@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Quiz 7. The puerperium
-layout: test
+style: test
 ---
 
 # Quiz 7: The puerperium

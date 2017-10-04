@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Care for Community Healthcare Workers
 title: Test 1. Care of the mother
-layout: test
+style: test
 ---
 
 # Test 1: Care of the mother

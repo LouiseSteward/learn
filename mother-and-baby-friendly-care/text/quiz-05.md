@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Friendly Care
 title: Test 5. Baby friendly care
-layout: test
+style: test
 ---
 
 # Test 5: Baby friendly care

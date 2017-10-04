@@ -1,7 +1,6 @@
 ---
-book: Childhood TB
 title: Test 5. Preventing childhood tuberculosis
-layout: test
+style: test
 ---
 
 # Test 5: Preventing childhood tuberculosis

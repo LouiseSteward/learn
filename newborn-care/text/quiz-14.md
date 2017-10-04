@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 14. Congenital Disorders
-layout: test
+style: test
 ---
 
 ## Test 14: Congenital Disorders

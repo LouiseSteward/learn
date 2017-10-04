@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: About the author and editors
-layout: frontmatter
+style: frontmatter
 ---
 
 # About the author and editors

@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

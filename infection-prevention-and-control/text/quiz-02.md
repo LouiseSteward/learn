@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Test 2. Micro-organisms of relevance to infection prevention and control
-layout: test
+style: test
 ---
 
 # Test 2: Micro-organisms of relevance to infection prevention and control

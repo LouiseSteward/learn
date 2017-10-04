@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Reviews
-layout: frontmatter
+style: frontmatter
 ---
 
 # Reviews

@@ -1,7 +1,7 @@
 ---
 title: Bettercare learning programmes
 book: Infection Prevention and Control
-layout: exam
+style: exam
 published: true
 ---
 

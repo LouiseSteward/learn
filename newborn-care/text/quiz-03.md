@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 3. The routine care of normal infants
-layout: test
+style: test
 ---
 
 ## Test 3: The routine care of normal infants

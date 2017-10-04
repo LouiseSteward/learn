@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

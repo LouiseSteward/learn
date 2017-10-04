@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Maternal Care

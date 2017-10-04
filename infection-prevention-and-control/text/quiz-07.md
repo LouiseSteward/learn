@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Test 7. Surveillance and outbreak investigation
-layout: test
+style: test
 ---
 
 # Test 7: Surveillance and outbreak investigation

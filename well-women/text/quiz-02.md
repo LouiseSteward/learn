@@ -1,7 +1,6 @@
 ---
-book: Well Women
 title: Test 2. Family planning and infertility
-layout: test
+style: test
 ---
 
 # Test 2: Family planning and infertility

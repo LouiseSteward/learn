@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 13. Serious illnesses
-layout: test
+style: test
 ---
 
 # Test 13: Serious illnesses

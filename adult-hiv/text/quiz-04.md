@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Test 4. Antiretroviral drugs
-layout: test
+style: test
 ---
 
 # Test 4: Antiretroviral drugs

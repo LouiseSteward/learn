@@ -1,7 +1,7 @@
 ---
 title: Bettercare learning programmes
 book: Saving Mothers and Babies
-layout: exam
+style: exam
 published: true
 ---
 

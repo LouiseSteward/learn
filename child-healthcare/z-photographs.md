@@ -1,7 +1,5 @@
 ---
-book: Child Healthcare
 title: Skin conditions photographs
-layout: chapter
 ---
 
 # Photographs

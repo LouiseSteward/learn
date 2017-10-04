@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Quiz 5. The third stage of labour
-layout: test
+style: test
 ---
 
 # Quiz 5. The third stage of labour

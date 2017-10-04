@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Test 3. Risk assessment and risk management in IPC 
-layout: test
+style: test
 ---
 
 # Test 3: Risk assessment and risk management in IPC 

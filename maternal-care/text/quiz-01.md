@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 1. Antenatal care
-layout: test
+style: test
 ---
 
 # Test 1: Antenatal care

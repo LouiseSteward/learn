@@ -1,7 +1,6 @@
 ---
-book: Childhood TB
 title: Test 3. Diagnosis of childhood tuberculosis
-layout: test
+style: test
 ---
 
 # Test 3: Diagnosis of childhood tuberculosis

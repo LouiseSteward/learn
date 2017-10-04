@@ -1,7 +1,6 @@
 ---
-book: Perinatal HIV
 title: Test 2. HIV in pregnancy
-layout: test
+style: test
 ---
 
 # Test 2: HIV in pregnancy

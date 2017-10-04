@@ -1,7 +1,6 @@
 ---
-book: The Fetal Heart Rate Handbook
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 The Fetal Heart Rate Handbook

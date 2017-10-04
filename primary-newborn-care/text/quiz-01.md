@@ -1,7 +1,6 @@
 ---
-book: Primary Newborn Care
 title: Test 1. Care of infants at birth
-layout: test
+style: test
 ---
 
 # Test 1: Care of infants at birth

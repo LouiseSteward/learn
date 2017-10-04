@@ -1,7 +1,6 @@
 ---
-book: Child healthcare
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

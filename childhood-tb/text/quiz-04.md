@@ -1,7 +1,6 @@
 ---
-book: Childhood TB
 title: Test 4. Management of childhood tuberculosis
-layout: test
+style: test
 ---
 
 # Test 4: Management of childhood tuberculosis

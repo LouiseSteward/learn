@@ -1,7 +1,6 @@
 ---
-book: Perinatal HIV
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

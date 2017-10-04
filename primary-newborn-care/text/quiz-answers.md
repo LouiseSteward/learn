@@ -1,7 +1,6 @@
 ---
-book: Primary Newborn Care
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

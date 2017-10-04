@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Test 5. Infection control considerations for healthcare facility design
-layout: test
+style: test
 ---
 
 # Test 5: Infection control considerations for healthcare facility design

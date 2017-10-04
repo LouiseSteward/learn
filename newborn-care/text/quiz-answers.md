@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test answers
-layout: answers
+style: answers
 ---
 
 # Answers

@@ -1,7 +1,6 @@
 ---
-book: Childhood TB
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

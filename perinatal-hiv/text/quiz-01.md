@@ -1,7 +1,6 @@
 ---
-book: Perinatal HIV
 title: Test 1. Introduction to perinatal HIV
-layout: test
+style: test
 ---
 
 # Test 1: Introduction to perinatal HIV

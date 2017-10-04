@@ -1,7 +1,6 @@
 ---
-book: Breast Care
 title: Test 8. Palliative care
-layout: test
+style: test
 ---
 
 # Test 8: Palliative care

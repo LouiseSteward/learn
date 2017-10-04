@@ -1,7 +1,6 @@
 ---
-book: Saving Mothers and Babies
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

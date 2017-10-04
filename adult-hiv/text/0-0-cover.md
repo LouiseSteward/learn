@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

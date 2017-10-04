@@ -1,7 +1,7 @@
 ---
 title: Bettercare learning programmes
 book: Childhood TB
-layout: exam
+style: exam
 published: true
 ---
 

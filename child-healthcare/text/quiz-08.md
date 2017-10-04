@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 8. Tuberculosis
-layout: test
+style: test
 ---
 
 # Test 8: Tuberculosis

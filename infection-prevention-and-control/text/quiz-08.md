@@ -1,7 +1,6 @@
 ---
-book: Infection Prevention and Control
 title: Test 8. Tuberculosis infection prevention and control
-layout: test
+style: test
 ---
 
 # Test 8: Tuberculosis infection prevention and control

@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

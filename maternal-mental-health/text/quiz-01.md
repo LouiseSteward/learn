@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Test 1. Introduction to maternal mental health
-layout: test
+style: test
 ---
 
 # Test 1: Introduction to maternal mental health

@@ -1,7 +1,6 @@
 ---
-book: Primary Newborn Care
 title: Test 3. Care of low-birth-weight infants
-layout: test
+style: test
 ---
 
 # Test 3: Care of low-birth-weight infants

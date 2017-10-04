@@ -1,7 +1,6 @@
 ---
-book: Adult HIV
 title: Test 5. Management of patients on anti­retroviral treatment
-layout: test
+style: test
 ---
 
 # Test 5: Management of patients on anti­retroviral treatment

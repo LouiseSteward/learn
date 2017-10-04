@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Test 8. Glucose control and hypoglycaemia
-layout: test
+style: test
 ---
 
 ## Test 8: Glucose control and hypoglycaemia

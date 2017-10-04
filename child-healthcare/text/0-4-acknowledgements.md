@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 ---
 
 # Acknowledgements

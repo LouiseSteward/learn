@@ -1,7 +1,6 @@
 ---
-book: Well Women
 title: Test 4. Vaginal bleeding
-layout: test
+style: test
 ---
 
 # Test 4: Vaginal bleeding

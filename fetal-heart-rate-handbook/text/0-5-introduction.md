@@ -1,7 +1,5 @@
 ---
-book: The Fetal Heart Rate Handbook
 title: Introduction
-layout: chapter
 ---
 
 # Introduction

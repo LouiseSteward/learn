@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

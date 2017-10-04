@@ -1,7 +1,6 @@
 ---
-book: Intrapartum Care
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Intrapartum Care

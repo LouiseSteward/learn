@@ -1,7 +1,6 @@
 ---
-book: Title Here
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

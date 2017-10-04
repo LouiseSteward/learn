@@ -1,7 +1,6 @@
 ---
-book: Maternal Care
 title: Test 14. Family planning after pregnancy
-layout: test
+style: test
 ---
 
 # Test 14: Family planning after pregnancy

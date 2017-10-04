@@ -1,7 +1,5 @@
 ---
-book: Primary Maternal Care
 title: Appendix
-layout: chapter
 ---
 
 # Appendix

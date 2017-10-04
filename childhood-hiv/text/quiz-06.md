@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Test 6. HIV-associated infections and end-of-life care
-layout: test
+style: test
 ---
 
 # Test 6: HIV-associated infections and end-of-life care

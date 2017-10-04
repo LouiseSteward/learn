@@ -1,7 +1,6 @@
 ---
-book: Ebola Prevention and Control
 title: Test 2. Patient management
-layout: test
+style: test
 ---
 
 # Test 2: Patient management

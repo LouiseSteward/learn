@@ -1,7 +1,6 @@
 ---
-book: Saving Mothers and Babies
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Saving Mothers and Babies

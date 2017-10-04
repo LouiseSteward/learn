@@ -1,7 +1,6 @@
 ---
-book: Primary Maternal Care
 title: Test 7. Medical problems during pregnancy and the puerperium
-layout: test
+style: test
 ---
 
 # Test 7: Medical problems during pregnancy and the puerperium

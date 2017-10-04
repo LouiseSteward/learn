@@ -1,7 +1,6 @@
 ---
-book: Breast Care
 title: Test 5. Cancer of the breast
-layout: test
+style: test
 ---
 
 # Test 5: Cancer of the breast

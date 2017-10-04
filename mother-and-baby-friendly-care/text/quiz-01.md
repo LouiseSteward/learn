@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Friendly Care
 title: Test 1. Mother friendly care during pregnancy
-layout: test
+style: test
 ---
 
 # Test 1: Mother friendly care during pregnancy

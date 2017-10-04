@@ -1,7 +1,6 @@
 ---
-book: Newborn Care
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Newborn Care

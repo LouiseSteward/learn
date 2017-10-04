@@ -1,7 +1,5 @@
 ---
-book: Breast Care
 title: Organisations active by region
-layout: chapter
 ---
 
 # Organisations active by region

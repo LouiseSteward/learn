@@ -1,7 +1,5 @@
 ---
-book: "Facilitator's Guide"
 title: Dear Group Leader
-layout: chapter
 published: true
 ---
 

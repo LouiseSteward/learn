@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 12. Skin conditions
-layout: test
+style: test
 ---
 
 # Test 12: Skin conditions

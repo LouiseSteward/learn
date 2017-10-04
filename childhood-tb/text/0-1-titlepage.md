@@ -1,7 +1,6 @@
 ---
-book: Childhood TB
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Childhood TB

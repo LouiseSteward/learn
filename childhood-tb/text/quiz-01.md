@@ -1,7 +1,6 @@
 ---
-book: Childhood TB
 title: Test 1. Introduction to childhood tuberculosis
-layout: test
+style: test
 ---
 
 # Test 1: Introduction to childhood tuberculosis

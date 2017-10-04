@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 14. Home and society
-layout: test
+style: test
 ---
 
 # Test 14: Home and society

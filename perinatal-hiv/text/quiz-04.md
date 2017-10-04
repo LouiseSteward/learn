@@ -1,7 +1,6 @@
 ---
-book: Perinatal HIV
 title: Test 4. HIV in the newborn infant
-layout: test
+style: test
 ---
 
 # Test 4: HIV in the newborn infant

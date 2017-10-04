@@ -1,7 +1,6 @@
 ---
-book: Primary Maternal Care
 title: Test 3. Hypertensive disorders of pregnancy
-layout: test
+style: test
 ---
 
 # Test 3: Hypertensive disorders of pregnancy

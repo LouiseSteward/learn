@@ -1,7 +1,6 @@
 ---
-book: Breast Care
 title: Test 6. Treatment of breast cancer
-layout: test
+style: test
 ---
 
 # Test 6: Treatment of breast cancer

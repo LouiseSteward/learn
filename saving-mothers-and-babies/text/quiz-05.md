@@ -1,7 +1,6 @@
 ---
-book: Saving Mothers and Babies
 title: Test 5. Finding solutions to maternal and perinatal mortality
-layout: test
+style: test
 ---
 
 # Test 5: Finding solutions to maternal and perinatal mortality

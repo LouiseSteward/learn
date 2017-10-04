@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Cover
-layout: cover
+style: cover
 ---
 
 ![Cover](images/cover.jpg){:.cover}

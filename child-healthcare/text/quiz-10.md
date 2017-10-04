@@ -1,7 +1,6 @@
 ---
-book: Child Healthcare
 title: Test 10. Childhood infections
-layout: test
+style: test
 ---
 
 # Test 10: Childhood infections

@@ -1,7 +1,6 @@
 ---
-book: Breast Care
 title: Test 3. Special investigations of the breast
-layout: test
+style: test
 ---
 
 # Test 3: Special investigations of the breast

@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Cover
-layout: cover
+style: cover
 ---
 
 [![Cover](images/cover.jpg){:.cover}](0-3-contents.html)

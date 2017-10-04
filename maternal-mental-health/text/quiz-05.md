@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Test 5. Special medical issues in maternal mental health
-layout: test
+style: test
 ---
 
 # Test 5: Special medical issues in maternal mental health

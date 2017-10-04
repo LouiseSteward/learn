@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Friendly Care
 title: Answers
-layout: answers
+style: answers
 ---
 
 # Answers

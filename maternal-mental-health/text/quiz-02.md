@@ -1,7 +1,6 @@
 ---
-book: Maternal Mental Health
 title: Test 2. Identifying maternal mental illness
-layout: test
+style: test
 ---
 
 # Test 2: Identifying maternal mental illness

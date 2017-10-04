@@ -1,7 +1,6 @@
 ---
-book: Facilitators' Guide
 title: Acknowledgements
-layout: frontmatter
+style: frontmatter
 published: true
 ---
 

@@ -1,7 +1,6 @@
 ---
-book: Saving Mothers and Babies
 title: Test 1. Introduction to maternal and perinatal mortality
-layout: test
+style: test
 ---
 
 # Test 1: Introduction to maternal and perinatal mortality

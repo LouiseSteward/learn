@@ -1,7 +1,6 @@
 ---
-book: Childhood HIV
 title: Test 1. Introduction to childhood HIV infection
-layout: test
+style: test
 ---
 
 # Test 1: Introduction to childhood HIV infection

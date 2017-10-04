@@ -1,7 +1,6 @@
 ---
-book: Mother and Baby Friendly Care
 title: Test 2. Mother friendly care during labour, delivery and the puerperium
-layout: test
+style: test
 ---
 
 # Test 2: Mother friendly care during labour, delivery and the puerperium

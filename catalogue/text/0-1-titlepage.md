@@ -1,7 +1,6 @@
 ---
-book: Bettercare catalogue
 title: Title page
-layout: frontmatter
+style: frontmatter
 ---
 
 Bettercare catalogue

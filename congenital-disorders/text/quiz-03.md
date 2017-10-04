@@ -1,7 +1,6 @@
 ---
-book: Congenital Disorders
 title: Quiz 3. Chromosomal disorders
-layout: test
+style: test
 ---
 
 Please choose the one most correct answer to each question or statement.

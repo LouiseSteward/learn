@@ -1,7 +1,6 @@
 ---
-book: "Facilitator's Guide"
 title: Title page
-layout: frontmatter
+style: frontmatter
 published: true
 ---
 
