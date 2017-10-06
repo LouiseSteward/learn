@@ -9,5 +9,3 @@ layout: null
 {% if site.output == 'web' or site.output == 'epub' %}
     {% include_relative videos.js %}
 {% endif %}
-
-{% include_relative yaml-toc.js %}
