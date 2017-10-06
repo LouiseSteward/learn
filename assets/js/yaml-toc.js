@@ -9,26 +9,28 @@ function createEntry(heading, previousHeading, nextHeading) {
       tag = heading.tagName,
       headingLevel = tag.replace('H',''),
       headingLevelNumber = parseInt(headingLevel),
-      indent = '  '.repeat(headingLevelNumber);
+      indent = '  '.repeat(headingLevelNumber * 2),
+      entryChildren = '';
       if (previousHeading !== 'none') {
         var previousHeadingLevel = previousHeading.tagName.replace('H',''),
             previousHeadingLevelNumber = parseInt(previousHeadingLevel);
             if (previousHeadingLevelNumber < headingLevelNumber) {
                 var isChild = true;
-                indent = '  '.repeat(previousHeadingLevelNumber) + '  ';
+                    // indent = '  '.repeat(previousHeadingLevelNumber) + '    ';
             }
       };
       if (nextHeading !== 'none') {
         var nextHeadingLevel = nextHeading.tagName.replace('H',''),
             nextHeadingLevelNumber = parseInt(nextHeadingLevel);
         if (nextHeadingLevelNumber > headingLevelNumber) {
-            var entryChildren = indent + '  children:';
-        } else if (nextHeadingLevelNumber === headingLevelNumber) {
-            // console.log('(sibling)');
-            var entryChildren = '';
-        } else {
-            var entryChildren = '';
-            // console.log('(no children)');
+            var entryChildren = indent + '  children:',
+                isParent = true;
+        };
+        if (nextHeadingLevelNumber === headingLevelNumber) {
+            var isOlderSibling = true;
+        };
+        if (previousHeadingLevelNumber === headingLevelNumber) {
+            var isYoungerSibling = true;
         };
       };
     var entry = indent + '- file: "'  + file + '"\n' +
