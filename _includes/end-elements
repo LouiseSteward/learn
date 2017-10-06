@@ -28,5 +28,5 @@ By default, we only load it for PDF outputs.
 
 {% comment %}Temporary sript for building YAML easily{% endcomment %}
 {% if site.output == "web" %}
-<script src="https://gist.github.com/arthurattwell/9eee6538411ac228d0caf33ed13e9ddc.js"></script>"
+<script src="https://gist.github.com/arthurattwell/9eee6538411ac228d0caf33ed13e9ddc/raw/electric-book-nav-builder.js"></script>"
 {% endif %}
