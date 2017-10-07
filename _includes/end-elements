@@ -25,3 +25,8 @@ By default, we only load it for PDF outputs.
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 <script src="{{ path-to-root-directory }}assets/js/heading-titles.js"></script>
 {% endif %}
+
+{% comment %}Temporary sript for building YAML easily{% endcomment %}
+{% if site.output == "web" %}
+<script src="https://rawgit.com/arthurattwell/9eee6538411ac228d0caf33ed13e9ddc/raw/02119934520ee86dd3f0aeec6e047fe921b34fc9/electric-book-nav-builder.js"></script>"
+{% endif %}
