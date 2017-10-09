@@ -95,6 +95,31 @@ image-set: "images/web"
 exclude:
 # - css
 # - book
+# - adult-hiv
+- breast-care
+- catalogue
+- child-healthcare
+- childhood-critical-care
+- childhood-hiv
+- childhood-tb
+- congenital-disorders
+- ebola-prevention-and-control
+- empty-book
+- facilitators-guide
+- fetal-heart-rate-handbook
+- infection-prevention-and-control
+- intrapartum-care
+- maternal-care
+- maternal-mental-health
+- mother-and-baby-care-for-community-health-workers
+- mother-and-baby-friendly-care
+- newborn-care
+- perinatal-hiv
+- primary-maternal-care
+- primary-newborn-care
+- samples
+- saving-mothers-and-babies
+- well-women
 - run-linux.sh
 - run-mac.command
 - run-windows.bat
