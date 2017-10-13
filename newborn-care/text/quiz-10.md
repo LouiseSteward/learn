@@ -1,9 +1,9 @@
 ---
-title: Test 10. Respiratory distress and apnoea
+title: Quiz 10. Respiratory distress and apnoea
 style: test
 ---
 
-## Test 10: Respiratory distress and apnoea
+## Quiz 10: Respiratory distress and apnoea
 
 1.	Which one of the following clinical signs is used to diagnose respiratory distress?
 	-	Pallor

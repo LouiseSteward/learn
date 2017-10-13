@@ -7,5 +7,5 @@ style: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Chapter title
+## Quiz 1: Chapter title
 

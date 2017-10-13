@@ -1,9 +1,9 @@
 ---
-title: Test 11. The third stage of labour
+title: Quiz 11. The third stage of labour
 style: test
 ---
 
-# Test 11: The third stage of labour
+# Quiz 11: The third stage of labour
 
 Please choose the one most correct answer to each question or statement.
 

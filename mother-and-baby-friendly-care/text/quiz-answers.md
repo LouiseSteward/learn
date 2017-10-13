@@ -7,7 +7,7 @@ style: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Mother friendly care during pregnancy
+## Quiz 1: Mother friendly care during pregnancy
 
 1.	c	(1-1)
 2.	b	(1-5)
@@ -30,7 +30,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(1-37)
 20.	b	(1-41)
 
-## Test 2: Mother friendly care during labour, delivery and the puerperium
+## Quiz 2: Mother friendly care during labour, delivery and the puerperium
 
 1.	a	(2-3)
 2.	d	(2-5)
@@ -53,7 +53,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(2-29)
 20.	b	(2-37)
 
-## Test 3: Principles of kangaroo mother care
+## Quiz 3: Principles of kangaroo mother care
 
 1.	b	(3-1)
 2.	a	(3-3)
@@ -76,7 +76,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(3-31)
 20.	b	(3-34)
 
-## Test 4: Practice of kangaroo mother care
+## Quiz 4: Practice of kangaroo mother care
 
 1.	c	(4-4)
 2.	a	(4-6)
@@ -99,7 +99,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(4-39)
 20.	c	(4-42)
 
-## Test 5: Baby friendly care
+## Quiz 5: Baby friendly care
 
 1.	c	(5-1)
 2.	b	(5-6)

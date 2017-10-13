@@ -1,9 +1,9 @@
 ---
-title: Test 1. HIV infection
+title: Quiz 1. HIV infection
 style: test
 ---
 
-# Test 1: HIV infection
+# Quiz 1: HIV infection
 
 1.	HIV is a:
 	-	Fungus

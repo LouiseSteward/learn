@@ -1,9 +1,9 @@
 ---
-title: Test 14. Congenital Disorders
+title: Quiz 14. Congenital Disorders
 style: test
 ---
 
-## Test 14: Congenital Disorders
+## Quiz 14: Congenital Disorders
 
 1.	How many infants are born with a congenital disorder?
 	-	1%

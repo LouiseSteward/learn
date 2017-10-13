@@ -1,9 +1,9 @@
 ---
-title: Test 4. HIV in mother and baby
+title: Quiz 4. HIV in mother and baby
 style: test
 ---
 
-# Test 4: HIV in mother and baby
+# Quiz 4: HIV in mother and baby
 
 Please choose the **one**, most correct answer to each question or statement.
 

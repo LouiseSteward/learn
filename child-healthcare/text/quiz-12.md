@@ -1,9 +1,9 @@
 ---
-title: Test 12. Skin conditions
+title: Quiz 12. Skin conditions
 style: test
 ---
 
-# Test 12: Skin conditions
+# Quiz 12: Skin conditions
 
 1.	What is a papule?
 	-	A flat spot.

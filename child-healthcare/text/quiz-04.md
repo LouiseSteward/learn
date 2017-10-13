@@ -1,9 +1,9 @@
 ---
-title: Test 4. Nutrition
+title: Quiz 4. Nutrition
 style: test
 ---
 
-# Test 4: Nutrition
+# Quiz 4: Nutrition
 
 1.	What is a child’s nutrition?
 	+	The child’s diet.

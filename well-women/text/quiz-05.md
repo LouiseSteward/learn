@@ -1,9 +1,9 @@
 ---
-title: Test 5. Abuse of women
+title: Quiz 5. Abuse of women
 style: test
 ---
 
-# Test 5: Abuse of women
+# Quiz 5: Abuse of women
 
 1.	What activity would qualify as abuse?
 	-	Repeated shouting at a women by her partner in order to control her

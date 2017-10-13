@@ -1,9 +1,9 @@
 ---
-title: Test 3. Making referrals for maternal mental illness
+title: Quiz 3. Making referrals for maternal mental illness
 style: test
 ---
 
-# Test 3: Making referrals for maternal mental illness
+# Quiz 3: Making referrals for maternal mental illness
  
 1.	What is a referral?
 	-	Sending a patient to someone else because you find her irritating

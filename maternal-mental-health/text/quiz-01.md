@@ -1,9 +1,9 @@
 ---
-title: Test 1. Introduction to maternal mental health
+title: Quiz 1. Introduction to maternal mental health
 style: test
 ---
 
-# Test 1: Introduction to maternal mental health
+# Quiz 1: Introduction to maternal mental health
 
 1.	What is mental illness?
 	-	Feeling distressed

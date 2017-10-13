@@ -1,9 +1,9 @@
 ---
-title: Test 1. Introduction to childhood HIV infection
+title: Quiz 1. Introduction to childhood HIV infection
 style: test
 ---
 
-# Test 1: Introduction to childhood HIV infection
+# Quiz 1: Introduction to childhood HIV infection
 
 Please choose the one most correct answer to each question or statement.
 

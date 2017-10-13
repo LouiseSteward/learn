@@ -1,9 +1,9 @@
 ---
-title: Test 5. Preterm labour and preterm rupture of the membranes
+title: Quiz 5. Preterm labour and preterm rupture of the membranes
 style: test
 ---
 
-# Test 5: Preterm labour and preterm rupture of the membranes
+# Quiz 5: Preterm labour and preterm rupture of the membranes
 
 Please choose the one most correct answer to each question or statement.
 

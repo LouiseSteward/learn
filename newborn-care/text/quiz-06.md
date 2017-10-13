@@ -1,9 +1,9 @@
 ---
-title: Test 6. Feeding sick or high-risk infants
+title: Quiz 6. Feeding sick or high-risk infants
 style: test
 ---
 
-## Test 6: Feeding sick or high-risk infants
+## Quiz 6: Feeding sick or high-risk infants
 
 1.	Which of the following is found in the cells of the body?
 	-	Intravascular fluid

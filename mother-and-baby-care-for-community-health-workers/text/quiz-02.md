@@ -1,9 +1,9 @@
 ---
-title: Test 1. Care of the newborn baby
+title: Quiz 1. Care of the newborn baby
 style: test
 ---
 
-# Test 2: Care of the newborn baby
+# Quiz 2: Care of the newborn baby
 
 Please choose the **one**, most correct answer to each question or statement.
 

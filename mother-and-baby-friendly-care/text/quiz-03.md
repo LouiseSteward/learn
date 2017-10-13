@@ -1,9 +1,9 @@
 ---
-title: Test 3. Principles of kangaroo mother care
+title: Quiz 3. Principles of kangaroo mother care
 style: test
 ---
 
-# Test 3: Principles of kangaroo mother care
+# Quiz 3: Principles of kangaroo mother care
 
 1.	What is kangaroo mother care?
 	-	A new Australian method of caring for infants.

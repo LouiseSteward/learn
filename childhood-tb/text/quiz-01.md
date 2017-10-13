@@ -1,9 +1,9 @@
 ---
-title: Test 1. Introduction to childhood tuberculosis
+title: Quiz 1. Introduction to childhood tuberculosis
 style: test
 ---
 
-# Test 1: Introduction to childhood tuberculosis
+# Quiz 1: Introduction to childhood tuberculosis
 
 Please choose the one most correct answer to each question or statement.
 

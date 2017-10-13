@@ -1,9 +1,9 @@
 ---
-title: Test 8. Glucose control and hypoglycaemia
+title: Quiz 8. Glucose control and hypoglycaemia
 style: test
 ---
 
-## Test 8: Glucose control and hypoglycaemia
+## Quiz 8: Glucose control and hypoglycaemia
 
 1.	Glucose is stored in the body as glycogen in:
 	-	The brain

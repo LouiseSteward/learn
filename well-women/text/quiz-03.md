@@ -1,9 +1,9 @@
 ---
-title: Test 3. Common genital and urinary infections
+title: Quiz 3. Common genital and urinary infections
 style: test
 ---
 
-# Test 3: Common genital and urinary infections
+# Quiz 3: Common genital and urinary infections
 
 1.	Genital infections include:
 	-	Infections of the bladder

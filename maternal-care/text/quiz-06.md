@@ -1,9 +1,9 @@
 ---
-title: Test 6. Monitoring the condition of the mother during the first stage of labour
+title: Quiz 6. Monitoring the condition of the mother during the first stage of labour
 style: test
 ---
 
-# Test 6: Monitoring the condition of the mother during the first stage of labour
+# Quiz 6: Monitoring the condition of the mother during the first stage of labour
 
 Please choose the one most correct answer to each question or statement.
 

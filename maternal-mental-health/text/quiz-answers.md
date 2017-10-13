@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Quiz
 style: answers
 ---
 
@@ -7,7 +7,7 @@ style: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Introduction to maternal mental health
+## Quiz 1: Introduction to maternal mental health
 
 1.	b (1-2)
 2.	c (1-6)
@@ -30,7 +30,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (1-14)
 20.	c (1-34)
 
-## Test 2: Identifying maternal mental illness
+## Quiz 2: Identifying maternal mental illness
 
 1.	b (2-1)
 2.	b (2-2)
@@ -53,7 +53,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (2-37)
 20.	c (2-38)
 
-## Test 3: Making referrals for maternal mental illness
+## Quiz 3: Making referrals for maternal mental illness
 
 1.	c (3-1)
 2.	d (3-3)
@@ -76,7 +76,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c (3-27)
 20.	b (3-28)
 
-## Test 4: How to help mothers with mental health problems
+## Quiz 4: How to help mothers with mental health problems
 
 1.	c (4-1)
 2.	d (4-3)
@@ -99,7 +99,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b (4-38)
 20.	a (4-36)
 
-## Test 5: Special medical issues in maternal mental health
+## Quiz 5: Special medical issues in maternal mental health
 
 1.	c (5-1)
 2.	a (5-1)
@@ -122,7 +122,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (5-30)
 20.	b (5-33)
 
-## Test 6: Special social issues in maternal mental health
+## Quiz 6: Special social issues in maternal mental health
 
 1.	b (6-1)
 2.	d (6-2)

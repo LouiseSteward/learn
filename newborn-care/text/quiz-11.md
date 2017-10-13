@@ -1,9 +1,9 @@
 ---
-title: Test 11. Oxygen therapy
+title: Quiz 11. Oxygen therapy
 style: test
 ---
 
-## Test 11: Oxygen therapy
+## Quiz 11: Oxygen therapy
 
 1.	Metabolism requiring oxygen is called:
 	-	Oxidation

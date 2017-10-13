@@ -1,9 +1,9 @@
 ---
-title: Test 7. Surveillance and outbreak investigation
+title: Quiz 7. Surveillance and outbreak investigation
 style: test
 ---
 
-# Test 7: Surveillance and outbreak investigation
+# Quiz 7: Surveillance and outbreak investigation
 
 1.	Surveillance can best be described as:
 	+	A method to track infections in a healthcare facility

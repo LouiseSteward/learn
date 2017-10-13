@@ -1,9 +1,9 @@
 ---
-title: Test 1. Role and structure of infection prevention and control programmes
+title: Quiz 1. Role and structure of infection prevention and control programmes
 style: test
 ---
 
-# Test 1: Role and structure of infection prevention and control programmes
+# Quiz 1: Role and structure of infection prevention and control programmes
 
 1.	Infection prevention and control:
 	-	Aims to prevent infection transmission in the community only

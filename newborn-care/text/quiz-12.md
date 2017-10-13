@@ -1,9 +1,9 @@
 ---
-title: Test 12. Infection
+title: Quiz 12. Infection
 style: test
 ---
 
-## Test 12: Infection
+## Quiz 12: Infection
 
 1.	What is the risk of infection in the newborn infant?
 	-	The same as in a older child

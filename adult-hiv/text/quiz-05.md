@@ -1,9 +1,9 @@
 ---
-title: Test 5. Management of patients on anti­retroviral treatment
+title: Quiz 5. Management of patients on anti­retroviral treatment
 style: test
 ---
 
-# Test 5: Management of patients on anti­retroviral treatment
+# Quiz 5: Management of patients on anti­retroviral treatment
 
 1.	When should prophylactic co-trimoxazole be stopped?
 	-	When antiretroviral treatment is started

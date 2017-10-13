@@ -1,9 +1,9 @@
 ---
-title: Test 6. Upper respiratory tract conditions
+title: Quiz 6. Upper respiratory tract conditions
 style: test
 ---
 
-# Test 6: Upper respiratory tract conditions
+# Quiz 6: Upper respiratory tract conditions
 
 1.	The upper respiratory tract includes the:
 	-	Larynx.

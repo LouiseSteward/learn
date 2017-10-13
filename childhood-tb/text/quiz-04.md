@@ -1,9 +1,9 @@
 ---
-title: Test 4. Management of childhood tuberculosis
+title: Quiz 4. Management of childhood tuberculosis
 style: test
 ---
 
-# Test 4: Management of childhood tuberculosis
+# Quiz 4: Management of childhood tuberculosis
 
 Please choose the one most correct answer to each question or statement.
 

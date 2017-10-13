@@ -1,5 +1,5 @@
 ---
-title: Test answers
+title: Quiz answers
 style: answers
 ---
 
@@ -7,7 +7,7 @@ style: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-### Test 1: Failure to breathe at birth and resuscitation
+### Quiz 1: Failure to breathe at birth and resuscitation
 
 1.	d	(1-1)
 2.	b	(1-3)
@@ -30,7 +30,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(1-22)
 20.	b	(1-25)
 
-### Test 2: Assessing gestational age and size at birth
+### Quiz 2: Assessing gestational age and size at birth
 
 1.	c	(2-1)
 2.	c	(2-2)
@@ -53,7 +53,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(2-20)
 20.	d	(2-21)
 
-### Test 3: The routine care of normal infants
+### Quiz 3: The routine care of normal infants
 
 1.	d	(3-1)
 2.	a	(3-1)
@@ -76,7 +76,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(3-33)
 20.	c	(3-40)
 
-### Test 4: Feeding normal infants
+### Quiz 4: Feeding normal infants
 
 1.	d	(4-3)
 2.	a	(4-5)
@@ -99,7 +99,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(4-33)
 20.	d	(4-34)
 
-### Test 5: Care of high-risk and sick infants
+### Quiz 5: Care of high-risk and sick infants
 
 1.	c	(5-3)
 2.	b	(5-4)
@@ -122,7 +122,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(5-33)
 20.	d	(5-34)
 
-### Test 6: Feeding sick or high-risk infants
+### Quiz 6: Feeding sick or high-risk infants
 
 1.	c	(6-2)
 2.	b	(6-8)
@@ -145,7 +145,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(6-29)
 20.	d	(6-29)
 
-### Test 7: Temperature control and hypothermia
+### Quiz 7: Temperature control and hypothermia
 
 1.	c	(7-1)
 2.	b	(7-2)
@@ -168,7 +168,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(7-16)
 20.	c	(7-18)
 
-### Test 8: Glucose control and hypoglycaemia
+### Quiz 8: Glucose control and hypoglycaemia
 
 1.	c	(8-1)
 2.	a	(8-3)
@@ -191,7 +191,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(8-16)
 20.	b	(8-18)
 
-### Test 9: Jaundice, anaemia and polycythaemia
+### Quiz 9: Jaundice, anaemia and polycythaemia
 
 1.	b	(9-1)
 2.	a	(9-2)
@@ -214,7 +214,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(9-30)
 20.	c	(9-31)
 
-### Test 10: Respiratory distress and apnoea
+### Quiz 10: Respiratory distress and apnoea
 
 1.	c	(10-1)
 2.	c	(10-1)
@@ -237,7 +237,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(10-37)
 20.	a	(10-37)
 
-### Test 11: Oxygen therapy
+### Quiz 11: Oxygen therapy
 
 1.	d	(11-2)
 2.	a	(11-2)
@@ -260,7 +260,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(11-26)
 20.	c	(11-28)
 
-### Test 12: Infection
+### Quiz 12: Infection
 
 1.	c	(12-3)
 2.	b	(12-4)
@@ -283,7 +283,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(12-42)
 20.	b	(12-50)
 
-### Test 13: Trauma and bleeding
+### Quiz 13: Trauma and bleeding
 
 1.	b	(13-4)
 2.	c	(13-5)
@@ -306,7 +306,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(13-25)
 20.	b	(13-28)
 
-### Test 14: Congenital disorders
+### Quiz 14: Congenital disorders
 
 1.	b	(14-1)
 2.	d	(14-2)
@@ -329,7 +329,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(14-29)
 20.	a	(14-30)
 
-### Test 15: Communication
+### Quiz 15: Communication
 
 1.	d	(15-2)
 2.	a	(15-2)

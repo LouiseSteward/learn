@@ -1,9 +1,9 @@
 ---
-title: Test 9. The second stage of labour
+title: Quiz 9. The second stage of labour
 style: test
 ---
 
-# Test 9: The second stage of labour
+# Quiz 9: The second stage of labour
 
 Please choose the one most correct answer to each question or statement.
 

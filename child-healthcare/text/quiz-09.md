@@ -1,9 +1,9 @@
 ---
-title: Test 9. HIV infection
+title: Quiz 9. HIV infection
 style: test
 ---
 
-# Test 9: HIV infection
+# Quiz 9: HIV infection
 
 1.	What is AIDS?
 	-	A virus, also known as HIV.

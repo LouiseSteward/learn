@@ -1,9 +1,9 @@
 ---
-title: Test 11. Parasites
+title: Quiz 11. Parasites
 style: test
 ---
 
-# Test 11: Parasites
+# Quiz 11: Parasites
 
 1.	Children with roundworm infection:
 	+	Usually appear well and have no symptoms.
