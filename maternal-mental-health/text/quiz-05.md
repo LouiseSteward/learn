@@ -1,9 +1,9 @@
 ---
-title: Test 5. Special medical issues in maternal mental health
+title: Quiz 5. Special medical issues in maternal mental health
 style: test
 ---
 
-# Test 5: Special medical issues in maternal mental health
+# Quiz 5: Special medical issues in maternal mental health
  
 1.	Which statement about HIV and mental illness is correct?
 	-	HIV-positive women are usually mentally ill

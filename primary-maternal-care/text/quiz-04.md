@@ -1,9 +1,9 @@
 ---
-title: Test 4. Antepartum haemorrhage
+title: Quiz 4. Antepartum haemorrhage
 style: test
 ---
 
-# Test 4: Antepartum haemorrhage
+# Quiz 4: Antepartum haemorrhage
 
 Please choose the one most correct answer to each question or statement.
 

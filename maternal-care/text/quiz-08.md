@@ -1,9 +1,9 @@
 ---
-title: Test 8. Monitoring and management of the first stage of labour
+title: Quiz 8. Monitoring and management of the first stage of labour
 style: test
 ---
 
-# Test 8: Monitoring and management of the first stage of labour
+# Quiz 8: Monitoring and management of the first stage of labour
 
 Please choose the one most correct answer to each question or statement.
 

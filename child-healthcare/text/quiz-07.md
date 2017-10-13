@@ -1,9 +1,9 @@
 ---
-title: Test 7. Lower respiratory tract conditions
+title: Quiz 7. Lower respiratory tract conditions
 style: test
 ---
 
-# Test 7: Lower respiratory tract conditions
+# Quiz 7: Lower respiratory tract conditions
 
 1.	What is a sign of breathing difficulty?
 	-	Cough.

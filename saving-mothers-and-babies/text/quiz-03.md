@@ -1,9 +1,9 @@
 ---
-title: Test 3. Perinatal mortality
+title: Quiz 3. Perinatal mortality
 style: test
 ---
 
-# Test 3: Perinatal mortality
+# Quiz 3: Perinatal mortality
 
 1.	What are perinatal deaths?
 	-	Stillbirths.

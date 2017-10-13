@@ -1,9 +1,9 @@
 ---
-title: Test 3. HIV during labour and delivery
+title: Quiz 3. HIV during labour and delivery
 style: test
 ---
 
-# Test 3: HIV during labour and delivery
+# Quiz 3: HIV during labour and delivery
 
 1.	What is the chance of mother-to-infant transmission of HIV during labour and vaginal delivery if the woman is not receiving antiretroviral prophylaxis?
 	-	5%

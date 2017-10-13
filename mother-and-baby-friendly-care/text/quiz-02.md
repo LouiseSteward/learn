@@ -1,9 +1,9 @@
 ---
-title: Test 2. Mother friendly care during labour, delivery and the puerperium
+title: Quiz 2. Mother friendly care during labour, delivery and the puerperium
 style: test
 ---
 
-# Test 2: Mother friendly care during labour, delivery and the puerperium
+# Quiz 2: Mother friendly care during labour, delivery and the puerperium
 
 1.	Can a woman play an active part in her labour and delivery?
 	+	Yes. She should be encouraged to play an active role.

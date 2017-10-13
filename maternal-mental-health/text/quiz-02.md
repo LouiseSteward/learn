@@ -1,9 +1,9 @@
 ---
-title: Test 2. Identifying maternal mental illness
+title: Quiz 2. Identifying maternal mental illness
 style: test
 ---
 
-# Test 2: Identifying maternal mental illness
+# Quiz 2: Identifying maternal mental illness
 
 1.	Why is mental illness often overlooked?
 	-	Mental illness is not important

@@ -1,9 +1,9 @@
 ---
-title: Test 6. Treatment of breast cancer
+title: Quiz 6. Treatment of breast cancer
 style: test
 ---
 
-# Test 6: Treatment of breast cancer
+# Quiz 6: Treatment of breast cancer
 
 1.	What is the aim of breast cancer treatment?
 	-	To prevent the cancer spreading to the other breast

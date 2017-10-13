@@ -1,9 +1,9 @@
 ---
-title: Test 3. Exclusive breastfeeding
+title: Quiz 3. Exclusive breastfeeding
 style: test
 ---
 
-# Test 3: Exclusive breastfeeding
+# Quiz 3: Exclusive breastfeeding
 
 Please choose the **one**, most correct answer to each question or statement.
 

@@ -1,9 +1,9 @@
 ---
-title: Test 5. HIV and counselling
+title: Quiz 5. HIV and counselling
 style: test
 ---
 
-# Test 5: HIV and counselling
+# Quiz 5: HIV and counselling
 
 1.	Counselling is a process whereby a counsellor:
 	-	Tells people what to do

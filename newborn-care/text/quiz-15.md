@@ -1,9 +1,9 @@
 ---
-title: Test 15. Communication
+title: Quiz 15. Communication
 style: test
 ---
 
-## Test 15: Communication
+## Quiz 15: Communication
 
 1.	Communication with parents can be improved by:
 	-	Giving them complicated explanations

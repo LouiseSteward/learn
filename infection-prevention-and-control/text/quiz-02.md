@@ -1,9 +1,9 @@
 ---
-title: Test 2. Micro-organisms of relevance to infection prevention and control
+title: Quiz 2. Micro-organisms of relevance to infection prevention and control
 style: test
 ---
 
-# Test 2: Micro-organisms of relevance to infection prevention and control
+# Quiz 2: Micro-organisms of relevance to infection prevention and control
 
 1.	Micro-organisms are:
 	-	Visible to the naked eye

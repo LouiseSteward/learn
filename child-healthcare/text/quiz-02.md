@@ -1,9 +1,9 @@
 ---
-title: Test 2. Immunisation
+title: Quiz 2. Immunisation
 style: test
 ---
 
-# Test 2: Immunisation
+# Quiz 2: Immunisation
 
 1.	What is immunisation?
 	-	A method of treating tuberculosis.

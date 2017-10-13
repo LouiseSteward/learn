@@ -1,9 +1,9 @@
 ---
-title: Test 5. Baby friendly care
+title: Quiz 5. Baby friendly care
 style: test
 ---
 
-# Test 5: Baby friendly care
+# Quiz 5: Baby friendly care
 
 1.	What is baby friendly care?
 	-	Keeping infants in the nursery so that their mothers can rest in the postnatal ward.

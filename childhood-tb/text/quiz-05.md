@@ -1,9 +1,9 @@
 ---
-title: Test 5. Preventing childhood tuberculosis
+title: Quiz 5. Preventing childhood tuberculosis
 style: test
 ---
 
-# Test 5: Preventing childhood tuberculosis
+# Quiz 5: Preventing childhood tuberculosis
 
 Please choose the one most correct answer to each question or statement.
 

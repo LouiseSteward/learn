@@ -1,9 +1,9 @@
 ---
-title: Test 1. History and examination
+title: Quiz 1. History and examination
 style: test
 ---
 
-# Test 1: History and examination
+# Quiz 1: History and examination
 
 1.	What is the first step in the general examination of a child?
 	+	Introduce yourself.

@@ -1,9 +1,9 @@
 ---
-title: Test 2. Assessing gestational age and size at birth
+title: Quiz 2. Assessing gestational age and size at birth
 style: test
 ---
 
-## Test 2: Assessing gestational age and size at birth
+## Quiz 2: Assessing gestational age and size at birth
 
 1.	Gestation is measured from:
 	-	The day of conception

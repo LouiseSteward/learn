@@ -1,9 +1,9 @@
 ---
-title: Test 15. Regionalised perinatal care
+title: Quiz 15. Regionalised perinatal care
 style: test
 ---
 
-# Test 15: Regionalised perinatal care
+# Quiz 15: Regionalised perinatal care
 
 Please choose the one most correct answer to each question or statement.
 

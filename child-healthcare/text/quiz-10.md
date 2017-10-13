@@ -1,9 +1,9 @@
 ---
-title: Test 10. Childhood infections
+title: Quiz 10. Childhood infections
 style: test
 ---
 
-# Test 10: Childhood infections
+# Quiz 10: Childhood infections
 
 1.	What are the first clinical sign in the presentation of measles?
 	-	A rash.

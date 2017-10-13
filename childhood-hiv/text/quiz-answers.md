@@ -7,7 +7,7 @@ style: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-### Test 1: Introduction to childhood HIV infection
+### Quiz 1: Introduction to childhood HIV infection
 
 1.	d	(1-1)
 2.	a	(1-4)
@@ -30,7 +30,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(1-53)
 20.	d	(1-53)
 
-### Test 2: Clinical and immunological diagnosis of HIV infection
+### Quiz 2: Clinical and immunological diagnosis of HIV infection
 
 1.	c	(2-1)
 2.	a	(2-3)
@@ -53,7 +53,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(2-30)
 20.	c	(2-33)
 
-### Test 3: Management of children with HIV infection
+### Quiz 3: Management of children with HIV infection
 
 1.	a	(3-2)
 2.	d	(3-3)
@@ -76,7 +76,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(3-41)
 20.	b	(3-41)
 
-### Test 4: Antiretroviral drugs
+### Quiz 4: Antiretroviral drugs
 
 1.	d	(4-2)
 2.	c	(4-4)
@@ -99,7 +99,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(4-59)
 20.	a	(4-60)
 
-### Test 5: Management of children with antiretroviral treatment
+### Quiz 5: Management of children with antiretroviral treatment
 
 1.	d	(5-4)
 2.	a	(5-4)
@@ -122,7 +122,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(5-69)
 20.	c	(5-69)
 
-### Test 6: HIV-associated infections and end-of-life care
+### Quiz 6: HIV-associated infections and end-of-life care
 
 1.	b	(6-1)
 2.	b	(6-2)

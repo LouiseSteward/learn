@@ -1,9 +1,9 @@
 ---
-title: Test 1. Care of the mother
+title: Quiz 1. Care of the mother
 style: test
 ---
 
-# Test 1: Care of the mother
+# Quiz 1: Care of the mother
 
 Please choose the **one**, most correct answer to each question or statement.
 

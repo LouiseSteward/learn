@@ -1,9 +1,9 @@
 ---
-title: Test 3. Growth and development
+title: Quiz 3. Growth and development
 style: test
 ---
 
-# Test 3: Growth and development
+# Quiz 3: Growth and development
 
 1.	What is growth?
 	-	A measurement of size.

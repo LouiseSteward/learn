@@ -6,7 +6,7 @@ style: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: History and examination
+## Quiz 1: History and examination
 
 1.	a	(1-1)
 2.	c	(1-3)
@@ -29,7 +29,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(1-43)
 20.	a	(1-46)
 
-## Test 2: Immunisation
+## Quiz 2: Immunisation
 
 1.	b	(2-2)
 2.	d	(2-5)
@@ -52,7 +52,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(2-63)
 20.	d	(2-64)
 
-## Test 3: Growth and development
+## Quiz 3: Growth and development
 
 1.	b	(3-1)
 2.	a	(3-2)
@@ -75,7 +75,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(3-43)
 20.	a	(3-46)
 
-## Test 4: Nutrition
+## Quiz 4: Nutrition
 
 1.	a	(4-1)
 2.	c	(4-2)
@@ -98,7 +98,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(4-60)
 20.	c	(4-64)
 
-## Test 5: Diarrhoea
+## Quiz 5: Diarrhoea
 
 1.	b	(5-1)
 2.	d	(5-5)
@@ -121,7 +121,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(5-55)
 20.	d	(5-56)
 
-## Test 6: Upper respiratory tract conditions
+## Quiz 6: Upper respiratory tract conditions
 
 1.	c	(6-1)
 2.	b	(6-4)
@@ -144,7 +144,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(6-37)
 20.	d	(6-41)
 
-## Test 7: Lower respiratory tract conditions
+## Quiz 7: Lower respiratory tract conditions
 
 1.	b	(7-2)
 2.	a	(7-3)
@@ -167,7 +167,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(7-42)
 20.	a	(7-43)
 
-## Test 8: Tuberculosis
+## Quiz 8: Tuberculosis
 
 1.	b	(8-3)
 2.	a	(8-4)
@@ -190,7 +190,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(8-46)
 20.	d	(8-47)
 
-## Test 9: HIV infection
+## Quiz 9: HIV infection
 
 1.	c	(9-4)
 2.	d	(9-8)
@@ -213,7 +213,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(9-49)
 20.	d	(9-52)
 
-## Test 10: Childhood infections
+## Quiz 10: Childhood infections
 
 1.	c	(10-3)
 2.	a	(10-3)
@@ -236,7 +236,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(10-24)
 20.	a	(10-27)
 
-## Test 11: Parasites
+## Quiz 11: Parasites
 
 1.	a	(11-5)
 2.	c	(11-7)
@@ -259,7 +259,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(11-47)
 20.	a	(11-48)
 
-## Test 12: Skin conditions
+## Quiz 12: Skin conditions
 
 1.	b	(12-3)
 2.	d	(12-8)
@@ -282,7 +282,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(12-46)
 20.	b	(12-47)
 
-## Test 13: Serious illnesses
+## Quiz 13: Serious illnesses
 
 1.	a	(13-2)
 2.	c	(13-3)
@@ -305,7 +305,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(13-45)
 20.	b	(13-48)
 
-## Test 14: Home and society
+## Quiz 14: Home and society
 
 1.	d	(14-1)
 2.	b	(14-2)
@@ -328,7 +328,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(14-43)
 20.	c	(14-44)
 
-## Test 15: Childhood mortality
+## Quiz 15: Childhood mortality
 
 1.	b	(15-3)
 2.	c	(15-4)

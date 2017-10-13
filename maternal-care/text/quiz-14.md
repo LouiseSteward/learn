@@ -1,9 +1,9 @@
 ---
-title: Test 14. Family planning after pregnancy
+title: Quiz 14. Family planning after pregnancy
 style: test
 ---
 
-# Test 14: Family planning after pregnancy
+# Quiz 14: Family planning after pregnancy
 
 Please choose the one most correct answer to each question or statement.
 
