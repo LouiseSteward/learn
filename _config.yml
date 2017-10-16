@@ -30,7 +30,7 @@ canonical-url: "http://example.com"
 # the name of your repo, e.g. /electric-book
 # It must start with a slash. Otherwise you can leave it blank.
 # See http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/
-baseurl: ""
+baseurl: "/learn"
 
 # If you're publishing a website on GitHub Pages
 # and want to ensure you're using a compatible setup,
@@ -96,30 +96,30 @@ exclude:
 # - css
 # - book
 # - adult-hiv
-- breast-care
-- catalogue
-- child-healthcare
-- childhood-critical-care
-- childhood-hiv
-- childhood-tb
-- congenital-disorders
-- ebola-prevention-and-control
-- empty-book
-- facilitators-guide
-- fetal-heart-rate-handbook
-- infection-prevention-and-control
-- intrapartum-care
-- maternal-care
-- maternal-mental-health
-- mother-and-baby-care-for-community-health-workers
-- mother-and-baby-friendly-care
-- newborn-care
-- perinatal-hiv
-- primary-maternal-care
-- primary-newborn-care
-- samples
-- saving-mothers-and-babies
-- well-women
+# - breast-care
+# - catalogue
+# - child-healthcare
+# - childhood-critical-care
+# - childhood-hiv
+# - childhood-tb
+# - congenital-disorders
+# - ebola-prevention-and-control
+# - empty-book
+# - facilitators-guide
+# - fetal-heart-rate-handbook
+# - infection-prevention-and-control
+# - intrapartum-care
+# - maternal-care
+# - maternal-mental-health
+# - mother-and-baby-care-for-community-health-workers
+# - mother-and-baby-friendly-care
+# - newborn-care
+# - perinatal-hiv
+# - primary-maternal-care
+# - primary-newborn-care
+# - samples
+# - saving-mothers-and-babies
+# - well-women
 - run-linux.sh
 - run-mac.command
 - run-windows.bat
