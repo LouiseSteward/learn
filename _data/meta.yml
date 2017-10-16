@@ -717,14 +717,15 @@ works:
           - "quiz-07"
           - "quiz-08"
           - "quiz-answers"
-          - "z-photographs"
         toc: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
           - label: "Reviews"
             file: "0-4-reviews"
             id: "reviews"
+            class: "frontmatter-entry"
           - label: "Preface"
             file: "0-5-preface"
             id: "preface"
+            class: "frontmatter-entry"
           - label: "Acknowledgements"
             file: "0-6-acknowledgements"
             id: "acknowledgements"
@@ -735,39 +736,39 @@ works:
             class: "frontmatter-entry"
             children: 
               - label: "About the Bettercare series"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "about-the-bettercare-series"
                 class: "frontmatter-entry"
               - label: "Why decentralised learning?"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "why-decentralised-learning"
                 class: "frontmatter-entry"
               - label: "Bettercare Online Learning Station"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "bettercare-online-learning-station"
                 class: "frontmatter-entry"
               - label: "Books in the Bettercare series"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "books-in-the-bettercare-series"
                 class: "frontmatter-entry"
               - label: "Format of the courses"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "format-of-the-courses"
                 class: "frontmatter-entry"
               - label: "Contributors"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "contributors"
                 class: "frontmatter-entry"
               - label: "Updating the course material"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "updating-the-course-material"
                 class: "frontmatter-entry"
               - label: "Contact information"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "contact-information"
                 class: "frontmatter-entry"
               - label: "Registration"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "registration"
                 class: "frontmatter-entry"
           - label: "The normal breast"
@@ -813,7 +814,7 @@ works:
                 id: "case-study-1-1"
           - label: "Special investigations of the breast"
             file: "03"
-            id: "special-investigations-of-the-breast"
+            id: "special-investigations-of-thebreast"
             children: 
               - label: "Objectives"
                 file: "03"
@@ -1011,7 +1012,7 @@ works:
                 id: "managing-constipation"
               - label: "Managing breathlessness"
                 file: "08"
-                id: "Managing breathlessness"
+                id: "managing-breathlessness"
               - label: "Nausea and vomiting"
                 file: "08"
                 id: "nausea-and-vomiting"
@@ -1110,7 +1111,7 @@ works:
             children: 
               - label: "8twenty8 (18T)"
                 file: "11-organisations"
-                id: "twenty8-18t"
+                id: "8twenty8-18t"
               - label: "Avon Justine iThemba Crusade of Hope (CoH)"
                 file: "11-organisations"
                 id: "avon-justine-ithemba-crusade-of-hope-coh"
@@ -1147,19 +1148,19 @@ works:
             class: "auxiliary"
             children: 
               - label: "Home-made oral rehydration fluid to manage diarrhoea"
-                file: "02"
+                file: "14-recipes-and-diets"
                 id: "home-made-oral-rehydration-fluid-to-manage-diarrhoea"
               - label: "Carrot soup for patients with diarrhoea"
-                file: "02"
+                file: "14-recipes-and-diets"
                 id: "carrot-soup-for-patients-with-diarrhoea"
               - label: "The BRATT diet"
-                file: "02"
+                file: "14-recipes-and-diets"
                 id: "the-bratt-diet"
               - label: "The ABC diet"
-                file: "02"
+                file: "14-recipes-and-diets"
                 id: "the-abc-diet"
               - label: "Sour water for digestive problems"
-                file: "02"
+                file: "14-recipes-and-diets"
                 id: "sour-water-for-digestive-problems"
           - label: "Examination form"
             file: "15-examination-form"
@@ -1169,33 +1170,33 @@ works:
             file: "16-investigations"
             id: "investigations"
             class: "auxiliary"
-          - label: "The normal breast"
-            file: "quiz-01"
-            id: "the-normal-breast-1"
-          - label: "Clinical assessment of the breast"
-            file: "quiz-02"
-            id: "clinical-assessment-of-the-breast-1"
-          - label: "Special investigations of the breast"
-            file: "quiz-03"
-            id: "special-investigations-of-the-breast-1"
-          - label: "Benign changes of the breast"
-            file: "quiz-04"
-            id: "benign-changes-of-the-breast-1"
-          - label: "Cancer of the breast"
-            file: "quiz-05"
-            id: "cancer-of-the-breast-1"
-          - label: "Treatment of breast cancer"
-            file: "quiz-06"
-            id: "treatment-of-breast-cancer-1"
-          - label: "Side effects of breast cancer treatment"
-            file: "quiz-07"
-            id: "side-effects-of-breast-cancer-treatment-1"
-          - label: "Palliative care"
-            file: "quiz-08"
-            id: "palliative-care-1"
-          - label: "Answers"
-            file: "quiz-answers"
+          - file: "quiz-01"
+            id: "quiz-1-the-normal-breast"
+            label: "Quiz 1: The normal breast"
+          - file: "quiz-02"
+            id: "quiz-2-clinical-assessment-of-the-breast"
+            label: "Quiz 2: Clinical assessment of the breast"
+          - file: "quiz-03"
+            id: "quiz-3-special-investigations-of-the-breast"
+            label: "Quiz 3: Special investigations of the breast"
+          - file: "quiz-04"
+            id: "quiz-4-benign-changes-of-the-breast"
+            label: "Quiz 4: Benign changes of the breast"
+          - file: "quiz-05"
+            id: "quiz-5-cancer-of-the-breast"
+            label: "Quiz 5: Cancer of the breast"
+          - file: "quiz-06"
+            id: "quiz-6-treatment-of-breast-cancer"
+            label: "Quiz 6: Treatment of breast cancer"
+          - file: "quiz-07"
+            id: "quiz-7-side-effects-of-breast-cancer-treatment"
+            label: "Quiz 7: Side effects of breast cancer treatment"
+          - file: "quiz-08"
+            id: "quiz-8-palliative-care"
+            label: "Quiz 8: Palliative care"
+          - file: "quiz-answers"
             id: "answers"
+            label: "Answers"
       web:
         date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
         format: "Digital online" # e.g. Paperback, Digital download, Digital online
@@ -3652,7 +3653,7 @@ works:
                 id: "case-study-1"
           - label: "HIV-associated infections and end-of-life care"
             file: "06"
-            id: "hivassociated-infections-and-endoflife-care"
+            id: "hiv-associated-infections-and-end-of-life-care"
             children: 
               - label: "Objectives"
                 file: "06"
@@ -4798,20 +4799,20 @@ works:
               - label: "Down Syndrome Association (Bloemfontein)"
                 file: "09"
                 id: "down-syndrome-association-bloemfontein"
-        - label: "Introduction to congenital disorders"
-          file: "quiz-01"
-        - label: "Care, prevention and counselling"
-          file: "quiz-02"
-        - label: "Chromosomal disorders"
-          file: "quiz-03"
-        - label: "Single gene disorders"
-          file: "quiz-04"
-        - label: "Multifactorial congenital disorders"
-          file: "quiz-05"
-        - label: "Congenital disorders caused by a teratogen"
-          file: "quiz-06"
-        - label: "Quiz Answers"
-          file: "quiz-answers"
+          - label: "Introduction to congenital disorders"
+            file: "quiz-01"
+          - label: "Care, prevention and counselling"
+            file: "quiz-02"
+          - label: "Chromosomal disorders"
+            file: "quiz-03"
+          - label: "Single gene disorders"
+            file: "quiz-04"
+          - label: "Multifactorial congenital disorders"
+            file: "quiz-05"
+          - label: "Congenital disorders caused by a teratogen"
+            file: "quiz-06"
+          - label: "Quiz Answers"
+            file: "quiz-answers"
       web:
         date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
         format: "Digital online" # e.g. Paperback, Digital download, Digital online
@@ -5154,44 +5155,58 @@ works:
           - "0-1-titlepage"
           - "0-2-copyright"
           - "0-3-contents"
+          - "0-4-about-the-book"
+          - "0-5-about-the-authors"
+          - "0-6-acknowledgements"
+          - "0-7-introduction"
           - "01"
           - "02"
+          - "03"
+          - "04"
+          - "05"
+          - "06"
+          - "quiz-01"
+          - "quiz-02"
+          - "quiz-03"
+          - "quiz-04"
+          - "quiz-05"
+          - "quiz-answers"
         toc: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
           - label: "Acknowledgements"
-            file: "0-4-acknowledgements"
+            file: "0-6-acknowledgements"
             id: "acknowledgements"
             class: "frontmatter-entry"
           - label: "Introduction"
-            file: "0-5-introduction"
+            file: "0-7-introduction"
             id: "introduction"
             class: "frontmatter-entry"
             children: 
               - label: "About the Bettercare series"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "about-the-bettercare-series"
               - label: "Why decentralised learning?"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "why-decentralised-learning"
               - label: "Bettercare Online Learning Station"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "bettercare-online-learning-station"
               - label: "Books in the Bettercare series"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "books-in-the-bettercare-series"
               - label: "Format of the courses"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "format-of-the-courses"
               - label: "Contributors"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "contributors"
               - label: "Updating the course material"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "updating-the-course-material"
               - label: "Contact information"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "contact-information"
               - label: "Registration"
-                file: "0-5-introduction"
+                file: "0-7-introduction"
                 id: "registration"
           - label: "Virology and epidemiology"
             file: "01"
@@ -5341,20 +5356,19 @@ works:
               - label: "Infection Control Readiness Checklist: Ebola Virus Disease"
                 file: "06"
                 id: "infection-control-readiness-checklist-ebola-virus-disease"
-          - label: "Quizzes"
-            children: 
-              - label: "Virology and epidemiology"
-                file: "quiz-01"
-              - label: "Patient management"
-                file: "quiz-02"
-              - label: "Protection of healthcare workers"
-                file: "quiz-03"
-              - label: "Support services and documentation"
-                file: "quiz-04"
-              - label: "Communication and community engagement"
-                file: "quiz-05"
-              - label: "Quiz answers"
-                file: "quiz-06"
+          - label: "Virology and epidemiology"
+            file: "quiz-01"
+          - label: "Patient management"
+            file: "quiz-02"
+          - label: "Protection of healthcare workers"
+            file: "quiz-03"
+          - label: "Support services and documentation"
+            file: "quiz-04"
+          - label: "Communication and community engagement"
+            file: "quiz-05"
+          - label: "Quiz answers"
+            file: "quiz-answers"
+            id: "answers"
       web:
         date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
         format: "Digital online" # e.g. Paperback, Digital download, Digital online
@@ -5643,10 +5657,6 @@ works:
           - "07"
           - "08"
         toc: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
-          - label: "Copyright"
-            file: "0-2-copyright"
-            id: "copyright"
-            class: "frontmatter-entry"
           - label: "Acknowledgements"
             file: "0-4-acknowledgements"
             id: "acknowledgements"
@@ -5671,9 +5681,9 @@ works:
           - label: "Dear Facilitator"
             file: "0-6-dear-facilitator"
             id: "dear-facilitator"
-          - label: "Facilitator's checklist"
-            file: "0-7-checklist"
-            id: "facilitators-checklist"
+          - file: "0-7-checklist"
+            id: "checklists"
+            label: "Facilitator's checklist"
             children: 
               - label: "Before the first group meeting"
                 file: "0-7-checklist"
@@ -5810,7 +5820,7 @@ works:
               - label: "Your next Bettercare course"
                 file: "06"
                 id: "your-next-bettercare-course"
-           - label: "Contact details"
+          - label: "Contact details"
             file: "07"
             id: "contact-details"
           - label: "Templates"
@@ -6015,7 +6025,7 @@ works:
               - label: "Your next Bettercare course"
                 file: "06"
                 id: "your-next-bettercare-course"
-           - label: "Contact details"
+          - label: "Contact details"
             file: "07"
             id: "contact-details"
           - label: "Templates"
@@ -6131,16 +6141,12 @@ works:
           - "09"
           - "10"
         toc: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
-          - label: "Copyright"
-            file: "0-2-copyright"
-            id: "copyright"
-            class: "frontmatter-entry"
           - label: "Acknowledgements"
             file: "0-4-acknowledgements"
             id: "acknowledgements"
             class: "frontmatter-entry"
           - label: "Introduction"
-            file: "0-5-intro"
+            file: "0-5-introduction"
             id: "introduction"
             class: "frontmatter-entry"
           - file: "01"
@@ -6234,7 +6240,7 @@ works:
               - file: "04"
                 id: "25-how-do-you-assess-the-condition-of-the-fetus-during-labour"
                 label: "25. How do you assess the condition of the fetus during labour?"
-               - file: "04"
+              - file: "04"
                 id: "26-what-is-the-importance-of-meconium-stained-amniotic-fluid"
                 label: "26. What is the importance of meconium-stained amniotic fluid?"
           - file: "05"
@@ -6486,7 +6492,7 @@ works:
               - file: "04"
                 id: "25-how-do-you-assess-the-condition-of-the-fetus-during-labour"
                 label: "25. How do you assess the condition of the fetus during labour?"
-               - file: "04"
+              - file: "04"
                 id: "26-what-is-the-importance-of-meconium-stained-amniotic-fluid"
                 label: "26. What is the importance of meconium-stained amniotic fluid?"
           - file: "05"
@@ -6716,16 +6722,6 @@ works:
           - "quiz-09"
           - "quiz-answers"
         toc: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
-          - label: "Chapter 1"
-            file: "01"
-            id: "1-hello-world"
-          - label: "Chapter 2"
-            file: "02"
-            id: "2-goodbye-world"
-            children: 
-              - label: "subsection"
-                file: "02"
-                id: "example-id"
           - file: "0-4-about-the-book"
             id: "about-the-book"
             label: "About the book"
@@ -6743,10 +6739,7 @@ works:
             id: "introduction"
             label: "Introduction"
             class: "frontmatter-entry"
-            children:        
-              - file: "0-8-introduction"
-                id: "contents"
-                label: "Contents"
+            children: 
               - file: "0-8-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
@@ -6777,10 +6770,7 @@ works:
           - file: "01"
             id: "role-and-structure-of-infection-prevention-and-control-programmes"
             label: "Role and structure of infection prevention and control programmes"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -6820,10 +6810,7 @@ works:
           - file: "02"
             id: "micro-organisms-of-relevance-to-infection-prevention-and-control"
             label: "Micro-organisms of relevance to infection prevention and control"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -6875,10 +6862,7 @@ works:
           - file: "03"
             id: "risk-management-in-ipc"
             label: "Risk management in IPC"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -6915,10 +6899,7 @@ works:
           - file: "04"
             id: "hand-hygiene"
             label: "Hand hygiene"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -6955,10 +6936,7 @@ works:
           - file: "05"
             id: "infection-prevention-and-control-considerations-for-healthcare-facility-design"
             label: "Infection prevention and control considerations for healthcare facility design"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -6992,10 +6970,7 @@ works:
           - file: "06"
             id: "environmental-cleaning-waste-management-and-decontamination-of-medical-devices"
             label: "Environmental cleaning, waste management and decontamination of medical devices"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -7026,10 +7001,7 @@ works:
           - file: "07"
             id: "surveillance-and-outbreak-investigation-in-low-resource-settings"
             label: "Surveillance and outbreak investigation in low-resource settings"
-            children:        
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -7054,10 +7026,7 @@ works:
           - file: "08"
             id: "tuberculosis-infection-prevention-and-control"
             label: "Tuberculosis infection prevention and control"
-            children:        
-              - file: "08"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08"
                 id: "objectives"
                 label: "Objectives"
@@ -7112,10 +7081,7 @@ works:
           - file: "09"
             id: "antimicrobial-stewardship"
             label: "Antimicrobial stewardship"
-            children:        
-              - file: "09"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09"
                 id: "objectives"
                 label: "Objectives"
@@ -7149,10 +7115,7 @@ works:
           - file: "10-resources"
             id: "addendum-resources-for-infection-prevention-and-control"
             label: "Addendum: Resources for infection prevention and control"
-            children:        
-              - file: "10-resources"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "10-resources"
                 id: "websites"
                 label: "Websites"
@@ -7229,10 +7192,7 @@ works:
             id: "introduction"
             label: "Introduction"
             class: "frontmatter-entry"
-            children:        
-              - file: "0-8-introduction"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "0-8-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
@@ -7263,10 +7223,7 @@ works:
           - file: "01"
             id: "role-and-structure-of-infection-prevention-and-control-programmes"
             label: "Role and structure of infection prevention and control programmes"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -7306,10 +7263,7 @@ works:
           - file: "02"
             id: "micro-organisms-of-relevance-to-infection-prevention-and-control"
             label: "Micro-organisms of relevance to infection prevention and control"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -7361,10 +7315,7 @@ works:
           - file: "03"
             id: "risk-management-in-ipc"
             label: "Risk management in IPC"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -7401,10 +7352,7 @@ works:
           - file: "04"
             id: "hand-hygiene"
             label: "Hand hygiene"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -7441,10 +7389,7 @@ works:
           - file: "05"
             id: "infection-prevention-and-control-considerations-for-healthcare-facility-design"
             label: "Infection prevention and control considerations for healthcare facility design"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -7478,10 +7423,7 @@ works:
           - file: "06"
             id: "environmental-cleaning-waste-management-and-decontamination-of-medical-devices"
             label: "Environmental cleaning, waste management and decontamination of medical devices"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -7512,10 +7454,7 @@ works:
           - file: "07"
             id: "surveillance-and-outbreak-investigation-in-low-resource-settings"
             label: "Surveillance and outbreak investigation in low-resource settings"
-            children:        
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -7540,10 +7479,7 @@ works:
           - file: "08"
             id: "tuberculosis-infection-prevention-and-control"
             label: "Tuberculosis infection prevention and control"
-            children:        
-              - file: "08"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08"
                 id: "objectives"
                 label: "Objectives"
@@ -7598,10 +7534,7 @@ works:
           - file: "09"
             id: "antimicrobial-stewardship"
             label: "Antimicrobial stewardship"
-            children:        
-              - file: "09"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09"
                 id: "objectives"
                 label: "Objectives"
@@ -7635,10 +7568,7 @@ works:
           - file: "10-resources"
             id: "addendum-resources-for-infection-prevention-and-control"
             label: "Addendum: Resources for infection prevention and control"
-            children:        
-              - file: "10-resources"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "10-resources"
                 id: "websites"
                 label: "Websites"
@@ -7758,9 +7688,6 @@ works:
             class: "frontmatter-entry"
             children:       
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-              - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
               - file: "0-5-introduction"
@@ -7790,10 +7717,7 @@ works:
           - file: "01"
             id: "monitoring-the-condition-of-the-mother-during-the-first-stage-of-labour"
             label: "Monitoring the condition of the mother during the first stage of labour"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -7827,10 +7751,7 @@ works:
           - file: "02"
             id: "monitoring-the-condition-of-the-fetus-during-the-first-stage-of-labour"
             label: "Monitoring the condition of the fetus during the first stage of labour"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -7855,10 +7776,7 @@ works:
           - file: "03"
             id: "monitoring-and-managing-the-first-stage-of-labour"
             label: "Monitoring and managing the first stage of labour"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -7908,33 +7826,27 @@ works:
                 id: "case-study-4"
                 label: "Case study 4"
           - file: "03a"
-             id: "skills-examination-of-the-abdomen-in-labour"
-             label: "Skills: Examination of the abdomen in labour"
-             class: "auxiliary"
-             children:        
-               - file: "03a"
-                 id: "contents"
-                 label: "Contents"
-               - file: "03a"
-                 id: "objectives"
-                 label: "Objectives"
-               - file: "03a"
-                 id: "abdominal-palpation"
-                 label: "Abdominal palpation"
-               - file: "03a"
-                 id: "assessing-contractions"
-                 label: "Assessing contractions"
-               - file: "03a"
-                 id: "assessing-the-fetal-heart-rate"
-                 label: "Assessing the fetal heart rate"
+            id: "skills-examination-of-the-abdomen-in-labour"
+            label: "Skills: Examination of the abdomen in labour"
+            class: "auxiliary"
+            children:
+              - file: "03a"
+                id: "objectives"
+                label: "Objectives"
+              - file: "03a"
+                id: "abdominal-palpation"
+                label: "Abdominal palpation"
+              - file: "03a"
+                id: "assessing-contractions"
+                label: "Assessing contractions"
+              - file: "03a"
+                id: "assessing-the-fetal-heart-rate"
+                label: "Assessing the fetal heart rate"
           - file: "03b"
             id: "skills-vaginal-examination-in-labour"
             label: "Skills: Vaginal examination in labour"
             class: "auxiliary"
-            children:        
-              - file: "03b"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03b"
                 id: "objectives"
                 label: "Objectives"
@@ -7963,10 +7875,7 @@ works:
             id: "skills-recording-observations-on-the-partogram"
             label: "Skills: Recording observations on the partogram"
             class: "auxiliary"
-            children:        
-              - file: "03c"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03c"
                 id: "objectives"
                 label: "Objectives"
@@ -7997,10 +7906,7 @@ works:
           - file: "04"
             id: "the-second-stage-of-labour"
             label: "The second stage of labour"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -8038,10 +7944,7 @@ works:
             id: "skills-performing-and-repairing-an-episiotomy"
             label: "Skills: Performing and repairing an episiotomy"
             class: "auxiliary"
-            children:        
-              - file: "04a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04a"
                 id: "objectives"
                 label: "Objectives"
@@ -8051,10 +7954,7 @@ works:
           - file: "05"
             id: "the-third-stage-of-labour"
             label: "The third stage of labour"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -8092,10 +7992,7 @@ works:
             id: "skills-inserting-and-using-intra-uterine-balloon-tamponade-to-treat-postpartum-haemorrhage"
             label: "Skills: Inserting and using intra-uterine balloon tamponade to treat postpartum haemorrhage"
             class: "auxiliary"
-            children:        
-              - file: "05a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05a"
                 id: "objectives"
                 label: "Objectives"
@@ -8132,10 +8029,7 @@ works:
           - file: "06"
             id: "managing-pain-during-labour"
             label: "Managing pain during labour"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -8178,10 +8072,7 @@ works:
           - file: "07"
             id: "the-puerperium"
             label: "The puerperium"
-            children:        
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -8236,10 +8127,7 @@ works:
           - file: "08"
             id: "family-planning-after-pregnancy"
             label: "Family planning after pregnancy"
-            children:        
-              - file: "08"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08"
                 id: "objectives"
                 label: "Objectives"
@@ -8311,9 +8199,6 @@ works:
             class: "frontmatter-entry"
             children:       
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-              - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
               - file: "0-5-introduction"
@@ -8343,10 +8228,7 @@ works:
           - file: "01"
             id: "monitoring-the-condition-of-the-mother-during-the-first-stage-of-labour"
             label: "Monitoring the condition of the mother during the first stage of labour"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -8380,10 +8262,7 @@ works:
           - file: "02"
             id: "monitoring-the-condition-of-the-fetus-during-the-first-stage-of-labour"
             label: "Monitoring the condition of the fetus during the first stage of labour"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -8408,10 +8287,7 @@ works:
           - file: "03"
             id: "monitoring-and-managing-the-first-stage-of-labour"
             label: "Monitoring and managing the first stage of labour"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -8461,33 +8337,27 @@ works:
                 id: "case-study-4"
                 label: "Case study 4"
           - file: "03a"
-             id: "skills-examination-of-the-abdomen-in-labour"
-             label: "Skills: Examination of the abdomen in labour"
-             class: "auxiliary"
-             children:        
-               - file: "03a"
-                 id: "contents"
-                 label: "Contents"
-               - file: "03a"
-                 id: "objectives"
-                 label: "Objectives"
-               - file: "03a"
-                 id: "abdominal-palpation"
-                 label: "Abdominal palpation"
-               - file: "03a"
-                 id: "assessing-contractions"
-                 label: "Assessing contractions"
-               - file: "03a"
-                 id: "assessing-the-fetal-heart-rate"
-                 label: "Assessing the fetal heart rate"
+            id: "skills-examination-of-the-abdomen-in-labour"
+            label: "Skills: Examination of the abdomen in labour"
+            class: "auxiliary"
+            children:
+              - file: "03a"
+                id: "objectives"
+                label: "Objectives"
+              - file: "03a"
+                id: "abdominal-palpation"
+                label: "Abdominal palpation"
+              - file: "03a"
+                id: "assessing-contractions"
+                label: "Assessing contractions"
+              - file: "03a"
+                id: "assessing-the-fetal-heart-rate"
+                label: "Assessing the fetal heart rate"
           - file: "03b"
             id: "skills-vaginal-examination-in-labour"
             label: "Skills: Vaginal examination in labour"
             class: "auxiliary"
-            children:        
-              - file: "03b"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03b"
                 id: "objectives"
                 label: "Objectives"
@@ -8516,10 +8386,7 @@ works:
             id: "skills-recording-observations-on-the-partogram"
             label: "Skills: Recording observations on the partogram"
             class: "auxiliary"
-            children:        
-              - file: "03c"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03c"
                 id: "objectives"
                 label: "Objectives"
@@ -8550,10 +8417,7 @@ works:
           - file: "04"
             id: "the-second-stage-of-labour"
             label: "The second stage of labour"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -8591,10 +8455,7 @@ works:
             id: "skills-performing-and-repairing-an-episiotomy"
             label: "Skills: Performing and repairing an episiotomy"
             class: "auxiliary"
-            children:        
-              - file: "04a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04a"
                 id: "objectives"
                 label: "Objectives"
@@ -8604,10 +8465,7 @@ works:
           - file: "05"
             id: "the-third-stage-of-labour"
             label: "The third stage of labour"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -8645,10 +8503,7 @@ works:
             id: "skills-inserting-and-using-intra-uterine-balloon-tamponade-to-treat-postpartum-haemorrhage"
             label: "Skills: Inserting and using intra-uterine balloon tamponade to treat postpartum haemorrhage"
             class: "auxiliary"
-            children:        
-              - file: "05a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05a"
                 id: "objectives"
                 label: "Objectives"
@@ -8685,10 +8540,7 @@ works:
           - file: "06"
             id: "managing-pain-during-labour"
             label: "Managing pain during labour"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -8731,10 +8583,7 @@ works:
           - file: "07"
             id: "the-puerperium"
             label: "The puerperium"
-            children:        
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -8789,10 +8638,7 @@ works:
           - file: "08"
             id: "family-planning-after-pregnancy"
             label: "Family planning after pregnancy"
-            children:        
-              - file: "08"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08"
                 id: "objectives"
                 label: "Objectives"
@@ -8934,7 +8780,7 @@ works:
           - "03a"
           - "04"
           - "05"
-          - "06'"
+          - "06"
           - "07"
           - "08"
           - "08a"
@@ -8976,9 +8822,6 @@ works:
             class: "frontmatter-entry"
             children:        
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-              - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
               - file: "0-5-introduction"
@@ -9008,10 +8851,7 @@ works:
           - file: "01"
             id: "antenatal-care"
             label: "Antenatal care"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -9070,10 +8910,7 @@ works:
             id: "skills-general-examination-at-the-first-antenatal-visit"
             label: "Skills: General examination at the first antenatal visit"
             class: "auxiliary"
-            children:        
-              - file: "01a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01a"
                 id: "objectives"
                 label: "Objectives"
@@ -9093,10 +8930,7 @@ works:
             id: "skills-examination-of-the-abdomen-in-pregnancy"
             label: "Skills: Examination of the abdomen in pregnancy"
             class: "auxiliary"
-            children:        
-              - file: "01b"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01b"
                 id: "objectives"
                 label: "Objectives"
@@ -9110,10 +8944,7 @@ works:
             id: "skills-vaginal-examination-in-pregnancy"
             label: "Skills: Vaginal examination in pregnancy"
             class: "auxiliary"
-            children:        
-              - file: "01c"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01c"
                 id: "objectives"
                 label: "Objectives"
@@ -9127,10 +8958,7 @@ works:
             id: "skills-screening-tests-for-syphilis"
             label: "Skills: Screening tests for syphilis"
             class: "auxiliary"
-            children:        
-              - file: "01d"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01d"
                 id: "objectives"
                 label: "Objectives"
@@ -9144,10 +8972,7 @@ works:
             id: "skills-screening-tests-for-hiv"
             label: "Skills: Screening tests for HIV"
             class: "auxiliary"
-            children:        
-              - file: "01e"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01e"
                 id: "objectives"
                 label: "Objectives"
@@ -9160,9 +8985,6 @@ works:
             class: "auxiliary"
             children:        
               - file: "01f"
-                id: "contents"
-                label: "Contents"
-              - file: "01f"
                 id: "objectives"
                 label: "Objectives"
               - file: "01f"
@@ -9174,10 +8996,7 @@ works:
           - file: "02"
             id: "assessment-of-fetal-growth-and-condition-during-pregnancy"
             label: "Assessment of fetal growth and condition during pregnancy"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -9209,10 +9028,7 @@ works:
             id: "skills-routine-use-of-the-antenatal-card"
             label: "Skills: Routine use of the antenatal card"
             class: "auxiliary"
-            children:        
-              - file: "02a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02a"
                 id: "objectives"
                 label: "Objectives"
@@ -9222,10 +9038,7 @@ works:
           - file: "03"
             id: "hypertensive-disorders-of-pregnancy"
             label: "Hypertensive disorders of pregnancy"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -9278,10 +9091,7 @@ works:
             id: "skills-measuring-blood-pressure-and-proteinuria"
             label: "Skills: Measuring blood pressure and proteinuria"
             class: "auxiliary"
-            children:        
-              - file: "03a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03a"
                 id: "objectives"
                 label: "Objectives"
@@ -9294,10 +9104,7 @@ works:
           - file: "04"
             id: "antepartum-haemorrhage"
             label: "Antepartum haemorrhage"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -9340,10 +9147,7 @@ works:
           - file: "05"
             id: "preterm-labour-and-preterm-rupture-of-the-membranes"
             label: "Preterm labour and preterm rupture of the membranes"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -9374,10 +9178,7 @@ works:
           - file: "06"
             id: "monitoring-the-condition-of-the-mother-during-the-first-stage-of-labour"
             label: "Monitoring the condition of the mother during the first stage of labour"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -9411,10 +9212,7 @@ works:
           - file: "07"
             id: "monitoring-the-condition-of-the-fetus-during-the-first-stage-of-labour"
             label: "Monitoring the condition of the fetus during the first stage of labour"
-            children:        
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -9439,10 +9237,7 @@ works:
           - file: "08"
             id: "monitoring-and-managing-the-first-stage-of-labour"
             label: "Monitoring and managing the first stage of labour"
-            children:        
-              - file: "08"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08"
                 id: "objectives"
                 label: "Objectives"
@@ -9495,10 +9290,7 @@ works:
             id: "skills-examination-of-the-abdomen-in-labour"
             label: "Skills: Examination of the abdomen in labour"
             class: "auxiliary"
-            children:        
-              - file: "08a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08a"
                 id: "objectives"
                 label: "Objectives"
@@ -9515,10 +9307,7 @@ works:
             id: "skills-vaginal-examination-in-labour"
             label: "Skills: Vaginal examination in labour"
             class: "auxiliary"
-            children:        
-              - file: "08b"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08b"
                 id: "objectives"
                 label: "Objectives"
@@ -9547,10 +9336,7 @@ works:
             id: "skills-recording-observations-on-the-partogram"
             label: "Skills: Recording observations on the partogram"
             class: "auxiliary"
-            children:        
-              - file: "08c"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08c"
                 id: "objectives"
                 label: "Objectives"
@@ -9581,10 +9367,7 @@ works:
           - file: "09"
             id: "the-second-stage-of-labour"
             label: "The second stage of labour"
-            children:        
-              - file: "09"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09"
                 id: "objectives"
                 label: "Objectives"
@@ -9622,10 +9405,7 @@ works:
             id: "skills-performing-and-repairing-an-episiotomy"
             label: "Skills: Performing and repairing an episiotomy"
             class: "auxiliary"
-            children:        
-              - file: "09a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09a"
                 id: "objectives"
                 label: "Objectives"
@@ -9638,10 +9418,7 @@ works:
           - file: "10"
             id: "managing-pain-during-labour"
             label: "Managing pain during labour"
-            children:        
-              - file: "10"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "10"
                 id: "objectives"
                 label: "Objectives"
@@ -9684,10 +9461,7 @@ works:
           - file: "11"
             id: "the-third-stage-of-labour"
             label: "The third stage of labour"
-            children:        
-              - file: "11"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "11"
                 id: "objectives"
                 label: "Objectives"
@@ -9724,10 +9498,7 @@ works:
           - file: "12"
             id: "the-puerperium"
             label: "The puerperium"
-            children:        
-              - file: "12"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "12"
                 id: "objectives"
                 label: "Objectives"
@@ -9782,10 +9553,7 @@ works:
           - file: "13"
             id: "medical-problems-during-pregnancy-labour-and-the-puerperium"
             label: "Medical problems during pregnancy, labour and the puerperium"
-            children:        
-              - file: "13"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "13"
                 id: "objectives"
                 label: "Objectives"
@@ -9816,10 +9584,7 @@ works:
           - file: "14"
             id: "family-planning-after-pregnancy"
             label: "Family planning after pregnancy"
-            children:        
-              - file: "14"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "14"
                 id: "objectives"
                 label: "Objectives"
@@ -9841,10 +9606,7 @@ works:
           - file: "15"
             id: "regionalised-perinatal-care"
             label: "Regionalised perinatal care"
-            children:        
-              - file: "15"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "15"
                 id: "objectives"
                 label: "Objectives"
@@ -9872,10 +9634,7 @@ works:
           - file: "16-appendix"
             id: "appendix"
             label: "Appendix"
-            children:        
-              - file: "16-appendix"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "16-appendix"
                 id: "guidelines-for-the-management-of-patients-with-risk-factors-and-medical-problems-during-pregnancy-labour-and-the-puerperium"
                 label: "Guidelines for the management of patients with risk factors and medical problems during pregnancy, labour and the puerperium"
@@ -9953,9 +9712,6 @@ works:
             class: "frontmatter-entry"
             children:        
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-              - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
               - file: "0-5-introduction"
@@ -9985,10 +9741,7 @@ works:
           - file: "01"
             id: "antenatal-care"
             label: "Antenatal care"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -10047,10 +9800,7 @@ works:
             id: "skills-general-examination-at-the-first-antenatal-visit"
             label: "Skills: General examination at the first antenatal visit"
             class: "auxiliary"
-            children:        
-              - file: "01a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01a"
                 id: "objectives"
                 label: "Objectives"
@@ -10070,10 +9820,7 @@ works:
             id: "skills-examination-of-the-abdomen-in-pregnancy"
             label: "Skills: Examination of the abdomen in pregnancy"
             class: "auxiliary"
-            children:        
-              - file: "01b"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01b"
                 id: "objectives"
                 label: "Objectives"
@@ -10087,10 +9834,7 @@ works:
             id: "skills-vaginal-examination-in-pregnancy"
             label: "Skills: Vaginal examination in pregnancy"
             class: "auxiliary"
-            children:        
-              - file: "01c"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01c"
                 id: "objectives"
                 label: "Objectives"
@@ -10104,10 +9848,7 @@ works:
             id: "skills-screening-tests-for-syphilis"
             label: "Skills: Screening tests for syphilis"
             class: "auxiliary"
-            children:        
-              - file: "01d"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01d"
                 id: "objectives"
                 label: "Objectives"
@@ -10121,10 +9862,7 @@ works:
             id: "skills-screening-tests-for-hiv"
             label: "Skills: Screening tests for HIV"
             class: "auxiliary"
-            children:        
-              - file: "01e"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01e"
                 id: "objectives"
                 label: "Objectives"
@@ -10135,10 +9873,7 @@ works:
             id: "skills-examination-of-the-breasts"
             label: "Skills: Examination of the breasts"
             class: "auxiliary"
-            children:        
-              - file: "01f"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01f"
                 id: "objectives"
                 label: "Objectives"
@@ -10151,10 +9886,7 @@ works:
           - file: "02"
             id: "assessment-of-fetal-growth-and-condition-during-pregnancy"
             label: "Assessment of fetal growth and condition during pregnancy"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -10186,10 +9918,7 @@ works:
             id: "skills-routine-use-of-the-antenatal-card"
             label: "Skills: Routine use of the antenatal card"
             class: "auxiliary"
-            children:        
-              - file: "02a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02a"
                 id: "objectives"
                 label: "Objectives"
@@ -10199,10 +9928,7 @@ works:
           - file: "03"
             id: "hypertensive-disorders-of-pregnancy"
             label: "Hypertensive disorders of pregnancy"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -10255,10 +9981,7 @@ works:
             id: "skills-measuring-blood-pressure-and-proteinuria"
             label: "Skills: Measuring blood pressure and proteinuria"
             class: "auxiliary"
-            children:        
-              - file: "03a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03a"
                 id: "objectives"
                 label: "Objectives"
@@ -10271,10 +9994,7 @@ works:
           - file: "04"
             id: "antepartum-haemorrhage"
             label: "Antepartum haemorrhage"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -10317,10 +10037,7 @@ works:
           - file: "05"
             id: "preterm-labour-and-preterm-rupture-of-the-membranes"
             label: "Preterm labour and preterm rupture of the membranes"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -10351,10 +10068,7 @@ works:
           - file: "06"
             id: "monitoring-the-condition-of-the-mother-during-the-first-stage-of-labour"
             label: "Monitoring the condition of the mother during the first stage of labour"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -10388,10 +10102,7 @@ works:
           - file: "07"
             id: "monitoring-the-condition-of-the-fetus-during-the-first-stage-of-labour"
             label: "Monitoring the condition of the fetus during the first stage of labour"
-            children:        
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -10416,10 +10127,7 @@ works:
           - file: "08"
             id: "monitoring-and-managing-the-first-stage-of-labour"
             label: "Monitoring and managing the first stage of labour"
-            children:        
-              - file: "08"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08"
                 id: "objectives"
                 label: "Objectives"
@@ -10472,10 +10180,7 @@ works:
             id: "skills-examination-of-the-abdomen-in-labour"
             label: "Skills: Examination of the abdomen in labour"
             class: "auxiliary"
-            children:        
-              - file: "08a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08a"
                 id: "objectives"
                 label: "Objectives"
@@ -10492,10 +10197,7 @@ works:
             id: "skills-vaginal-examination-in-labour"
             label: "Skills: Vaginal examination in labour"
             class: "auxiliary"
-            children:        
-              - file: "08b"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08b"
                 id: "objectives"
                 label: "Objectives"
@@ -10524,10 +10226,7 @@ works:
             id: "skills-recording-observations-on-the-partogram"
             label: "Skills: Recording observations on the partogram"
             class: "auxiliary"
-            children:        
-              - file: "08c"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08c"
                 id: "objectives"
                 label: "Objectives"
@@ -10558,10 +10257,7 @@ works:
           - file: "09"
             id: "the-second-stage-of-labour"
             label: "The second stage of labour"
-            children:        
-              - file: "09"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09"
                 id: "objectives"
                 label: "Objectives"
@@ -10599,10 +10295,7 @@ works:
             id: "skills-performing-and-repairing-an-episiotomy"
             label: "Skills: Performing and repairing an episiotomy"
             class: "auxiliary"
-            children:        
-              - file: "09a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09a"
                 id: "objectives"
                 label: "Objectives"
@@ -10615,10 +10308,7 @@ works:
           - file: "10"
             id: "managing-pain-during-labour"
             label: "Managing pain during labour"
-            children:        
-              - file: "10"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "10"
                 id: "objectives"
                 label: "Objectives"
@@ -10661,10 +10351,7 @@ works:
           - file: "11"
             id: "the-third-stage-of-labour"
             label: "The third stage of labour"
-            children:        
-              - file: "11"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "11"
                 id: "objectives"
                 label: "Objectives"
@@ -10701,10 +10388,7 @@ works:
           - file: "12"
             id: "the-puerperium"
             label: "The puerperium"
-            children:        
-              - file: "12"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "12"
                 id: "objectives"
                 label: "Objectives"
@@ -10759,10 +10443,7 @@ works:
           - file: "13"
             id: "medical-problems-during-pregnancy-labour-and-the-puerperium"
             label: "Medical problems during pregnancy, labour and the puerperium"
-            children:        
-              - file: "13"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "13"
                 id: "objectives"
                 label: "Objectives"
@@ -10793,10 +10474,7 @@ works:
           - file: "14"
             id: "family-planning-after-pregnancy"
             label: "Family planning after pregnancy"
-            children:        
-              - file: "14"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "14"
                 id: "objectives"
                 label: "Objectives"
@@ -10818,10 +10496,7 @@ works:
           - file: "15"
             id: "regionalised-perinatal-care"
             label: "Regionalised perinatal care"
-            children:        
-              - file: "15"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "15"
                 id: "objectives"
                 label: "Objectives"
@@ -10849,10 +10524,7 @@ works:
           - file: "16-appendix"
             id: "appendix"
             label: "Appendix"
-            children:        
-              - file: "16-appendix"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "16-appendix"
                 id: "guidelines-for-the-management-of-patients-with-risk-factors-and-medical-problems-during-pregnancy-labour-and-the-puerperium"
                 label: "Guidelines for the management of patients with risk factors and medical problems during pregnancy, labour and the puerperium"
@@ -10937,6 +10609,8 @@ works:
           - "0-1-titlepage"
           - "0-2-copyright"
           - "0-3-contents"
+          - "0-4-acknowledgements"
+          - "0-5-introduction"
           - "01"
           - "02"
           - "03"
@@ -10962,9 +10636,6 @@ works:
             label: "Introduction"
             class: "frontmatter-entry"
             children:        
-              - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
@@ -10996,9 +10667,6 @@ works:
             id: "introduction-to-maternal-mental-health"
             label: "Introduction to maternal mental health"
             children:
-             - file: "01"
-                id: "contents"
-                label: "Contents"
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -11032,10 +10700,7 @@ works:
           - file: "02"
             id: "identifying-maternal-mental-illness"
             label: "Identifying maternal mental illness"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -11066,10 +10731,7 @@ works:
           - file: "03"
             id: "making-referrals-for-maternal-mental-illness"
             label: "Making referrals for maternal mental illness"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -11106,10 +10768,7 @@ works:
           - file: "04"
             id: "how-to-help-mothers-with-mental-health-problems"
             label: "How to help mothers with mental health problems"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -11152,10 +10811,7 @@ works:
           - file: "05"
             id: "special-medical-issues-in-maternal-mental-health"
             label: "Special medical issues in maternal mental health"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -11195,10 +10851,7 @@ works:
           - file: "06"
             id: "special-social-issues-in-maternal-mental-health"
             label: "Special social issues in maternal mental health"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -11242,10 +10895,7 @@ works:
             id: "resources"
             label: "Resources"
             class: "auxiliary"
-            children:        
-              - file: "07-resources"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07-resources"
                 id: "1-screening-tools"
                 label: "1. Screening tools"
@@ -11321,9 +10971,6 @@ works:
             class: "frontmatter-entry"
             children:        
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-              - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
               - file: "0-5-introduction"
@@ -11354,9 +11001,6 @@ works:
             id: "introduction-to-maternal-mental-health"
             label: "Introduction to maternal mental health"
             children:
-             - file: "01"
-                id: "contents"
-                label: "Contents"
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -11390,10 +11034,7 @@ works:
           - file: "02"
             id: "identifying-maternal-mental-illness"
             label: "Identifying maternal mental illness"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -11424,10 +11065,7 @@ works:
           - file: "03"
             id: "making-referrals-for-maternal-mental-illness"
             label: "Making referrals for maternal mental illness"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -11464,10 +11102,7 @@ works:
           - file: "04"
             id: "how-to-help-mothers-with-mental-health-problems"
             label: "How to help mothers with mental health problems"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -11510,10 +11145,7 @@ works:
           - file: "05"
             id: "special-medical-issues-in-maternal-mental-health"
             label: "Special medical issues in maternal mental health"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -11553,10 +11185,7 @@ works:
           - file: "06"
             id: "special-social-issues-in-maternal-mental-health"
             label: "Special social issues in maternal mental health"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -11600,10 +11229,7 @@ works:
             id: "resources"
             label: "Resources"
             class: "auxiliary"
-            children:        
-              - file: "07-resources"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07-resources"
                 id: "1-screening-tools"
                 label: "1. Screening tools"
@@ -11735,9 +11361,6 @@ works:
             class: "frontmatter-entry"
             children:        
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
               - file: "0-5-introduction"
@@ -11758,10 +11381,7 @@ works:
           - file: "01"
             id: "care-of-the-mother"
             label: "Care of the mother"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -11804,10 +11424,7 @@ works:
           - file: "02"
             id: "care-of-the-newborn-baby"
             label: "Care of the newborn baby"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -11844,10 +11461,7 @@ works:
           - file: "03"
             id: "exclusive-breastfeeding"
             label: "Exclusive breastfeeding"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -11878,10 +11492,7 @@ works:
           - file: "04"
             id: "hiv-in-mother-and-baby"
             label: "HIV in mother and baby"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -11950,9 +11561,6 @@ works:
             class: "frontmatter-entry"
             children:        
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
               - file: "0-5-introduction"
@@ -11973,10 +11581,7 @@ works:
           - file: "01"
             id: "care-of-the-mother"
             label: "Care of the mother"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -12019,10 +11624,7 @@ works:
           - file: "02"
             id: "care-of-the-newborn-baby"
             label: "Care of the newborn baby"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -12059,10 +11661,7 @@ works:
           - file: "03"
             id: "exclusive-breastfeeding"
             label: "Exclusive breastfeeding"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -12093,10 +11692,7 @@ works:
           - file: "04"
             id: "hiv-in-mother-and-baby"
             label: "HIV in mother and baby"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -12229,9 +11825,6 @@ works:
             class: "frontmatter-entry"
             children:       
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-              - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
               - file: "0-5-introduction"
@@ -12261,10 +11854,7 @@ works:
           - file: "01"
             id: "mother-friendly-care-during-pregnancy"
             label: "Mother friendly care during pregnancy"
-            children:       
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -12292,10 +11882,7 @@ works:
           - file: "02"
             id: "mother-friendly-care-during-labour-delivery-and-the-puerperium"
             label: "Mother friendly care during labour, delivery and the puerperium"
-            children:       
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -12317,16 +11904,13 @@ works:
               - file: "02"
                 id: "case-study-2"
                 label: "Case study 2"
-             - file: "02"
+              - file: "02"
                 id: "case-study-3"
                 label: "Case study 3"
           - file: "03"
             id: "principles-of-kangaroo-mother-care"
             label: "Principles of Kangaroo Mother Care"
-            children:       
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -12351,10 +11935,7 @@ works:
           - file: "04"
             id: "practice-of-kangaroo-mother-care"
             label: "Practice of Kangaroo Mother Care"
-            children:       
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -12394,10 +11975,7 @@ works:
           - file: "05"
             id: "baby-friendly-care"
             label: "Baby friendly care"
-            children:       
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -12478,9 +12056,6 @@ works:
             class: "frontmatter-entry"
             children:       
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-              - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
               - file: "0-5-introduction"
@@ -12510,10 +12085,7 @@ works:
           - file: "01"
             id: "mother-friendly-care-during-pregnancy"
             label: "Mother friendly care during pregnancy"
-            children:       
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -12541,10 +12113,7 @@ works:
           - file: "02"
             id: "mother-friendly-care-during-labour-delivery-and-the-puerperium"
             label: "Mother friendly care during labour, delivery and the puerperium"
-            children:       
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -12566,16 +12135,13 @@ works:
               - file: "02"
                 id: "case-study-2"
                 label: "Case study 2"
-             - file: "02"
+              - file: "02"
                 id: "case-study-3"
                 label: "Case study 3"
           - file: "03"
             id: "principles-of-kangaroo-mother-care"
             label: "Principles of Kangaroo Mother Care"
-            children:       
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -12600,10 +12166,7 @@ works:
           - file: "04"
             id: "practice-of-kangaroo-mother-care"
             label: "Practice of Kangaroo Mother Care"
-            children:       
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -12643,10 +12206,7 @@ works:
           - file: "05"
             id: "baby-friendly-care"
             label: "Baby friendly care"
-            children:       
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -12774,8 +12334,8 @@ works:
           - "03a"
           - "04"
           - "05"
-          - "5a"
-          - "06'"
+          - "05a"
+          - "06"
           - "06a"
           - "07"
           - "07a"
@@ -12808,13 +12368,46 @@ works:
           - "quiz-15"
           - "quiz-answers"
         toc: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
+          - file: "0-4-acknowledgements"
+            id: "acknowledgements"
+            label: "Acknowledgements"
+            class: "frontmatter-entry"
+          - file: "0-5-introduction"
+            id: "introduction"
+            label: "Introduction"
+            class: "frontmatter-entry"
+            children:        
+              - file: "0-5-introduction"
+                id: "about-the-bettercare-series"
+                label: "About the Bettercare series"
+              - file: "0-5-introduction"
+                id: "why-decentralised-learning"
+                label: "Why decentralised learning?"
+              - file: "0-5-introduction"
+                id: "bettercare-online-learning-station"
+                label: "Bettercare Online Learning Station"
+              - file: "0-5-introduction"
+                id: "books-in-the-bettercare-series"
+                label: "Books in the Bettercare series"
+              - file: "0-5-introduction"
+                id: "format-of-the-courses"
+                label: "Format of the courses"
+              - file: "0-5-introduction"
+                id: "contributors"
+                label: "Contributors"
+              - file: "0-5-introduction"
+                id: "updating-the-course-material"
+                label: "Updating the course material"
+              - file: "0-5-introduction"
+                id: "contact-information"
+                label: "Contact information"
+              - file: "0-5-introduction"
+                id: "registration"
+                label: "Registration"
           - file: "01"
             id: "failure-to-breathe-at-birth-and-resuscitation"
             label: "Failure to breathe at birth and resuscitation"
             children:       
-              - file: "01"
-                id: "contents"
-                label: "Contents"
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -12845,11 +12438,8 @@ works:
           - file: "01a"
             id: "skills-neonatal-resuscitation"
             label: "Skills: Neonatal resuscitation"
-            c;ass: "auxiliary"
+            class: "auxiliary"
             children:        
-              - file: "01a"
-                id: "contents"
-                label: "Contents"
               - file: "01a"
                 id: "objectives"
                 label: "Objectives"
@@ -12868,10 +12458,7 @@ works:
           - file: "02"
             id: "assessing-gestational-age-and-size-at-birth"
             label: "Assessing gestational age and size at birth"
-            children:       
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:  
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -12903,10 +12490,7 @@ works:
             id: "skills-gestational-age-and-weight"
             label: "Skills: Gestational age and weight"
             class: "auxiliary"
-            children:        
-              - file: "02a"
-                id: "contents"
-                label: "Contents"
+            children: 
               - file: "02a"
                 id: "objectives"
                 label: "Objectives"
@@ -12925,10 +12509,7 @@ works:
           - file: "03"
             id: "the-routine-care-of-normal-infants"
             label: "The routine care of normal infants"
-            children:       
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -12957,10 +12538,7 @@ works:
             id: "skills-clinical-history-and-examination"
             label: "Skills: Clinical history and examination"
             class: "auxiliary"
-            children:        
-              - file: "03a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03a"
                 id: "objectives"
                 label: "Objectives"
@@ -12979,10 +12557,7 @@ works:
           - file: "04"
             id: "feeding-normal-infants"
             label: "Feeding normal infants"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -13025,10 +12600,7 @@ works:
           - file: "05"
             id: "care-of-high-risk-and-sick-infants"
             label: "Care of high-risk and sick infants"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -13066,10 +12638,7 @@ works:
             id: "skills-clinical-notes-and-observations"
             label: "Skills: Clinical notes and observations"
             class: "auxiliary"
-            children:        
-              - file: "05a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05a"
                 id: "objectives"
                 label: "Objectives"
@@ -13085,10 +12654,7 @@ works:
           - file: "06"
             id: "feeding-sick-or-high-risk-infants"
             label: "Feeding sick or high-risk infants"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -13120,10 +12686,7 @@ works:
             id: "skills-feeding-sick-or-high-risk-infants"
             label: "Skills: Feeding sick or high-risk infants"
             class: "auxiliary"
-            children:        
-              - file: "06a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06a"
                 id: "objectives"
                 label: "Objectives"
@@ -13139,16 +12702,13 @@ works:
               - file: "06a"
                 id: "starting-a-peripheral-intravenous-infusion"
                 label: "Starting a peripheral intravenous infusion"        
-             - file: "06a"
+              - file: "06a"
                 id: "using-a-fluid-controller"
                 label: "Using a fluid controller"    
           - file: "07"
             id: "temperature-control-and-hypothermia"
             label: "Temperature control and hypothermia"
-            children:        
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -13177,10 +12737,7 @@ works:
             id: "skills-temperature-control-and-hypothermia"
             label: "Skills: Temperature control and hypothermia"
             class: "auxiliary"
-            children:        
-              - file: "07a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07a"
                 id: "objectives"
                 label: "Objectives"
@@ -13196,10 +12753,7 @@ works:
           - file: "08"
             id: "glucose-control-and-hypoglycaemia"
             label: "Glucose control and hypoglycaemia"
-            children:        
-              - file: "08"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08"
                 id: "objectives"
                 label: "Objectives"
@@ -13225,10 +12779,7 @@ works:
             id: "skills-glucose-control-and-hypoglycaemia"
             label: "Skills: Glucose control and hypoglycaemia"
             class: "auxiliary"
-            children:        
-              - file: "08a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08a"
                 id: "objectives"
                 label: "Objectives"
@@ -13244,10 +12795,7 @@ works:
           - file: "09"
             id: "jaundice-anaemia-and-polycythaemia"
             label: "Jaundice, anaemia and polycythaemia"
-            children:        
-              - file: "09"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09"
                 id: "objectives"
                 label: "Objectives"
@@ -13285,10 +12833,7 @@ works:
             id: "skills-jaundice-and-phototherapy"
             label: "Skills: Jaundice and phototherapy"
             class: "auxiliary"
-            children:        
-              - file: "09a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09a"
                 id: "objectives"
                 label: "Objectives"
@@ -13301,10 +12846,7 @@ works:
           - file: "10"
             id: "respiratory-distress-and-apnoea"
             label: "Respiratory distress and apnoea"
-            children:        
-              - file: "10"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "10"
                 id: "objectives"
                 label: "Objectives"
@@ -13348,10 +12890,7 @@ works:
             id: "skills-respiratory-distress-and-apnoea"
             label: "Skills: Respiratory distress and apnoea"
             class: "auxiliary"
-            children:        
-              - file: "10a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "10a"
                 id: "objectives"
                 label: "Objectives"
@@ -13370,10 +12909,7 @@ works:
           - file: "11"
             id: "oxygen-therapy"
             label: "Oxygen therapy"
-            children:        
-              - file: "11"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "11"
                 id: "objectives"
                 label: "Objectives"
@@ -13408,10 +12944,7 @@ works:
             id: "skills-oxygen-therapy"
             label: "Skills: Oxygen therapy"
             class: "auxiliary"
-            children:        
-              - file: "11a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "11a"
                 id: "objectives"
                 label: "Objectives"
@@ -13436,10 +12969,7 @@ works:
           - file: "12"
             id: "infection"
             label: "Infection"
-            children:        
-              - file: "12"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "12"
                 id: "objectives"
                 label: "Objectives"
@@ -13482,10 +13012,7 @@ works:
           - file: "13"
             id: "trauma-and-bleeding"
             label: "Trauma and bleeding"
-            children:        
-              - file: "13"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "13"
                 id: "objectives"
                 label: "Objectives"
@@ -13510,10 +13037,7 @@ works:
           - file: "14"
             id: "congenital-disorders"
             label: "Congenital Disorders"
-            children:        
-              - file: "14"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "14"
                 id: "objectives"
                 label: "Objectives"
@@ -13547,10 +13071,7 @@ works:
           - file: "15"
             id: "communication"
             label: "Communication"
-            children:        
-              - file: "15"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "15"
                 id: "objectives"
                 label: "Objectives"
@@ -13635,6 +13156,7 @@ works:
           - file: "quiz-answers"
             id: "answers"
             label: "Answers"
+      web:
         date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
         format: "Digital online" # e.g. Paperback, Digital download, Digital online
         identifier: "" # e.g. ISBN or UUID
@@ -13647,13 +13169,46 @@ works:
           - "01": "Chapter One"
           - "02": "Chapter Two"
         nav: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
+          - file: "0-4-acknowledgements"
+            id: "acknowledgements"
+            label: "Acknowledgements"
+            class: "frontmatter-entry"
+          - file: "0-5-introduction"
+            id: "introduction"
+            label: "Introduction"
+            class: "frontmatter-entry"
+            children:         
+              - file: "0-5-introduction"
+                id: "about-the-bettercare-series"
+                label: "About the Bettercare series"
+              - file: "0-5-introduction"
+                id: "why-decentralised-learning"
+                label: "Why decentralised learning?"
+              - file: "0-5-introduction"
+                id: "bettercare-online-learning-station"
+                label: "Bettercare Online Learning Station"
+              - file: "0-5-introduction"
+                id: "books-in-the-bettercare-series"
+                label: "Books in the Bettercare series"
+              - file: "0-5-introduction"
+                id: "format-of-the-courses"
+                label: "Format of the courses"
+              - file: "0-5-introduction"
+                id: "contributors"
+                label: "Contributors"
+              - file: "0-5-introduction"
+                id: "updating-the-course-material"
+                label: "Updating the course material"
+              - file: "0-5-introduction"
+                id: "contact-information"
+                label: "Contact information"
+              - file: "0-5-introduction"
+                id: "registration"
+                label: "Registration"
           - file: "01"
             id: "failure-to-breathe-at-birth-and-resuscitation"
             label: "Failure to breathe at birth and resuscitation"
-            children:       
-               - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -13685,10 +13240,7 @@ works:
             id: "skills-neonatal-resuscitation"
             label: "Skills: Neonatal resuscitation"
             c;ass: "auxiliary"
-            children:        
-              - file: "01a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01a"
                 id: "objectives"
                 label: "Objectives"
@@ -13707,10 +13259,7 @@ works:
           - file: "02"
             id: "assessing-gestational-age-and-size-at-birth"
             label: "Assessing gestational age and size at birth"
-            children:       
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -13742,10 +13291,7 @@ works:
             id: "skills-gestational-age-and-weight"
             label: "Skills: Gestational age and weight"
             class: "auxiliary"
-            children:        
-              - file: "02a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02a"
                 id: "objectives"
                 label: "Objectives"
@@ -13764,10 +13310,7 @@ works:
           - file: "03"
             id: "the-routine-care-of-normal-infants"
             label: "The routine care of normal infants"
-            children:       
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -13799,10 +13342,7 @@ works:
             id: "skills-clinical-history-and-examination"
             label: "Skills: Clinical history and examination"
             class: "auxiliary"
-            children:        
-              - file: "03a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03a"
                 id: "objectives"
                 label: "Objectives"
@@ -13821,10 +13361,7 @@ works:
           - file: "04"
             id: "feeding-normal-infants"
             label: "Feeding normal infants"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -13870,10 +13407,7 @@ works:
           - file: "05"
             id: "care-of-high-risk-and-sick-infants"
             label: "Care of high-risk and sick infants"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -13914,10 +13448,7 @@ works:
             id: "skills-clinical-notes-and-observations"
             label: "Skills: Clinical notes and observations"
             class: "auxiliary"
-            children:        
-              - file: "05a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05a"
                 id: "objectives"
                 label: "Objectives"
@@ -13933,10 +13464,7 @@ works:
           - file: "06"
             id: "feeding-sick-or-high-risk-infants"
             label: "Feeding sick or high-risk infants"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -13971,10 +13499,7 @@ works:
             id: "skills-feeding-sick-or-high-risk-infants"
             label: "Skills: Feeding sick or high-risk infants"
             class: "auxiliary"
-            children:        
-              - file: "06a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06a"
                 id: "objectives"
                 label: "Objectives"
@@ -13990,16 +13515,13 @@ works:
               - file: "06a"
                 id: "starting-a-peripheral-intravenous-infusion"
                 label: "Starting a peripheral intravenous infusion"        
-             - file: "06a"
+              - file: "06a"
                 id: "using-a-fluid-controller"
                 label: "Using a fluid controller"    
           - file: "07"
             id: "temperature-control-and-hypothermia"
             label: "Temperature control and hypothermia"
-            children:        
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -14028,10 +13550,7 @@ works:
             id: "skills-temperature-control-and-hypothermia"
             label: "Skills: Temperature control and hypothermia"
             class: "auxiliary"
-            children:        
-              - file: "07a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07a"
                 id: "objectives"
                 label: "Objectives"
@@ -14047,10 +13566,7 @@ works:
           - file: "08"
             id: "glucose-control-and-hypoglycaemia"
             label: "Glucose control and hypoglycaemia"
-            children:        
-              - file: "08"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08"
                 id: "objectives"
                 label: "Objectives"
@@ -14076,10 +13592,7 @@ works:
             id: "skills-glucose-control-and-hypoglycaemia"
             label: "Skills: Glucose control and hypoglycaemia"
             class: "auxiliary"
-            children:        
-              - file: "08a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08a"
                 id: "objectives"
                 label: "Objectives"
@@ -14095,10 +13608,7 @@ works:
           - file: "09"
             id: "jaundice-anaemia-and-polycythaemia"
             label: "Jaundice, anaemia and polycythaemia"
-            children:        
-              - file: "09"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09"
                 id: "objectives"
                 label: "Objectives"
@@ -14136,10 +13646,7 @@ works:
             id: "skills-jaundice-and-phototherapy"
             label: "Skills: Jaundice and phototherapy"
             class: "auxiliary"
-            children:        
-              - file: "09a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "09a"
                 id: "objectives"
                 label: "Objectives"
@@ -14152,10 +13659,7 @@ works:
           - file: "10"
             id: "respiratory-distress-and-apnoea"
             label: "Respiratory distress and apnoea"
-            children:        
-              - file: "10"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "10"
                 id: "objectives"
                 label: "Objectives"
@@ -14199,10 +13703,7 @@ works:
             id: "skills-respiratory-distress-and-apnoea"
             label: "Skills: Respiratory distress and apnoea"
             class: "auxiliary"
-            children:        
-              - file: "10a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "10a"
                 id: "objectives"
                 label: "Objectives"
@@ -14221,10 +13722,7 @@ works:
           - file: "11"
             id: "oxygen-therapy"
             label: "Oxygen therapy"
-            children:        
-              - file: "11"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "11"
                 id: "objectives"
                 label: "Objectives"
@@ -14259,10 +13757,7 @@ works:
             id: "skills-oxygen-therapy"
             label: "Skills: Oxygen therapy"
             class: "auxiliary"
-            children:        
-              - file: "11a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "11a"
                 id: "objectives"
                 label: "Objectives"
@@ -14287,10 +13782,7 @@ works:
           - file: "12"
             id: "infection"
             label: "Infection"
-            children:        
-              - file: "12"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "12"
                 id: "objectives"
                 label: "Objectives"
@@ -14333,10 +13825,7 @@ works:
           - file: "13"
             id: "trauma-and-bleeding"
             label: "Trauma and bleeding"
-            children:        
-              - file: "13"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "13"
                 id: "objectives"
                 label: "Objectives"
@@ -14361,10 +13850,7 @@ works:
           - file: "14"
             id: "congenital-disorders"
             label: "Congenital Disorders"
-            children:        
-              - file: "14"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "14"
                 id: "objectives"
                 label: "Objectives"
@@ -14398,10 +13884,7 @@ works:
           - file: "15"
             id: "communication"
             label: "Communication"
-            children:        
-              - file: "15"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "15"
                 id: "objectives"
                 label: "Objectives"
@@ -14540,18 +14023,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -14572,10 +14052,7 @@ works:
           - file: "01"
             id: "introduction-to-perinatal-hiv"
             label: "Introduction to perinatal HIV"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -14615,10 +14092,7 @@ works:
           - file: "02"
             id: "hiv-in-pregnancy"
             label: "HIV in pregnancy"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -14654,10 +14128,7 @@ works:
           - file: "03"
             id: "hiv-during-labour-and-delivery"
             label: "HIV during labour and delivery"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -14693,10 +14164,7 @@ works:
           - file: "04"
             id: "hiv-in-the-newborn-infant"
             label: "HIV in the newborn infant"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -14739,10 +14207,7 @@ works:
           - file: "05"
             id: "hiv-and-counselling"
             label: "HIV and counselling"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -14820,18 +14285,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -14852,10 +14314,7 @@ works:
           - file: "01"
             id: "introduction-to-perinatal-hiv"
             label: "Introduction to perinatal HIV"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -14895,10 +14354,7 @@ works:
           - file: "02"
             id: "hiv-in-pregnancy"
             label: "HIV in pregnancy"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -14934,10 +14390,7 @@ works:
           - file: "03"
             id: "hiv-during-labour-and-delivery"
             label: "HIV during labour and delivery"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -14973,10 +14426,7 @@ works:
           - file: "04"
             id: "hiv-in-the-newborn-infant"
             label: "HIV in the newborn infant"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -15019,10 +14469,7 @@ works:
           - file: "05"
             id: "hiv-and-counselling"
             label: "HIV and counselling"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -15152,7 +14599,7 @@ works:
           - "03a"
           - "04"
           - "05"
-          - "06'"
+          - "06"
           - "07"
           - "08-appendix"
           - "quiz-01"
@@ -15174,18 +14621,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -15206,10 +14650,7 @@ works:
           - file: "01"
             id: "antenatal-care"
             label: "Antenatal care"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -15268,10 +14709,7 @@ works:
             id: "skills-general-examination-at-the-first-antenatal-visit"
             label: "Skills: General examination at the first antenatal visit"
             class: "auxiliary"
-            children:        
-              - file: "01a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01a"
                 id: "objectives"
                 label: "Objectives"
@@ -15291,10 +14729,7 @@ works:
             id: "skills-examination-of-the-abdomen-in-pregnancy"
             label: "Skills: Examination of the abdomen in pregnancy"
             class: "auxiliary"
-            children:        
-              - file: "01b"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01b"
                 id: "objectives"
                 label: "Objectives"
@@ -15308,10 +14743,7 @@ works:
             id: "skills-vaginal-examination-in-pregnancy"
             label: "Skills: Vaginal examination in pregnancy"
             class: "auxiliary"
-            children:        
-              - file: "01c"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01c"
                 id: "objectives"
                 label: "Objectives"
@@ -15325,10 +14757,7 @@ works:
             id: "skills-screening-tests-for-syphilis"
             label: "Skills: Screening tests for syphilis"
             class: "auxiliary"
-            children:        
-              - file: "01d"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01d"
                 id: "objectives"
                 label: "Objectives"
@@ -15342,10 +14771,7 @@ works:
             id: "skills-screening-tests-for-hiv"
             label: "Skills: Screening tests for HIV"
             class: "auxiliary"
-            children:        
-              - file: "01e"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01e"
                 id: "objectives"
                 label: "Objectives"
@@ -15356,10 +14782,7 @@ works:
             id: "skills-examination-of-the-breasts"
             label: "Skills: Examination of the breasts"
             class: "auxiliary"
-            children:        
-              - file: "01f"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01f"
                 id: "objectives"
                 label: "Objectives"
@@ -15372,10 +14795,7 @@ works:
           - file: "02"
             id: "assessment-of-fetal-growth-and-condition-during-pregnancy"
             label: "Assessment of fetal growth and condition during pregnancy"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -15407,20 +14827,14 @@ works:
             id: "skills-routine-use-of-the-antenatal-card"
             label: "Skills: Routine use of the antenatal card"
             class: "auxiliary"
-            children:        
-              - file: "02a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02a"
                 id: "objectives"
                 label: "Objectives"
           - file: "03"
             id: "hypertensive-disorders-of-pregnancy"
             label: "Hypertensive disorders of pregnancy"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -15473,10 +14887,7 @@ works:
             id: "skills-measuring-blood-pressure-and-proteinuria"
             label: "Skills: Measuring blood pressure and proteinuria"
             class: "auxiliary"
-            children:        
-              - file: "03a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03a"
                 id: "objectives"
                 label: "Objectives"
@@ -15489,10 +14900,7 @@ works:
           - file: "04"
             id: "antepartum-haemorrhage"
             label: "Antepartum haemorrhage"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -15535,10 +14943,7 @@ works:
           - file: "05"
             id: "preterm-labour-and-preterm-rupture-of-the-membranes"
             label: "Preterm labour and preterm rupture of the membranes"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -15569,10 +14974,7 @@ works:
           - file: "06"
             id: "the-puerperium-and-family-planning"
             label: "The puerperium and family planning"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -15639,10 +15041,7 @@ works:
           - file: "07"
             id: "medical-problems-during-pregnancy-labour-and-the-puerperium"
             label: "Medical problems during pregnancy, labour and the puerperium"
-            children:       
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -15673,10 +15072,7 @@ works:
           - file: "08-appendix"
             id: "appendix"
             label: "Appendix"
-            children:        
-              - file: "08-appendix"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08-appendix"
                 id: "guidelines-for-the-management-of-patients-with-risk-factors-and-medical-problems-during-pregnancy-labour-and-the-puerperium"
                 label: "Guidelines for the management of patients with risk factors and medical problems during pregnancy, labour and the puerperium"
@@ -15730,18 +15126,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -15762,10 +15155,7 @@ works:
           - file: "01"
             id: "antenatal-care"
             label: "Antenatal care"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -15824,10 +15214,7 @@ works:
             id: "skills-general-examination-at-the-first-antenatal-visit"
             label: "Skills: General examination at the first antenatal visit"
             class: "auxiliary"
-            children:        
-              - file: "01a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01a"
                 id: "objectives"
                 label: "Objectives"
@@ -15847,10 +15234,7 @@ works:
             id: "skills-examination-of-the-abdomen-in-pregnancy"
             label: "Skills: Examination of the abdomen in pregnancy"
             class: "auxiliary"
-            children:        
-              - file: "01b"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01b"
                 id: "objectives"
                 label: "Objectives"
@@ -15864,10 +15248,7 @@ works:
             id: "skills-vaginal-examination-in-pregnancy"
             label: "Skills: Vaginal examination in pregnancy"
             class: "auxiliary"
-            children:        
-              - file: "01c"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01c"
                 id: "objectives"
                 label: "Objectives"
@@ -15881,10 +15262,7 @@ works:
             id: "skills-screening-tests-for-syphilis"
             label: "Skills: Screening tests for syphilis"
             class: "auxiliary"
-            children:        
-              - file: "01d"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01d"
                 id: "objectives"
                 label: "Objectives"
@@ -15898,10 +15276,7 @@ works:
             id: "skills-screening-tests-for-hiv"
             label: "Skills: Screening tests for HIV"
             class: "auxiliary"
-            children:        
-              - file: "01e"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01e"
                 id: "objectives"
                 label: "Objectives"
@@ -15912,10 +15287,7 @@ works:
             id: "skills-examination-of-the-breasts"
             label: "Skills: Examination of the breasts"
             class: "auxiliary"
-            children:        
-              - file: "01f"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01f"
                 id: "objectives"
                 label: "Objectives"
@@ -15928,10 +15300,7 @@ works:
           - file: "02"
             id: "assessment-of-fetal-growth-and-condition-during-pregnancy"
             label: "Assessment of fetal growth and condition during pregnancy"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -15963,20 +15332,14 @@ works:
             id: "skills-routine-use-of-the-antenatal-card"
             label: "Skills: Routine use of the antenatal card"
             class: "auxiliary"
-            children:        
-              - file: "02a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02a"
                 id: "objectives"
                 label: "Objectives"
           - file: "03"
             id: "hypertensive-disorders-of-pregnancy"
             label: "Hypertensive disorders of pregnancy"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -16029,10 +15392,7 @@ works:
             id: "skills-measuring-blood-pressure-and-proteinuria"
             label: "Skills: Measuring blood pressure and proteinuria"
             class: "auxiliary"
-            children:        
-              - file: "03a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03a"
                 id: "objectives"
                 label: "Objectives"
@@ -16045,10 +15405,7 @@ works:
           - file: "04"
             id: "antepartum-haemorrhage"
             label: "Antepartum haemorrhage"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -16091,10 +15448,7 @@ works:
           - file: "05"
             id: "preterm-labour-and-preterm-rupture-of-the-membranes"
             label: "Preterm labour and preterm rupture of the membranes"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -16125,10 +15479,7 @@ works:
           - file: "06"
             id: "the-puerperium-and-family-planning"
             label: "The puerperium and family planning"
-            children:        
-              - file: "06"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "06"
                 id: "objectives"
                 label: "Objectives"
@@ -16195,10 +15546,7 @@ works:
           - file: "07"
             id: "medical-problems-during-pregnancy-labour-and-the-puerperium"
             label: "Medical problems during pregnancy, labour and the puerperium"
-            children:       
-              - file: "07"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "07"
                 id: "objectives"
                 label: "Objectives"
@@ -16229,10 +15577,7 @@ works:
           - file: "08-appendix"
             id: "appendix"
             label: "Appendix"
-            children:        
-              - file: "08-appendix"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "08-appendix"
                 id: "guidelines-for-the-management-of-patients-with-risk-factors-and-medical-problems-during-pregnancy-labour-and-the-puerperium"
                 label: "Guidelines for the management of patients with risk factors and medical problems during pregnancy, labour and the puerperium"
@@ -16341,18 +15686,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -16373,6 +15715,7 @@ works:
           - file: "01"
             id: "care-of-infants-at-birth"
             label: "Care of infants at birth"
+            children:
               - file: "01"
                 id: "management-of-an-infant-who-does-not-breathe-well-after-birth"
                 label: "Management of an infant who does not breathe well after birth"
@@ -16397,10 +15740,7 @@ works:
           - file: "02"
             id: "care-of-normal-infants"
             label: "Care of normal infants"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -16431,10 +15771,7 @@ works:
           - file: "03"
             id: "care-of-low-birth-weight-infants"
             label: "Care of low-birth-weight infants"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -16480,10 +15817,7 @@ works:
           - file: "04"
             id: "emergency-management-of-infants"
             label: "Emergency management of infants"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -16523,10 +15857,7 @@ works:
           - file: "05"
             id: "management-of-important-problems"
             label: "Management of important problems"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -16604,18 +15935,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -16636,6 +15964,7 @@ works:
           - file: "01"
             id: "care-of-infants-at-birth"
             label: "Care of infants at birth"
+            children:
               - file: "01"
                 id: "management-of-an-infant-who-does-not-breathe-well-after-birth"
                 label: "Management of an infant who does not breathe well after birth"
@@ -16660,10 +15989,7 @@ works:
           - file: "02"
             id: "care-of-normal-infants"
             label: "Care of normal infants"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -16694,10 +16020,7 @@ works:
           - file: "03"
             id: "care-of-low-birth-weight-infants"
             label: "Care of low-birth-weight infants"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -16743,10 +16066,7 @@ works:
           - file: "04"
             id: "emergency-management-of-infants"
             label: "Emergency management of infants"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -16786,10 +16106,7 @@ works:
           - file: "05"
             id: "management-of-important-problems"
             label: "Management of important problems"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -16928,18 +16245,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -16960,10 +16274,7 @@ works:
           - file: "01"
             id: "introduction-to-maternal-and-perinatal-mortality"
             label: "Introduction to maternal and perinatal mortality"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -16994,10 +16305,7 @@ works:
           - file: "02"
             id: "maternal-mortality"
             label: "Maternal mortality"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -17031,10 +16339,7 @@ works:
           - file: "03"
             id: "perinatal-mortality"
             label: "Perinatal mortality"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -17068,10 +16373,7 @@ works:
           - file: "04"
             id: "maternal-and-perinatal-mortality-audits"
             label: "Maternal and perinatal mortality audits"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -17105,10 +16407,7 @@ works:
           - file: "05"
             id: "finding-solutions-to-maternal-and-perinatal-mortality"
             label: "Finding solutions to maternal and perinatal mortality"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -17177,18 +16476,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -17209,10 +16505,7 @@ works:
           - file: "01"
             id: "introduction-to-maternal-and-perinatal-mortality"
             label: "Introduction to maternal and perinatal mortality"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -17243,10 +16536,7 @@ works:
           - file: "02"
             id: "maternal-mortality"
             label: "Maternal mortality"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -17280,10 +16570,7 @@ works:
           - file: "03"
             id: "perinatal-mortality"
             label: "Perinatal mortality"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -17317,10 +16604,7 @@ works:
           - file: "04"
             id: "maternal-and-perinatal-mortality-audits"
             label: "Maternal and perinatal mortality audits"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -17354,10 +16638,7 @@ works:
           - file: "05"
             id: "finding-solutions-to-maternal-and-perinatal-mortality"
             label: "Finding solutions to maternal and perinatal mortality"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -17467,6 +16748,7 @@ works:
           - "0-5-introduction"
           - "01"
           - "02"
+          - "03"
           - "03a"
           - "04"
           - "05"
@@ -17487,18 +16769,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -17519,10 +16798,7 @@ works:
           - file: "01"
             id: "reproductive-health"
             label: "Reproductive health"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -17556,10 +16832,7 @@ works:
           - file: "02"
             id: "family-planning-and-infertility"
             label: "Family planning and infertility"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -17614,10 +16887,7 @@ works:
           - file: "03"
             id: "common-genital-and-urinary-infections"
             label: "Common genital and urinary infections"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -17661,10 +16931,7 @@ works:
             id: "skills-how-to-conduct-a-gynaecological-history-and-examination"
             label: "Skills: How to conduct a gynaecological history and examination"
             class: "auxiliary"
-            children:        
-              - file: "03a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03a"
                 id: "objectives"
                 label: "Objectives"
@@ -17689,10 +16956,7 @@ works:
           - file: "04"
             id: "vaginal-bleeding"
             label: "Vaginal bleeding"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -17732,10 +16996,7 @@ works:
           - file: "05"
             id: "abuse-of-women"
             label: "Abuse of women"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -17804,18 +17065,15 @@ works:
             class: "frontmatter-entry"
             children:         
               - file: "0-5-introduction"
-                id: "contents"
-                label: "Contents"
-               - file: "0-5-introduction"
                 id: "about-the-bettercare-series"
                 label: "About the Bettercare series"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "why-decentralised-learning"
                 label: "Why decentralised learning?"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "bettercare-online-learning-station"
                 label: "Bettercare Online Learning Station"
-               - file: "0-5-introduction"
+              - file: "0-5-introduction"
                 id: "books-in-the-bettercare-series"
                 label: "Books in the Bettercare series"
               - file: "0-5-introduction"
@@ -17836,10 +17094,7 @@ works:
           - file: "01"
             id: "reproductive-health"
             label: "Reproductive health"
-            children:        
-              - file: "01"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "01"
                 id: "objectives"
                 label: "Objectives"
@@ -17873,10 +17128,7 @@ works:
           - file: "02"
             id: "family-planning-and-infertility"
             label: "Family planning and infertility"
-            children:        
-              - file: "02"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "02"
                 id: "objectives"
                 label: "Objectives"
@@ -17931,10 +17183,7 @@ works:
           - file: "03"
             id: "common-genital-and-urinary-infections"
             label: "Common genital and urinary infections"
-            children:        
-              - file: "03"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03"
                 id: "objectives"
                 label: "Objectives"
@@ -17978,10 +17227,7 @@ works:
             id: "skills-how-to-conduct-a-gynaecological-history-and-examination"
             label: "Skills: How to conduct a gynaecological history and examination"
             class: "auxiliary"
-            children:        
-              - file: "03a"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "03a"
                 id: "objectives"
                 label: "Objectives"
@@ -18006,10 +17252,7 @@ works:
           - file: "04"
             id: "vaginal-bleeding"
             label: "Vaginal bleeding"
-            children:        
-              - file: "04"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "04"
                 id: "objectives"
                 label: "Objectives"
@@ -18049,10 +17292,7 @@ works:
           - file: "05"
             id: "abuse-of-women"
             label: "Abuse of women"
-            children:        
-              - file: "05"
-                id: "contents"
-                label: "Contents"
+            children:
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
