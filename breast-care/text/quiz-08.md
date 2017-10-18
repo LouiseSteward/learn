@@ -3,6 +3,8 @@ title: Quiz 8. Palliative care
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 8: Palliative care
 
 1.	What is palliative care?

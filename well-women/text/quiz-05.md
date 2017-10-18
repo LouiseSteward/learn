@@ -3,6 +3,8 @@ title: Quiz 5. Abuse of women
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5: Abuse of women
 
 1.	What activity would qualify as abuse?

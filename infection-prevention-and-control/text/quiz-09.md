@@ -3,6 +3,8 @@ title: Quiz 9. Antimicrobial stewardship
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 9: Antimicrobial stewardship 
 
 1.	Antimicrobial resistance is:

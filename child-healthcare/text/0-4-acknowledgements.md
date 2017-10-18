@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 I wish to gratefully acknowledge the contribution of Prof Andrew Argent, Dr Gerry Boon, Prof Mark Cotton, Ms Fawzia Desai, Prof Peter Donald, Dr Teresa Edwards, Prof Brian Eley, Dr Mary Hann, Prof John Ireland, Prof Prakash Jeena, Dr Pieter Jooste, Prof Maurice Kibel, Dr Patricia Lawrence, Prof Walter Loening, Dr Elmarie Malek, Dr Neil McKerrow, Dr Mark Painter, Dr Mark Patrick, Prof David Power, Prof John Rohde, Prof Haroon Saloojee, Prof Simon Schaaf, Dr Christopher Sutton, Prof Gail Todd, Prof Gideon Tindimwebwa, Dr Hester van der Walt, Prof Eugene Weinberg, and Prof Dankwart Wittenberg.

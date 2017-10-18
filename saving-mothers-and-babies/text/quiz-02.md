@@ -3,6 +3,8 @@ title: Quiz 2. Maternal mortality
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 2: Maternal mortality
 
 1.	The maternal mortality includes:

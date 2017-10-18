@@ -3,6 +3,8 @@ title: Quiz 1. Reproductive health
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: Reproductive health
 
 1.	Which women have good sexual health?

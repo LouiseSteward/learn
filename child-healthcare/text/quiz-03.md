@@ -3,6 +3,8 @@ title: Quiz 3. Growth and development
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Growth and development
 
 1.	What is growth?

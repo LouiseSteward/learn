@@ -3,6 +3,8 @@ title: Quiz 3. Principles of kangaroo mother care
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Principles of kangaroo mother care
 
 1.	What is kangaroo mother care?

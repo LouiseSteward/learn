@@ -3,6 +3,8 @@ title: Quiz 4. How to help mothers with mental health problems
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: How to help mothers with mental health problems
  
 1.	Why is the time around pregnancy particularly stressful?

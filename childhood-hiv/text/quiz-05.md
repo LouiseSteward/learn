@@ -3,6 +3,8 @@ title: Quiz 5. Management of children with antiretroviral treatment
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5: Management of children with antiretroviral treatment
 
 Please choose the one most correct answer to each question or statement

@@ -2,6 +2,8 @@
 title: Resources
 ---
 
+{% include metadata %}
+
 # Addendum: Resources for infection prevention and control
 
 ## Contents

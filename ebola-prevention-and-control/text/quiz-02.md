@@ -3,6 +3,8 @@ title: Quiz 2. Patient management
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 2: Patient management
 
 1.	What is an Ebola outbreak?

@@ -3,6 +3,8 @@ title: Quiz 6. Environmental cleaning, waste management and decontamination of m
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 6: Environmental cleaning, waste management and decontamination of medical devices 
 
 1.	Infection can be easily transmitted from:

@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 The Fetal Heart Rate Handbook was written by the members of Power-free Education and Technology (PET), and edited by Professor David Woods. PET is a not-for-profit organisation in South Africa which aims to improve healthcare in under resourced countries through the development of appropriate power-independent medical devices together with associated education material. Most of the content of the handbook was taken from the Maternal Care and Intrapartum Care course books of the Perinatal Education Programme which can be viewed on the Bettercare website (www.bettercare.co.za). 

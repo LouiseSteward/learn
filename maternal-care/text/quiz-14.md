@@ -3,6 +3,8 @@ title: Quiz 14. Family planning after pregnancy
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 14: Family planning after pregnancy
 
 Please choose the one most correct answer to each question or statement.

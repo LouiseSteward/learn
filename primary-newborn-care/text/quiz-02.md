@@ -3,6 +3,8 @@ title: Quiz 2. Care of normal infants
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 2: Care of normal infants
 
 Please choose the one most correct answer to each question or statement.

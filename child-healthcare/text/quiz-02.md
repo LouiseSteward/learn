@@ -3,6 +3,8 @@ title: Quiz 2. Immunisation
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 2: Immunisation
 
 1.	What is immunisation?

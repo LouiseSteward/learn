@@ -2,6 +2,8 @@
 title: References
 ---
 
+{% include metadata %}
+
 # References
 
 *	Abiodun OA (2006). Postnatal depression in primary care populations in Nigeria. *General Hospital Psychiatry*. 28: 133–136.

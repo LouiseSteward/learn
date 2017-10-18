@@ -3,6 +3,8 @@ title: Dear Group Leader
 published: true
 ---
 
+{% include metadata %}
+
 # Dear Facilitator
 
 We’ve developed this guide to help you run a Bettercare learning programme in a study group.

@@ -3,6 +3,8 @@ title: Quiz 9. HIV infection
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 9: HIV infection
 
 1.	What is AIDS?

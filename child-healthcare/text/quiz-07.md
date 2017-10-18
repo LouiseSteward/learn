@@ -3,6 +3,8 @@ title: Quiz 7. Lower respiratory tract conditions
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 7: Lower respiratory tract conditions
 
 1.	What is a sign of breathing difficulty?

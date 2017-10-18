@@ -3,6 +3,8 @@ title: Quiz 4. HIV in mother and baby
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: HIV in mother and baby
 
 Please choose the **one**, most correct answer to each question or statement.

@@ -3,6 +3,8 @@ title: Quiz 6. Treatment of breast cancer
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 6: Treatment of breast cancer
 
 1.	What is the aim of breast cancer treatment?

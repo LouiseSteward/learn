@@ -3,6 +3,8 @@ title: Quiz 2. Micro-organisms of relevance to infection prevention and control
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 2: Micro-organisms of relevance to infection prevention and control
 
 1.	Micro-organisms are:

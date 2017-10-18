@@ -3,6 +3,8 @@ title: Quiz 5. Management of important problems
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5: Management of important problems
 
 Please choose the one most correct answer to each question or statement.

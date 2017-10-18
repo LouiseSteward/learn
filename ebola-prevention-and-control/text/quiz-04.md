@@ -3,6 +3,8 @@ title: Quiz 4. Support Services and Documentation
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Support Services and Documentation
 
 1.	What are healthcare support services?

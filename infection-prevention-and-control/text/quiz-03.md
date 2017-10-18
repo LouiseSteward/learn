@@ -3,6 +3,8 @@ title: Quiz 3. Risk assessment and risk management in IPC
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Risk assessment and risk management in IPC 
 
 1.	Risk assessment:

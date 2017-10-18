@@ -2,6 +2,8 @@
 title: Other organisations
 ---
 
+{% include metadata %}
+
 # Other organisations
 
 Organisations associated with awareness and education but not necessarily support of survivors.

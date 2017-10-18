@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 We acknowledge all the participants of Primary Newborn Care courses who have made suggestions and offered constructive criticism. It is only through constant feedback from colleagues and participants that the content of Perinatal Education Programme courses can be improved.

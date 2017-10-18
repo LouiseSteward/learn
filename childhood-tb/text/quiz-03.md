@@ -3,6 +3,8 @@ title: Quiz 3. Diagnosis of childhood tuberculosis
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Diagnosis of childhood tuberculosis
 
 Please choose the one most correct answer to each question or statement.

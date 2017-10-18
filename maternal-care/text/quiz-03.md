@@ -3,6 +3,8 @@ title: Quiz 3. Hypertensive disorders of pregnancy
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Hypertensive disorders of pregnancy
 
 Please choose the one most correct answer to each question or statement.

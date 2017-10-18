@@ -2,6 +2,8 @@
 title: Support groups in South Africa
 ---
 
+{% include metadata %}
+
 # Support groups in South Africa
 
 ## Contents

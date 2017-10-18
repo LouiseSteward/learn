@@ -3,6 +3,8 @@ title: Quiz 5. Baby friendly care
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5: Baby friendly care
 
 1.	What is baby friendly care?

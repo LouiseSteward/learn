@@ -2,6 +2,8 @@
 title: Recipes and diets
 ---
 
+{% include metadata %}
+
 # Recipes and diets
 
 ## Contents

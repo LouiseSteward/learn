@@ -3,6 +3,8 @@ title: Quiz 10. Childhood infections
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 10: Childhood infections
 
 1.	What are the first clinical sign in the presentation of measles?

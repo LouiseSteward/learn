@@ -3,6 +3,8 @@ title: Quiz 1. HIV infection
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: HIV infection
 
 1.	HIV is a:

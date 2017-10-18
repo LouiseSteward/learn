@@ -18,4 +18,4 @@ with the Desmond Tutu Tuberculosis Centre
 Updated by Brian Eley
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}

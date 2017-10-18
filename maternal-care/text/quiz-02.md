@@ -3,6 +3,8 @@ title: Quiz 2. Assessment of fetal growth and condition during pregnancy
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 2: Assessment of fetal growth and condition during pregnancy
 
 Please choose the one most correct answer to each question or statement.

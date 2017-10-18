@@ -3,6 +3,8 @@ title: Quiz 1. History and examination
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: History and examination
 
 1.	What is the first step in the general examination of a child?

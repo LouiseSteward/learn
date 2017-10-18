@@ -3,6 +3,8 @@ title: Quiz 3. Making referrals for maternal mental illness
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Making referrals for maternal mental illness
  
 1.	What is a referral?

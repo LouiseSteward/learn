@@ -3,6 +3,8 @@ title: Quiz 3. Exclusive breastfeeding
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Exclusive breastfeeding
 
 Please choose the **one**, most correct answer to each question or statement.

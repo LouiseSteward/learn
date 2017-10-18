@@ -3,6 +3,8 @@ title: Quiz 4. Benign changes of the breast
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Benign changes of the breast
 
 1.	What does ANDI stand for?

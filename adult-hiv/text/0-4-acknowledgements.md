@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 I wish to gratefully acknowledge the contributions made by many medical and nursing colleagues in South Africa to the Adult HIV Education Programme, which is presented in this book form as *Adult HIV: What health professionals need to know*. In particular I would like to recognise Ms Felicity Cope, who played a major role in collecting the required training material, and Dr Catherine Orrell, who identified what was important and relevant to the care of adults with HIV infection. Subsequent revisions have been managed by Dr Richard Kaplan.

@@ -3,6 +3,8 @@ title: Quiz 6. Upper respiratory tract conditions
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 6: Upper respiratory tract conditions
 
 1.	The upper respiratory tract includes the:
