@@ -1,11 +1,11 @@
 ---
-title: Test 1. Failure to breathe at birth and resuscitation
+title: Quiz 1. Failure to breathe at birth and resuscitation
 style: test
 ---
 
 Please choose the *one*, most correct answer to each question or statement.
 
-## Test 1: Failure to breathe at birth and resuscitation
+## Quiz 1: Failure to breathe at birth and resuscitation
 
 1.	How many infants breathe well at birth?
 	-	50%

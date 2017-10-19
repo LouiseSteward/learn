@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-### Test 1: Antenatal care
+### Quiz 1: Antenatal care
 
 1.	c (1-4)
 2.	b (1-5)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c (1-66)
 20.	b (1-69)
 
-### Test 2: Assessment of fetal growth and condition during pregnancy
+### Quiz 2: Assessment of fetal growth and condition during pregnancy
 
 1.	b (2-5)
 2.	b (2-7)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a (2-37)
 20.	a (2-39)
 
-### Test 3: Hypertensive disorders of pregnancy
+### Quiz 3: Hypertensive disorders of pregnancy
 
 1.	b (3-2)
 2.	b (3-3)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a (3-34)
 20.	c (3-38)
 
-### Test 4: Antepartum haemorrhage
+### Quiz 4: Antepartum haemorrhage
 
 1.	c (4-1)
 2.	d (4-2)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (4-47)
 20.	d (4-48)
 
-### Test 5: Preterm labour and preterm rupture of the membranes
+### Quiz 5: Preterm labour and preterm rupture of the membranes
 
 1.	c (5-1)
 2.	c (5-2)
@@ -122,7 +124,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a (5-41)
 20.	c (5-42)
 
-### Test 6: Monitoring the mother during the first stage of labour
+### Quiz 6: Monitoring the mother during the first stage of labour
 
 1.	d (6-6)
 2.	a (6-6)
@@ -145,7 +147,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (6-50)
 20.	c (6-53)
 
-### Test 7: Monitoring the fetus during the first stage of labour
+### Quiz 7: Monitoring the fetus during the first stage of labour
 
 1.	a (7-3)
 2.	a (7-4)
@@ -168,7 +170,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a (7-36)
 20.	a (7-37)
 
-### Test 8: Monitoring and management of the first stage of labour
+### Quiz 8: Monitoring and management of the first stage of labour
 
 1.	c (8-2)
 2.	b (8-8)
@@ -191,7 +193,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a (8-43)
 20.	a (8-45)
 
-### Test 9: The second stage of labour
+### Quiz 9: The second stage of labour
 
 1.	b (9-1)
 2.	d (9-2)
@@ -214,7 +216,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (9–25)
 20.	d (9-26)
 
-### Test 10: Managing pain during labour
+### Quiz 10: Managing pain during labour
 
 1.	a (10-1)
 2.	c (10-2)
@@ -237,7 +239,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (10-29)
 20.	b (10-34)
 
-### Test 11: The third stage of labour
+### Quiz 11: The third stage of labour
 
 1.	c (11-1)
 2.	a (11-4)
@@ -260,7 +262,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c (11-39)
 20.	a (11-41)
 
-### Test 12: The puerperium
+### Quiz 12: The puerperium
 
 1.	b (12-1)
 2.	b (12-4)
@@ -283,7 +285,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (12-42)
 20.	a (12-45)
 
-### Test 13: Medical problems during pregnancy and the puerperium
+### Quiz 13: Medical problems during pregnancy and the puerperium
 
 1.	c (13-3)
 2.	b (13-4)
@@ -306,7 +308,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b (13-34)
 20.	c (13-39)
 
-### Test 14: Family planning after pregnancy
+### Quiz 14: Family planning after pregnancy
 
 1.	b (14-1)
 2.	a (14-1)
@@ -329,7 +331,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c (14-12)
 20.	c (14-14)
 
-### Test 15: Regionalised perinatal care
+### Quiz 15: Regionalised perinatal care
 
 1.	c (15-1)
 2.	c (15-2)

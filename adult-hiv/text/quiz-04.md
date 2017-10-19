@@ -1,9 +1,11 @@
 ---
-title: Test 4. Antiretroviral drugs
+title: Quiz 4. Antiretroviral drugs
 style: test
 ---
 
-# Test 4: Antiretroviral drugs
+{% include metadata %}
+
+# Quiz 4: Antiretroviral drugs
 
 1.	Which is one of the main current goals of antiretroviral treatment?
 	+	To suppress the viral load

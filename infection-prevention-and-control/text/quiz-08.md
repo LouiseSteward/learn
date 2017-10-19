@@ -1,9 +1,11 @@
 ---
-title: Test 8. Tuberculosis infection prevention and control
+title: Quiz 8. Tuberculosis infection prevention and control
 style: test
 ---
 
-# Test 8: Tuberculosis infection prevention and control
+{% include metadata %}
+
+# Quiz 8: Tuberculosis infection prevention and control
 
 1.	Tuberculosis is caused by the bacteria Mycobacterium tuberculosis which is transmitted by:
 	+	Airborne route

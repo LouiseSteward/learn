@@ -2,6 +2,8 @@
 title: Introduction
 ---
 
+{% include metadata %}
+
 # Introduction
 
 There are approximately 4 million stillbirths and 4 million deaths in the first week of life worldwide each year. Most fresh stillbirths and many of these early neonatal deaths are caused by the fetus receiving too little oxygen during labour. These infants have usually grown well and thrived during pregnancy, only to die or suffer serious brain damage during the few hours of labour. The aim of fetal monitoring during labour is to identify these infants as soon as they start to become stressed due to insufficient oxygen, so that labour and delivery can be actively managed in order to deliver a healthy infant. 

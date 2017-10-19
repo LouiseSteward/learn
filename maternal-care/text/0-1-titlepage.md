@@ -12,4 +12,4 @@ A health professional's guide to pregnancy and childbirth
 Developed by the Perinatal Education Programme
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}

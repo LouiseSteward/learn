@@ -1,9 +1,11 @@
 ---
-title: Test 4. Vaginal bleeding
+title: Quiz 4. Vaginal bleeding
 style: test
 ---
 
-# Test 4: Vaginal bleeding
+{% include metadata %}
+
+# Quiz 4: Vaginal bleeding
 
 1.	What is menopause?
 	-	The first menstruation in a young girl

@@ -1,9 +1,11 @@
 ---
-title: Test 1. Introduction to perinatal HIV
+title: Quiz 1. Introduction to perinatal HIV
 style: test
 ---
 
-# Test 1: Introduction to perinatal HIV
+{% include metadata %}
+
+# Quiz 1: Introduction to perinatal HIV
 
 1.	What is HIV?
 	+	A retrovirus

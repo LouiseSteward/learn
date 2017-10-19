@@ -1,9 +1,11 @@
 ---
-title: Test 2. Patient management
+title: Quiz 2. Patient management
 style: test
 ---
 
-# Test 2: Patient management
+{% include metadata %}
+
+# Quiz 2: Patient management
 
 1.	What is an Ebola outbreak?
 	-	A common rash seen with Ebola

@@ -1,9 +1,11 @@
 ---
-title: Test 4. Antiretroviral drugs
+title: Quiz 4. Antiretroviral drugs
 style: test
 ---
 
-# Test 4: Antiretroviral drugs
+{% include metadata %}
+
+# Quiz 4: Antiretroviral drugs
 
 Please choose the one most correct answer to each question or statement
 

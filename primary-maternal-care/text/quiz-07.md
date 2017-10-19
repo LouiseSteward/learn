@@ -1,9 +1,11 @@
 ---
-title: Test 7. Medical problems during pregnancy and the puerperium
+title: Quiz 7. Medical problems during pregnancy and the puerperium
 style: test
 ---
 
-# Test 7: Medical problems during pregnancy and the puerperium
+{% include metadata %}
+
+# Quiz 7: Medical problems during pregnancy and the puerperium
 
 Please choose the one most correct answer to each question or statement.
 

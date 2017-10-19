@@ -1,9 +1,11 @@
 ---
-title: Test 2. Family planning and infertility
+title: Quiz 2. Family planning and infertility
 style: test
 ---
 
-# Test 2: Family planning and infertility
+{% include metadata %}
+
+# Quiz 2: Family planning and infertility
 
 1.	What is family planning?
 	-	Having a planned pregnancy

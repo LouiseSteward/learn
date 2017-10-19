@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: HIV infection
+## Quiz 1: HIV infection
 
 1.	d	(1-1)
 2.	b	(1-5)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(1-56)
 20.	b	(1-57)
 
-## Test 2: Managing people with HIV infection
+## Quiz 2: Managing people with HIV infection
 
 1.	d	(2-3)
 2.	c	(2-5)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(2-59)
 20.	c	(2-61)
 
-## Test 3: Preparation for antiretroviral treatment
+## Quiz 3: Preparation for antiretroviral treatment
 
 1.	b	(3-1)
 2.	d	(3-2)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(3-43)
 20.	b	(3-44)
 
-## Test 4: Antiretroviral drugs
+## Quiz 4: Antiretroviral drugs
 
 1.	a	(4-3)
 2.	b	(4-5)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(4-48)
 20.	a	(4-58)
 
-## Test 5: Management of patients on anti­retroviral treatment
+## Quiz 5: Management of patients on anti­retroviral treatment
 
 1.	c	(5-6)
 2.	c	(5-7)
@@ -122,7 +124,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(5-74)
 20.	d	(5-75)
 
-## Test 6: HIV-associated infections
+## Quiz 6: HIV-associated infections
 
 1.	b	(6-2)
 2.	c	(6-4)

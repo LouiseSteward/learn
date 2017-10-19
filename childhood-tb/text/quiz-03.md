@@ -1,9 +1,11 @@
 ---
-title: Test 3. Diagnosis of childhood tuberculosis
+title: Quiz 3. Diagnosis of childhood tuberculosis
 style: test
 ---
 
-# Test 3: Diagnosis of childhood tuberculosis
+{% include metadata %}
+
+# Quiz 3: Diagnosis of childhood tuberculosis
 
 Please choose the one most correct answer to each question or statement.
 

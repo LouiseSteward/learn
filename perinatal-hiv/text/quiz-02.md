@@ -1,9 +1,11 @@
 ---
-title: Test 2. HIV in pregnancy
+title: Quiz 2. HIV in pregnancy
 style: test
 ---
 
-# Test 2: HIV in pregnancy
+{% include metadata %}
+
+# Quiz 2: HIV in pregnancy
 
 1.	What percentage of pregnant women in South Africa are infected with HIV?
 	-	Less than 5%

@@ -1,9 +1,11 @@
 ---
-title: Test 12. The puerperium
+title: Quiz 12. The puerperium
 style: test
 ---
 
-# Test 12: The puerperium
+{% include metadata %}
+
+# Quiz 12: The puerperium
 
 Please choose the one most correct answer to each question or statement.
 

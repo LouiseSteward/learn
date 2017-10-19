@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Introduction to perinatal HIV
+## Quiz 1: Introduction to perinatal HIV
 
 1.	a	(1-2)
 2.	a	(1-4)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(1-34)
 20.	b	(1-36)
 
-## Test 2: HIV in pregnancy
+## Quiz 2: HIV in pregnancy
 
 1.	c	(2-1)
 2.	d	(2-3)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(2-41)
 20.	b	(2-48)
 
-## Test 3: HIV during labour and delivery
+## Quiz 3: HIV during labour and delivery
 
 1.	b	(3-2)
 2.	a	(3-3)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(3-25)
 20.	c	(3-29)
 
-## Test 4: HIV in the newborn infant
+## Quiz 4: HIV in the newborn infant
 
 1.	c	(4-1)
 2.	d	(4-2)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(4-38)
 20.	d	(4-40)
 
-## Test 5: HIV and counselling
+## Quiz 5: HIV and counselling
 
 1.	c	(5-1)
 2.	b	(5-5)

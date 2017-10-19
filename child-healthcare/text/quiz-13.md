@@ -1,9 +1,11 @@
 ---
-title: Test 13. Serious illnesses
+title: Quiz 13. Serious illnesses
 style: test
 ---
 
-# Test 13: Serious illnesses
+{% include metadata %}
+
+# Quiz 13: Serious illnesses
 
 1.	Acute rheumatic fever usually follows:
 	+	Pharyngitis.

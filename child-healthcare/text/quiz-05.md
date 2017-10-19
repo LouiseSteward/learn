@@ -1,9 +1,11 @@
 ---
-title: Test 5. Diarrhoea
+title: Quiz 5. Diarrhoea
 style: test
 ---
 
-# Test 5: Diarrhoea
+{% include metadata %}
+
+# Quiz 5: Diarrhoea
 
 1.	Diarrhoea is diagnosed when:
 	-	Stools are passed every day.

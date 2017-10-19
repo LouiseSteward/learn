@@ -3,7 +3,9 @@ title: Acknowledgements
 style: frontmatter
 ---
 
-#Acknowledgements
+{% include metadata %}
+
+# Acknowledgements
 
 ## Produced by
 

@@ -1,9 +1,11 @@
 ---
-title: Test 1. The normal breast
+title: Quiz 1. The normal breast
 style: test
 ---
 
-# Test 1: The normal breast
+{% include metadata %}
+
+# Quiz 1: The normal breast
 
 1.	What is the breast line?
 	+	A line from the armpit to the groin where breasts can develop

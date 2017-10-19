@@ -1,9 +1,11 @@
 ---
-title: Test 6. The puerperium and family planning
+title: Quiz 6. The puerperium and family planning
 style: test
 ---
 
-# Test 6: The puerperium and family planning
+{% include metadata %}
+
+# Quiz 6: The puerperium and family planning
 
 Please choose the one most correct answer to each question or statement.
 

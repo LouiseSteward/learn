@@ -1,9 +1,11 @@
 ---
-title: Test 6. HIV-associated infections
+title: Quiz 6. HIV-associated infections
 style: test
 ---
 
-# Test 6: HIV-associated infections
+{% include metadata %}
+
+# Quiz 6: HIV-associated infections
 
 1.	Which is a common HIV-associated infection?
 	-	Chicken pox

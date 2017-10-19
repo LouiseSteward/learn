@@ -1,9 +1,11 @@
 ---
-title: Test 10. Managing pain during labour
+title: Quiz 10. Managing pain during labour
 style: test
 ---
 
-# Test 10: Managing pain during labour
+{% include metadata %}
+
+# Quiz 10: Managing pain during labour
 
 Please choose the one most correct answer to each question or statement.
 

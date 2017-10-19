@@ -1,9 +1,11 @@
 ---
-title: Test 1. Introduction to maternal and perinatal mortality
+title: Quiz 1. Introduction to maternal and perinatal mortality
 style: test
 ---
 
-# Test 1: Introduction to maternal and perinatal mortality
+{% include metadata %}
+
+# Quiz 1: Introduction to maternal and perinatal mortality
 
 1.	What is the meaning of mortality rate?
 	-	The commonest causes of death.

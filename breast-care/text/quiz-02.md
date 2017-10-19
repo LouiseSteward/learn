@@ -1,9 +1,11 @@
 ---
-title: Test 2. Clinical assessment of the breast
+title: Quiz 2. Clinical assessment of the breast
 style: test
 ---
 
-# Test 2: Clinical assessment of the breast
+{% include metadata %}
+
+# Quiz 2: Clinical assessment of the breast
 
 1.	Clinical assessment of a woman’s breasts consists of:
 	-	Taking a good history only

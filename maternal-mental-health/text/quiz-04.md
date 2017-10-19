@@ -1,9 +1,11 @@
 ---
-title: Test 4. How to help mothers with mental health problems
+title: Quiz 4. How to help mothers with mental health problems
 style: test
 ---
 
-# Test 4: How to help mothers with mental health problems
+{% include metadata %}
+
+# Quiz 4: How to help mothers with mental health problems
  
 1.	Why is the time around pregnancy particularly stressful?
 	-	It is a natural thing so it is not stressful

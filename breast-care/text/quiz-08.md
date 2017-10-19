@@ -1,9 +1,11 @@
 ---
-title: Test 8. Palliative care
+title: Quiz 8. Palliative care
 style: test
 ---
 
-# Test 8: Palliative care
+{% include metadata %}
+
+# Quiz 8: Palliative care
 
 1.	What is palliative care?
 	-	Primary care provided at a local clinic

@@ -3,5 +3,7 @@ title: Test
 style: test
 ---
 
-# Test 1: Chapter title
+{% include metadata %}
+
+# Quiz 1: Chapter title
 

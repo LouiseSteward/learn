@@ -3,6 +3,8 @@ title: Quiz 6. Managing pain during labour
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 6: Managing pain during labour
 
 Please choose the one most correct answer to each question or statement.

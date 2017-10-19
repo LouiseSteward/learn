@@ -15,4 +15,4 @@ Developed by the Perinatal Education Programme
 Edited by Prof David Woods
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}

@@ -1,9 +1,11 @@
 ---
-title: Test 4. Support Services and Documentation
+title: Quiz 4. Support Services and Documentation
 style: test
 ---
 
-# Test 4: Support Services and Documentation
+{% include metadata %}
+
+# Quiz 4: Support Services and Documentation
 
 1.	What are healthcare support services?
 	-	The services that find adequate funding to pay healthcare staff

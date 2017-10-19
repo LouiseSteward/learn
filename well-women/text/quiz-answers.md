@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1:Reproductive health
+## Quiz 1:Reproductive health
 
 1.	c	(1-3)
 2.	c	(1-5)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(1-36)
 20.	c	(1-39)
 
-## Test 2: Family planning and infertility
+## Quiz 2: Family planning and infertility
 
 1.	d	(2-1)
 2.	a	(2-3)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(2-42)
 20.	c	(2-48)
 
-## Test 3: Common genital and urinary infections
+## Quiz 3: Common genital and urinary infections
 
 1.	c	(3-1)
 2.	a	(3-3)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(3-47)
 20.	b	(3-51)
 
-## Test 4: Vaginal bleeding
+## Quiz 4: Vaginal bleeding
 
 1.	c	(4-4)
 2.	d	(4-7)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(4-24)
 20.	d	(4-23)
 
-## Test 5: Abuse of women
+## Quiz 5: Abuse of women
 
 1.	d	(5-1)
 2.	a	(5-2)

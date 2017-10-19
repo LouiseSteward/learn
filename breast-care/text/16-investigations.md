@@ -2,6 +2,8 @@
 title: Investigations
 ---
 
+{% include metadata %}
+
 # Investigations
 
 <table style="width:100%;">

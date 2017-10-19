@@ -3,6 +3,8 @@ title: Checklists
 published: true
 ---
 
+{% include metadata %}
+
 # Checklists
 
 ## Contents

@@ -1,9 +1,9 @@
 ---
-title: Test 3. The routine care of normal infants
+title: Quiz 3. The routine care of normal infants
 style: test
 ---
 
-## Test 3: The routine care of normal infants
+## Quiz 3: The routine care of normal infants
 
 1.	What is a normal infant?
 	-	An infant that weighs more than 2000 g.

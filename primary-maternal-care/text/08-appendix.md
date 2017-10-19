@@ -2,6 +2,8 @@
 title: Appendix
 ---
 
+{% include metadata %}
+
 # Appendix
 
 ## Contents

@@ -1,13 +1,15 @@
 ---
-title: Test
+title: Quiz
 style: answers
 ---
+
+{% include metadata %}
 
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-### Test 1: Antenatal care
+### Quiz 1: Antenatal care
 
 1.	c	(1-3)
 2.	b	(1-6)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(1-46)
 20.	c	(1-51)
 
-### Test 2: Assessment of fetal growth and condition during pregnancy
+### Quiz 2: Assessment of fetal growth and condition during pregnancy
 
 1.	b	(2-5)
 2.	b	(2-7)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(2-37)
 20.	a	(2-39)
 
-### Test 3: Hypertensive disorders of pregnancy
+### Quiz 3: Hypertensive disorders of pregnancy
 
 1.	b	(3-2)
 2.	b	(3-3)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(3-34)
 20.	c	(3-38)
 
-### Test 4: Antepartum haemorrhage
+### Quiz 4: Antepartum haemorrhage
 
 1.	c	(4-1)
 2.	d	(4-2)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(4-47)
 20.	d	(4-48)
 
-### Test 5: Preterm labour and preterm rupture of the membranes
+### Quiz 5: Preterm labour and preterm rupture of the membranes
 
 1.	c	(5-1)
 2.	c	(5-2)
@@ -122,7 +124,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(5-28)
 20.	d	(5-44)
 
-### Test 6: The puerperium and family planning
+### Quiz 6: The puerperium and family planning
 
 1.	d	(6-4)
 2.	a	(6-4)
@@ -145,7 +147,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(6-56)
 20.	c	(6-58)
 
-### Test 7: Medical problems during pregnancy and the puerperium
+### Quiz 7: Medical problems during pregnancy and the puerperium
 
 1.	c	(7-3)
 2.	b	(7-4)

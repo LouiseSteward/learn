@@ -1,9 +1,11 @@
 ---
-title: Test 4. Emergency management of infants
+title: Quiz 4. Emergency management of infants
 style: test
 ---
 
-# Test 4: Emergency management of infants
+{% include metadata %}
+
+# Quiz 4: Emergency management of infants
 
 Please choose the one most correct answer to each question or statement.
 

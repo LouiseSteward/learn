@@ -1,9 +1,11 @@
 ---
-title: Test 14. Home and society
+title: Quiz 14. Home and society
 style: test
 ---
 
-# Test 14: Home and society
+{% include metadata %}
+
+# Quiz 14: Home and society
 
 1.	How important are the rights of children when considering child health?
 	-	Not important as the provision of health care has nothing to do with rights.

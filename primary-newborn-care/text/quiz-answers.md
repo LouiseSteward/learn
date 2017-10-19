@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-### Test 1: Care of infants at birth
+### Quiz 1: Care of infants at birth
 
 1.	a	(1-2)
 2.	b	(1-3)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(1-54)
 20.	c	(1-55)
 
-### Test 2: Care of normal infants
+### Quiz 2: Care of normal infants
 
 1.	a	(2-1)
 2.	c	(2-2)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(2-58)
 20.	d	(2-59)
 
-### Test 3: Care of low-birth-weight infants
+### Quiz 3: Care of low-birth-weight infants
 
 1.	b	(3-1)
 2.	c	(3-4)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(3-36)
 20.	c	(3-37)
 
-### Test 4: Emergency management of infants
+### Quiz 4: Emergency management of infants
 
 1.	c	(4-3)
 2.	b	(4-4)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(4-49)
 20. c   (4-56)
 
-### Test 5: Management of important problems
+### Quiz 5: Management of important problems
 
 1.	b	(5-4)
 2.	d	(5-9)

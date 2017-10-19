@@ -1,9 +1,11 @@
 ---
-title: Test 9. Antimicrobial stewardship
+title: Quiz 9. Antimicrobial stewardship
 style: test
 ---
 
-# Test 9: Antimicrobial stewardship 
+{% include metadata %}
+
+# Quiz 9: Antimicrobial stewardship 
 
 1.	Antimicrobial resistance is:
 	-	The ability of pathogens to multiply under difficult circumstances

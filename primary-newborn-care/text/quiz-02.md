@@ -1,9 +1,11 @@
 ---
-title: Test 2. Care of normal infants
+title: Quiz 2. Care of normal infants
 style: test
 ---
 
-# Test 2: Care of normal infants
+{% include metadata %}
+
+# Quiz 2: Care of normal infants
 
 Please choose the one most correct answer to each question or statement.
 

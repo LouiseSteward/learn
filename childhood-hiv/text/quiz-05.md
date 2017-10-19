@@ -1,9 +1,11 @@
 ---
-title: Test 5. Management of children with antiretroviral treatment
+title: Quiz 5. Management of children with antiretroviral treatment
 style: test
 ---
 
-# Test 5: Management of children with antiretroviral treatment
+{% include metadata %}
+
+# Quiz 5: Management of children with antiretroviral treatment
 
 Please choose the one most correct answer to each question or statement
 

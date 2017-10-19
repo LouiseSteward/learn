@@ -1,9 +1,9 @@
 ---
-title: Test 7. Temperature control and hypothermia
+title: Quiz 7. Temperature control and hypothermia
 style: test
 ---
 
-## Test 7: Temperature control and hypothermia
+## Quiz 7: Temperature control and hypothermia
 
 1.	The body temperature of a newborn infant should be measured by placing a digital thermometer:
 	-	In the mouth

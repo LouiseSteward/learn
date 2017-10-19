@@ -1,9 +1,11 @@
 ---
-title: Test 2. Clinical presentation of childhood tuberculosis
+title: Quiz 2. Clinical presentation of childhood tuberculosis
 style: test
 ---
 
-# Test 2: Clinical presentation of childhood tuberculosis
+{% include metadata %}
+
+# Quiz 2: Clinical presentation of childhood tuberculosis
 
 Please choose the one most correct answer to each question or statement.
 

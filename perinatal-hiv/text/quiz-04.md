@@ -1,9 +1,11 @@
 ---
-title: Test 4. HIV in the newborn infant
+title: Quiz 4. HIV in the newborn infant
 style: test
 ---
 
-# Test 4: HIV in the newborn infant
+{% include metadata %}
+
+# Quiz 4: HIV in the newborn infant
 
 1.	How may HIV be transmitted from a woman to her newborn infant?
 	-	By touching the infant

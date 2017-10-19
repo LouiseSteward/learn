@@ -1,9 +1,11 @@
 ---
-title: Test 7. Monitoring the condition of the fetus during the first stage of labour
+title: Quiz 7. Monitoring the condition of the fetus during the first stage of labour
 style: test
 ---
 
-# Test 7: Monitoring the condition of the fetus during the first stage of labour
+{% include metadata %}
+
+# Quiz 7: Monitoring the condition of the fetus during the first stage of labour
 
 Please choose the one most correct answer to each question or statement.
 

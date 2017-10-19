@@ -1,9 +1,11 @@
 ---
-title: Test 2. Clinical and immunological diagnosis of HIV infection
+title: Quiz 2. Clinical and immunological diagnosis of HIV infection
 style: test
 ---
 
-# Test 2: Clinical and immunological diagnosis of HIV infection
+{% include metadata %}
+
+# Quiz 2: Clinical and immunological diagnosis of HIV infection
 
 Please choose the one most correct answer to each question or statement
 

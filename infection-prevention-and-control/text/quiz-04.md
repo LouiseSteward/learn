@@ -1,9 +1,11 @@
 ---
-title: Test 4. Hand hygiene
+title: Quiz 4. Hand hygiene
 style: test
 ---
 
-# Test 4: Hand hygiene
+{% include metadata %}
+
+# Quiz 4: Hand hygiene
 
 1.	Which is the most common mode of infection transmission in healthcare settings?
 	+	Via hands

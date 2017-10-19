@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Virology and Epidemiology
+## Quiz 1: Virology and Epidemiology
 
 1.	b	(1-1)
 2.	a	(1-4)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(1-17)
 20.	d	(1-18)
 
-## Test 2: Patient management
+## Quiz 2: Patient management
 
 1.	c	(2-1)
 2.	b	(2-2)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(2-21)
 20.	d	(2-22)
 
-## Test 3: Protection of Healthcare workers
+## Quiz 3: Protection of Healthcare workers
 
 1.	d	(3-1)
 2.	a	(3-3)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(3-28)
 20.	a	(3-32)
 
-## Test 4: Support Services and Documentation
+## Quiz 4: Support Services and Documentation
 
 1.	b	(4-2)
 2.	a	(4-5)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(4-31)
 20.	d	(4-32)
 
-## Test 5: Communication and Community engagement 
+## Quiz 5: Communication and Community engagement 
 
 1.	a	(5-1)
 2.	c	(5-1)

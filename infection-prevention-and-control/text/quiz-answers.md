@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1:  Role and structure of infection prevention and control programmes
+## Quiz 1:  Role and structure of infection prevention and control programmes
 
 1.	b	(1-1)
 2.	a	(1-2)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(1-40)
 20.	c	(1-40)
 
-## Test 2: Micro-organisms of relevance to infection prevention and control
+## Quiz 2: Micro-organisms of relevance to infection prevention and control
 
 1.	d	(2-1)
 2.	a	(2-2)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(2-35)
 20.	c	(2-36)
 
-## Test 3: Risk assessment and risk management in IPC 
+## Quiz 3: Risk assessment and risk management in IPC 
 
 1.	b	(3-1)
 2.	a	(3-2)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(3-26)
 20.	c	(3-35)
 
-## Test 4: Hand hygiene
+## Quiz 4: Hand hygiene
 
 1.	a	(4-1)
 2.	d	(4-1)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(4-28)
 20.	b	(4-31)
 
-## Test 5:  Infection control considerations for healthcare facility design
+## Quiz 5:  Infection control considerations for healthcare facility design
 
 1.	b	(5-1)
 2.	a	(5-2)
@@ -122,7 +124,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(5-22)
 20.	b	(5-23)
 
-## Test 6: Environmental cleaning, waste management and decontamination of medical devices 
+## Quiz 6: Environmental cleaning, waste management and decontamination of medical devices 
 
 1.	a	(6-2)
 2.	d	(6-6)
@@ -145,7 +147,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(6-39)
 20.	d	(6-39)
 
-## Test 7: Surveillance and outbreak investigation
+## Quiz 7: Surveillance and outbreak investigation
 
 1.	a	(7-1)
 2.	b	(7-2)
@@ -168,7 +170,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(7-20)
 20.	b	(7-21)
 
-## Test 8: Tuberculosis infection prevention and control 
+## Quiz 8: Tuberculosis infection prevention and control 
 
 1.	a	(8-2)
 2.	c	(8-4)
@@ -191,7 +193,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(8-49)
 20.	c	(8-55)
 
-## Test 9: Antimicrobial stewardship
+## Quiz 9: Antimicrobial stewardship
 
 1.	c	(9-2)
 2.	d	(9-3)

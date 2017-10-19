@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: The normal breast
+## Quiz 1: The normal breast
 
 1.	a (1-1)
 2.	d (1-2)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b (1-29)
 20.	a (1-29)
 
-## Test 2: Clinical assessment of the breast
+## Quiz 2: Clinical assessment of the breast
 
 1.	c (2-1)
 2.	b (2-3)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (2-26)
 20.	a (2-27)
 
-## Test 3: Special investigations of the breast
+## Quiz 3: Special investigations of the breast
 
 1.	d (3-1)
 2.	b (3-2)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a (3-33)
 20.	c (3-38)
 
-## Test 4: Benign changes of the breast
+## Quiz 4: Benign changes of the breast
 
 1.	c (4-1)
 2.	d (4-5)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c (4-52)
 20.	d (4-64)
 
-## Test 5: Cancer of the breast
+## Quiz 5: Cancer of the breast
 
 1.	b (5-3)
 2.	a (5-4)
@@ -122,7 +124,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c (5-29)
 20.	d (5-29)
 
-## Test 6: Treatment of breast cancer
+## Quiz 6: Treatment of breast cancer
 
 1.	c (6-1)
 2.	a (6-4)
@@ -145,7 +147,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a (6-57)
 20.	a (6-58)
 
-## Test 7: Side effects of breast cancer treatment
+## Quiz 7: Side effects of breast cancer treatment
 
 1.	c (7-1)
 2.	b (7-2)
@@ -168,7 +170,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a (7-37)
 20.	c (7-38)
 
-## Test 8: Palliative care
+## Quiz 8: Palliative care
 
 1.	d (8-1)
 2.	a (8-2)

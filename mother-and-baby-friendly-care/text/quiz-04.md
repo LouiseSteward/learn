@@ -1,9 +1,11 @@
 ---
-title: Test 4. Practice of kangaroo mother care
+title: Quiz 4. Practice of kangaroo mother care
 style: test
 ---
 
-# Test 4: Practice of kangaroo mother care
+{% include metadata %}
+
+# Quiz 4: Practice of kangaroo mother care
 
 1.	What is a kangaroo mother care policy?
 	-	An exam that enables nurses to be registered as KMC specialists.

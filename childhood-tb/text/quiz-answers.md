@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-### Test 1: Introduction to childhood tuberculosis
+### Quiz 1: Introduction to childhood tuberculosis
 
 1.	b	(1-1)
 2.	c	(1-2)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(1-23)
 20.	b	(1-24)
 
-### Test 2: Clinical presentation of childhood tuberculosis
+### Quiz 2: Clinical presentation of childhood tuberculosis
 
 1.	a	(2-1)
 2.	a	(2-4)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(2-24)
 20.	d	(2-25)
 
-### Test 3: Diagnosis of childhood tuberculosis
+### Quiz 3: Diagnosis of childhood tuberculosis
 
 1.	b	(3-1)
 2.	b	(3-3)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(3-48)
 20.	d	(3-48)
 
-### Test 4: Management of childhood tuberculosis
+### Quiz 4: Management of childhood tuberculosis
 
 1.	d	(4-3)
 2.	a	(4-4)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(4-47)
 20.	a	(4-51)
 
-### Test 5: Preventing childhood tuberculosis
+### Quiz 5: Preventing childhood tuberculosis
 
 1.	b	(5-2)
 2.	d	(5-3)

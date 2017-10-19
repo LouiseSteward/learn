@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 *Intrapartum Care* has been edited from selected units of the Maternal Care manual of the Perinatal Education Programme. This learning programme for professionals is developed by the Perinatal Education Trust and funded by Eduhealthcare.

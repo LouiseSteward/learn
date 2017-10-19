@@ -1,9 +1,11 @@
 ---
-title: Test 5. Cancer of the breast
+title: Quiz 5. Cancer of the breast
 style: test
 ---
 
-# Test 5: Cancer of the breast
+{% include metadata %}
+
+# Quiz 5: Cancer of the breast
 
 1.	Where does breast cancer usually start?
 	-	In the lobes

@@ -1,9 +1,11 @@
 ---
-title: Test 3. Risk assessment and risk management in IPC 
+title: Quiz 3. Risk assessment and risk management in IPC 
 style: test
 ---
 
-# Test 3: Risk assessment and risk management in IPC 
+{% include metadata %}
+
+# Quiz 3: Risk assessment and risk management in IPC 
 
 1.	Risk assessment:
 	-	Is not required in the healthcare environment

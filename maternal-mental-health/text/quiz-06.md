@@ -1,9 +1,11 @@
 ---
-title: Test 6. Special social issues in maternal mental health
+title: Quiz 6. Special social issues in maternal mental health
 style: test
 ---
 
-# Test 6: Special social issues in maternal mental health
+{% include metadata %}
+
+# Quiz 6: Special social issues in maternal mental health
 
 1.	Poor women are more likely to have mental health problems because:
 	-	They are lazy

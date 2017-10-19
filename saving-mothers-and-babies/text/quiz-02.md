@@ -1,9 +1,11 @@
 ---
-title: Test 2. Maternal mortality
+title: Quiz 2. Maternal mortality
 style: test
 ---
 
-# Test 2: Maternal mortality
+{% include metadata %}
+
+# Quiz 2: Maternal mortality
 
 1.	The maternal mortality includes:
 	-	Only deaths during pregnancy.

@@ -2,6 +2,8 @@
 title: Introduction
 ---
 
+{% include metadata %}
+
 # Introduction
 
 ## Contents

@@ -1,9 +1,11 @@
 ---
-title: Test 1. HIV infection
+title: Quiz 1. HIV infection
 style: test
 ---
 
-# Test 1: HIV infection
+{% include metadata %}
+
+# Quiz 1: HIV infection
 
 1.	HIV is a:
 	-	Fungus

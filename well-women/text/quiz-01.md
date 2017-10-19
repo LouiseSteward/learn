@@ -1,9 +1,11 @@
 ---
-title: Test 1. Reproductive health
+title: Quiz 1. Reproductive health
 style: test
 ---
 
-# Test 1: Reproductive health
+{% include metadata %}
+
+# Quiz 1: Reproductive health
 
 1.	Which women have good sexual health?
 	-	Women who are free of sexually transmitted diseases

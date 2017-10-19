@@ -1,9 +1,11 @@
 ---
-title: Test 1. Virology and Epidemiology
+title: Quiz 1. Virology and Epidemiology
 style: test
 ---
 
-# Test 1: Virology and Epidemiology
+{% include metadata %}
+
+# Quiz 1: Virology and Epidemiology
 
 1.	What is Ebola?
 	-	A country in Central Africa

@@ -1,9 +1,11 @@
 ---
-title: Test 1. Mother friendly care during pregnancy
+title: Quiz 1. Mother friendly care during pregnancy
 style: test
 ---
 
-# Test 1: Mother friendly care during pregnancy
+{% include metadata %}
+
+# Quiz 1: Mother friendly care during pregnancy
 
 1.	What is mother friendly care during pregnancy?
 	-	Visits to the antenatal clinic as frequently as possible.

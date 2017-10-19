@@ -2,6 +2,8 @@
 title: Epilogue
 ---
 
+{% include metadata %}
+
 # Epilogue
 
 ## Contents

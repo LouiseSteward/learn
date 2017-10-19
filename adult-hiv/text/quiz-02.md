@@ -1,9 +1,11 @@
 ---
-title: Test 2. Managing people with HIV infection
+title: Quiz 2. Managing people with HIV infection
 style: test
 ---
 
-# Test 2: Managing people with HIV infection
+{% include metadata %}
+
+# Quiz 2: Managing people with HIV infection
 
 1.	Which of the following is dangerous to people with HIV infection?
 	-	Immunisation against hepatitis A and B

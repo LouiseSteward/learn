@@ -3,11 +3,13 @@ title: Answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Introduction to maternal and perinatal mortality
+## Quiz 1: Introduction to maternal and perinatal mortality
 
 1.	c	(1-2)
 2.	d	(1-6)
@@ -30,7 +32,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(1-45)
 20.	c	(1-46)
 
-## Test 2: Maternal mortality
+## Quiz 2: Maternal mortality
 
 1.	d	(2-1)
 2.	c	(2-2)
@@ -53,7 +55,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(2-42)
 20.	a	(2-43)
 
-## Test 3: Perinatal mortality
+## Quiz 3: Perinatal mortality
 
 1.	b	(3-2)
 2.	a	(3-3)
@@ -76,7 +78,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(3-53)
 20.	a	(3-54)
 
-## Test 4: Maternal and perinatal mortality audits
+## Quiz 4: Maternal and perinatal mortality audits
 
 1.	b	(4-2)
 2.	a	(4-8)
@@ -99,7 +101,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(4-37)
 20.	c	(4-38)
 
-## Test 5: Finding solutions to maternal and perinatal mortality
+## Quiz 5: Finding solutions to maternal and perinatal mortality
 
 1.	c	(5-1)
 2.	a	(5-3)

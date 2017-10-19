@@ -1,9 +1,11 @@
 ---
-title: Test 3. Preparation for antiretroviral treatment
+title: Quiz 3. Preparation for antiretroviral treatment
 style: test
 ---
 
-# Test 3: Preparation for antiretroviral treatment
+{% include metadata %}
+
+# Quiz 3: Preparation for antiretroviral treatment
 
 1.	When should antiretroviral treatment start?
 	-	When HIV infection is first diagnosed

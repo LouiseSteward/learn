@@ -1,9 +1,11 @@
 ---
-title: Test 15. Childhood mortality
+title: Quiz 15. Childhood mortality
 style: test
 ---
 
-# Test 15: Childhood mortality
+{% include metadata %}
+
+# Quiz 15: Childhood mortality
 
 1.	The under-5 mortality rate is expressed as the number of infants who die under the age of 5 years per:
 	-	100 live births.

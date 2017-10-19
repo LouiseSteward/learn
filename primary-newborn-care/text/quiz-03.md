@@ -1,9 +1,11 @@
 ---
-title: Test 3. Care of low-birth-weight infants
+title: Quiz 3. Care of low-birth-weight infants
 style: test
 ---
 
-# Test 3: Care of low-birth-weight infants
+{% include metadata %}
+
+# Quiz 3: Care of low-birth-weight infants
 
 Please choose the one most correct answer to each question or statement.
 

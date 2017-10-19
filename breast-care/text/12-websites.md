@@ -2,6 +2,8 @@
 title: Useful websites
 ---
 
+{% include metadata %}
+
 # Useful websites
 
 ## Contents

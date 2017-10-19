@@ -1,9 +1,11 @@
 ---
-title: Test 4. Benign changes of the breast
+title: Quiz 4. Benign changes of the breast
 style: test
 ---
 
-# Test 4: Benign changes of the breast
+{% include metadata %}
+
+# Quiz 4: Benign changes of the breast
 
 1.	What does ANDI stand for?
 	-	A new diagnostic investigation

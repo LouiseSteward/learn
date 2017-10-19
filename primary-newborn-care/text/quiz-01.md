@@ -1,9 +1,11 @@
 ---
-title: Test 1. Care of infants at birth
+title: Quiz 1. Care of infants at birth
 style: test
 ---
 
-# Test 1: Care of infants at birth
+{% include metadata %}
+
+# Quiz 1: Care of infants at birth
 
 Please choose the one most correct answer to each question or statement.
 

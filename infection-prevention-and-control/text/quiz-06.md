@@ -1,9 +1,11 @@
 ---
-title: Test 6. Environmental cleaning, waste management and decontamination of medical devices 
+title: Quiz 6. Environmental cleaning, waste management and decontamination of medical devices 
 style: test
 ---
 
-# Test 6: Environmental cleaning, waste management and decontamination of medical devices 
+{% include metadata %}
+
+# Quiz 6: Environmental cleaning, waste management and decontamination of medical devices 
 
 1.	Infection can be easily transmitted from:
 	+	Inadequately cleaned healthcare environments 

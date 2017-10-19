@@ -1,9 +1,11 @@
 ---
-title: Test 6. HIV-associated infections and end-of-life care
+title: Quiz 6. HIV-associated infections and end-of-life care
 style: test
 ---
 
-# Test 6: HIV-associated infections and end-of-life care
+{% include metadata %}
+
+# Quiz 6: HIV-associated infections and end-of-life care
 
 Please choose the one most correct answer to each question or statement
 
