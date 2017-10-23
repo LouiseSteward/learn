@@ -21,29 +21,29 @@
 // For instance, a .tighten class in HTML might apply to your bookshop edition, but not the schools edition.
 // A suffix '-schools-edn' would mean only tags with that suffix would apply to that edition, e.g. {:.tighten-schools-edn}
 // If you're only planning one edition and use default tags ({:.tighten} not {:.tighten-schools-edn}), leave as null.
-$edition-suffix: null !default;
+$edition-suffix: null;
 
 // First, we set several variables related to overall page setup.
-$page-width: 152mm !default;
-$page-height: 229mm !default;
-$margin-top: 20mm !default;
-$margin-bottom: 20mm !default;
-$margin-outside: 20mm !default;
-$margin-inside: 20mm !default;
-$bleed: 3mm !default;
-$trim: 3mm !default;
-$crop-marks: crop !default; // crop | none
+$page-width: 148mm;
+$page-height: 210mm;
+$margin-top: 20mm;
+$margin-bottom: 12mm;
+$margin-outside: 10mm;
+$margin-inside: 20mm;
+$bleed: 3mm;
+$trim: 3mm;
+$crop-marks: crop; // crop | none
 
 // Colours
-$colorspace: cmyk !default; // auto | none | rgb | cmyk | gray
-$color-text-main: cmyk(0,0,0,1) !default;
-$color-text-secondary: cmyk(0,0,0,0.8) !default;
-$color-background: white !default;
-$color-light: cmyk(0,0,0,0.2) !default;
-$color-mid: cmyk(0,0,0,0.4) !default;
-$color-accent: cmyk(0,0,0,1) !default;
-$color-links: inherit !default;
-$color-highlight: #ffd54d !default;
+$colorspace: cmyk; // auto | none | rgb | cmyk | gray
+$color-text-main: cmyk(0,0,0,1);
+$color-text-secondary: cmyk(0,0,0,0.8);
+$color-background: white;
+$color-light: cmyk(0,0,0,0.2);
+$color-mid: cmyk(0,0,0,0.4);
+$color-accent: cmyk(0,0,0,1);
+$color-links: inherit;
+$color-highlight: #ffd54d;
 
 // PDF file setup options
 // Options for pdf-profile: PDF/A-1b, PDF/A-3b, PDF/X-1a:2001, PDF/X-1a:2003, PDF/X-3:2002, PDF/X-3:2003, PDF/X-4
@@ -51,63 +51,63 @@ $color-highlight: #ffd54d !default;
 // - From eci.org: PSOcoated_v3.icc, PSOuncoated_v3_FOGRA52.icc
 // - From color.org: sRGB_v4_ICC_preference.icc, sRGB_v4_ICC_preference_displayclass.icc
 // Add other ICC profiles to /assets/profiles
-$pdf-profile: "PDF/X-1a:2001" !default;
-$color-profile: "PSOcoated_v3.icc" !default;
-$black-ink: true !default; // true or rich (true for pure black or rich for rich black)
+$pdf-profile: "PDF/X-1a:2001";
+$color-profile: "PSOcoated_v3.icc";
+$black-ink: true; // true or rich (true for pure black or rich for rich black)
 
 // We name font variables for two categories:
 // - 'text' fonts are used for body text and some page features;
 // - 'display' fonts are used for headings and similar short-string features.
 // For each category, we set a main font and a secondary font, allowing up to four fonts.
 // Finally, we set a fifth, monospace font for elements like computer code.
-$font-text-main: "Crimson", serif !default;
-$font-text-secondary: "Roboto Condensed", sans-serif !default;
-$font-display-main: "Roboto Condensed", sans-serif !default;
-$font-display-secondary: "Crimson", serif !default;
-$font-code: "Inconsolata", monospace !default;
+$font-text-main: "Crimson", serif;
+$font-text-secondary: "Source Sans Pro", sans-serif;
+$font-display-main: "Source Sans Pro", sans-serif;
+$font-display-secondary: "Crimson", serif;
+$font-code: "Inconsolata", monospace;
 
 // Finally, we set variables related to text flow.
-$font-size-default: 11pt !default;
-$line-height-default: 15pt !default; // Set in points. For consistent baselines, all other line heights and vertical spaces are based on this.
-$font-size-smaller: 0.8 !default; // How much smaller than font-size-default for features like sidenotes and footers?
-$font-size-bigger: 2 !default; // How many times bigger than font-size-default for features like headings and pullquotes? Use whole numbers to preserve baseline grid.
-$text-align: justify !default; // left or right or inside or outside or justify or center
-$orphans: 1 !default; // Minimum number of lines that must be left at the bottom of the first page
-$widows: 1 !default; // Minimum number of lines that must be left at the top of the second page
-$letter-spacing-text: 0em !default; // Default letter-spacing for p, ul, ol, dl. Set in ems, e.g. 0.01em for 10/1000s of an em.
+$font-size-default: 9.5pt;
+$line-height-default: 13pt; // Set in points. For consistent baselines, all other line heights and vertical spaces are based on this.
+$font-size-smaller: 0.8; // How much smaller than font-size-default for features like sidenotes and footers?
+$font-size-bigger: 2; // How many times bigger than font-size-default for features like headings and pullquotes? Use whole numbers to preserve baseline grid.
+$text-align: left; // left or right or inside or outside or justify or center
+$orphans: 2; // Minimum number of lines that must be left at the bottom of the first page
+$widows: 2; // Minimum number of lines that must be left at the top of the second page
+$letter-spacing-text: 0em; // Default letter-spacing for p, ul, ol, dl. Set in ems, e.g. 0.01em for 10/1000s of an em.
 
 // Do you want space between paragraphs, rather than a text-indent?
-$spaced-paras: false !default;
+$spaced-paras: false;
 
 // Buttons
-$button-border-radius: 0.1em !default; // Roundness of button corners.
+$button-border-radius: 0.1em; // Roundness of button corners.
 
 // Hyphenation
 // Variables here apply to p, ul, ol, dl
-$hyphenation: auto !default; // Can be auto, none, or manual (only breaks on hyphens and soft hyphens)
-$hyphenation-dictionary: "" !default; // Path to dictionary file, relative to `/book/styles`. E.g. "../../assets/hyph.dic". Overrides PrinceXML built-in hyphenation.
-$hyphenation-custom: add !default; // add or replace. Whether your dictionary adds to or replaces the built-in Prince dictionaries
-$hyphenate-after: 3 !default; // Minimum letters on new line after hyphen
-$hyphenate-before: 3 !default; // Minimum letters at end of line before hyphen
-$hyphenate-lines: 2 !default; // Preferred maximum number of consecutive lines ending with hyphens
+$hyphenation: manual; // Can be auto, none, or manual (only breaks on hyphens and soft hyphens)
+$hyphenation-dictionary: ""; // Path to dictionary file, relative to `/book/styles`. E.g. "../../assets/hyph.dic". Overrides PrinceXML built-in hyphenation.
+$hyphenation-custom: add; // add or replace. Whether your dictionary adds to or replaces the built-in Prince dictionaries
+$hyphenate-after: 3; // Minimum letters on new line after hyphen
+$hyphenate-before: 3; // Minimum letters at end of line before hyphen
+$hyphenate-lines: 2; // Preferred maximum number of consecutive lines ending with hyphens
 
 // Text dividers
 // For breaks created with *** in markdown.
-$text-divider: "" !default; // Empty leaves space. \2022 is a bullet
+$text-divider: ""; // Empty leaves space. \2022 is a bullet
 
 // Should chapters start on a right-hand page (recto) or on any page?
 // This setting applies to the frontmatter, dedication-page, epigraph-page and chapter page styles.
 // (The halftitle-page, title-page and contents-page page styles always start on a recto.)
-$start-on: right !default; // right or auto or left ()
+$start-on: auto; // right or auto or left ()
 
 // Set the default start-depth of pages.
 // This is the distance from the top of the page to the first element on the first page.
 // Set it in multiples of $line-height-default to preserve your baseline grid.
-$start-depth: $line-height-default * 6 !default;
+$start-depth: 0;
 
 // Style of page numbers on frontmatter pages
 // Remember to tag links to front matter pages in your TOC with {:.frontmatter-reference}
-$frontmatter-reference-style: lower-roman !default; // lower-roman, decimal, see http://www.princexml.com/doc/gen-content/#idp54010640
+$frontmatter-reference-style: decimal; // lower-roman, decimal, see http://www.princexml.com/doc/gen-content/#idp54010640
 
 // Set the content of headers and footers.
 //
@@ -126,57 +126,57 @@ $frontmatter-reference-style: lower-roman !default; // lower-roman, decimal, see
 // * For other special characters, see CSS (ISO) at https://brajeshwar.github.io/entities/
 
 // Verso (left-hand-page)
-$verso-top: string(page-header) !default;
-$verso-top-left: normal !default;
-$verso-top-right: normal !default;
-$verso-top-left-corner: normal !default;
-$verso-top-right-corner: normal !default;
-$verso-bottom: counter(page) !default;
-$verso-bottom-left: normal !default;
-$verso-bottom-right: normal !default;
-$verso-bottom-left-corner: normal !default;
-$verso-bottom-right-corner: normal !default;
+$verso-top: string(h1-title, last);
+$verso-top-left: counter(page);
+$verso-top-right: normal;
+$verso-top-left-corner: normal;
+$verso-top-right-corner: normal;
+$verso-bottom: normal;
+$verso-bottom-left: normal;
+$verso-bottom-right: normal;
+$verso-bottom-left-corner: normal;
+$verso-bottom-right-corner: normal;
 
 // Recto (right-hand-page)
-$recto-top: string(h2-text, last) !default;
-$recto-top-left: normal !default;
-$recto-top-right: normal !default;
-$recto-top-left-corner: normal !default;
-$recto-top-right-corner: normal !default;
-$recto-bottom: counter(page) !default;
-$recto-bottom-left: normal !default;
-$recto-bottom-right: normal !default;
-$recto-bottom-left-corner: normal !default;
-$recto-bottom-right-corner: normal !default;
+$recto-top: string(h2-text, last);
+$recto-top-left: normal;
+$recto-top-right: counter(page);
+$recto-top-left-corner: normal;
+$recto-top-right-corner: normal;
+$recto-bottom: normal;
+$recto-bottom-left: normal;
+$recto-bottom-right: normal;
+$recto-bottom-left-corner: normal;
+$recto-bottom-right-corner: normal;
 
 // Verso (left-hand-page) for .frontmatter pages (`style: frontmatter`)
-$verso-top-frontmatter: string(page-header) !default;
-$verso-top-left-frontmatter: normal !default;
-$verso-top-right-frontmatter: normal !default;
-$verso-top-left-corner-frontmatter: normal !default;
-$verso-top-right-corner-frontmatter: normal !default;
-$verso-bottom-frontmatter: counter(page, $frontmatter-reference-style) !default;
-$verso-bottom-left-frontmatter: normal !default;
-$verso-bottom-right-frontmatter: normal !default;
-$verso-bottom-left-corner-frontmatter: normal !default;
-$verso-bottom-right-corner-frontmatter: normal !default;
+$verso-top-frontmatter: string(h1-title, last);
+$verso-top-left-frontmatter: counter(page, $frontmatter-reference-style);
+$verso-top-right-frontmatter: normal;
+$verso-top-left-corner-frontmatter: normal;
+$verso-top-right-corner-frontmatter: normal;
+$verso-bottom-frontmatter: normal;
+$verso-bottom-left-frontmatter: normal;
+$verso-bottom-right-frontmatter: normal;
+$verso-bottom-left-corner-frontmatter: normal;
+$verso-bottom-right-corner-frontmatter: normal;
 
 // Recto (right-hand-page) for .frontmatter pages (`style: frontmatter`)
-$recto-top-frontmatter: string(h2-text, last) !default;
-$recto-top-left-frontmatter: normal !default;
-$recto-top-right-frontmatter: normal !default;
-$recto-top-left-corner-frontmatter: normal !default;
-$recto-top-right-corner-frontmatter: normal !default;
-$recto-bottom-frontmatter: counter(page, $frontmatter-reference-style) !default;
-$recto-bottom-left-frontmatter: normal !default;
-$recto-bottom-right-frontmatter: normal !default;
-$recto-bottom-left-corner-frontmatter: normal !default;
-$recto-bottom-right-corner-frontmatter: normal !default;
+$recto-top-frontmatter: string(h2-text, last);
+$recto-top-left-frontmatter: normal;
+$recto-top-right-frontmatter: counter(page, $frontmatter-reference-style);
+$recto-top-left-corner-frontmatter: normal;
+$recto-top-right-corner-frontmatter: normal;
+$recto-bottom-frontmatter: normal;
+$recto-bottom-left-frontmatter: normal;
+$recto-bottom-right-frontmatter: normal;
+$recto-bottom-left-corner-frontmatter: normal;
+$recto-bottom-right-corner-frontmatter: normal;
 
 // Special highlights for temporary debugging/viewing:
 // Specify a colour for highlighting; use 'inherit' for none.
-$highlight-tightened: inherit !default;
-$highlight-loosened: inherit !default;
+$highlight-tightened: inherit;
+$highlight-loosened: inherit;
 
 // ---------------------------------
 // Set to false to turn partials off
@@ -184,56 +184,158 @@ $highlight-loosened: inherit !default;
 
 // ---------------------
 // Reset PrinceXML CSS
-$print-css-reset: true !default;
+$print-css-reset: true;
 
 // --------------------------------------------
 // Page setup and control, avoid changing these
-$print-pdf-view: true !default; // Sets the default initial view on PDFs
-$print-page-setup: true !default; // Sets up the page from your variables
-$print-page-break-tools: true !default; // Provides classes for semantic page breaks
-$print-hide-non-printing: true !default; // Hides anything .non-printing
-$print-fitting: true !default; // Classes for floating, tracking, shrinking, etc.
-$print-hyphenation: true !default; // Sets hyphenation dictionary
+$print-pdf-view: true; // Sets the default initial view on PDFs
+$print-page-setup: true; // Sets up the page from your variables
+$print-page-break-tools: true; // Provides classes for semantic page breaks
+$print-hide-non-printing: true; // Hides anything .non-printing
+$print-fitting: true; // Classes for floating, tracking, shrinking, etc.
+$print-hyphenation: true; // Sets hyphenation dictionary
 
 // ---------------------
 // Theme modules
-$print-start-on-recto-or-verso: true !default; // Starts chapters on a left- or right-hand-page
-$print-page-start-depth: true !default; // Sets a top margin on opening pages
-$print-base-typography: true !default; // Default typography for HTML elements
-$print-buttons: true !default;
-$print-verse: true !default; // Default typography for verse, poetry, lyrics
-$print-bibliographies: true !default;
-$print-dialogue: true !default; // 
-$print-epigraphs: true !default; // 
-$print-dedications: true !default; // 
-$print-glossaries: true !default; // Including .glossary
-$print-highlighter: true !default;
-$print-pullquotes: true !default; // Supports .pullquote
-$print-boxes: true !default; // 
-$print-code: true !default; // For computer code and preformatted text
-$print-tables: true !default; // 
-$print-figures: true !default; // 
-$print-notes: true !default; // Footnotes, endnotes, sidenotes
-$print-previous-publications-page: true !default; // The 'also by the author' frontmatter apge
-$print-title-pages: true !default; // Half-title and title pages
-$print-copyright-page: true !default; // 
-$print-toc: true !default; // Tables of contents
-$print-cover: true !default; // Front-cover image for PDF ebooks
-$print-smallcaps: true !default; // 
-$print-maths: true !default; // 
-$print-letters: true !default; // 
-$print-sources: true !default; // 
-$print-openers: true !default; // 
-$print-index: true !default; // 
-$print-reset-sequences: true !default; // Resets p indents, margins after other elements. Must be last @import in list.
-$print-page-headers-footers-content: true !default; // Sets content for headers and footers
-$print-page-headers-footers-style: true !default; // Sets styling for headers and footers
+$print-start-on-recto-or-verso: true; // Starts chapters on a left- or right-hand-page
+$print-page-start-depth: true; // Sets a top margin on opening pages
+$print-base-typography: true; // Default typography for HTML elements
+$print-buttons: true;
+$print-verse: true; // Default typography for verse, poetry, lyrics
+$print-bibliographies: true;
+$print-dialogue: true; // 
+$print-epigraphs: true; // 
+$print-dedications: true; // 
+$print-glossaries: true; // Including .glossary
+$print-highlighter: true;
+$print-pullquotes: true; // Supports .pullquote
+$print-boxes: true; // 
+$print-code: true; // For computer code and preformatted text
+$print-tables: true; // 
+$print-figures: true; // 
+$print-notes: true; // Footnotes, endnotes, sidenotes
+$print-previous-publications-page: true; // The 'also by the author' frontmatter apge
+$print-title-pages: true; // Half-title and title pages
+$print-copyright-page: true; // 
+$print-toc: true; // Tables of contents
+$print-cover: true; // Front-cover image for PDF ebooks
+$print-smallcaps: true; // 
+$print-maths: true; // 
+$print-letters: true; // 
+$print-sources: true; // 
+$print-openers: true; // 
+$print-index: true; // 
+$print-reset-sequences: true; // Resets p indents, margins after other elements. Must be last @import in list.
+$print-page-headers-footers-content: true; // Sets content for headers and footers
+$print-page-headers-footers-style: true; // Sets styling for headers and footers
 
 // ----------------------------------------------------
 // Import font files (@font-face) for fonts you specify
 // ----------------------------------------------------
 
 // Import fonts from book-specific CSS.
+
+/* Crimson https://github.com/skosch/Crimson */
+@font-face {
+    font-family: "Crimson";
+    src: url(../../assets/fonts/Crimson-Roman.otf);
+}
+@font-face {
+    font-family: "Crimson";
+    src: url(../../assets/fonts/Crimson-Italic.otf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Crimson";
+    src: url(../../assets/fonts/Crimson-Bold.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Crimson";
+    src: url(../../assets/fonts/Crimson-BoldItalic.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Crimson";
+    src: url(../../assets/fonts/Crimson-Semibold.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Crimson";
+    src: url(../../assets/fonts/Crimson-SemiboldItalic.otf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* Source Sans Pro https://www.google.com/fonts/specimen/Source+Sans+Pro */
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-Black.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-BlackItalic.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-BoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-ExtraLight.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-ExtraLightItalic.ttf);
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-Italic.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-Semibold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url(../../assets/fonts/SourceSansPro-SemiboldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
 
 // ---------------------
 // Import theme partials
@@ -285,3 +387,305 @@ $print-page-headers-footers-style: true !default; // Sets styling for headers an
 @import "partials/print-reset-sequences"; // Resets p indents, margins after other elements. Must be last @import in list.
 @import "partials/print-page-headers-footers-content"; // Sets content for headers and footers
 @import "partials/print-page-headers-footers-style"; // Sets styling for headers and footers
+
+// Series styles
+
+h1 {
+    column-span: all;
+    strong:first-of-type {
+        color: $color-mid;
+        display: inline-block;
+        margin-right: $line-height-default;
+    }
+}
+
+.frontmatter,
+.chapter {
+    columns: 2;
+}
+
+// Chapter TOCs are only for the web
+.chapter-toc {
+    display: none;
+}
+
+// Key concept boxes
+// We use the blockquote element for key-concept boxes
+
+blockquote {
+    clear: both;
+    font-family: $font-text-secondary;
+    background-color: $color-mid;
+    font-weight: 600;
+    color: white;
+    padding: ($line-height-default / 2);
+    border-radius: 0.25em;
+    margin: $line-height-default 0;
+    page-break-inside: avoid;
+}
+
+// Definition lists
+// We use the dl element for notes
+
+dl {
+    font-family: $font-text-secondary;
+    // color: $color-mid;
+    font-size: $font-size-default * 0.9;
+    font-weight: 300;
+}
+// The word 'NOTE'
+dt {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    page-break-after: avoid;
+}
+// Tables inside notes
+dd .table-caption {
+    margin-top: 1em;
+}
+
+// Tables
+
+table {
+    font-family: $font-text-secondary;
+    margin: $line-height-default 0;
+    font-size: $font-size-default * 0.8;
+}
+thead, th {
+    font-weight: 600;
+}
+th, td {
+    vertical-align: top;
+    border-top: 0.5pt solid $color-mid;
+    border-bottom: 0.5pt solid $color-mid;
+    border-left: 0.5pt dotted $color-light;
+    border-right: 0.5pt dotted $color-light;
+    padding: ($line-height-default * 0.15) ($line-height-default * 0.3);
+    page-break-inside: avoid;
+    p {
+        margin: 0;
+        padding: 0;
+    }
+}
+thead, th, .table-subhead {
+    page-break-after: avoid;
+    background-color: #F2F2F2;
+    line-height: 120%;
+}
+.table-caption {
+    page-break-after:avoid;
+    font-style: italic;
+    em {
+        font-style: normal;
+    }
+}
+.table-row-stub {
+    font-weight: 600;
+}
+
+// Figures
+// Legacy styling from old versions.
+// We use the blockquote element to wrap figures and their captions in valid XHTML. 
+// Use the .figure class for the blockquote wrapping an image and a caption.
+// Add .fixed, .small and/or .large for layout and size options.
+
+img {
+    prince-image-resolution: 200dpi;
+}
+
+blockquote.figure {
+    clear: both;
+    float: top unless-fit;
+    page-break-inside: avoid;
+    background-color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    color: inherit;
+    border: 0.5pt solid #666;
+    border-radius: 0.25em;
+    margin: 1em 0 1.5em 0;
+    padding: 0.5em;
+    width: 100%;
+    box-sizing: border-box;
+}
+ol li blockquote.figure, ul li blockquote.figure {
+    display: inline-block; /* Experimental. Effectively overrides 'unless-fit' to reduce ugly instances of indented images in lists beside floated, non-indented images. */
+}
+.fixed, .figure.fixed {
+    clear: both;
+    float: none; /* For figures that must keep their position in the text flow, not float to the top of the page. */
+}
+.figure p {
+    clear: both;
+    page-break-inside: avoid;
+    page-break-before: avoid;
+    text-align: center;
+}
+.figure p img {
+    width: auto;
+    max-height: 150mm;
+    max-width: 100%;
+    margin: 0 auto 0.5em auto;
+}
+.figure p:nth-child(2) {
+    padding: 0.5em 0 0 0;
+    border-top: 0.5pt dashed #ccc;
+    text-align: left;
+}
+.figure.x-small p img {
+    width: auto;
+    max-height: 30mm;
+}
+.figure.small p img {
+    width: auto;
+    max-height: 45mm;
+}
+.figure.medium p img {
+    width: auto;
+    max-height: 65mm;
+}
+.figure.large {
+    float: none;
+    page-break-before: always;
+}
+.figure.large img {
+    max-height: 150mm;
+    max-width: 100%;
+    width: auto;
+}
+.logo {
+    max-width: 10em;
+}
+
+// Title page
+
+.title-page {
+    .titlepage-title {
+        font-size: $font-size-default * 3;
+        font-weight: 700;
+        font-family: $font-text-secondary;
+        margin: ($line-height-default * 6) 0 $line-height-default 0;
+        line-height: 100%;
+    }
+    .titlepage-subtitle {
+        font-size: $font-size-default * 2.5;
+        font-weight: 300;
+        font-family: $font-text-secondary;
+        margin: 0 0 $line-height-default 0;
+        line-height: 110%;
+    }
+    .titlepage-author {
+        font-size: $font-size-default * 1.5;
+        line-height: 120%;
+        margin: 0 0 $line-height-default 0;
+    }
+    .titlepage-logo {
+        max-width: 10em;
+        position: absolute;
+        bottom: 0;
+    }
+}
+
+// Contents page
+
+.contents-page {
+    li {
+        hyphens: manual;
+    }
+}
+
+
+/*
+ * Tests
+ */
+
+.test {
+    column-count: 2;
+    column-gap: 3em;
+    column-fill: auto; /* Better than balance because our groups of MCQs keep together */
+}
+.test h1 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.test h2 {
+    font-size: 1.2em;
+    font-weight: 400;
+}
+.test ul, .test ol {
+    margin: 0;
+    padding: 0;
+}
+.test ol li {
+    margin: 0 0 1em 0;
+    page-break-inside: avoid;
+    font-weight: bold;
+}
+.test ol li li {
+    list-style-type: lower-alpha;
+    margin: 0;
+    font-weight: normal;
+}
+.test li:first-of-type {
+    page-break-after: avoid;
+}
+.test li:last-of-type {
+    page-break-before: avoid;
+}
+.test li li:first-of-type {
+    page-break-before: auto;
+}
+.test .correct-answer {
+    display: none;
+    border: 1px solid #f2f2f2;
+    padding: 0.1em 0.3em;
+    border-radius: 0.2em;
+    margin: 0 0 0 0.5em;
+}
+
+/*
+ * Answers
+ */
+
+.answers {
+    column-count: 2;
+    column-gap: 3em;
+ }
+.answers h1 {
+    font-size: 1.5em;
+    font-weight: 600;
+ }
+.answers h2 {
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
+/*
+ * ADJUSTMENTS FOR FINE TYPOGRAPHY
+ */
+
+ /* Use these classes to control tracking, usually to save widows and orphans. */
+.tight {
+    letter-spacing: -0.0075em;
+    word-spacing: -0.0075em;
+}
+.x-tight {
+    letter-spacing: -0.01em;
+    word-spacing: -0.01em;
+}
+.loose {
+    letter-spacing: 0.0075em;
+    word-spacing: 0.0075em;
+}
+.x-loose {
+    letter-spacing: 0.01em;
+    word-spacing: 0.01em;
+}
+
+/* This is useful for wide tables, but avoid wherever possible. */
+.shrink {
+    font-size: 0.7em; 
+    font-family: "Open Sans Condensed";
+    font-weight: normal;
+}

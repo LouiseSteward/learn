@@ -3,6 +3,8 @@ title: Quiz 6. HIV-associated infections
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 6: HIV-associated infections
 
 1.	Which is a common HIV-associated infection?

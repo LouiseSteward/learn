@@ -2,6 +2,8 @@
 title: Organisations active by region
 ---
 
+{% include metadata %}
+
 # Organisations active by region
 
 |       | EC | FS | GP | KZN | LP | MPL | NC | NW | WC |

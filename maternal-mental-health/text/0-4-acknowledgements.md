@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 Authors: Sally Field, Dr Simone Honikman

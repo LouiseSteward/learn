@@ -12,4 +12,4 @@ A guide for healthcare professionals
 Written by Andrew Argent and David Woods
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}

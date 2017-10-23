@@ -9,4 +9,4 @@ The Fetal Heart Rate Handbook
 Developed by Power-free Education and Technology for Philips
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo} 
+![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo} 

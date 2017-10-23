@@ -3,6 +3,8 @@ title: Quiz 5. Finding solutions to maternal and perinatal mortality
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5: Finding solutions to maternal and perinatal mortality
 
 1.	How can solutions best be found for maternal and perinatal deaths?

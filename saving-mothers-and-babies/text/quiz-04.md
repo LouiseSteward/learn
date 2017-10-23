@@ -3,6 +3,8 @@ title: Quiz 4. Maternal and perinatal mortality audits
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Maternal and perinatal mortality audits
 
 1.	Why conduct an audit of health care?

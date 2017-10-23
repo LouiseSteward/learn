@@ -2,6 +2,8 @@
 title: 16. Guidelines for the management of patients with risk factors and medical problems during pregnancy, labour and the puerperium
 ---
 
+{% include metadata %}
+
 # Appendix
 
 ## Contents

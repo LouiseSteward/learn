@@ -3,6 +3,8 @@ title: Quiz 5. Communication and Community engagement
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5: Communication and Community engagement 
 
 1.	Why is it important to establish clear communication with the public?

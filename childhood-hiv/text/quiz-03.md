@@ -3,6 +3,8 @@ title: Quiz 3. Management of children with HIV infection
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Management of children with HIV infection
 
 Please choose the one most correct answer to each question or statement

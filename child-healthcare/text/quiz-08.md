@@ -3,6 +3,8 @@ title: Quiz 8. Tuberculosis
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 8: Tuberculosis
 
 1.	How is tuberculosis commonly spread to children?

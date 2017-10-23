@@ -3,6 +3,8 @@ title: Quiz 2. Identifying maternal mental illness
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 2: Identifying maternal mental illness
 
 1.	Why is mental illness often overlooked?

@@ -3,6 +3,8 @@ title: About the book
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # About the book
 
 This book is part of the Bettercare series which addresses the need for continuing education for health professionals. The book is produced under the auspices of the Infection Control Africa Network (ICAN), to assist with training of healthcare workers during the Ebola virus disease outbreak of 2014-2015. However, the infection control principles discussed in the book are applicable to the management of other viral haemorrhagic fever outbreaks. The book should be used by healthcare workers, institutions and Ministries of Health dealing with the Ebola outbreak in West Africa. The book should also be of value to institutions wanting to increase their level of Ebola-preparedness.

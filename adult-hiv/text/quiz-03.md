@@ -3,6 +3,8 @@ title: Quiz 3. Preparation for antiretroviral treatment
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Preparation for antiretroviral treatment
 
 1.	When should antiretroviral treatment start?

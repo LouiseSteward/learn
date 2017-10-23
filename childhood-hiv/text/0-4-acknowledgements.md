@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 The aim of this book is to promote and improve the care of all HIV-infected children, especially in under-resourced communities in southern Africa. The learning material is presented in a way to enable groups of healthcare workers to take responsibility for their own continuing training.

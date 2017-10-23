@@ -3,6 +3,8 @@ title: Quiz 7. Monitoring the condition of the fetus during the first stage of l
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 7: Monitoring the condition of the fetus during the first stage of labour
 
 Please choose the one most correct answer to each question or statement.

@@ -3,6 +3,8 @@ title: Quiz 7. Side effects of breast cancer treatment
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 7: Side effects of breast cancer treatment
 
 1.	Which drug is commonly used for chemotherapy in breast cancer?

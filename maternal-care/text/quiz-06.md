@@ -3,6 +3,8 @@ title: Quiz 6. Monitoring the condition of the mother during the first stage of 
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 6: Monitoring the condition of the mother during the first stage of labour
 
 Please choose the one most correct answer to each question or statement.

@@ -3,6 +3,8 @@ title: About the authors and editor
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # About the authors
 
 Dr Angela Dramowski is a paediatric infectious diseases specialist with a passion for improving infection prevention and control practices and an interest in the education of healthcare professionals.

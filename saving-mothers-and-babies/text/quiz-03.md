@@ -3,6 +3,8 @@ title: Quiz 3. Perinatal mortality
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Perinatal mortality
 
 1.	What are perinatal deaths?

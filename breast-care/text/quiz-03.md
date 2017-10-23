@@ -3,6 +3,8 @@ title: Quiz 3. Special investigations of the breast
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Special investigations of the breast
 
 1.	The aim of special investigations of the breast is:

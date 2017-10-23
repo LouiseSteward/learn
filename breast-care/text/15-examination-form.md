@@ -2,6 +2,8 @@
 title: Examination form
 ---
 
+{% include metadata %}
+
 # Examination form
 
 <table style="width: 100%">
@@ -74,5 +76,5 @@ title: Examination form
   </tbody>
 </table>
 
-![Exam form diagram](images/15-1.svg)
+![Exam form diagram]({{ images }}/15-1.svg)
 {:.figure .fixed}

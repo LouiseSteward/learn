@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 The aim of this Perinatal HIV course is to improve the care of HIV-positive pregnant women and their newborn infants in all communities, especially in poor peri-urban and rural districts of southern Africa.

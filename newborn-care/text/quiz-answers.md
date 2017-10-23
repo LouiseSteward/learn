@@ -3,6 +3,8 @@ title: Quiz answers
 style: answers
 ---
 
+{% include metadata %}
+
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.

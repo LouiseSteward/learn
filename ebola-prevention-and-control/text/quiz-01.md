@@ -3,6 +3,8 @@ title: Quiz 1. Virology and Epidemiology
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: Virology and Epidemiology
 
 1.	What is Ebola?

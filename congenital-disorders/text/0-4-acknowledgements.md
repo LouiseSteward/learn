@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 *Congenital Disorders* has been edited from the Congenital Disorders manual of the Perinatal Education Programme. This learning programme for professionals is developed by the Perinatal Education Trust and funded by Eduhealthcare.

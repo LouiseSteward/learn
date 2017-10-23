@@ -3,6 +3,8 @@ title: Quiz 1. Introduction to maternal and perinatal mortality
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: Introduction to maternal and perinatal mortality
 
 1.	What is the meaning of mortality rate?

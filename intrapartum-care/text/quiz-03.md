@@ -3,6 +3,8 @@ title: Quiz 3. Monitoring and management of the first stage of labour
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Monitoring and management of the first stage of labour
 
 Please choose the one most correct answer to each question or statement.

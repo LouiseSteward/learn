@@ -3,6 +3,8 @@ title: Quiz 4. Nutrition
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Nutrition
 
 1.	What is a child’s nutrition?

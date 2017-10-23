@@ -3,6 +3,8 @@ title: Quiz 4. Antiretroviral drugs
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Antiretroviral drugs
 
 1.	Which is one of the main current goals of antiretroviral treatment?

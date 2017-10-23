@@ -3,6 +3,8 @@ title: Quiz 4. Vaginal bleeding
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Vaginal bleeding
 
 1.	What is menopause?

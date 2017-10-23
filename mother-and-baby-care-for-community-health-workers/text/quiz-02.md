@@ -3,6 +3,8 @@ title: Quiz 1. Care of the newborn baby
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 2: Care of the newborn baby
 
 Please choose the **one**, most correct answer to each question or statement.

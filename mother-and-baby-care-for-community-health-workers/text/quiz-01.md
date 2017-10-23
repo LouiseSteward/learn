@@ -3,6 +3,8 @@ title: Quiz 1. Care of the mother
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: Care of the mother
 
 Please choose the **one**, most correct answer to each question or statement.

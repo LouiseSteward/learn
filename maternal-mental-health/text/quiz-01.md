@@ -3,6 +3,8 @@ title: Quiz 1. Introduction to maternal mental health
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: Introduction to maternal mental health
 
 1.	What is mental illness?

@@ -3,6 +3,8 @@ title: Quiz 12. Skin conditions
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 12: Skin conditions
 
 1.	What is a papule?

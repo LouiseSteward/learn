@@ -3,6 +3,8 @@ title: About the book
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # About the book
 
 This publication is part of the Bettercare series which addresses the need for continuing education by providing self-managed learning opportunities to health professionals. This book was developed to expand access to education in Infection Prevention and Control for all categories of healthcare workers, especially those working in low-resource settings. The content of the book is broadly based on a five-day introductory course run by the Unit for Infection Prevention and Control at Stellenbosch University and Tygerberg Hospital in Cape Town, South Africa. 

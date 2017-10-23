@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 We wish to gratefully acknowledge the constructive comments made by Prof A. Kent, Prof G. Theron, Dr G. Petro, Dr M. Moss, Prof L. Denny, Dr J. Edge, and Prof E. Panieri.

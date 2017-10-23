@@ -3,6 +3,8 @@ title: Quiz 1. The normal breast
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: The normal breast
 
 1.	What is the breast line?

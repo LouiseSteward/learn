@@ -3,6 +3,8 @@ title: Reviews
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Reviews
 
 ‘Despite being one of the most cost-effective health interventions available, infection prevention and control has long been neglected in resource-limited settings – the very place where it is needed most.  

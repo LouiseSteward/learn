@@ -2,6 +2,8 @@
 title: Acknowledgements
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 *Primary Maternal Care* has been edited from selected units of *Maternal Care* by the Perinatal Education Programme. This learning programme for professionals is developed by the Perinatal Education Trust and funded by Eduhealthcare.

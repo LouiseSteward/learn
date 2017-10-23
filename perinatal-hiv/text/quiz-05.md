@@ -3,6 +3,8 @@ title: Quiz 5. HIV and counselling
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5: HIV and counselling
 
 1.	Counselling is a process whereby a counsellor:

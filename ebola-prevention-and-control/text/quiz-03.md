@@ -3,6 +3,8 @@ title: Quiz 3. Protection of Healthcare Workers
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Protection of Healthcare Workers
 
 1.	Can healthcare workers in an Ebola Treatment Unit become infected by indirect contact with contaminated equipment or surfaces?

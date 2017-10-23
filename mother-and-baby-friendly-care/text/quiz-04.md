@@ -3,6 +3,8 @@ title: Quiz 4. Practice of kangaroo mother care
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Practice of kangaroo mother care
 
 1.	What is a kangaroo mother care policy?

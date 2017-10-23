@@ -2,10 +2,9 @@
 title: 7. Resources
 ---
 
-7
-{:.chapter-number}
+{% include metadata %}
 
-# Resources
+# **7** Resources
 
 This section provides copies of the screening tools discussed in this book, information about termination and adoption services, guidelines around applying for a Maintenance Order or Child Support Grant, referral tools, and a listing of relevant counselling and training organisations in South Africa. 
 

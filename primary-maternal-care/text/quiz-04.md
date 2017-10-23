@@ -3,6 +3,8 @@ title: Quiz 4. Antepartum haemorrhage
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Antepartum haemorrhage
 
 Please choose the one most correct answer to each question or statement.

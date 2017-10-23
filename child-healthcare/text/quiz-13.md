@@ -3,6 +3,8 @@ title: Quiz 13. Serious illnesses
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 13: Serious illnesses
 
 1.	Acute rheumatic fever usually follows:

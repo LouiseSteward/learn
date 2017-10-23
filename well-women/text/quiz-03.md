@@ -3,6 +3,8 @@ title: Quiz 3. Common genital and urinary infections
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 3: Common genital and urinary infections
 
 1.	Genital infections include:

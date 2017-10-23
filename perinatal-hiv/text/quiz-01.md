@@ -3,6 +3,8 @@ title: Quiz 1. Introduction to perinatal HIV
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: Introduction to perinatal HIV
 
 1.	What is HIV?

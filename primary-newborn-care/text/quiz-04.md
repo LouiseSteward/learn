@@ -3,6 +3,8 @@ title: Quiz 4. Emergency management of infants
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Emergency management of infants
 
 Please choose the one most correct answer to each question or statement.

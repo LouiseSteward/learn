@@ -3,6 +3,8 @@ title: Quiz 5. The third stage of labour
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5. The third stage of labour
 
 Please choose the one most correct answer to each question or statement.

@@ -3,6 +3,8 @@ title: Quiz 11. Parasites
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 11: Parasites
 
 1.	Children with roundworm infection:

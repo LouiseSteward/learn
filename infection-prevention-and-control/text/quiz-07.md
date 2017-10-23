@@ -3,6 +3,8 @@ title: Quiz 7. Surveillance and outbreak investigation
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 7: Surveillance and outbreak investigation
 
 1.	Surveillance can best be described as:

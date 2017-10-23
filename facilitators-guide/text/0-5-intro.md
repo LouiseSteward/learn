@@ -3,6 +3,8 @@ title: Introduction
 published: true
 ---
 
+{% include metadata %}
+
 # Introduction
 
 ## Contents

@@ -3,6 +3,8 @@ title: Quiz 4. Antiretroviral drugs
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 4: Antiretroviral drugs
 
 Please choose the one most correct answer to each question or statement

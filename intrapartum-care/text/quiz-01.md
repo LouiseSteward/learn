@@ -3,6 +3,8 @@ title: Quiz 1. Monitoring the condition of the mother during the first stage of 
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: Antenatal care
 
 Please choose the one most correct answer to each question or statement.

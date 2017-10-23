@@ -3,6 +3,8 @@ title: Quiz 1. Introduction to childhood HIV infection
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: Introduction to childhood HIV infection
 
 Please choose the one most correct answer to each question or statement.

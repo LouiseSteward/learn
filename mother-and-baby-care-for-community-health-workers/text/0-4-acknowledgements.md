@@ -3,6 +3,8 @@ title: Acknowledgements
 style: frontmatter
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 *Mother and Baby Care for Community Health Workers* has been developed specifically for Community Health Workers by Bettercare. Much of the contents and learning methodology has been adapted from the Perinatal Education Programme course books for health professionals.

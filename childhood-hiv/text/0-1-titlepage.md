@@ -12,4 +12,4 @@ What health professionals need to know
 Written by David Woods and Brian Eley
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}

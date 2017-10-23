@@ -2,6 +2,8 @@
 title: Reviews
 ---
 
+{% include metadata %}
+
 # Reviews
 
 ‘Infrequently an educational document sees the light that is simply mind-blowing in both concept and detail. Such is the virtuoso manual on breast healthcare by Dr Jenny Edge and Prof David Woods. Not only does this comprehensive manual fill an educational hiatus in breast healthcare locally; their work also speaks of extraordinary passion and dedication.

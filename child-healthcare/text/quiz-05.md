@@ -3,6 +3,8 @@ title: Quiz 5. Diarrhoea
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5: Diarrhoea
 
 1.	Diarrhoea is diagnosed when:

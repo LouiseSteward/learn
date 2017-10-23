@@ -3,6 +3,8 @@ title: Quiz 14. Home and society
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 14: Home and society
 
 1.	How important are the rights of children when considering child health?

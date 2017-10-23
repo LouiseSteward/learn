@@ -3,6 +3,8 @@ title: Quiz 1. Mother friendly care during pregnancy
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 1: Mother friendly care during pregnancy
 
 1.	What is mother friendly care during pregnancy?

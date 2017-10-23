@@ -4,6 +4,8 @@ style: frontmatter
 published: true
 ---
 
+{% include metadata %}
+
 # Acknowledgements
 
 We would like to thank Dr Elbeth Hoffman from Kidz Positive and Prof David Woods from the Perinatal Education Programme for their contribution towards this guide.

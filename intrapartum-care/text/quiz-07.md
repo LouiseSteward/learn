@@ -3,6 +3,8 @@ title: Quiz 7. The puerperium
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 7: The puerperium
 
 Please choose the one most correct answer to each question or statement.

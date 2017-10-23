@@ -3,6 +3,8 @@ title: Quiz 5. Special medical issues in maternal mental health
 style: test
 ---
 
+{% include metadata %}
+
 # Quiz 5: Special medical issues in maternal mental health
  
 1.	Which statement about HIV and mental illness is correct?
