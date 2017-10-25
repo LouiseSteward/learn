@@ -773,7 +773,7 @@ works:
                 class: "frontmatter-entry"
           - label: "The normal breast"
             file: "01"
-            id: "the-normal-breast"
+            id: "1-the-normal-breast"
             children: 
               - label: "Objectives"
                 file: "01"
@@ -795,7 +795,7 @@ works:
                 id: "case-study-1-1"
           - label: "Clinical assessment of the breast"
             file: "02"
-            id: "clinical-assessment-of-the-breast"
+            id: "2-clinical-assessment-of-the-breast"
             children: 
               - label: "Objectives"
                 file: "02"
@@ -814,7 +814,7 @@ works:
                 id: "case-study-1-1"
           - label: "Special investigations of the breast"
             file: "03"
-            id: "special-investigations-of-thebreast"
+            id: "3-special-investigations-of-thebreast"
             children: 
               - label: "Objectives"
                 file: "03"
@@ -854,7 +854,7 @@ works:
                 id: "case-study-1-1"
           - label: "Benign changes of the breast"
             file: "04"
-            id: "benign-changes-of-the-breast"
+            id: "4-benign-changes-of-the-breast"
             children: 
               - label: "Objectives"
                 file: "04"
@@ -888,7 +888,7 @@ works:
                 id: "case-study-1-1"
           - label: "Cancer of the breast"
             file: "05"
-            id: "cancer-of-the-breast"
+            id: "5-cancer-of-the-breast"
             children: 
               - label: "Objectives"
                 file: "05"
@@ -913,7 +913,7 @@ works:
                 id: "case-study-1-1"
           - label: "Treatment of breast cancer"
             file: "06"
-            id: "treatment-of-breast-cancer"
+            id: "6-treatment-of-breast-cancer"
             children: 
               - label: "Objectives"
                 file: "06"
@@ -953,7 +953,7 @@ works:
                 id: "case-study-1-1"
           - label: "Side effects of breast cancer treatment"
             file: "07"
-            id: "side-effects-of-breast-cancer-treatment"
+            id: "7-side-effects-of-breast-cancer-treatment"
             children: 
               - label: "Objectives"
                 file: "07"
@@ -981,7 +981,7 @@ works:
                 id: "case-study-1-1"
           - label: "Palliative care"
             file: "08"
-            id: "palliative-care"
+            id: "8-palliative-care"
             children: 
               - label: "Objectives"
                 file: "08"
@@ -1111,7 +1111,7 @@ works:
             children: 
               - label: "8twenty8 (18T)"
                 file: "11-organisations"
-                id: "8twenty8-18t"
+                id: "18twenty8-18t"
               - label: "Avon Justine iThemba Crusade of Hope (CoH)"
                 file: "11-organisations"
                 id: "avon-justine-ithemba-crusade-of-hope-coh"
