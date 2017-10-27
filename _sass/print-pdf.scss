@@ -601,24 +601,14 @@ ol li blockquote.figure, ul li blockquote.figure {
  */
 
 .test {
-    column-count: 2;
-    column-gap: 3em;
     column-fill: auto; /* Better than balance because our groups of MCQs keep together */
-}
-.test h1 {
-    font-size: 1.5em;
-    font-weight: 600;
-}
-.test h2 {
-    font-size: 1.2em;
-    font-weight: 400;
 }
 .test ul, .test ol {
     margin: 0;
     padding: 0;
 }
 .test ol li {
-    margin: 0 0 1em 0;
+    margin-bottom: $line-height-default;
     page-break-inside: avoid;
     font-weight: bold;
 }
@@ -648,18 +638,7 @@ ol li blockquote.figure, ul li blockquote.figure {
  * Answers
  */
 
-.answers {
-    column-count: 2;
-    column-gap: 3em;
- }
-.answers h1 {
-    font-size: 1.5em;
-    font-weight: 600;
- }
-.answers h2 {
-    font-size: 1.2em;
-    font-weight: 400;
-}
+.answers {}
 
 /*
  * ADJUSTMENTS FOR FINE TYPOGRAPHY
