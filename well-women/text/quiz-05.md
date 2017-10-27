@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Abuse of women
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

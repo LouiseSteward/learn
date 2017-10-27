@@ -1,6 +1,6 @@
 ---
 title: Quiz 6. HIV-associated infections and end-of-life care
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

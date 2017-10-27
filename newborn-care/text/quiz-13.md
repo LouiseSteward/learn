@@ -1,6 +1,6 @@
 ---
 title: Quiz 13. Trauma and bleeding
-style: test
+style: chapter test
 ---
 
 ## Quiz 13: Trauma and bleeding

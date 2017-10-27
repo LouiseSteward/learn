@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Assessing gestational age and size at birth
-style: test
+style: chapter test
 ---
 
 ## Quiz 2: Assessing gestational age and size at birth

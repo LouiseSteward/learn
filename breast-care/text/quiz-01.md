@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. The normal breast
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

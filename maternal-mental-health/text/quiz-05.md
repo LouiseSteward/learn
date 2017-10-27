@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Special medical issues in maternal mental health
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

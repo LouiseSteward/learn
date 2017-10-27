@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Chromosomal disorders
-style: test
+style: chapter test
 ---
 
 Please choose the one most correct answer to each question or statement.

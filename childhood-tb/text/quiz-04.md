@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Management of childhood tuberculosis
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

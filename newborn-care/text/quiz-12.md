@@ -1,6 +1,6 @@
 ---
 title: Quiz 12. Infection
-style: test
+style: chapter test
 ---
 
 ## Quiz 12: Infection

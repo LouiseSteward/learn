@@ -1,6 +1,6 @@
 ---
 title: Quiz 6. Managing pain during labour
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

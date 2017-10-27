@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Hand hygiene
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

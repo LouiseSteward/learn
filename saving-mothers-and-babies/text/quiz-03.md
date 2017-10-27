@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Perinatal mortality
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

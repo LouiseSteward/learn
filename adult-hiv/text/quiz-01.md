@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. HIV infection
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

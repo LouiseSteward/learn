@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Care of low-birth-weight infants
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

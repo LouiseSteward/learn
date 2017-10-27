@@ -1,6 +1,6 @@
 ---
 title: Quiz 15. Regionalised perinatal care
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

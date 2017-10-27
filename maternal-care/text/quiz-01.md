@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Antenatal care
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

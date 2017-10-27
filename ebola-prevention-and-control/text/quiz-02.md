@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Patient management
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

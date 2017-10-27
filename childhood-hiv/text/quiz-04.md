@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Antiretroviral drugs
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

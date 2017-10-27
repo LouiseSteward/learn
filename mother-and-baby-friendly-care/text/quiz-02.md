@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Mother friendly care during labour, delivery and the puerperium
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

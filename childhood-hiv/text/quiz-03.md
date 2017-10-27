@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Management of children with HIV infection
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

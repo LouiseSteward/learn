@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. How to help mothers with mental health problems
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

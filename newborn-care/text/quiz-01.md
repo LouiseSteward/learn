@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Failure to breathe at birth and resuscitation
-style: test
+style: chapter test
 ---
 
 Please choose the *one*, most correct answer to each question or statement.

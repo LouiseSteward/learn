@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Introduction to perinatal HIV
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

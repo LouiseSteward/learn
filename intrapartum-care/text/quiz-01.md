@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Monitoring the condition of the mother during the first stage of labour
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Role and structure of infection prevention and control programmes
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

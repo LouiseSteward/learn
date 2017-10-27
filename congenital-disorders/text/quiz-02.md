@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Care, prevention and counselling
-style: test
+style: chapter test
 ---
 
 Please choose the one most correct answer to each question or statement.

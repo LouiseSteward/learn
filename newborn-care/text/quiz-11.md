@@ -1,6 +1,6 @@
 ---
 title: Quiz 11. Oxygen therapy
-style: test
+style: chapter test
 ---
 
 ## Quiz 11: Oxygen therapy

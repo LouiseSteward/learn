@@ -1,6 +1,6 @@
 ---
 title: Quiz 9. HIV infection
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

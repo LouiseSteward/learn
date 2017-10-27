@@ -1,6 +1,6 @@
 ---
 title: Quiz 9. Antimicrobial stewardship
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Management of patients on anti­retroviral treatment
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

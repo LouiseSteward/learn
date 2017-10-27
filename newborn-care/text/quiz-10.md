@@ -1,6 +1,6 @@
 ---
 title: Quiz 10. Respiratory distress and apnoea
-style: test
+style: chapter test
 ---
 
 ## Quiz 10: Respiratory distress and apnoea

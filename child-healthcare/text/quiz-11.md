@@ -1,6 +1,6 @@
 ---
 title: Quiz 11. Parasites
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

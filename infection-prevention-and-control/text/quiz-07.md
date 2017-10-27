@@ -1,6 +1,6 @@
 ---
 title: Quiz 7. Surveillance and outbreak investigation
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

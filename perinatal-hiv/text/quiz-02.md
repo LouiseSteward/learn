@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. HIV in pregnancy
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

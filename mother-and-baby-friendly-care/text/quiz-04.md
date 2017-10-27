@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Practice of kangaroo mother care
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

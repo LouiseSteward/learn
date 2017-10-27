@@ -1,6 +1,6 @@
 ---
 title: Quiz 6. Feeding sick or high-risk infants
-style: test
+style: chapter test
 ---
 
 ## Quiz 6: Feeding sick or high-risk infants

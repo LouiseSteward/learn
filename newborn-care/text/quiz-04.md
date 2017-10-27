@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Feeding normal infants
-style: test
+style: chapter test
 ---
 
 ## Quiz 4: Feeding normal infants
