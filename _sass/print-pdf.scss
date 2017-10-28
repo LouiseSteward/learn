@@ -335,6 +335,21 @@ $print-page-headers-footers-style: true; // Sets styling for headers and footers
     font-weight: 600;
     font-style: italic;
 }
+/* Open Sans Condensed https://fonts.google.com/specimen/Open+Sans+Condensed */
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../fonts/OpenSans-CondLight.ttf);
+}
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../fonts/OpenSans-CondBold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../fonts/OpenSans-CondLightItalic.ttf);
+    font-style: italic;
+}
 
 
 // ---------------------
@@ -390,6 +405,17 @@ $print-page-headers-footers-style: true; // Sets styling for headers and footers
 
 // Series styles
 
+// --------------------------------------------------------
+// Page styles
+
+.frontmatter,
+.chapter {
+    columns: 2;
+}
+
+// --------------------------------------------------------
+// Base typography
+
 h1 {
     column-span: all;
     strong:first-of-type {
@@ -399,19 +425,8 @@ h1 {
     }
 }
 
-.frontmatter,
-.chapter {
-    columns: 2;
-}
-
-// Chapter TOCs are only for the web
-.chapter-toc {
-    display: none;
-}
-
 // Key concept boxes
 // We use the blockquote element for key-concept boxes
-
 blockquote {
     clear: both;
     font-family: $font-text-secondary;
@@ -419,7 +434,7 @@ blockquote {
     font-weight: 600;
     color: white;
     padding: ($line-height-default / 2);
-    border-radius: 0.25em;
+    border-radius: $button-border-radius;
     margin: $line-height-default 0;
     page-break-inside: avoid;
 }
@@ -442,9 +457,10 @@ dt {
 }
 // Tables inside notes
 dd .table-caption {
-    margin-top: 1em;
+    margin-top: $line-height-default;
 }
 
+// --------------------------------------------------------
 // Tables
 
 table {
@@ -484,6 +500,7 @@ thead, th, .table-subhead {
     font-weight: 600;
 }
 
+// --------------------------------------------------------
 // Figures
 // Legacy styling from old versions.
 // We use the blockquote element to wrap figures and their captions in valid XHTML. 
@@ -502,10 +519,10 @@ blockquote.figure {
     font-size: inherit;
     font-weight: inherit;
     color: inherit;
-    border: 0.5pt solid #666;
-    border-radius: 0.25em;
-    margin: 1em 0 1.5em 0;
-    padding: 0.5em;
+    border: 0.5pt solid $color-mid;
+    border-radius: $button-border-radius;
+    margin: $line-height-default 0 $line-height-default 0;
+    padding: $line-height-default * 0.5;
     width: 100%;
     box-sizing: border-box;
 }
@@ -526,38 +543,44 @@ ol li blockquote.figure, ul li blockquote.figure {
     width: auto;
     max-height: 150mm;
     max-width: 100%;
-    margin: 0 auto 0.5em auto;
+    margin: 0 auto ($line-height-default * 0.5) auto;
 }
 .figure p:nth-child(2) {
-    padding: 0.5em 0 0 0;
-    border-top: 0.5pt dashed #ccc;
+    padding: ($line-height-default * 0.5) 0 0 0;
+    border-top: 0.5pt dashed $color-mid;
     text-align: left;
 }
 .figure.x-small p img {
     width: auto;
-    max-height: 30mm;
+    max-height: $line-height-default * 5;
 }
 .figure.small p img {
     width: auto;
-    max-height: 45mm;
+    max-height: $line-height-default * 8;
 }
 .figure.medium p img {
     width: auto;
-    max-height: 65mm;
+    max-height: $line-height-default * 12;
 }
 .figure.large {
     float: none;
     page-break-before: always;
 }
 .figure.large img {
-    max-height: 150mm;
+    max-height: $line-height-default * 28;
     max-width: 100%;
     width: auto;
 }
 .logo {
-    max-width: 10em;
+    max-width: $line-height-default * 10;
 }
 
+// .wide can be used for figures or other elements
+.wide {
+    column-span: all;
+}
+
+// --------------------------------------------------------
 // Title page
 
 .title-page {
@@ -581,13 +604,14 @@ ol li blockquote.figure, ul li blockquote.figure {
         margin: 0 0 $line-height-default 0;
     }
     .titlepage-logo {
-        max-width: 10em;
+        max-width: $line-height-default * 10;
         position: absolute;
         bottom: 0;
     }
 }
 
-// Contents page
+// --------------------------------------------------------
+// Tables of contents
 
 .contents-page {
     li {
@@ -595,10 +619,13 @@ ol li blockquote.figure, ul li blockquote.figure {
     }
 }
 
+// Chapter TOCs are only for the web
+.chapter-toc {
+    display: none;
+}
 
-/*
- * Tests
- */
+// --------------------------------------------------------
+// Tests
 
 .test {
     column-fill: auto; /* Better than balance because our groups of MCQs keep together */
@@ -629,42 +656,58 @@ ol li blockquote.figure, ul li blockquote.figure {
 .test .correct-answer {
     display: none;
     border: 1px solid #f2f2f2;
-    padding: 0.1em 0.3em;
-    border-radius: 0.2em;
-    margin: 0 0 0 0.5em;
+    padding: ($line-height-default * 0.1) ($line-height-default * 0.3);
+    border-radius: $button-border-radius;
+    margin: 0 0 0 ($line-height-default * 0.5);
 }
 
-/*
- * Answers
- */
+// --------------------------------------------------------
+// Answers
 
 .answers {}
 
-/*
- * ADJUSTMENTS FOR FINE TYPOGRAPHY
- */
+// --------------------------------------------------------
+// Layout fixes
 
- /* Use these classes to control tracking, usually to save widows and orphans. */
+// Legacy classes to control tracking, usually to save widows and orphans.
+// More accurate to use 'tighten-n' where n is thousandths of an em.
 .tight {
-    letter-spacing: -0.0075em;
-    word-spacing: -0.0075em;
+    letter-spacing: ($letter-spacing-text) - 0.0075em;
+    word-spacing: ($letter-spacing-text) - 0.0075em;
 }
 .x-tight {
-    letter-spacing: -0.01em;
-    word-spacing: -0.01em;
+    letter-spacing: ($letter-spacing-text) - 0.01em;
+    word-spacing: ($letter-spacing-text) - 0.01em;
 }
 .loose {
-    letter-spacing: 0.0075em;
-    word-spacing: 0.0075em;
+    letter-spacing: ($letter-spacing-text) + 0.0075em;
+    word-spacing: ($letter-spacing-text) + 0.0075em;
 }
 .x-loose {
-    letter-spacing: 0.01em;
-    word-spacing: 0.01em;
+    letter-spacing: ($letter-spacing-text) + 0.01em;
+    word-spacing: ($letter-spacing-text) + 0.01em;
 }
 
-/* This is useful for wide tables, but avoid wherever possible. */
+// This is useful for wide tables, but avoid wherever possible.
 .shrink {
-    font-size: 0.7em; 
-    font-family: "Open Sans Condensed";
-    font-weight: normal;
+    font-size: 0.7em;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+// Save a line (use sparingly!)
+// Create save-1 through save-10
+@for $i from 0 through 10 {
+    .save-#{$i} {
+        margin-top: -($line-height-default * $i);
+    }
+}
+@for $i from 0 through 10 {
+    .add-#{$i} {
+        padding-top: ($line-height-default * $i);
+    }
+}
+@for $i from 0 through 20 {
+    .add-lines-#{$i} {
+        padding-bottom: ($line-height-default * $i);
+    }
 }
