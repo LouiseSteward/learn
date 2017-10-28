@@ -60,11 +60,13 @@ $black-ink: true !default; // true or rich (true for pure black or rich for rich
 // - 'display' fonts are used for headings and similar short-string features.
 // For each category, we set a main font and a secondary font, allowing up to four fonts.
 // Finally, we set a fifth, monospace font for elements like computer code.
-$font-text-main: "Crimson", serif !default;
-$font-text-secondary: "Roboto Condensed", sans-serif !default;
-$font-display-main: "Roboto Condensed", sans-serif !default;
-$font-display-secondary: "Crimson", serif !default;
-$font-code: "Inconsolata", monospace !default;
+// Using prince-no-fallback triggers a warning if any glyphs are not found
+// in the specified font, instead of swithching to another one.
+$font-text-main: "Crimson", prince-no-fallback;
+$font-text-secondary: "Source Sans Pro", prince-no-fallback;
+$font-display-main: "Source Sans Pro", prince-no-fallback;
+$font-display-secondary: "Crimson", prince-no-fallback;
+$font-code: "Inconsolata", prince-no-fallback;
 
 // Finally, we set variables related to text flow.
 $font-size-default: 12pt !default;
