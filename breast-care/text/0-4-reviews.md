@@ -1,5 +1,6 @@
 ---
 title: Reviews
+style: frontmatter
 ---
 
 {% include metadata %}

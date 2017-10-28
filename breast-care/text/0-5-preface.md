@@ -1,5 +1,6 @@
 ---
 title: Preface
+style: frontmatter
 ---
 
 {% include metadata %}
