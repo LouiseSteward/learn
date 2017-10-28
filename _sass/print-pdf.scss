@@ -60,11 +60,13 @@ $black-ink: true; // true or rich (true for pure black or rich for rich black)
 // - 'display' fonts are used for headings and similar short-string features.
 // For each category, we set a main font and a secondary font, allowing up to four fonts.
 // Finally, we set a fifth, monospace font for elements like computer code.
-$font-text-main: "Crimson", serif;
-$font-text-secondary: "Source Sans Pro", sans-serif;
-$font-display-main: "Source Sans Pro", sans-serif;
-$font-display-secondary: "Crimson", serif;
-$font-code: "Inconsolata", monospace;
+// Using prince-no-fallback triggers a warning if any glyphs are not found
+// in the specified font, instead of swithching to another one.
+$font-text-main: "Crimson", prince-no-fallback;
+$font-text-secondary: "Source Sans Pro", prince-no-fallback;
+$font-display-main: "Source Sans Pro", prince-no-fallback;
+$font-display-secondary: "Crimson", prince-no-fallback;
+$font-code: "Inconsolata", prince-no-fallback;
 
 // Finally, we set variables related to text flow.
 $font-size-default: 9.5pt;
@@ -406,6 +408,11 @@ $print-page-headers-footers-style: true; // Sets styling for headers and footers
 // Series styles
 
 // --------------------------------------------------------
+// Custom variables
+
+$column-width: (($page-width - $margin-inside - $margin-outside) / 2) - $line-height-default;
+
+// --------------------------------------------------------
 // Page styles
 
 .frontmatter,
@@ -507,13 +514,10 @@ thead, th, .table-subhead {
 // Use the .figure class for the blockquote wrapping an image and a caption.
 // Add .fixed, .small and/or .large for layout and size options.
 
-img {
-    prince-image-resolution: 200dpi;
-}
-
-blockquote.figure {
+blockquote.figure, div.figure {
     clear: both;
-    float: top unless-fit;
+    float: bottom;
+    // float: column-bottom;
     page-break-inside: avoid;
     background-color: inherit;
     font-size: inherit;
@@ -525,9 +529,6 @@ blockquote.figure {
     padding: $line-height-default * 0.5;
     width: 100%;
     box-sizing: border-box;
-}
-ol li blockquote.figure, ul li blockquote.figure {
-    display: inline-block; /* Experimental. Effectively overrides 'unless-fit' to reduce ugly instances of indented images in lists beside floated, non-indented images. */
 }
 .fixed, .figure.fixed {
     clear: both;
@@ -560,7 +561,7 @@ ol li blockquote.figure, ul li blockquote.figure {
 }
 .figure.medium p img {
     width: auto;
-    max-height: $line-height-default * 12;
+    max-height: $line-height-default * 10;
 }
 .figure.large {
     float: none;
@@ -571,13 +572,36 @@ ol li blockquote.figure, ul li blockquote.figure {
     max-width: 100%;
     width: auto;
 }
-.logo {
-    max-width: $line-height-default * 10;
+.figure.column-width {
+    column-span: 1;
+    float: column-bottom;
+    max-width: $column-width;
+    &.fixed {
+        float: none;
+    }
+}
+// Experimental. Effectively overrides 'unless-fit'
+// to reduce ugly instances of indented images in lists
+// beside floated, non-indented images.
+ol li .figure, ul li .figure {
+    &.fixed {
+        width: $column-width;
+        margin-left: -($line-height-default);
+    }
 }
 
 // .wide can be used for figures or other elements
 .wide {
     column-span: all;
+    // &.figure {
+    //     float: bottom; // rather than the default column-bottom
+    // }
+}
+
+// --------------------------------------------------------
+// Images
+.logo {
+    max-width: $line-height-default * 10;
 }
 
 // --------------------------------------------------------
@@ -691,7 +715,7 @@ ol li blockquote.figure, ul li blockquote.figure {
 // This is useful for wide tables, but avoid wherever possible.
 .shrink {
     font-size: 0.7em;
-    font-family: "Open Sans Condensed", sans-serif;
+    font-family: "Open Sans Condensed", prince-no-fallback;
 }
 
 // Save a line (use sparingly!)
