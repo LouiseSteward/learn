@@ -10,10 +10,10 @@ These scripts provide client-side search. See:
 http://elasticlunr.com/
 https://markjs.io/
 {% endcomment %}
-{% if site.output == "web" %}
-<script src="{{ site.baseurl }}/assets/js/bundle.js"></script>
-    {% if is-series-search or is-book-search %}
-    <script src="{{ site.baseurl }}/assets/js/bundle-search.js"></script>
+{% if site.output == "web" or site.output == "app" %}
+<script src="{{ path-to-root-directory }}assets/js/bundle.js"></script>
+    {% if is-project-search or is-book-search %}
+    <script src="{{ path-to-root-directory }}assets/js/bundle-search.js"></script>
     {% endif %}
 {% endif %}
 
@@ -24,9 +24,4 @@ By default, we only load it for PDF outputs.
 {% endcomment %}
 {% if site.output == "print-pdf" or site.output == "screen-pdf" %}
 <script src="{{ path-to-root-directory }}assets/js/heading-titles.js"></script>
-{% endif %}
-
-{% comment %}Temporary sript for building YAML easily{% endcomment %}
-{% if site.output == "web" %}
-<script src="https://rawgit.com/arthurattwell/9eee6538411ac228d0caf33ed13e9ddc/raw/02119934520ee86dd3f0aeec6e047fe921b34fc9/electric-book-nav-builder.js"></script>
 {% endif %}
