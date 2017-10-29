@@ -50,7 +50,7 @@ $color-highlight: #ffd54d !default;
 // Options for color profile:
 // - From eci.org: PSOcoated_v3.icc, PSOuncoated_v3_FOGRA52.icc
 // - From color.org: sRGB_v4_ICC_preference.icc, sRGB_v4_ICC_preference_displayclass.icc
-// Add other ICC profiles to /assets/profiles
+// Add other ICC profiles to /_tools/profiles
 $pdf-profile: "PDF/A-3b" !default;
 $color-profile: "sRGB_v4_ICC_preference_displayclass.icc" !default;
 $black-ink: true !default; // true or rich (true for pure black or rich for rich black)
@@ -60,13 +60,14 @@ $black-ink: true !default; // true or rich (true for pure black or rich for rich
 // - 'display' fonts are used for headings and similar short-string features.
 // For each category, we set a main font and a secondary font, allowing up to four fonts.
 // Finally, we set a fifth, monospace font for elements like computer code.
-// Using prince-no-fallback triggers a warning if any glyphs are not found
-// in the specified font, instead of swithching to another one.
-$font-text-main: "Crimson", prince-no-fallback;
-$font-text-secondary: "Source Sans Pro", prince-no-fallback;
-$font-display-main: "Source Sans Pro", prince-no-fallback;
-$font-display-secondary: "Crimson", prince-no-fallback;
-$font-code: "Inconsolata", prince-no-fallback;
+// Using prince-no-fallback triggers a warning and aborts PDF creation
+// if any glyphs are not found in the specified font, instead of switching to another one.
+// This is recommended for books where perfect reproduction among users is important.
+$font-text-main: "Crimson", prince-no-fallback !default;
+$font-text-secondary: "Source Sans Pro", prince-no-fallback !default;
+$font-display-main: "Source Sans Pro", prince-no-fallback !default;
+$font-display-secondary: "Crimson", prince-no-fallback !default;
+$font-code: "Ubuntu Mono", prince-no-fallback !default;
 
 // Finally, we set variables related to text flow.
 $font-size-default: 12pt !default;
@@ -78,7 +79,7 @@ $orphans: 1 !default; // Minimum number of lines that must be left at the bottom
 $widows: 1 !default; // Minimum number of lines that must be left at the top of the second page
 $letter-spacing-text: 0em !default; // Default letter-spacing for p, ul, ol, dl. Set in ems, e.g. 0.01em for 10/1000s of an em.
 
-// Do you want space between paragraphs, rather than a text-indent?
+// Do you want space between paragraphs, rather than a text-indent? true or false
 $spaced-paras: false !default;
 
 // Buttons
@@ -188,6 +189,10 @@ $highlight-loosened: inherit !default;
 // Reset PrinceXML CSS
 $print-css-reset: true !default;
 
+// ---------------------------
+// Add default font-face rules
+$print-font-faces: true !default;
+
 // --------------------------------------------
 // Page setup and control, avoid changing these
 $print-pdf-view: true !default; // Sets the default initial view on PDFs
@@ -221,6 +226,7 @@ $print-title-pages: true !default; // Half-title and title pages
 $print-copyright-page: true !default; // 
 $print-toc: true !default; // Tables of contents
 $print-cover: true !default; // Front-cover image for PDF ebooks
+$print-video: true !default;
 $print-smallcaps: true !default; // 
 $print-maths: true !default; // 
 $print-letters: true !default; // 
@@ -235,7 +241,7 @@ $print-page-headers-footers-style: true !default; // Sets styling for headers an
 // Import font files (@font-face) for fonts you specify
 // ----------------------------------------------------
 
-// Import fonts from book-specific CSS.
+// Default font-face rules added by print-font-faces partial below.
 
 // ---------------------
 // Import theme partials
@@ -244,6 +250,10 @@ $print-page-headers-footers-style: true !default; // Sets styling for headers an
 // ---------------------
 // Reset PrinceXML CSS
 @import "partials/print-css-reset";
+
+// ---------------------
+// Add font-face rules
+@import "partials/print-font-faces";
 
 // --------------------------------------------
 // Page setup and control, avoid changing these
@@ -278,6 +288,7 @@ $print-page-headers-footers-style: true !default; // Sets styling for headers an
 @import "partials/print-copyright-page"; // 
 @import "partials/print-toc"; // Tables of contents
 @import "partials/print-cover"; // Front-cover image for PDF ebooks
+@import "partials/print-video"; //
 @import "partials/print-smallcaps"; // 
 @import "partials/print-maths"; // 
 @import "partials/print-letters"; // 
