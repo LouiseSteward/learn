@@ -1,6 +1,6 @@
 ---
 title: Copyright
-style: frontmatter
+style: copyright-page
 published: true
 ---
 

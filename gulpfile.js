@@ -194,4 +194,4 @@ gulp.task('watch', function() {
 });
 
 // when running `gulp`, do the image tasks
-gulp.task('default', ['images:printpdf', 'images:printpdfcopy', 'images:optimise', 'images:epub', 'images:small', 'images:medium', 'images:large', 'images:xlarge']);
+gulp.task('default', ['images:printpdf', 'images:svg', 'images:optimise', 'images:epub', 'images:small', 'images:medium', 'images:large', 'images:xlarge']);
