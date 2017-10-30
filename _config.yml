@@ -95,31 +95,30 @@ image-set: "images/web"
 # Once your CSS is stable, exclude `css` here and keep it below under `keep_files`.
 # Include the file extension too. E.g. book/text/01.md
 exclude:
-- adult-hiv
+# - adult-hiv
 # - breast-care
-- catalogue
-- child-healthcare
-- childhood-critical-care
-- childhood-hiv
-- childhood-tb
-- congenital-disorders
-- ebola-prevention-and-control
-- empty-book
-- facilitators-guide
-- fetal-heart-rate-handbook
-- infection-prevention-and-control
-- intrapartum-care
-- maternal-care
-- maternal-mental-health
-- mother-and-baby-care-for-community-health-workers
-- mother-and-baby-friendly-care
-- newborn-care
-- perinatal-hiv
-- primary-maternal-care
-- primary-newborn-care
-- samples
-- saving-mothers-and-babies
-- well-women
+# - catalogue
+# - child-healthcare
+# - childhood-critical-care
+# - childhood-hiv
+# - childhood-tb
+# - congenital-disorders
+# - ebola-prevention-and-control
+# - facilitators-guide
+# - fetal-heart-rate-handbook
+# - infection-prevention-and-control
+# - intrapartum-care
+# - maternal-care
+# - maternal-mental-health
+# - mother-and-baby-care-for-community-health-workers
+# - mother-and-baby-friendly-care
+# - newborn-care
+# - perinatal-hiv
+# - primary-maternal-care
+# - primary-newborn-care
+# - samples
+# - saving-mothers-and-babies
+# - well-women
 # Build tools to exclude
 - run-linux.sh
 - run-mac.command
