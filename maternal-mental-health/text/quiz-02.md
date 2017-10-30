@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Identifying maternal mental illness
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

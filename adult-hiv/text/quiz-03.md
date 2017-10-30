@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Preparation for antiretroviral treatment
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

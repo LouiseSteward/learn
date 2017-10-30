@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Family planning and infertility
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

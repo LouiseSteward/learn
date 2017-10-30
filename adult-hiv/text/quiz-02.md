@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Managing people with HIV infection
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

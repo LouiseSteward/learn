@@ -1,6 +1,6 @@
 ---
 title: Test
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

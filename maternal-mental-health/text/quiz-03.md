@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Making referrals for maternal mental illness
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Clinical presentation of childhood tuberculosis
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

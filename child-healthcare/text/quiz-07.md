@@ -1,6 +1,6 @@
 ---
 title: Quiz 7. Lower respiratory tract conditions
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

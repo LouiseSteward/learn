@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Management of children with antiretroviral treatment
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

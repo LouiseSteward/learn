@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Single gene disorders
-style: test
+style: chapter test
 ---
 
 Please choose the one most correct answer to each question or statement.

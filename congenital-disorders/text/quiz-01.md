@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Introduction to congential disorders
-style: test
+style: chapter test
 ---
 
 Please choose the one most correct answer to each question or statement.

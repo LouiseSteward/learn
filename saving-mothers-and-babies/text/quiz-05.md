@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Finding solutions to maternal and perinatal mortality
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

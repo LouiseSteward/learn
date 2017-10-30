@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Introduction to childhood HIV infection
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

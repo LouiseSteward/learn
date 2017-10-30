@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. HIV in mother and baby
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

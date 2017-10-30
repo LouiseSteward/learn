@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. The routine care of normal infants
-style: test
+style: chapter test
 ---
 
 ## Quiz 3: The routine care of normal infants

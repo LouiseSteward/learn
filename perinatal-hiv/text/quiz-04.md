@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. HIV in the newborn infant
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

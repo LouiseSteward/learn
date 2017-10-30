@@ -1,6 +1,6 @@
 ---
 title: Quiz 8. Tuberculosis
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

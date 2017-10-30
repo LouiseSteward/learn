@@ -1,6 +1,6 @@
 ---
 title: Quiz 6. Treatment of breast cancer
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

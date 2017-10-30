@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Growth and development
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

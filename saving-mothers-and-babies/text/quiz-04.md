@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Maternal and perinatal mortality audits
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

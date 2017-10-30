@@ -1,6 +1,6 @@
 ---
 title: Quiz 14. Family planning after pregnancy
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Answers
-style: answers
+style: chapter answers
 ---
 # Answers
 

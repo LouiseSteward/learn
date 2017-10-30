@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Diarrhoea
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

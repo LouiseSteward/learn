@@ -1,6 +1,6 @@
 ---
 title: Quiz 9. Jaundice, anaemia and polycythaemia
-style: test
+style: chapter test
 ---
 
 ## Quiz 9: Jaundice, anaemia and polycythaemia

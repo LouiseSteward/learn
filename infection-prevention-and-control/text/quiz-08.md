@@ -1,6 +1,6 @@
 ---
 title: Quiz 8. Tuberculosis infection prevention and control
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

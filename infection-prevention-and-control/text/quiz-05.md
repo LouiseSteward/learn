@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Infection control considerations for healthcare facility design
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

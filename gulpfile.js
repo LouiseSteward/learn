@@ -23,6 +23,8 @@ if (args.language) {
 };
 
 // set up paths for later
+// add paths to any JS files to minify to the src array, e.g.
+// src: ['assets/js/foo.js,assets/js/bar.js'],
 var paths = {
     img: {
         source: book + language + '/images/_source/',
@@ -30,6 +32,7 @@ var paths = {
         web: book + language + '/images/web/',
         screenpdf: book + language + '/images/screen-pdf/',
         epub: book + language + '/images/epub/',
+        app: book + language + '/images/app/',
     },
     js: {
         src: [],
@@ -41,29 +44,33 @@ var paths = {
 // by default we don't convert svg which throws an error
 var filetypes = 'jpg,jpeg,gif,png';
 
-console.log('Processing images in ' + paths.img.source);
-
-// Take the source images and convert them for print-pdf
-gulp.task('images:printpdf', function () {
-    gulp.src(paths.img.source + '*.{' + filetypes + '}')
-    .pipe(newer(paths.img.printpdf))
-    .pipe(gm(function(gmfile) {
-        return gmfile.profile('assets/profiles/PSOcoated_v3.icc').colorspace('cmyk');
-    }))
-    .pipe(gulp.dest(paths.img.printpdf));
-});
 
 // Copy svg as is to destinations
 gulp.task('images:svg', function () {
+    console.log('Processing SVG images from ' + paths.img.source);
     gulp.src(paths.img.source + '*.svg')
     .pipe(gulp.dest(paths.img.printpdf))
     .pipe(gulp.dest(paths.img.screenpdf))
     .pipe(gulp.dest(paths.img.web))
-    .pipe(gulp.dest(paths.img.epub));
+    .pipe(gulp.dest(paths.img.epub))
+    .pipe(gulp.dest(paths.img.app));
 });
 
-// Take the source images and optimise and resize them for web and screen-pdf
+// Take the source images and convert them for print-pdf
+gulp.task('images:printpdf', function () {
+    console.log('Processing print-PDF images from ' + paths.img.source);
+    gulp.src(paths.img.source + '*.{' + filetypes + '}')
+    .pipe(newer(paths.img.printpdf))
+    .pipe(gm(function(gmfile) {
+        return gmfile.profile('_tools/profiles/PSOcoated_v3.icc').colorspace('cmyk');
+    }))
+    .pipe(gulp.dest(paths.img.printpdf));
+});
+
+// Take the source images and optimise and resize them for
+// screen-pdf, web, epub, and app
 gulp.task('images:optimise', function () {
+    console.log('Processing screen-PDF, web, epub and app images from ' + paths.img.source);
     gulp.src(paths.img.source + '*.{' + filetypes + '}')
         .pipe(newer(paths.img.web))
         .pipe(responsive({
@@ -74,31 +81,17 @@ gulp.task('images:optimise', function () {
         }]
     }))
     .pipe(gm(function(gmfile) {
-        return gmfile.profile('assets/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
+        return gmfile.profile('_tools/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
     }))
     .pipe(gulp.dest(paths.img.screenpdf))
-    .pipe(gulp.dest(paths.img.web));
-});
-
-// Take the print images and optimise and resize them for epub
-gulp.task('images:epub', function () {
-    gulp.src(paths.img.source + '*.{' + filetypes + '}')
-        .pipe(newer(paths.img.epub))
-        .pipe(responsive({
-        '*': [{
-            width: 810,
-            quality: 90,
-            upscale: false,
-        }]
-    }))
-    .pipe(gm(function(gmfile) {
-        return gmfile.profile('assets/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
-    }))
+    .pipe(gulp.dest(paths.img.web))
     .pipe(gulp.dest(paths.img.epub))
+    .pipe(gulp.dest(paths.img.app));
 });
 
-// Make small size images for use in srcset in _includes/figure
+// Make small size images for web use in srcset in _includes/figure
 gulp.task('images:small', function () {
+    console.log('Creating small web images from ' + paths.img.source);
     gulp.src(paths.img.source + '*.{' + filetypes + '}')
         .pipe(newer(paths.img.web))
         .pipe(responsive({
@@ -110,13 +103,14 @@ gulp.task('images:small', function () {
             }]
         }))
         .pipe(gm(function(gmfile) {
-            return gmfile.profile('assets/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
+            return gmfile.profile('_tools/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
         }))
         .pipe(gulp.dest(paths.img.web));
 });
 
-// Make medium size images for use in srcset in _includes/figure
+// Make medium size images for web use in srcset in _includes/figure
 gulp.task('images:medium', function () {
+    console.log('Creating medium web images from ' + paths.img.source);
     gulp.src(paths.img.source + '*.{' + filetypes + '}')
         .pipe(newer(paths.img.web))
         .pipe(responsive({
@@ -128,13 +122,14 @@ gulp.task('images:medium', function () {
             }]
         }))
         .pipe(gm(function(gmfile) {
-            return gmfile.profile('assets/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
+            return gmfile.profile('_tools/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
         }))
         .pipe(gulp.dest(paths.img.web));
 });
 
-// Make large size images for use in srcset in _includes/figure
+// Make large size images for web use in srcset in _includes/figure
 gulp.task('images:large', function () {
+    console.log('Creating large web images from ' + paths.img.source);
     gulp.src(paths.img.source + '*.{' + filetypes + '}')
         .pipe(newer(paths.img.web))
         .pipe(responsive({
@@ -146,13 +141,14 @@ gulp.task('images:large', function () {
                 }]
             }))
         .pipe(gm(function(gmfile) {
-            return gmfile.profile('assets/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
+            return gmfile.profile('_tools/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
         }))
         .pipe(gulp.dest(paths.img.web));
 });
 
-// Make extra large images for use in srcset
+// Make extra large images for web use in srcset
 gulp.task('images:xlarge', function () {
+    console.log('Creating extra-large web images from ' + paths.img.source);
     gulp.src(paths.img.source + '*.{' + filetypes + '}')
         .pipe(newer(paths.img.web))
         .pipe(responsive({
@@ -164,13 +160,14 @@ gulp.task('images:xlarge', function () {
                 }]
             }))
         .pipe(gm(function(gmfile) {
-            return gmfile.profile('assets/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
+            return gmfile.profile('_tools/profiles/sRGB_v4_ICC_preference_displayclass.icc').colorspace('rgb');
         }))
         .pipe(gulp.dest(paths.img.web));
 });
 
 // minify JS files to make them smaller
 gulp.task('js', function() {
+    console.log('Minifying Javascript');
     gulp.src(paths.js.src)
     .pipe(uglify())
     .pipe(rename({ suffix:'.min' }))
@@ -179,6 +176,7 @@ gulp.task('js', function() {
 
 // lint the JS files: check for errors and inconsistencies
 gulp.task('jslint', function() {
+    console.log('Linting Javascript');
     gulp.src(paths.js.src)
     .pipe(eslint({
         configFile: 'eslint.json',
@@ -190,8 +188,9 @@ gulp.task('jslint', function() {
 
 // watch the JS files for changes, run jslin and js tasks when they do
 gulp.task('watch', function() {
+    console.log('Watching for Javascript changes');
     gulp.watch(paths.js.src, ['jslint', 'js']);
 });
 
 // when running `gulp`, do the image tasks
-gulp.task('default', ['images:printpdf', 'images:svg', 'images:optimise', 'images:epub', 'images:small', 'images:medium', 'images:large', 'images:xlarge']);
+gulp.task('default', ['images:svg', 'images:printpdf', 'images:optimise', 'images:small', 'images:medium', 'images:large', 'images:xlarge']);

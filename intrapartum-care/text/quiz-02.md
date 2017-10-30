@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Monitoring the condition of the fetus during the first stage of labour
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. The third stage of labour
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

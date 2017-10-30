@@ -1,6 +1,6 @@
 ---
 title: Quiz 10. Childhood infections
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Care of the mother
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -18,23 +18,17 @@ title: Recipes and diets
 
 ## Home-made oral rehydration fluid to manage diarrhoea
 
-Take 1 litre clean, safe water.
-
-Add 8 level teaspoons sugar.
-
-Add 1½ level teaspoons salt.
-
-Mix well and leave covered in a cool place. Make a fresh solution every day.
+1. Take 1 litre clean, safe water.
+1. Add 8 level teaspoons sugar.
+1. Add 1½ level teaspoons salt.
+1. Mix well and leave covered in a cool place. Make a fresh solution every day.
 
 *or*
 
-Take 1 litre clean water.
-
-Add 5 teaspoons sugar.
-
-Add ½ teaspoon salt.
-
-Add some fresh orange juice to taste.
+1. Take 1 litre clean water.
+1. Add 5 teaspoons sugar.
+1. Add ½ teaspoon salt.
+1. Add some fresh orange juice to taste.
 
 Take 1 or 2 cups of either mixture after every diarrhoea stool.
 

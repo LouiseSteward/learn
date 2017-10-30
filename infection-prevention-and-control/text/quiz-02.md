@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Micro-organisms of relevance to infection prevention and control
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 13. Serious illnesses
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

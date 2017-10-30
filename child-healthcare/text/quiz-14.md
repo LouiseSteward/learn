@@ -1,6 +1,6 @@
 ---
 title: Quiz 14. Home and society
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

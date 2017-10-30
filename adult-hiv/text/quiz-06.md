@@ -1,6 +1,6 @@
 ---
 title: Quiz 6. HIV-associated infections
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

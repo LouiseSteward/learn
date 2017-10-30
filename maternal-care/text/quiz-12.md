@@ -1,6 +1,6 @@
 ---
 title: Quiz 12. The puerperium
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

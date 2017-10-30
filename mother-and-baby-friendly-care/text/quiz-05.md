@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Baby friendly care
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

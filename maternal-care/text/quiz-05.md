@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Preterm labour and preterm rupture of the membranes
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

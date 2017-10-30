@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Emergency management of infants
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Support Services and Documentation
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

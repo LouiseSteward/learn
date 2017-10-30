@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Care of high-risk and sick infants
-style: test
+style: chapter test
 ---
 
 ## Quiz 5: Care of high-risk and sick infants

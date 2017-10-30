@@ -1,6 +1,6 @@
 ---
 title: Quiz 15. Childhood mortality
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

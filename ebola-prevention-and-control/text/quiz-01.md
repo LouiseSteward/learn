@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Virology and Epidemiology
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

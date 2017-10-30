@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Care of the newborn baby
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

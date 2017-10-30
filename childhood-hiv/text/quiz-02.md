@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Clinical and immunological diagnosis of HIV infection
-style: test
+style: chapter test
 ---
 
 {% include metadata %}
