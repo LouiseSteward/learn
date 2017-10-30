@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Preventing childhood tuberculosis
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

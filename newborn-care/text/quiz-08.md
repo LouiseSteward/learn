@@ -1,6 +1,6 @@
 ---
 title: Quiz 8. Glucose control and hypoglycaemia
-style: test
+style: chapter test
 ---
 
 ## Quiz 8: Glucose control and hypoglycaemia

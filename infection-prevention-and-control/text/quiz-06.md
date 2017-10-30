@@ -1,6 +1,6 @@
 ---
 title: Quiz 6. Environmental cleaning, waste management and decontamination of medical devices 
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

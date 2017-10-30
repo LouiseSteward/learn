@@ -1,6 +1,6 @@
 ---
 title: Title page
-style: frontmatter
+style: title-page
 ---
 
 Breast Care

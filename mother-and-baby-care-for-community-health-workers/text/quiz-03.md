@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Exclusive breastfeeding
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

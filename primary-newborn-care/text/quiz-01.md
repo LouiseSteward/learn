@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Care of infants at birth
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

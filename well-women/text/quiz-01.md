@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Reproductive health
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

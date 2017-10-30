@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Protection of Healthcare Workers
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

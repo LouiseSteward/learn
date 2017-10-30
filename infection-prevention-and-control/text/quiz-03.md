@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Risk assessment and risk management in IPC 
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. The second stage of labour
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

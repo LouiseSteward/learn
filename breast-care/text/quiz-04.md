@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Benign changes of the breast
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

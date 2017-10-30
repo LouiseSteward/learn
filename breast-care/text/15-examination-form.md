@@ -6,7 +6,7 @@ title: Examination form
 
 # Examination form
 
-<table style="width: 100%">
+<table style="width: 100%" class="wide save-5">
   <tbody>
     <tr>
       <td colspan="4" style="width: 16%">Date:</td>

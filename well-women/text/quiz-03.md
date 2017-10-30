@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Common genital and urinary infections
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

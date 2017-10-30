@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Care of normal infants
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

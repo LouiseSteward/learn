@@ -1,6 +1,6 @@
 ---
 title: Quiz 6. The puerperium and family planning
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. HIV during labour and delivery
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

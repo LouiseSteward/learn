@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. History and examination
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

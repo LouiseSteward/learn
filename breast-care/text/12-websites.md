@@ -40,9 +40,7 @@ General information site: [www.breastcancer.org](http://www.breastcancer.org)
 
 ### Cancer Research UK
 
-General information. It includes a section on the management of lymphoedema.
-
-[www.cancerresearchuk.org](http://www.cancerresearchuk.org)
+General information. It includes a section on the management of lymphoedema: [www.cancerresearchuk.org](http://www.cancerresearchuk.org)
 
 ### National Cancer Institute
 
@@ -58,8 +56,6 @@ Information about breastfeeding-related issues: [www.llli.org](http://www.llli.o
 
 ## Pictures
 
-Mammograms: [http://breastcancer.about.com/od/mammograms/ig/Mammogram-Images](http://breastcancer.about.com/od/mammograms/ig/Mammogram-Images)
-
-Paget’s disease of the nipple: [http://iahealth.net/pagets-disease](http://iahealth.net/pagets-disease)
-
-*Peau d’orange*: [http://www2.mdanderson.org/depts/oncolog/articles/12/9-sep/9-12-2.html](http://www2.mdanderson.org/depts/oncolog/articles/12/9-sep/9-12-2.html)
+- Mammograms: [http://breastcancer.about.com/od/mammograms/ig/Mammogram-Images](http://breastcancer.about.com/od/mammograms/ig/Mammogram-Images)
+- Paget’s disease of the nipple: [http://iahealth.net/pagets-disease](http://iahealth.net/pagets-disease)
+- *Peau d’orange*: [http://www2.mdanderson.org/depts/oncolog/articles/12/9-sep/9-12-2.html](http://www2.mdanderson.org/depts/oncolog/articles/12/9-sep/9-12-2.html)

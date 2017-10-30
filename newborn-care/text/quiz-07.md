@@ -1,6 +1,6 @@
 ---
 title: Quiz 7. Temperature control and hypothermia
-style: test
+style: chapter test
 ---
 
 ## Quiz 7: Temperature control and hypothermia

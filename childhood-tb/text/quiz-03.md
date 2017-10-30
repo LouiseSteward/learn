@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Diagnosis of childhood tuberculosis
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

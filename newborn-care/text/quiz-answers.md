@@ -1,6 +1,6 @@
 ---
 title: Quiz answers
-style: answers
+style: chapter answers
 ---
 
 {% include metadata %}

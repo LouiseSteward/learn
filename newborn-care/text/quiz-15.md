@@ -1,6 +1,6 @@
 ---
 title: Quiz 15. Communication
-style: test
+style: chapter test
 ---
 
 ## Quiz 15: Communication

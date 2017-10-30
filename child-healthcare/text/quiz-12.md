@@ -1,6 +1,6 @@
 ---
 title: Quiz 12. Skin conditions
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

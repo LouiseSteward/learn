@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Introduction to maternal mental health
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

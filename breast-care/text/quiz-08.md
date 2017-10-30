@@ -1,6 +1,6 @@
 ---
 title: Quiz 8. Palliative care
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

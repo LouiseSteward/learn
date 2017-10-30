@@ -1,6 +1,6 @@
 ---
 title: Quiz 5. Cancer of the breast
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

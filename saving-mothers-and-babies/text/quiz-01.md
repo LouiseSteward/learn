@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Introduction to maternal and perinatal mortality
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

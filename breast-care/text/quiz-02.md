@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Clinical assessment of the breast
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 13. Medical problems during pregnancy and the puerperium
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Assessment of fetal growth and condition during pregnancy
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

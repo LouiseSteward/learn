@@ -1,6 +1,6 @@
 ---
 title: Quiz 7. Side effects of breast cancer treatment
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

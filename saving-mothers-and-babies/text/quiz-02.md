@@ -1,6 +1,6 @@
 ---
 title: Quiz 2. Maternal mortality
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

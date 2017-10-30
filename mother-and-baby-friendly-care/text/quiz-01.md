@@ -1,6 +1,6 @@
 ---
 title: Quiz 1. Mother friendly care during pregnancy
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 6. Upper respiratory tract conditions
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

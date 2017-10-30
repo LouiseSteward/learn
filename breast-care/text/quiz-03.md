@@ -1,6 +1,6 @@
 ---
 title: Quiz 3. Special investigations of the breast
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

@@ -1,6 +1,6 @@
 ---
 title: Quiz 4. Vaginal bleeding
-style: test
+style: chapter test
 ---
 
 {% include metadata %}

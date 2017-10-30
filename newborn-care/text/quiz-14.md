@@ -1,6 +1,6 @@
 ---
 title: Quiz 14. Congenital Disorders
-style: test
+style: chapter test
 ---
 
 ## Quiz 14: Congenital Disorders

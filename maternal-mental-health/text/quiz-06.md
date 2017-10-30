@@ -1,6 +1,6 @@
 ---
 title: Quiz 6. Special social issues in maternal mental health
-style: test
+style: chapter test
 ---
 
 {% include metadata %}
