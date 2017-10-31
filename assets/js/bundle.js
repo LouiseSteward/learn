@@ -7,3 +7,6 @@ layout: null
 {% include_relative mark.min.js %}
 {% include_relative mark-search-terms.js %}
 {% include_relative videos.js %}
+
+// Custom Bettercare scripts
+{% include_relative show-hide.js %}
