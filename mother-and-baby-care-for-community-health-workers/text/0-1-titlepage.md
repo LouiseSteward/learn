@@ -1,6 +1,6 @@
 ---
 title: Title page
-style: frontmatter
+style: title-page page-1
 ---
 
 Mother and Baby Care for Community Health Workers

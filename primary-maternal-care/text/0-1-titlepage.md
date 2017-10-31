@@ -1,6 +1,6 @@
 ---
 title: Title page
-style: frontmatter
+style: title-page page-1
 ---
 
 Primary Maternal Care
