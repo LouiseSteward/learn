@@ -1,0 +1,23 @@
+{% include metadata %}
+
+<div class="book-gallery">
+
+    {% for book in site.data.meta.works %}
+
+    <div class="book-gallery-book">
+
+        <span class="book-gallery-image">
+            <a href="{{ path-to-root-directory }}{{ book.directory }}/text/{{ book.products.web.start-page }}.html">
+                <img src="{{ path-to-root-directory }}{{ book.directory }}/images/{{ output-format }}/cover.jpg" />
+            </a>
+        </span>
+        <span class="book-gallery-title">
+            <a href="{{ path-to-root-directory }}{{ book.directory }}/text/{{ book.products.web.start-page }}.html">{{ book.title }}
+            </a>
+        </span>
+
+    </div>
+
+    {% endfor %}
+
+</div>
