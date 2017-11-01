@@ -3,9 +3,9 @@ title: Quiz 2. Care, prevention and counselling
 style: chapter test
 ---
 
-Please choose the one most correct answer to each question or statement.
-
 # Quiz 2: Care, prevention and counselling
+
+Please choose the one most correct answer to each question or statement.s
 
 1.	Which congenital disorder is common in South Africa?
 	+	Oculocutaneous albinism.

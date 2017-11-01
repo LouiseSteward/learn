@@ -3,6 +3,8 @@ title: Title page
 style: title-page page-1
 ---
 
+{% include metadata %}
+
 Adult HIV
 {:.titlepage-title}
 
@@ -15,4 +17,4 @@ Written by Catherine Orrell, Richard Kaplan and David Woods
 Edited by David Woods
 {:.titlepage-author}
 
-![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}
