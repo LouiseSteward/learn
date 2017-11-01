@@ -3,6 +3,8 @@ title: Title page
 style: title-page page-1
 ---
 
+{% include metadata %}
+
 Childhood HIV
 {:.titlepage-title}
 
@@ -12,4 +14,4 @@ What health professionals need to know
 Written by David Woods and Brian Eley
 {:.titlepage-author}
 
-![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}
