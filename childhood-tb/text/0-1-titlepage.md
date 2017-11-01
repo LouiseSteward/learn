@@ -3,6 +3,8 @@ title: Title page
 style: title-page page-1
 ---
 
+{% include metadata %}
+
 Childhood TB
 {:.titlepage-title}
 
@@ -18,4 +20,4 @@ with the Desmond Tutu Tuberculosis Centre
 Updated by Brian Eley
 {:.titlepage-author}
 
-![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}
