@@ -3,9 +3,9 @@ title: Quiz 1. Introduction to congential disorders
 style: chapter test
 ---
 
-Please choose the one most correct answer to each question or statement.
-
 # Quiz 1: Introduction to congenital disorders
+
+Please choose the one most correct answer to each question or statement.
 
 1.	What is a congenital disorder?
 	-	An abnormality of structure present at birth
