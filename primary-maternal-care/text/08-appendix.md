@@ -25,7 +25,8 @@ The level of care needed is shown as follows:
 
 3 = For high-risk patients.
 
-<table>
+{% include figure
+   html="<table>
 <thead>
  <tr>
   <td><p>Risk factors</p></td>
@@ -35,11 +36,11 @@ The level of care needed is shown as follows:
  </tr>
  </thead>
  <tbody>
- <tr class="table-subhead">
-  <td colspan="4"><p>Risk factors identified from the patient’s history</p></td>
+ <tr class='table-subhead'>
+  <td colspan='4'><p>Risk factors identified from the patient’s history</p></td>
   </tr>
- <tr class="table-subhead">
-  <td colspan="4"><p>Maternal age</p></td>
+ <tr class='table-subhead'>
+  <td colspan='4'><p>Maternal age</p></td>
   </tr>
  <tr>
   <td><p>15 years or less</p></td>
@@ -57,8 +58,8 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td rowspan="4"><p>37 years or more</p></td>
-  <td rowspan="4"><p>Medical conditions such as hypertension and diabetes are commoner.</p>
+  <td rowspan='4'><p>37 years or more</p></td>
+  <td rowspan='4'><p>Medical conditions such as hypertension and diabetes are commoner.</p>
    <p>Chromosome abnormalities are commoner, e.g. Down syndrome</p></td>
   <td><p>Carefully look for medical problems at the first visit, and at 28 and 34 weeks.</p>
    <p>Motivate for sterilisation.</p></td>
@@ -79,7 +80,7 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td colspan="4" class="table-subhead"><p>General history</p></td>
+  <td colspan='4' class='table-subhead'><p>General history</p></td>
   </tr>
  <tr>
   <td><p>Allergies</p></td>
@@ -88,8 +89,8 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td rowspan="4"><p>Body Mass Index (BMI)</p></td>
-  <td rowspan="4"><p>Cephalopelvic disproportion and shoulder dystocia.</p>
+  <td rowspan='4'><p>Body Mass Index (BMI)</p></td>
+  <td rowspan='4'><p>Cephalopelvic disproportion and shoulder dystocia.</p>
    <p>Hypertension and diabetes</p>
    <p>Use weight, height and attached BMI table.</p>
    <p>When reading BMI off table:</p>
@@ -122,8 +123,8 @@ The level of care needed is shown as follows:
   <td><p>3</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Diabetes mellitus (family history)</p></td>
-  <td rowspan="3"><p>There is an increased risk of the patient developing diabetes during pregnancy.</p></td>
+  <td rowspan='3'><p>Diabetes mellitus (family history)</p></td>
+  <td rowspan='3'><p>There is an increased risk of the patient developing diabetes during pregnancy.</p></td>
   <td>Careful screen for glycosuria:</td>
   <td>&nbsp;</td>
  </tr>
@@ -144,8 +145,8 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Congenital abnormalities (in the family)</p></td>
-  <td rowspan="3"><p>Serious abnormalities tend to recur.</p></td>
+  <td rowspan='3'><p>Congenital abnormalities (in the family)</p></td>
+  <td rowspan='3'><p>Serious abnormalities tend to recur.</p></td>
   <td>Determine the duration of pregnancy:</td>
   <td>&nbsp;</td>
  </tr>
@@ -165,8 +166,8 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td rowspan="2"><p>HIV</p></td>
-  <td rowspan="2"><p>Mother-to-child transmission of HIV.</p>
+  <td rowspan='2'><p>HIV</p></td>
+  <td rowspan='2'><p>Mother-to-child transmission of HIV.</p>
    <p>With AIDS the mother’s clinical condition may deteriorate.</p></td>
   <td><p>Commence patient on FDC if no contra-indications.</p>
    <p>If contra-indications refer to an antiretroviral (ARV) clinic.</p></td>
@@ -206,14 +207,14 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td colspan="4" class="table-subhead"><p>Systematic history</p></td>
+  <td colspan='4' class='table-subhead'><p>Systematic history</p></td>
   </tr>
  <tr>
-  <td colspan="4"><p>Respiratory System</p></td>
+  <td colspan='4'><p>Respiratory System</p></td>
   </tr>
  <tr>
-  <td rowspan="3"><p>Asthma</p></td>
-  <td rowspan="3"><p>Prostaglandin F2 alpha is contraindicated.</p>
+  <td rowspan='3'><p>Asthma</p></td>
+  <td rowspan='3'><p>Prostaglandin F2 alpha is contraindicated.</p>
    <p>Asthma usually improves during pregnancy.</p></td>
   <td>Ask about medication and symptoms:</td>
   <td>&nbsp;</td>
@@ -240,14 +241,14 @@ The level of care needed is shown as follows:
    <p>The newborn infant must be given isoniazid.</p></td>
   <td><p>1</p></td>
  </tr>
- <tr class="table-subhead">
-  <td colspan="4" class="table-subhead"><p>Cardiovascular System</p></td>
+ <tr class='table-subhead'>
+  <td colspan='4' class='table-subhead'><p>Cardiovascular System</p></td>
   </tr>
  <tr>
-  <td rowspan="3"><p>Hypertension:</p>
+  <td rowspan='3'><p>Hypertension:</p>
    <p>1. Diastolic 90 and/or systolic 140 mm Hg or more.</p>
    <p>2. Antihypertensive treatment.</p></td>
-  <td rowspan="3"><p>Pre-eclampsia, abruptio placentae, and IUGR or perinatal death.</p></td>
+  <td rowspan='3'><p>Pre-eclampsia, abruptio placentae, and IUGR or perinatal death.</p></td>
   <td>Change to alpha methyldopa and stop diuretics:</td>
   <td>&nbsp;</td>
  </tr>
@@ -266,8 +267,8 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="2"><p>Rheumatic heart disease</p></td>
-  <td rowspan="2"><p>Cardiac output increases with increased risk of cardiac failure and maternal death.</p></td>
+  <td rowspan='2'><p>Rheumatic heart disease</p></td>
+  <td rowspan='2'><p>Cardiac output increases with increased risk of cardiac failure and maternal death.</p></td>
   <td>No symptoms or signs of heart failure, and no stenotic heart valve lesions –</td>
   <td>2</td>
  </tr>
@@ -290,7 +291,7 @@ The level of care needed is shown as follows:
   <td><p>3</p></td>
  </tr>
  <tr>
-  <td colspan="4" class="table-subhead"><p>Alimentary System</p></td>
+  <td colspan='4' class='table-subhead'><p>Alimentary System</p></td>
   </tr>
  <tr>
   <td><p>Haemorrhoids</p></td>
@@ -300,8 +301,8 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Jaundice</p></td>
-  <td rowspan="3"><p>Determine if the patient is a carrier of the hepatitis B virus.</p>
+  <td rowspan='3'><p>Jaundice</p></td>
+  <td rowspan='3'><p>Determine if the patient is a carrier of the hepatitis B virus.</p>
    <p>Can infect the infant during delivery.</p></td>
   <td>Test for the hepatitis B antigen:</td>
   <td>&nbsp;</td>
@@ -321,7 +322,7 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td colspan="4" class="table-subhead"><p>Urinary system</p></td>
+  <td colspan='4' class='table-subhead'><p>Urinary system</p></td>
   </tr>
  <tr>
   <td><p>Pyelonephritis</p></td>
@@ -336,7 +337,7 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td colspan="4" class="table-subhead"><p>Surgical History</p></td>
+  <td colspan='4' class='table-subhead'><p>Surgical History</p></td>
   </tr>
  <tr>
   <td><p>Myomectomy</p></td>
@@ -360,11 +361,11 @@ The level of care needed is shown as follows:
   <td><p>3</p></td>
  </tr>
  <tr>
-  <td colspan="4" class="table-subhead"><p>Previous obstetric history</p></td>
+  <td colspan='4' class='table-subhead'><p>Previous obstetric history</p></td>
   </tr>
  <tr>
-  <td rowspan="3"><p>Abruptio placentae</p></td>
-  <td rowspan="3"><p>Tends to recur:</p>
+  <td rowspan='3'><p>Abruptio placentae</p></td>
+  <td rowspan='3'><p>Tends to recur:</p>
    <p>10% chance after previous abruption.</p>
    <p>25% chance after 2 previous abruptions.</p></td>
   <td>Advise the patient:</td>
@@ -443,7 +444,7 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Pre-eclampsia</p></td>
+  <td rowspan='3'><p>Pre-eclampsia</p></td>
   <td>Two groups:</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
@@ -477,11 +478,11 @@ The level of care needed is shown as follows:
   <td><p>3</p></td>
  </tr>
  <tr>
-  <td colspan="4" class="table-subhead"><p>Present obstetric history</p></td>
+  <td colspan='4' class='table-subhead'><p>Present obstetric history</p></td>
   </tr>
  <tr>
-  <td rowspan="4"><p>Antepartum haemorrhage</p></td>
-  <td rowspan="4"><p>Abruptio placentae and placenta praevia are both serious complications. Local causes, e.g. vaginitis, cervicitis, can also cause bleeding.</p></td>
+  <td rowspan='4'><p>Antepartum haemorrhage</p></td>
+  <td rowspan='4'><p>Abruptio placentae and placenta praevia are both serious complications. Local causes, e.g. vaginitis, cervicitis, can also cause bleeding.</p></td>
   <td><p>If not currently bleeding and there is no fetal distress:</p>
    <p>1. Do speculum examination:</p></td>
   <td>&nbsp;</td>
@@ -507,8 +508,8 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Diastolic blood pressure of 90 and/or systolic of 140 mm Hg or more</p></td>
-  <td rowspan="3"><p>Hypertension or pre-eclampsia.</p></td>
+  <td rowspan='3'><p>Diastolic blood pressure of 90 and/or systolic of 140 mm Hg or more</p></td>
+  <td rowspan='3'><p>Hypertension or pre-eclampsia.</p></td>
   <td>Repeat after 30 minutes rest on her side:</td>
   <td>&nbsp;</td>
  </tr>
@@ -521,8 +522,8 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="4"><p>Reduced fetal movements</p></td>
-  <td rowspan="4"><p>Fetal distress or intra-uterine death.</p></td>
+  <td rowspan='4'><p>Reduced fetal movements</p></td>
+  <td rowspan='4'><p>Fetal distress or intra-uterine death.</p></td>
   <td>Duration of pregnancy 28 weeks or more. Repeat kick charts:</td>
   <td>&nbsp;</td>
  </tr>
@@ -539,8 +540,8 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Glycosuria 1+ or more</p></td>
-  <td rowspan="3"><p>Possible diabetes.</p></td>
+  <td rowspan='3'><p>Glycosuria 1+ or more</p></td>
+  <td rowspan='3'><p>Possible diabetes.</p></td>
   <td>Random blood glucose estimation:</td>
   <td>&nbsp;</td>
  </tr>
@@ -569,8 +570,8 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Multiple pregnancy</p></td>
-  <td rowspan="3"><p>Greater risk of preterm labour.</p>
+  <td rowspan='3'><p>Multiple pregnancy</p></td>
+  <td rowspan='3'><p>Greater risk of preterm labour.</p>
    <p>High incidence of perinatal death and pre-eclampsia.</p>
    <p>Anaemia.</p></td>
   <td><p>Regular vaginal examinations from 26 weeks for cervical effacement and dilatation.</p>
@@ -604,8 +605,8 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="4"><p>Proteinuria</p></td>
-  <td rowspan="4"><p>Pre-eclampsia or renal disease, e.g. chronic nephritis or nephrosis, may be present.</p></td>
+  <td rowspan='4'><p>Proteinuria</p></td>
+  <td rowspan='4'><p>Pre-eclampsia or renal disease, e.g. chronic nephritis or nephrosis, may be present.</p></td>
   <td>Exclude urinary tract infection. Test urine for protein:</td>
   <td>&nbsp;</td>
  </tr>
@@ -622,8 +623,8 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="2"><p>Ruptured membranes</p></td>
-  <td rowspan="2"><p>Preterm labour and chorioamnionitis.</p></td>
+  <td rowspan='2'><p>Ruptured membranes</p></td>
+  <td rowspan='2'><p>Preterm labour and chorioamnionitis.</p></td>
   <td>If 36 weeks or more admit to hospital, wait until the membranes have been ruptured for 24 hours, then induce labour with oxytocin.</td>
   <td>1</td>
  </tr>
@@ -632,8 +633,8 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Rhesus negative</p></td>
-  <td rowspan="3"><p>Rh-sensitisation with hydrops fetalis.</p></td>
+  <td rowspan='3'><p>Rhesus negative</p></td>
+  <td rowspan='3'><p>Rh-sensitisation with hydrops fetalis.</p></td>
   <td><p>If no antibodies, retest for antibodies at 26, 32 and 38 weeks.</p>
    <p>If antibodies present:</p></td>
   <td>1</td>
@@ -647,8 +648,8 @@ The level of care needed is shown as follows:
   <td><p>3</p></td>
  </tr>
  <tr>
-  <td rowspan="2"><p>Preterm labour</p></td>
-  <td rowspan="2"><p>Preterm infant.</p></td>
+  <td rowspan='2'><p>Preterm labour</p></td>
+  <td rowspan='2'><p>Preterm infant.</p></td>
   <td>If 34 weeks or more deliver in level 2 hospital.</td>
   <td>2</td>
  </tr>
@@ -680,8 +681,8 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="4"><p>Uterus smaller than dates</p></td>
-  <td rowspan="4"><p>IUGR.</p>
+  <td rowspan='4'><p>Uterus smaller than dates</p></td>
+  <td rowspan='4'><p>IUGR.</p>
    <p>Oligohydramnios</p>
    <p>Fetal death.</p>
    <p>Incorrect dates.</p></td>
@@ -701,8 +702,8 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Abnormal lie</p></td>
-  <td rowspan="3"><p>Breech, oblique or transverse lies suggest possible placenta praevia, multiple pregnancy or disproportion.</p></td>
+  <td rowspan='3'><p>Abnormal lie</p></td>
+  <td rowspan='3'><p>Breech, oblique or transverse lies suggest possible placenta praevia, multiple pregnancy or disproportion.</p></td>
   <td><p>Less than 34 weeks, not important.</p>
    <p>If more than 34 weeks: exclude the named complications, and refer to a doctor for external cephalic version at 36 weeks, if there are no contraindications.</p></td>
   <td>&nbsp;</td>
@@ -716,7 +717,7 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td colspan="4" class="table-subhead"><p>Social history</p></td>
+  <td colspan='4' class='table-subhead'><p>Social history</p></td>
   </tr>
  <tr>
   <td><p>Alcohol</p></td>
@@ -757,12 +758,14 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  </tbody>
-</table>
+</table>"
+   class="wide"
+%}
 
 ## BMI table
-{:.page-break-before}
 
-<table width="100%">
+{% include figure
+   html="<table width='100%'>
  <thead>
   <tr>
    <td>Height&nbsp;&#8594;<br />Weight&nbsp;&#8595;</td>
@@ -1226,4 +1229,6 @@ The level of care needed is shown as follows:
    <td>29.3</td>
   </tr>
  </tbody>
-</table>
+</table>"
+   class="wide"
+%}
