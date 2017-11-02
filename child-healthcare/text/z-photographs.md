@@ -5,8 +5,12 @@ title: Skin conditions photographs
 {% include metadata %}
 
 # Photographs
+{:.space-below-1}
 
 ## Skin conditions
+{:.wide}
+
+<div class="figure-gallery" markdown="1">
 
 > ![Acne]({{ images }}/p-1-acne.jpg)
 > 
@@ -87,3 +91,5 @@ title: Skin conditions photographs
 > 
 > Papular urticaria
 {:.figure .medium .fixed}
+
+</div>
