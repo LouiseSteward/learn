@@ -12645,7 +12645,7 @@ works:
                 id: "case-study-4"
                 label: "Case study 4"
           - file: "06a"
-            id: "06a-skills-feeding-sick-or-high-risk-infants"
+            id: "6a-skills-feeding-sick-or-high-risk-infants"
             label: "**6a.** Skills: Feeding sick or high-risk infants"
             class: "auxiliary"
             children:
