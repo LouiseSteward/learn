@@ -626,6 +626,12 @@ ol li .figure, ul li .figure {
     }
 }
 
+.toc-list .toc-entry-text {
+    strong:first-child {
+        font-weight: inherit;
+    }
+}
+
 // Chapter TOCs are only for the web
 .chapter-toc {
     display: none;
