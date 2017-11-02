@@ -576,9 +576,12 @@ ol li .figure, ul li .figure {
 // .wide can be used for figures or other elements
 .wide {
     column-span: all;
-    // &.figure {
-    //     float: bottom; // rather than the default column-bottom
-    // }
+    &.figure {
+        // float: bottom; // rather than the default column-bottom
+        table {
+            column-span: all;
+        }
+    }
 }
 
   // These classes set the height of any element relative to the $line-height-default.
