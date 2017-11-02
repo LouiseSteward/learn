@@ -32,28 +32,28 @@ This section provides copies of the screening tools discussed in this book, info
 > 1. During the past month, have you been bothered by feeling down, depressed or hopeless? Yes/No
 > 2. During the past month, have you been bothered by little interest or pleasure in doing things? Yes/No
 > 3. Is this something you feel you need or want help with? Yes/No
-{:.box .fixed}
+{:.box .fixed .wide}
 
 > ### The Whooley Depression Screen (Afrikaans)
 > 
 > 1. Gedurende die laaste maand, was jy gepla deur om teneergedruk, depressief of sonder hoop te voel? Ja/Nee
 > 2. Gedurende die laaste maand, was jy gepla deur min plesier in dinge doen, of min belangstelling in dinge? Ja/Nee
 > 3. Voel jy dis iets waarmee hy hulp benodig het, of hulp mee wil hê? Ja/Nee
-{:.box .fixed}
+{:.box .fixed .wide}
 
 > ### The Whooley Depression Screen (IsiXhosa)
 > 
 > 1. Kule nyanga igqithileyo / idlulileyo ingaba ukhe waziva umoya wakho uphantsi, ukhathazekile ungenalo ithemba? Ewe/Hayi
 > 2. Kule nyanga igqithileyo / idlulileyo ingaba ukhe wahlutshwa kungabi namdla ekwenzeni izinto okanye ok umdla omncinci ekwenzeni izinto? Ewe/Hayi
 > 3. Ingaba lento uziva ufuna / udlinga unceolo ngayo na? Ewe/Hayi
-{:.box .fixed}
+{:.box .fixed .wide}
 
 > ### The Whooley Depression Screen (French)
 > 
 > 1. Pendant le mois passé, avez-vous été embêtée par les problèmes suivants: se sentir malheureuse, dépressive ou désespérée? Oui/Non
 > 2. Pendant le mois passé, avez-vous été embêtée par un manque d’intérêt ou de plaisir à effectuer des activités? Oui/Non
 > 3. Voulez-vous ou avez-vous besoin d’aide avec ces sentiments-là? Oui/Non
-{:.box .fixed}
+{:.box .fixed .wide}
 
 > ### Edinburgh Postnatal Depression Scale (EPDS) (English)
 > 
@@ -115,7 +115,7 @@ This section provides copies of the screening tools discussed in this book, info
 > ☐ Never
 > 
 > Thank you
-{:.box}
+{:.box .wide}
 
 > ### Edinburgh Postnatal Depression Scale (EPDS) (Afrikaans)
 > 
@@ -179,7 +179,7 @@ This section provides copies of the screening tools discussed in this book, info
 > ☐ Nooit  
 > 
 > Baie dankie
-{:.box}
+{:.box .wide}
 
 > ### Edinburgh Postnatal Depression Scale (EPDS) (isiXhosa)
 > 
@@ -243,7 +243,7 @@ This section provides copies of the screening tools discussed in this book, info
 > ☐ Ayizange  
 > 
 > Enkosi kakhulu
-{:.box}
+{:.box .wide}
 
 > ### Edinburgh Postnatal Depression Scale (EPDS) (French)
 > 
@@ -307,7 +307,7 @@ This section provides copies of the screening tools discussed in this book, info
 > ☐ Jamais  
 > 
 > Merci
-{:.box}
+{:.box .wide}
 
 > ### Risk Factor Assessment (RFA) (English)
 > 
@@ -330,7 +330,7 @@ This section provides copies of the screening tools discussed in this book, info
 > | 11 | I have had serious depression, panic attacks or problems with anxiety before.                                                           | ☐   | ☐  |
 > 
 > Thank you
-{:.box .fixed}
+{:.box .fixed .wide}
 
 > ### Risk Factor Assessment (RFA) (Afrikaans)
 > 
@@ -355,7 +355,7 @@ This section provides copies of the screening tools discussed in this book, info
 > | 11 | Ek het vantevore aan ernstige depressie gelei, paniek aanvalle of probleme met angs gehad.                                        | ☐   | ☐  |
 > 
 > Dankie
-{:.box .fixed}
+{:.box .fixed .wide}
 
 > ### Risk Factor Assessment (RFA) (isiXhosa)
 > 
@@ -378,7 +378,7 @@ This section provides copies of the screening tools discussed in this book, info
 > | 11 | Ndike ndaba nokudakumba okuxhalabisayo komphefumlo, ndaziva ngathi. Ndivaleka umphefumlo, intliziyo ibetha ngamandla, ndinokudinwa okugqithileyo kwixesha elidlulileyo.                        | ☐   | ☐  |
 > 
 > Enkosi
-{:.box .fixed}
+{:.box .fixed .wide}
 
 > ### Risk Factor Assessment (RFA) (French)
 > 
@@ -401,7 +401,7 @@ This section provides copies of the screening tools discussed in this book, info
 > | 11 | J’ai souffert de dépression sérieuse, panique ou des problèmes d’anxiété au passé.                                                                   | ☐   | ☐  |
 > 
 > Merci
-{:.box .fixed}
+{:.box .fixed .wide}
 
 ## 2. Termination of pregnancy (TOP) services
 {:.page-break-before}
@@ -620,9 +620,9 @@ A woman can apply for a Protection Order at any Magistrates’ Court nearest to 
 
 ### 6-3 What happens if the abuser goes against the Protection Order?
 
-*	If the woman is abused after she has received her Interim or Final Protection Order, she must take the Interim or Final Warrant of Arrest and her copy of the Interim or Final Protection Order to the police so that they can arrest her abuser. 
-*	The woman will have to return to court to get another Warrant of Arrest when the police take her Warrant of Arrest away from her when they arrest her abuser.
-*	If she does not have a Warrant of Arrest, then she will have to take her Protection Order with her to the police station and lay a charge of assault against her abuser.
+*	{:.allow-break}If the woman is abused after she has received her Interim or Final Protection Order, she must take the Interim or Final Warrant of Arrest and her copy of the Interim or Final Protection Order to the police so that they can arrest her abuser. 
+*	{:.allow-break}The woman will have to return to court to get another Warrant of Arrest when the police take her Warrant of Arrest away from her when they arrest her abuser.
+*	{:.allow-break}If she does not have a Warrant of Arrest, then she will have to take her Protection Order with her to the police station and lay a charge of assault against her abuser.
 
 ## 7. How to make a referral
 
@@ -631,7 +631,7 @@ A woman can apply for a Protection Order at any Magistrates’ Court nearest to 
 A letter of referral may be used when referring to an organisation outside your facility. Use the template below to draft a letter of referral.
 
 #### Letter of referral
-
+{:.page-break-before}
 > Address of your health unit  
 > Town  
 > District  
@@ -661,7 +661,7 @@ A letter of referral may be used when referring to an organisation outside your 
 > Your name
 > 
 > Job Title
-{:.box .fixed}
+{:.box .fixed .wide .keep-together}
 
 ### 7-2 Mental Health Referral Evaluation
 
@@ -693,14 +693,12 @@ After referring your client, complete a 'follow-up' evaluation using the form be
 > 
 > Why?  
 > 
-{:.box .fixed} 
+{:.box .fixed .wide} 
 
 ## 8. South African national helplines
 
-South African national helpline contact numbers
-{:.table-caption}
-
-|-------------------------------------------------------------+-------------------------------------|
+{% include figure
+   markdown="|-------------------------------------------------------------+-------------------------------------|
 |                        Organisation                         |               Number                |
 |-------------------------------------------------------------+-------------------------------------|
 | Advice Desk for Abused Women                                | 031 262 9673/9679 or 031&nbsp;204&nbsp;4922   |
@@ -729,7 +727,11 @@ South African national helpline contact numbers
 | Stop Gender Violence Helpline                               | 0800 150 150                        |
 | Western Cape Mental Health Service Directory                | 021 483 4003/4270/5660/4572         |
 | National Mental Health Information Line                     | 0800 567 567                        |
-|-------------------------------------------------------------+-------------------------------------|
+|-------------------------------------------------------------+-------------------------------------|"
+   caption="South African national helpline contact numbers"
+   description="South African national helpline contact numbers"
+   class="wide"
+%}
 
 > National Mental Health Information Line: 0800 567 567
 

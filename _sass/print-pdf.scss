@@ -584,6 +584,17 @@ ol li .figure, ul li .figure {
     }
 }
 
+  // These classes set the height of any element relative to the $line-height-default.
+  // Especially useful for controlling the height of images to retain a baseline grid.
+  // $line-height-default should be set in a non-relative unit, like points,
+  // otherwise you'll get exponential differences in height.
+  @for $i from 1 through 100 {
+    $height: $i * $line-height-default;
+    .figure-image-height-#{$i}#{$edition-suffix} img {
+      height: $height;
+    }
+  }
+
 // --------------------------------------------------------
 // Images
 .logo {

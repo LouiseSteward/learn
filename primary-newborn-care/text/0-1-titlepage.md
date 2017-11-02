@@ -3,6 +3,8 @@ title: Title page
 style: title-page page-1
 ---
 
+{% include metadata %}
+
 Primary Newborn Care
 {:.titlepage-title}
 
