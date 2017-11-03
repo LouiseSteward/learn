@@ -595,6 +595,12 @@ ol li .figure, ul li .figure {
     }
   }
 
+.figure-gallery {
+    .figure {
+        display: inline-block;
+    }
+}
+
 // --------------------------------------------------------
 // Images
 .logo {
@@ -736,5 +742,10 @@ ol li .figure, ul li .figure {
 @for $i from 0 through 20 {
     .add-lines-#{$i} {
         padding-bottom: ($line-height-default * $i);
+    }
+}
+@for $i from 0 through 20 {
+    .space-below-#{$i} {
+        margin-bottom: ($line-height-default * $i);
     }
 }
