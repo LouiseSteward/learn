@@ -25,8 +25,7 @@ The level of care needed is shown as follows:
 
 3 = For high-risk patients.
 
-{% include figure
-   html="<table>
+<table class="wide">
 <thead>
  <tr>
   <td><p>Risk factors</p></td>
@@ -758,14 +757,11 @@ The level of care needed is shown as follows:
   <td><p>1</p></td>
  </tr>
  </tbody>
-</table>"
-   class="wide"
-%}
+</table>
 
 ## BMI table
 
-{% include figure
-   html="<table width='100%'>
+<table class="wide">
  <thead>
   <tr>
    <td>Height&nbsp;&#8594;<br />Weight&nbsp;&#8595;</td>
@@ -1229,6 +1225,4 @@ The level of care needed is shown as follows:
    <td>29.3</td>
   </tr>
  </tbody>
-</table>"
-   class="wide"
-%}
+</table>
