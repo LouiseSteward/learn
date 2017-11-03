@@ -461,6 +461,7 @@ blockquote.figure {
         strong:first-of-type {
             font-weight: normal;
         }
+        // auxiliary items like skills workshops less prominent
     }
     li {
         &.frontmatter-entry {
@@ -479,66 +480,21 @@ blockquote.figure {
                 }
             }
         }
+        &.auxiliary a {
+            color: #b2b2b2;
+        }
         ul, ol {
             li {
                 display: none;
             }
         }
     }
-}
-
-toc-list, .markdown-toc {
-    font-family: $font-text-secondary;
-    h1#contents {
-        display: none; // Takes up too much space on small screens
-    }
-    ol, ul, ul.chapter-toc {
-        list-style-type: none;
-        margin: 0 0 1em 0;
-        padding: 0;
-        li, .chapter-toc li {
-            margin: 0 0 0.5em 0;
-            a, .chapter-toc a {
-                clear: both;
-                text-decoration: none;
-                border: 1px solid #f2f2f2;
-                padding: 0.25em;
-                margin: 0 0 0.5em 0;
-                display: block;
-                border-radius: 0.2em;
-                background-color: #f9f9f9;
-                &:hover {
-                    background-color: white;
-                }
-            }
-            ol, ul {
-                display: none;
-                li {
-                    margin: 0 0 0 1em;
-                    a {
-                        color: #b2b2b2;
-                    }
-                }
-            }
+    // Don't actually make <strong> numbers bold, just using them as spans
+    .toc-entry-text {
+        strong:first-child {
+            font-weight: inherit;
         }
     }
-    .auxiliary a {
-        color: #b2b2b2;
-    }
-    .prelims {
-        a {
-            background-color: white;
-            display: inline-block;
-            float: left;
-            clear: none;
-            margin-right: 0.5em;
-            color: #b2b2b2;
-            &:hover {
-                background-color: #f9f9f9;
-            }
-        }
-    }
-
 }
 
 // Static tests pages
