@@ -5,7 +5,9 @@ title: Photographs
 {% include metadata %}
 
 # Photographs
+{:.space-below-1}
 
+<div class="figure-gallery" markdown="1">
 > ![Heterochromia: Different-coloured eyes or blue eyes in dark skinned child]({{ images }}/p-1-heterochromia.jpg)
 > 
 > Heterochromia: Different-coloured eyes or blue eyes in dark skinned child
@@ -80,3 +82,4 @@ title: Photographs
 > 
 > Severe meningomyelocoele with a thin membrane covering the defect
 {:.figure .medium .fixed}
+</div>
