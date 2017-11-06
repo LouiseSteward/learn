@@ -269,9 +269,23 @@ a {
     }
 }
 
+// Navigation
+
+// 'Contents' or menu button
 [href="#nav"] {
     min-width: 1em;
     text-align: center;
+}
+
+// Navigation list
+
+#nav {
+    // Don't actually make <strong> numbers bold, just using them as spans
+    a {
+        strong:first-child {
+            font-weight: inherit;
+        }
+    }
 }
 
 // Home page
@@ -487,12 +501,6 @@ blockquote.figure {
             li {
                 display: none;
             }
-        }
-    }
-    // Don't actually make <strong> numbers bold, just using them as spans
-    .toc-entry-text {
-        strong:first-child {
-            font-weight: inherit;
         }
     }
 }
