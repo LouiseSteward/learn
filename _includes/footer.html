@@ -5,7 +5,10 @@
 
             {% if project-footer and project-footer != "" %}
                 <p>
-                    {{ project-footer | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}
+                    <a href="http://bettercare.co.za">
+                        <img src="{{ path-to-root-directory }}/assets/images/bettercare-logo.svg" />
+                    </a>
+                    <!--{{ project-footer | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}-->
                 </p>
             {% endif %}
 
