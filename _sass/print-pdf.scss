@@ -646,9 +646,16 @@ ol li .figure, ul li .figure {
     }
 }
 
-.toc-list .toc-entry-text {
-    strong:first-child {
-        font-weight: inherit;
+.toc-list {
+    .toc-entry-title {
+        &:last-of-type {
+            page-break-before: auto; // overrides default for lists
+        }
+    }
+    .toc-entry-text {
+        strong:first-child {
+            font-weight: inherit;
+        }
     }
 }
 
@@ -662,36 +669,43 @@ ol li .figure, ul li .figure {
 
 .test {
     column-fill: auto; /* Better than balance because our groups of MCQs keep together */
-}
-.test ul, .test ol {
-    margin: 0;
-    padding: 0;
-}
-.test ol li {
-    margin-bottom: $line-height-default;
-    page-break-inside: avoid;
-    font-weight: bold;
-}
-.test ol li li {
-    list-style-type: lower-alpha;
-    margin: 0;
-    font-weight: normal;
-}
-.test li:first-of-type {
-    page-break-after: avoid;
-}
-.test li:last-of-type {
-    page-break-before: avoid;
-}
-.test li li:first-of-type {
-    page-break-before: auto;
-}
-.test .correct-answer {
-    display: none;
-    border: 1px solid #f2f2f2;
-    padding: ($line-height-default * 0.1) ($line-height-default * 0.3);
-    border-radius: $button-border-radius;
-    margin: 0 0 0 ($line-height-default * 0.5);
+    h1, h2 {
+        margin-bottom: $line-height-default * 2;
+    }
+    ul, ol {
+        // The question
+        li {
+            margin-bottom: $line-height-default;
+            font-weight: bold;
+            page-break-inside: avoid;
+            &:first-of-type {
+                // page-break-after: avoid;
+            }
+            &:last-of-type {
+                // page-break-before: avoid;
+            }
+            // The answer options
+            li {
+                page-break-inside: avoid;
+                page-break-before: avoid;
+                list-style-type: lower-alpha;
+                margin: 0;
+                font-weight: normal;
+                &:first-of-type {
+                    page-break-before: auto;
+                }
+            }
+        }
+    }
+    // Useful when using inspect to show all correct answers,
+    // hidden by default
+    .correct-answer {
+        display: none;
+        border: 1px solid #f2f2f2;
+        padding: ($line-height-default * 0.1) ($line-height-default * 0.3);
+        border-radius: $button-border-radius;
+        margin: 0 0 0 ($line-height-default * 0.5);
+    }
 }
 
 // --------------------------------------------------------

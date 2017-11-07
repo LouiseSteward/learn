@@ -28,10 +28,10 @@ $max-width-default: 40em;
 // - 'display' fonts are used for headings and similar short-string features.
 // For each category, we set a main font and a secondary font, allowing up to four fonts.
 // Finally, we set a fifth, monospace font for elements like computer code.
-$font-text-main: "Crimson", serif;
+$font-text-main: "Crimson Text", serif;
 $font-text-secondary: "Source Sans Pro", sans-serif;
 $font-display-main: "Source Sans Pro", sans-serif;
-$font-display-secondary: "Crimson", serif;
+$font-display-secondary: "Crimson Text", serif;
 $font-code: "Ubuntu Mono", monospace;
 
 // Set font size and line-height in ems or px.
@@ -53,7 +53,7 @@ $button-border-radius: 0.2em; // Roundness of button corners.
 $color-text-main: #222222;
 $color-text-secondary: #222222;
 $color-background: white;
-$color-light: #e0e0e0;
+$color-light: #efeeee;
 $color-mid: #9c9c9c;
 $color-accent: #4f89d2;
 $color-links: $color-accent;
@@ -86,13 +86,13 @@ $text-divider: ""; // Empty leaves space. \2022 is a bullet
 
 // Footer
 $footer-text-color: $color-text-main;
-$footer-background-color: $color-accent;
+$footer-background-color: white;
 $footer-border-color: $color-accent;
 
 // Website masthead
 $masthead-text-color: $color-light;
 $masthead-background-color: $color-accent;
-$masthead-border-color: $color-light;
+$masthead-border-color: $color-accent;
 
 // Website sidebar/navigation
 $nav-bar-text-size: 0.8em;
@@ -101,7 +101,7 @@ $nav-bar-close: "\00D7"; // &times; ×
 $nav-bar-children-prompt: "+";
 $nav-bar-children-prompt-hide: "\2212"; // \2212 is an actual minus sign
 $nav-bar-scrollbar: true;
-$nav-bar-width: 15em;
+$nav-bar-width: 20em;
 $nav-bar-fixed: true; // fixed is not fully supported on many mobile browsers
 $nav-bar-label-color: $color-light;
 $nav-bar-label-background-color: $masthead-background-color;
@@ -177,7 +177,8 @@ $web-reset-sequences: true; // This should stay last in the @import list
 // Import font files (@font-face) for fonts you specify
 // ----------------------------------------------------
 
-// Import fonts from book-specific CSS.
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600');
 
 // ---------------------
 // Theme modules
@@ -245,7 +246,7 @@ $color-accent-secondary: #4fd298;
 // Basic typography
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 500;
+    font-weight: 600;
     strong:first-of-type {
         color: $color-mid;
         display: block;
@@ -261,10 +262,16 @@ a {
 // Masthead
 
 .masthead {
-    li {
-        // Reset markdown font weight
-        strong {
-            font-weight: normal;
+    ul {
+        max-width: 80%; // reduces overlap with menu button
+        li {
+            &.masthead-project-name {
+                font-weight: 600;
+            }
+            // Reset markdown font weight
+            strong {
+                font-weight: normal;
+            }
         }
     }
 }
@@ -275,6 +282,10 @@ a {
 [href="#nav"] {
     min-width: 1em;
     text-align: center;
+}
+// Don't center it when the menu is open
+.js-nav-open [href="#nav"] {
+    text-align: left;
 }
 
 // Navigation list
@@ -307,15 +318,45 @@ a {
             text-align: center;
             .book-gallery-image {
                 display: block;
+                height: 12em;
                 img {
-                    max-height: 8em;
+                    height: 100%;
                     border: 1px solid $color-light;
+                    &:hover {
+                        box-shadow: 0 0 15px -5px $color-mid;
+                    }
                 }
             }
             .book-gallery-title {
-                display: none;
+                // copies styles from _web-buttons partial
+                display: inline-block;
+                font-family: $font-text-secondary;
+                line-height: 100%;
+                background: $color-buttons;
+                padding: 0.2em 0.4em;
+                margin: 0.5em 0 0 0;
+                border-radius: $button-border-radius;
+                width: 6em;
+                vertical-align: top;
+                &:hover {
+                    background-color: $color-buttons-hover;
+                }
+                a {
+                    color: $color-light;
+                    display: inline-block;
+                    width: 100%;
+                }
             }
         }
+    }
+}
+
+// Footer
+
+.footer-content {
+    max-width: none;
+    img {
+        max-width: 10em;
     }
 }
 
@@ -401,7 +442,7 @@ blockquote.figure {
     padding: 0.5em 0 1em 0;
     margin: 0 auto;
     max-width: 100%; 
-    object-fit: scale-down;
+    object-fit: unset; // overrides template scale-down, which makes svgs really small
 }
 @media screen and (max-height: 800px) {
     blockquote.figure p img {
@@ -433,11 +474,11 @@ blockquote.figure {
 .title-page {
     .titlepage-title {
         font-size: 3em;
-        font-weight: 700;
+        font-weight: 600;
         line-height: 100%;
     }
     .titlepage-subtitle {
-        font-weight: 400;
+        font-weight: normal;
         margin: 0 0 1em 0;
         line-height: 100%;
     }
