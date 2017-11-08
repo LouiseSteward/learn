@@ -631,7 +631,8 @@ A woman can apply for a Protection Order at any Magistrates’ Court nearest to 
 A letter of referral may be used when referring to an organisation outside your facility. Use the template below to draft a letter of referral.
 
 #### Letter of referral
-{:.page-break-before}
+{:.keep-with-next .wide}
+
 > Address of your health unit  
 > Town  
 > District  
@@ -670,6 +671,7 @@ This evaluation form helps to see if your referral has been useful.
 After referring your client, complete a 'follow-up' evaluation using the form below. 
 
 #### Referral Evaluation Form
+{:.wide}
 
 > Date referral made
 > 
@@ -697,8 +699,10 @@ After referring your client, complete a 'follow-up' evaluation using the form be
 
 ## 8. South African national helplines
 
-{% include figure
-   markdown="|-------------------------------------------------------------+-------------------------------------|
+South African national helpline contact numbers
+{:.table-caption}
+
+|-------------------------------------------------------------+-------------------------------------|
 |                        Organisation                         |               Number                |
 |-------------------------------------------------------------+-------------------------------------|
 | Advice Desk for Abused Women                                | 031 262 9673/9679 or 031&nbsp;204&nbsp;4922   |
@@ -727,11 +731,8 @@ After referring your client, complete a 'follow-up' evaluation using the form be
 | Stop Gender Violence Helpline                               | 0800 150 150                        |
 | Western Cape Mental Health Service Directory                | 021 483 4003/4270/5660/4572         |
 | National Mental Health Information Line                     | 0800 567 567                        |
-|-------------------------------------------------------------+-------------------------------------|"
-   caption="South African national helpline contact numbers"
-   description="South African national helpline contact numbers"
-   class="wide"
-%}
+|-------------------------------------------------------------+-------------------------------------|
+{:.wide}
 
 > National Mental Health Information Line: 0800 567 567
 
