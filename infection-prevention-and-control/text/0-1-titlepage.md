@@ -17,4 +17,4 @@ Written by Angela Dramowski
 Edited by David Woods and Shaheen Mehtar
 {:.titlepage-author}
 
-![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}

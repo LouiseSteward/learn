@@ -14,4 +14,4 @@ An advanced-midwife's guide to labour and delivery
 Developed by the Perinatal Education Programme
 {:.titlepage-author}
 
-![Bettercare logo]({{ images }}/bettercare-logo.jpg){:.titlepage-logo}
+![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}

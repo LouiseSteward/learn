@@ -23,4 +23,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please [Bettercare](http://bettercare.com).
+For any other uses, please see [Bettercare](http://bettercare.com).
