@@ -1,0 +1,112 @@
+# Live website config
+
+# Don't output the docs
+collections:
+  docs:
+    output: false
+
+# Jekyll will ignore these files and folders. 
+# Useful for temporarily speeding up processing for particular files
+# Once your CSS is stable, exclude `css` here and keep it below under `keep_files`.
+# Include the file extension too. E.g. book/text/01.md
+exclude:
+# Build tools to exclude ----------------
+- run-linux.sh
+- run-mac.command
+- run-windows.bat
+- Gemfile
+- Gemfile.lock
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- eslint.json
+- gulpfile.js
+- package.json
+- package-lock.json
+# Books ---------------------------------
+# - adult-hiv
+# - breast-care
+- catalogue
+# - child-healthcare
+# - childhood-critical-care
+# - childhood-hiv
+# - childhood-tb
+# - congenital-disorders
+# - ebola-prevention-and-control
+# - facilitators-guide
+# - fetal-heart-rate-handbook
+# - infection-prevention-and-control
+# - intrapartum-care
+# - maternal-care
+# - maternal-mental-health
+# - mother-and-baby-care-for-community-health-workers
+# - mother-and-baby-friendly-care
+# - newborn-care
+# - perinatal-hiv
+# - primary-maternal-care
+# - primary-newborn-care
+# - samples
+# - saving-mothers-and-babies
+# - well-women
+# Images ------------------------------------
+- /*/images/print-pdf
+- /*/images/screen-pdf
+- /*/images/epub
+- /*/images/app
+- /*/images/web
+
+# Can be useful to stop Jekyll overwriting files in _site.
+# E.g. generate CSS once, then exclude above but keep here
+# to make content regeneration faster.
+# The file path is relative to the site.output directory.
+keep_files:
+# - adult-hiv
+# - breast-care
+# - catalogue
+# - child-healthcare
+# - childhood-critical-care
+# - childhood-hiv
+# - childhood-tb
+# - congenital-disorders
+# - ebola-prevention-and-control
+# - facilitators-guide
+# - fetal-heart-rate-handbook
+# - infection-prevention-and-control
+# - intrapartum-care
+# - maternal-care
+# - maternal-mental-health
+# - mother-and-baby-care-for-community-health-workers
+# - mother-and-baby-friendly-care
+# - newborn-care
+# - perinatal-hiv
+# - primary-maternal-care
+# - primary-newborn-care
+# - samples
+# - saving-mothers-and-babies
+# - well-women
+# Images ------------------------------------
+- adult-hiv/images/web
+- breast-care/images/web
+- catalogue/images/web
+- child-healthcare/images/web
+- childhood-critical-care/images/web
+- childhood-hiv/images/web
+- childhood-tb/images/web
+- congenital-disorders/images/web
+- ebola-prevention-and-control/images/web
+- facilitators-guide/images/web
+- fetal-heart-rate-handbook/images/web
+- infection-prevention-and-control/images/web
+- intrapartum-care/images/web
+- maternal-care/images/web
+- maternal-mental-health/images/web
+- mother-and-baby-care-for-community-health-workers/images/web
+- mother-and-baby-friendly-care/images/web
+- newborn-care/images/web
+- perinatal-hiv/images/web
+- primary-maternal-care/images/web
+- primary-newborn-care/images/web
+- samples/images/web
+- saving-mothers-and-babies/images/web
+- well-women/images/web
