@@ -54,7 +54,7 @@ exclude:
 - /*/images/screen-pdf
 - /*/images/epub
 - /*/images/app
-- /*/images/web
+# - /*/images/web
 
 # Can be useful to stop Jekyll overwriting files in _site.
 # E.g. generate CSS once, then exclude above but keep here
@@ -86,27 +86,27 @@ keep_files:
 # - saving-mothers-and-babies
 # - well-women
 # Images ------------------------------------
-- adult-hiv/images/web
-- breast-care/images/web
-- catalogue/images/web
-- child-healthcare/images/web
-- childhood-critical-care/images/web
-- childhood-hiv/images/web
-- childhood-tb/images/web
-- congenital-disorders/images/web
-- ebola-prevention-and-control/images/web
-- facilitators-guide/images/web
-- fetal-heart-rate-handbook/images/web
-- infection-prevention-and-control/images/web
-- intrapartum-care/images/web
-- maternal-care/images/web
-- maternal-mental-health/images/web
-- mother-and-baby-care-for-community-health-workers/images/web
-- mother-and-baby-friendly-care/images/web
-- newborn-care/images/web
-- perinatal-hiv/images/web
-- primary-maternal-care/images/web
-- primary-newborn-care/images/web
-- samples/images/web
-- saving-mothers-and-babies/images/web
-- well-women/images/web
+# - adult-hiv/images/web
+# - breast-care/images/web
+# - catalogue/images/web
+# - child-healthcare/images/web
+# - childhood-critical-care/images/web
+# - childhood-hiv/images/web
+# - childhood-tb/images/web
+# - congenital-disorders/images/web
+# - ebola-prevention-and-control/images/web
+# - facilitators-guide/images/web
+# - fetal-heart-rate-handbook/images/web
+# - infection-prevention-and-control/images/web
+# - intrapartum-care/images/web
+# - maternal-care/images/web
+# - maternal-mental-health/images/web
+# - mother-and-baby-care-for-community-health-workers/images/web
+# - mother-and-baby-friendly-care/images/web
+# - newborn-care/images/web
+# - perinatal-hiv/images/web
+# - primary-maternal-care/images/web
+# - primary-newborn-care/images/web
+# - samples/images/web
+# - saving-mothers-and-babies/images/web
+# - well-women/images/web
