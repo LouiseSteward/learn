@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 4: HIV in the newborn infant
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	How may HIV be transmitted from a woman to her newborn infant?
 	-	By touching the infant
 	-	By kissing the infant

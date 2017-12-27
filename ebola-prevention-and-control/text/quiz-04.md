@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 4: Support Services and Documentation
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What are healthcare support services?
 	-	The services that find adequate funding to pay healthcare staff
 	+	The services that make sure that staff have a safe working environment

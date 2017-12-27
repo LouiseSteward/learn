@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 8: Palliative care
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is palliative care?
 	-	Primary care provided at a local clinic
 	-	Poor care which is offered when the facilities and staff are not available to provide good care

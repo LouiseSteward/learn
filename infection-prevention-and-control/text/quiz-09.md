@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 9: Antimicrobial stewardship 
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Antimicrobial resistance is:
 	-	The ability of pathogens to multiply under difficult circumstances
 	-	The ability of pathogens to multiply in healthcare environments

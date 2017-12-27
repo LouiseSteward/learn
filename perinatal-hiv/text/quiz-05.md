@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 5: HIV and counselling
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Counselling is a process whereby a counsellor:
 	-	Tells people what to do
 	-	Educates people

@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 4: Feeding normal infants
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Why is it important for infants to be fed breast milk?
 	-	Breast milk meets all the nutritional needs of a term infant.
 	-	Breast milk reduces the risk of gastroenteritis.

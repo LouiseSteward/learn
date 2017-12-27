@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 2: Clinical presentation of childhood tuberculosis
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	A high index of suspicion:
 	+	Is important in making the correct diagnosis of tuberculosis

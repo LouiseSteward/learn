@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 1: Introduction to childhood HIV infection
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	HIV is a:
 	-	Fungus

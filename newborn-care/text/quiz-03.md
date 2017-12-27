@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 3: The routine care of normal infants
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is a normal infant?
 	-	An infant that weighs more than 2000 g.
 	-	An infant that has a 1 minute Apgar score above 5.

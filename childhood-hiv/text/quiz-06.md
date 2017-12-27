@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 6: HIV-associated infections and end-of-life care
 
-Please choose the one most correct answer to each question or statement
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	What are ‘HIV-associated infections’?
 	-	Other retroviral infections similar to HIV

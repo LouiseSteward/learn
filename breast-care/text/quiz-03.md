@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 3: Special investigations of the breast
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	The aim of special investigations of the breast is:
 	-	To use surgery to make a diagnosis
 	-	To use a mammogram alone to make a diagnosis

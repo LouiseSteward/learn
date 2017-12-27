@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 1: The normal breast
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is the breast line?
 	+	A line from the armpit to the groin where breasts can develop
 	-	A blue line which is commonly seen around the areola in young girls

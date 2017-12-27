@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 11: Oxygen therapy
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Metabolism requiring oxygen is called:
 	-	Oxidation
 	-	Anaerobic metabolism

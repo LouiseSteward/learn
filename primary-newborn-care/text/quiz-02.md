@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 2: Care of normal infants
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	What type of care is needed by a normal infant?
 	+	Primary care at a level 1 clinic

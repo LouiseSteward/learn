@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 14: Congenital Disorders
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	How many infants are born with a congenital disorder?
 	-	1%
 	+	3%

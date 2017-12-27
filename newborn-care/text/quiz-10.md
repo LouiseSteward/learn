@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 10: Respiratory distress and apnoea
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Which one of the following clinical signs is used to diagnose respiratory distress?
 	-	Pallor
 	-	Decreased air entry of the chest

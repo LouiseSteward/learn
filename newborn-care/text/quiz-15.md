@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 15: Communication
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Communication with parents can be improved by:
 	-	Giving them complicated explanations
 	-	Speaking to them separately

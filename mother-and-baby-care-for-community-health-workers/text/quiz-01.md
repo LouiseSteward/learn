@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 1: Care of the mother
 
-Please choose the **one**, most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	How long are most normal pregnancies?
 	-	36 weeks

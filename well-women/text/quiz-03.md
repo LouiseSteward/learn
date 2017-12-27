@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 3: Common genital and urinary infections
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Genital infections include:
 	-	Infections of the bladder
 	-	Infections of the kidneys

@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 13: Trauma and bleeding
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is a caput succedaneum?
 	-	A fracture of the skull
 	+	Scalp oedema

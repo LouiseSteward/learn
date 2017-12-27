@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 2: Clinical assessment of the breast
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Clinical assessment of a woman’s breasts consists of:
 	-	Taking a good history only
 	-	Taking a history and asking important questions

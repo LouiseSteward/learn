@@ -7,8 +7,7 @@ style: chapter test
 
 # Quiz 3: Exclusive breastfeeding
 
-Please choose the **one**, most correct answer to each question or statement.
-
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	What is the best way of feeding a baby?
 	+	Exclusive breastfeeding

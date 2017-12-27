@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 4: Emergency management of infants
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	The body temperature of a newborn infant should be measured by placing a mercury thermometer:
 	-	In the mouth

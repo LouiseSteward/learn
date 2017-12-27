@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 2: Identifying maternal mental illness
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Why is mental illness often overlooked?
 	-	Mental illness is not important
 	+	Health workers may feel uncomfortable having to address mental illness

@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 9: Jaundice, anaemia and polycythaemia
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is the definition of jaundice?
 	-	An increase in the concentration of bilirubin in the serum.
 	+	The yellow discolouration of the skin and sclera due to deposits of bilirubin.

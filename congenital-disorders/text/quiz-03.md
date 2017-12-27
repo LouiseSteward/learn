@@ -5,7 +5,7 @@ style: chapter test
 
 # Quiz 3: Chromosomal disorders
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	What is Down syndrome?
 	-	A condition caused by insect bites and resulting in generalised oedema.

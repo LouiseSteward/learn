@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 6: The puerperium and family planning
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	Normal lochia:
 	-	Is colourless.

@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 5: Management of children with antiretroviral treatment
 
-Please choose the one most correct answer to each question or statement
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	At which clinical stage should antiretroviral treatment be started in children older than 5 years?
 	-	Clinical stage 1

@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 7: Temperature control and hypothermia
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	The body temperature of a newborn infant should be measured by placing a digital thermometer:
 	-	In the mouth
 	-	In the rectum

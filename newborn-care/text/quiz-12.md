@@ -5,6 +5,8 @@ style: chapter test
 
 ## Quiz 12: Infection
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is the risk of infection in the newborn infant?
 	-	The same as in a older child
 	-	The same as in an adult

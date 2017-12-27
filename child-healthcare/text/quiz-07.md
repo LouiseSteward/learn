@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 7: Lower respiratory tract conditions
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is a sign of breathing difficulty?
 	-	Cough.
 	+	Indrawing of the lower chest wall.

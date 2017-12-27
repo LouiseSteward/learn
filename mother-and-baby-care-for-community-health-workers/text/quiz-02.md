@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 2: Care of the newborn baby
 
-Please choose the **one**, most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1. What is the definition of a low birth weight baby?
 	-	A baby that weighs less than 1500 g
