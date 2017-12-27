@@ -11,3 +11,10 @@ The live website is hosted at [bettercare.co.za/learn](http://bettercare.co.za/l
 ```
 $ bundle exec jekyll serve --config="_config.yml,_configs/_config.live.yml"
 ```
+
+## Licence
+
+This repository contains two licences:
+
+- a [Creative Commons Attribution, Non-commercial, No-derivatives](https://creativecommons.org/licenses/by-nc-nd/3.0/) licence, which covers the Bettercare learning-programme content
+- a GPL3 licence, which covers the software.
