@@ -3,7 +3,9 @@ title: Quiz 14. Congenital Disorders
 style: chapter test
 ---
 
-## Quiz 14: Congenital Disorders
+{% include metadata %}
+
+# Quiz 14: Congenital Disorders
 
 Please choose the *one*, most correct answer to each question or statement.
 

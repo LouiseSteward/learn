@@ -3,7 +3,9 @@ title: Quiz 2. Assessing gestational age and size at birth
 style: chapter test
 ---
 
-## Quiz 2: Assessing gestational age and size at birth
+{% include metadata %}
+
+# Quiz 2: Assessing gestational age and size at birth
 
 Please choose the *one*, most correct answer to each question or statement.
 

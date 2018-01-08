@@ -3,7 +3,9 @@ title: Quiz 15. Communication
 style: chapter test
 ---
 
-## Quiz 15: Communication
+{% include metadata %}
+
+# Quiz 15: Communication
 
 Please choose the *one*, most correct answer to each question or statement.
 

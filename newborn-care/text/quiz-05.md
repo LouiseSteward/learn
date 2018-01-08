@@ -3,7 +3,9 @@ title: Quiz 5. Care of high-risk and sick infants
 style: chapter test
 ---
 
-## Quiz 5: Care of high-risk and sick infants
+{% include metadata %}
+
+# Quiz 5: Care of high-risk and sick infants
 
 Please choose the *one*, most correct answer to each question or statement.
 

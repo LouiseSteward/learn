@@ -3,7 +3,9 @@ title: Quiz 6. Feeding sick or high-risk infants
 style: chapter test
 ---
 
-## Quiz 6: Feeding sick or high-risk infants
+{% include metadata %}
+
+# Quiz 6: Feeding sick or high-risk infants
 
 Please choose the *one*, most correct answer to each question or statement.
 

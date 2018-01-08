@@ -3,7 +3,9 @@ title: Quiz 3. The routine care of normal infants
 style: chapter test
 ---
 
-## Quiz 3: The routine care of normal infants
+{% include metadata %}
+
+# Quiz 3: The routine care of normal infants
 
 Please choose the *one*, most correct answer to each question or statement.
 
