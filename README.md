@@ -12,7 +12,7 @@ The live website is hosted at [bettercare.co.za/learn](http://bettercare.co.za/l
 2. Then enter:
 
     ```
-    $ bundle exec jekyll serve --config="_config.yml,_configs/_config.live.yml"
+    bundle exec jekyll serve --config="_config.yml,_configs/_config.live.yml"
     ```
 
 3. If you have errors, check that you have installed dependencies. The easiest way to do this is to run the usual output script and select the 'Install/update dependencies' option.
