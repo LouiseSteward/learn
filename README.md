@@ -6,11 +6,16 @@ These books are created with the [Electric Book](http://electricbook.works), a J
 
 The staging site includes [the docs](https://fireandlion.github.io/learn/docs/).
 
-The live website is hosted at [bettercare.co.za/learn](http://bettercare.co.za/learn). To build the HTML for the live website, install all dependencies then run:
+The live website is hosted at [bettercare.co.za/learn](http://bettercare.co.za/learn). To build the HTML for the live website, *don't use the usual output script*. Instead:
 
-```
-$ bundle exec jekyll serve --config="_config.yml,_configs/_config.live.yml"
-```
+1. Open a Terminal (or Command Prompt in Windows) in the `/learn` folder (or navigate to the folder in the Terminal, i.e. by using `cd`).
+2. Then enter:
+
+    ```
+    $ bundle exec jekyll serve --config="_config.yml,_configs/_config.live.yml"
+    ```
+
+3. If you have errors, check that you have installed dependencies. The easiest way to do this is to run the usual output script and select the 'Install/update dependencies' option.
 
 ## Licence
 
