@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 2: Patient management
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is an Ebola outbreak?
 	-	A common rash seen with Ebola
 	-	A severe form of bloody diarrhoea in an Ebola patient

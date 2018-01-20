@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 4: Practice of kangaroo mother care
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is a kangaroo mother care policy?
 	-	An exam that enables nurses to be registered as KMC specialists.
 	-	Hospital regulations which force all mothers to give KMC.

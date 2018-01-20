@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 5: Abuse of women
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What activity would qualify as abuse?
 	-	Repeated shouting at a women by her partner in order to control her
 	-	Demanding sex in return for financial support

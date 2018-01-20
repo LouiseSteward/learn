@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 3: HIV during labour and delivery
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is the chance of mother-to-infant transmission of HIV during labour and vaginal delivery if the woman is not receiving antiretroviral prophylaxis?
 	-	5%
 	+	15%

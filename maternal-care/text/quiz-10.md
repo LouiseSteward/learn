@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 10: Managing pain during labour
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	Analgesia means:
 	+	The relief of pain

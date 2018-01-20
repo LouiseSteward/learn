@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 2: Managing people with HIV infection
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Which of the following is dangerous to people with HIV infection?
 	-	Immunisation against hepatitis A and B
 	-	Primary prophylaxis with isoniazid

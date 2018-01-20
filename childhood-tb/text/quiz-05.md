@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 5: Preventing childhood tuberculosis
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	What is BCG?
 	-	A vaccine made from dead TB bacilli

@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 1: Virology and Epidemiology
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is Ebola?
 	-	A country in Central Africa
 	+	A common name for Ebola virus disease

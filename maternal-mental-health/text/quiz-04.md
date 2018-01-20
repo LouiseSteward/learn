@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 4: How to help mothers with mental health problems
  
+Please choose the *one*, most correct answer to each question or statement.
+ 
 1.	Why is the time around pregnancy particularly stressful?
 	-	It is a natural thing so it is not stressful
 	-	It could be embarrassing and stressful if your waters broke and you were out shopping

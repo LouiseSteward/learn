@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 4: The second stage of labour
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	When does the second stage of labour begin and end?
 	-	From the time the patient has an urge to bear down until the infant is completely delivered

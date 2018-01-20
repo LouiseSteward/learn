@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 3: Management of children with HIV infection
 
-Please choose the one most correct answer to each question or statement
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	Where should most children with HIV infection be managed?
 	+	In a community-based primary care clinic

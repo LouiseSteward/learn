@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 11: Parasites
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Children with roundworm infection:
 	+	Usually appear well and have no symptoms.
 	-	Present with blood in the stool.

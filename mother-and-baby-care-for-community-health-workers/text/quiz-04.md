@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 4: HIV in mother and baby
 
-Please choose the **one**, most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	How does HIV cause disease?
 	+	It damages the immune system

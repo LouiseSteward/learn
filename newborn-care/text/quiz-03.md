@@ -3,7 +3,11 @@ title: Quiz 3. The routine care of normal infants
 style: chapter test
 ---
 
-## Quiz 3: The routine care of normal infants
+{% include metadata %}
+
+# Quiz 3: The routine care of normal infants
+
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	What is a normal infant?
 	-	An infant that weighs more than 2000 g.

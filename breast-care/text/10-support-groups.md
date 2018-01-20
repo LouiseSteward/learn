@@ -57,9 +57,9 @@ Advocacy group aimed at moving the national dialogue to a patient-sensitive and 
 
 ## Breast Health Foundation (BHF)
 
-- Contact: Rebecca Musi
-- Tel: 011 428 9492 / 083 403 1011
-- Email: [thebhf@mweb.co.za](mailto:thebhf@mweb.co.za) / [rebecca@mybreast.org.za](mailto:rebecca@mybreast.org.za)
+- Contact: Louise Turner
+- Tel: 011 482 9492 or 0860 283 343
+- Email: [thebhf@mweb.co.za](mailto:thebhf@mweb.co.za) / [louise@mybreast.org.za](mailto:louise@mybreast.org.za)
 - Website: [www.mybreast.org.za](http://www.mybreast.org.za)
 
 The Breast Health Foundation focuses on a multidisciplinary approach to breast cancer through education. Education covers self-assessment techniques, general information regarding breast cancer and dispelling myths. 
@@ -88,15 +88,15 @@ Support to survivors of breast cancer is provided through Bosom Buddies.
 
 ## Bosom Buddies (BB)
 
-- Contact: Rebecca Musi
-- Tel: 0860 283 343 / 083 403 1011
-- Email: [rebecca@mybreast.org.za](mailto:rebecca@mybreast.org.za)
+- Contact: Louise Turner
+- Tel: 011 482 9492 or 0860 283 343
+- Email: [louise@mybreast.org.za](mailto:louise@mybreast.org.za)
 
 Bosom buddies is a Gauteng support group that aims to redefine the perceptions of breast cancer and promote positive mind set of survival, recovery and quality of life. There are regional branches.
 
 ## Campaign for Cancer (C4C)
 
-- Contact: Dot Webb
+- Contact: Lauren Pretorius
 - Tel: 0861 ASK NOW (0861 275 669) / 082 878 1348
 - Email: [info@campaign4cancer.co.za](mailto:info@campaign4cancer.co.za) / [dot@campaign4cancer.co.za](mailto:dot@campaign4cancer.co.za)
 - Website: [www.campaign4cancer.co.za](http://www.campaign4cancer.co.za)
@@ -114,39 +114,31 @@ CANSA is a large well-established NPO with branches throughout South Africa. Res
 ### Eastern Cape
 
 #### East London
-
 Tel: 042 727 1010
 
-#### Mthatha 
-
+#### Mthatha
 Tel: 047 532 5525
 
 #### Port Elizabeth
-
 Tel: 041 373 5157
 
 ### Free State
 
 #### Bethlehem
-
 Tel: 058 303 3522
 
 #### Bloemfontein
-
 Tel: 051 444 2580
 
 #### Welkom
-
 Tel: 057 353 2112
 
 ### Gauteng
 
-#### Alberton
-
+*Alberton*
 Tel: 011 869 5644
 
-#### Houghton
-
+*Houghton*
 Tel: 011 648 2340
 
 #### Pretoria
@@ -168,7 +160,6 @@ Tel: 011 760 4087
 ### KZN
 
 #### Durban
-
 Tel: 031 205 9525
 
 #### Parklands Hospital Support Group
@@ -184,81 +175,64 @@ Tel: 031 205 9525
 - Email: [lcipolla@cansa.org.za](mailto:lcipolla@cansa.org.za)
 
 #### Empangeni
-
 Tel: 035 772 5699
 
 #### Newcastle
-
 Tel: 034 315 1751
 
 #### Pietermaritzberg
-
 Tel: 033 342 9837
 
 #### Port Shepstone
-
 Tel: 039 682 7680
 
 ### Limpopo
 
 #### Polokwane
-
 Tel: 015 297 1268
 
 #### Rustenburg
-
 Tel: 014 594 2424
 
 #### Waterberg
-
 Tel: 014 717 4741
 
 ### Mpumalanga
 
 #### Nelspruit
-
-Tel: 013 741 5441 / 2
+Tel: 013 741 5441/2
 
 #### Witbank
-
 Tel: 013 6565420
 
 ### North West
 
 #### Klerksdorp
-
 Tel: 018 469 1889
 
 ### Northern Cape
 
 #### Kimberley
-
 Tel: 053 831 2968
 
 #### Namaqa
-
 Tel: 027 712 2868
 
 #### Upington
-
 Tel: 054 332 4937
 
 ### Western Cape
 
 #### Cape Metro
-
 Tel: 021 689 5347
 
 #### George
-
 Tel: 044 874 4824
 
 #### Malmesbury
-
 Tel: 022 482 1111
 
 #### Worcester
-
 Tel: 023 342 7058
 
 ## HPCA Hospice Palliative Care Association
@@ -282,7 +256,7 @@ A message of hope is carried through education as breast cancer survivors’ tra
 ## Look Good, Feel better (LGFB)
 
 - Contact: Margaret Hewson
-- Tel: 011 795 3927 / 011 795 3927
+- Tel: 011 795 3927
 - Email: [margaret@lgfb.co.za](mailto:margaret@lgfb.co.za)
 - Website: [www.lgfb.co.za](http://www.lgfb.co.za)
 
@@ -303,13 +277,11 @@ Look Good, Feel Better is a locally based international NGO focused on promoting
 ### Gauteng
 
 #### Johannesburg
-
 - Contact: Chamaine van Schalkwyk
 - Tel: 082 344 6693
 - Email: [charmaineevans@gmail.com](mailto:charmaineevans@gmail.com)
 
 #### Pretoria
-
 - Contact: Natalie Orwin
 - Tel: 084 564 5200
 - Email: [natalieorwin@mweb.co.za](mailto:natalieorwin@mweb.co.za)
@@ -317,13 +289,11 @@ Look Good, Feel Better is a locally based international NGO focused on promoting
 ### KZN
 
 #### Durban
-
-- Contact: Lesley Tooley / Karen van der Walt
-- Tel: 072 675 1168 / 083 286 2268
+- Contact: Lesley Tooley or Karen van der Walt
+- Tel: 072 675 1168 or 083 286 2268
 - Email: [geofftooley@tiscali.co.za](mailto:geofftooley@tiscali.co.za) / [karenacvdw@gmail.com](mailto:karenacvdw@gmail.com)
 
 #### Pietermaritzburg
-
 - Contact: Loren Maguire
 - Tel: 082 493 4656
 
@@ -335,7 +305,7 @@ Look Good, Feel Better is a locally based international NGO focused on promoting
 ## People Living With Cancer (PLWC)
 
 - Contact: Linda Greef
-- Tel: 0800 033 337 (toll free) / 021 782 9113
+- Tel: 0800 033 337 (toll free) / 021 565 0039
 - Email: [info@plwc.org.za](mailto:info@plwc.org.za) / [linda.greef@cancerbuddies.org.za](mailto:linda.greef@cancerbuddies.org.za)
 - Website: [www.plwc.org.za](http://www.plwc.org.za)
 
@@ -358,26 +328,24 @@ The cancer advocacy initiative of PLWC.
 ### Can-Sir – The voice of men with cancer
 
 - Contact: Ismail-Ian Fife, Tina or Tiffany
-- Tel: 079 315 8627 / 021 761 6070 / 021 782 9113
-- Email: [can-sir@telkomsa.net](mailto:can-sir@telkomsa.net) / [info.can-sir@telkomsa.net](mailto:info.can-sir@telkomsa.net)
+- Tel: 079 315 8627 or 021 761 6070 or 021 782 9113
+- Email: [can-sir@telkomsa.net](mailto:can-sir@telkomsa.net) or [info.can-sir@telkomsa.net](mailto:info.can-sir@telkomsa.net)
 - Website: [www.can-sir.co.za](http://www.can-sir.co.za) 
 
 Aims to improve the education, primarily surrounding ‘shy’ cancers in men while removing the stigma of cancer. Screening is promoted and support offered to those diagnosed. 
 
 ### Cancer.vive – The cancer awareness and education project
 
-- Contact: Frieda Henning / Marilia van Wyk
-- Tel: 082 335 4912 / 044 802 0420
-- Email: [frieda@cancervive.co.za](mailto:frieda@cancervive.co.za) / [info@cancervive.co.za](mailto:info@cancervive.co.za)
+- Contact: Frieda Henning or Marilia van Wyk
+- Tel: 082 335 4912 or 044 802 0420
+- Email: [frieda@cancervive.co.za](mailto:frieda@cancervive.co.za) or [info@cancervive.co.za](mailto:info@cancervive.co.za)
 - Website: [www.cancervive.org.za](http://www.cancervive.org.za)
 
 Raise awareness of cancer, focusing on early detection. Education centres on week-long motorbike tours of survivors to rural or remote towns. Links survivors with others through the PLWC framework. 
 
 ### CanSurvive Support Group
 
-Based at Wits University Donald Gordon Medical Centre in Johannesburg.
-
-Hazeldene Hall, Junction Avenue (opposite Netcare Park Lane Hospital), Parktown, Johannesburg
+Meetings at Hazeldene Hall, Junction Avenue (opposite Netcare Park Lane Hospital), Parktown, Johannesburg; Netcare Pinehaven Hospital, Krugersdorp; Charlotte Maxeke Radiation Dept.; Jabulani
 
 Contact:
 
@@ -391,20 +359,18 @@ Contact:
 Fundraising initiative of Cancer Buddies. People are encouraged to purchase a small bracelet with the proceeds going to PLWC to function. This also helps raise awareness of cancer, the different colours of the bracelet denoting varying cancers.
 
 #### Johannesburg
-
 - Contact: Chris Oliver
-- Tel: 073 975 1452 / 011 468 1429
+- Tel: 073 975 1452 or 011 468 1429
 - Email: [plwc@icon.co.za](mailto:plwc@icon.co.za)
 
 #### Pretoria
-
 - Contact: Jean Robinson
 - Tel: 078 727 1078
 
 ## Pink Drive (PD)
 
-- Contact: Nolene Kotschan
-- Tel: 011 998 8022 / 083 460 6146
+- Contact: Nolene Kotschen
+- Tel: 011 998 8022 or 083 460 6146
 - Email: [nolene@pinkdrive.co.za](mailto:nolene@pinkdrive.co.za) 
 - Website: [www.pinkdrive.co.za](http://www.pinkdrive.co.za)
 
@@ -422,47 +388,42 @@ Aims to raise awareness of and funding for breast cancer through the decoration 
 ## Reach for Recovery (RFR)
 
 - Contact: Stephanie van Deventer
-- Tel: 071 602 3369 / 021 889 5806
+- Tel: 072 849 2901 or 011 361 4132
 - Email: [nationalmanager@reach4recovery.co.za](mailto:nationalmanager@reach4recovery.co.za)
 - Website: [www.reach4recovery.org.za](http://www.reach4recovery.org.za) 
 
 Reach for Recovery (R4R) is a breast-cancer support organisation with a unique focus on breast-cancer support and one of the only organisations that provide a patient support service on a national basis. Well-selected and trained volunteers, who each have experienced the breast-cancer journey, render an emotional care and practical support programme to newly diagnosed breast cancer patients and their families. In some regions a prosthesis service is also provided, and the focus is also on indigent women that cannot afford this service.
 
-### Eastern Cape
+### Johannesburg
 
-- Contact: Leoni Harry
-- Tel: 079 928 0178
-- Email: [easterncape@reach4recovery.org.za](mailto:easterncape@reach4recovery.org.za)
+- Tel: 011 483 2114 or 072 849 2901
+- Meetings: Meetings: Lifeline offices, 2 The Avenue, Cnr Henrietta Street, Norwood
 
-### Free State / Northern Cape 
+### West Rand 
 
-- Contact: Ardath Datnow
-- Tel: 079 760 4491
-- Email: [ardie20@hotmail.com](mailto:ardie20@hotmail.com)
-
-### Gauteng
-
-- Contact: Beulah Jankelowitz
+- Contact: Sandra
 - Tel: 083 897 0221
-- Email: [gautengsouth@reach4recovery.org.za](mailto:gautengsouth@reach4recovery.org.za)
 
-### KwaZulu-Natal
+### Pretoria
+
+- Tel: 082 212 9933
+
+### Cape Peninsula
 
 - Contact: Marika Wade
+- Tel: 021 689 5347 or 083 306 1941
+- Meetings: CANSA offices, 37A Main Road, Mowbray
+
+### Durban 
+
+- Contact: Jenny Caldwell
 - Tel: 072 248 0008
-- Email: [kwazulu-natal@reach4recovery.org.za](mailto:kwazulu-natal@reach4recovery.org.za)
-
-### Western Cape 
-
-- Contact: Alison Ayre
-- Tel: 071 283 4249
-- Email: [alisonr4r@gmail.com](mailto:alisonr4r@gmail.com)
 
 ## Sinomusanothando – Community Development (SCD)
 
 - Contact: Dr Thandeka Mazibuko
 - Tel: 084 311 9230
-- Email: [info@sntdngo.co.za](mailto:info@sntdngo.co.za) / [Mazibukothandeka@yahoo.com](mailto:Mazibukothandeka@yahoo.com)
+- Email: [info@sntdngo.co.za](mailto:info@sntdngo.co.za) or [Mazibukothandeka@yahoo.com](mailto:Mazibukothandeka@yahoo.com)
 - Website: [www.sntdngo.co.za](http://www.sntdngo.co.za)
 
 Community-based organisation aiming to raise awareness in rural communities. Education is provided to school groups and the community through cancer awareness works walks. Free screening, referral and follow-up for breast, cervix, prostate and HIV-related conditions is preformed by the group. 
@@ -474,4 +435,4 @@ Community-based organisation aiming to raise awareness in rural communities. Edu
 - Email: [lambco@formstahl.co.za](mailto:lambco@formstahl.co.za)
 - Website: [www.wingsofhope.org.za](http://www.wingsofhope.org.za)
 
-A Johannesburg-based support group built up of breast cancer survivors. Public meetings, hospital visits and telephonic support. 
+A Johannesburg-based support group built up of breast cancer survivors. Public meetings, hospital visits and telephonic support.

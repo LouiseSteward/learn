@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 1: Care of infants at birth
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	When should the umbilical cord be clamped in a normal infant?
 	+	At 2 to 3 minutes after delivery

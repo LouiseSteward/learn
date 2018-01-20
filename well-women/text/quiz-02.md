@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 2: Family planning and infertility
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is family planning?
 	-	Having a planned pregnancy
 	-	Using contraception to prevent an unplanned pregnancy

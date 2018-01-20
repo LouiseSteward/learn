@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 5: Communication and Community engagement 
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Why is it important to establish clear communication with the public?
 	-	It helps to reduce confusion and panic
 	+	It helps to promote the local political leaders

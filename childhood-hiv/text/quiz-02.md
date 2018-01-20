@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 2: Clinical and immunological diagnosis of HIV infection
 
-Please choose the one most correct answer to each question or statement
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	During the first six weeks after HIV infection:
 	-	The child always becomes seriously ill.

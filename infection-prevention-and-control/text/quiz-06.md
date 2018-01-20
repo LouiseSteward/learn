@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 6: Environmental cleaning, waste management and decontamination of medical devices 
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Infection can be easily transmitted from:
 	+	Inadequately cleaned healthcare environments 
 	-	Properly sterilized medical instruments 

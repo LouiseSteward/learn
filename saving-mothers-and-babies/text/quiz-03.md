@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 3: Perinatal mortality
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What are perinatal deaths?
 	-	Stillbirths.
 	+	Stillbirths and early neonatal deaths.

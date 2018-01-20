@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 2: HIV in pregnancy
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What percentage of pregnant women in South Africa are infected with HIV?
 	-	Less than 5%
 	-	Between 5% and 10%

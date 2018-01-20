@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 1: Reproductive health
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Which women have good sexual health?
 	-	Women who are free of sexually transmitted diseases
 	-	Women who have multiple sex partners

@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 4: Maternal and perinatal mortality audits
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Why conduct an audit of health care?
 	-	It is a legal requirement.
 	+	It is the best method of identifying clinical problems.

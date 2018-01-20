@@ -3,7 +3,11 @@ title: Quiz 5. Care of high-risk and sick infants
 style: chapter test
 ---
 
-## Quiz 5: Care of high-risk and sick infants
+{% include metadata %}
+
+# Quiz 5: Care of high-risk and sick infants
+
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	Classifying an infant as high risk indicates that:
 	-	The infant is sick.

@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 1: Introduction to perinatal HIV
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is HIV?
 	+	A retrovirus
 	-	A herpes virus

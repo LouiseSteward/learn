@@ -13,7 +13,7 @@ Group learning is a great way for people to update their knowledge and skills an
 
 Your role is not to teach or tutor the members of the group. Each member of the group takes responsibility for their own learning. But you need to support and encourage each person to participate in the group sessions, so that they can contribute towards the learning and understanding of the others. You also need to make sure that everything is in place so that your group’s sessions can be interesting and productive. 
 
-In this guide, you will learn about:  
+In this guide, you will learn about: 
 
 * what makes group work powerful
 * starting your group and getting support

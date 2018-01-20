@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 5: Baby friendly care
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is baby friendly care?
 	-	Keeping infants in the nursery so that their mothers can rest in the postnatal ward.
 	-	Allowing all the mother’s friends and relatives to visit her infant in the nursery.

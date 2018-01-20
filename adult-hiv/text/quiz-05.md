@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 5: Management of patients on anti­retroviral treatment
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	When should prophylactic co-trimoxazole be stopped?
 	-	When antiretroviral treatment is started
 	-	When the patient starts to feel better

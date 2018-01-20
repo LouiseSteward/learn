@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 10: Childhood infections
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What are the first clinical sign in the presentation of measles?
 	-	A rash.
 	-	Mouth ulcers.

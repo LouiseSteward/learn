@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 4: Benign changes of the breast
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What does ANDI stand for?
 	-	A new diagnostic investigation
 	-	Abnormal deep inflammation

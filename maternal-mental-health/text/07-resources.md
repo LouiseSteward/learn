@@ -24,7 +24,7 @@ This section provides copies of the screening tools discussed in this book, info
 ## 1. Screening tools
 
 *	The screening tools can be copied and used for screening. 
-*	All screening tools are provided in English, Afrikaans, isiXhosa and French.  
+*	All screening tools are provided in English, Afrikaans, isiXhosa and French. 
 *	Information about how to score each screening tool can be found in chapter 2. 
 
 > ### The Whooley Depression Screen (English)
@@ -63,12 +63,12 @@ This section provides copies of the screening tools discussed in this book, info
 > 
 > There is a choice of four answers for each question. Please mark the one that comes closest to how you have felt in the past seven days, not just how you feel today.
 > 
-> 1. I have been able to see the funny side of things:  
-> ☐ As much as I always could  
-> ☐ Not quite so much now  
-> ☐ Definitely not so much now  
+> 1. I have been able to see the funny side of things: 
+> ☐ As much as I always could 
+> ☐ Not quite so much now 
+> ☐ Definitely not so much now 
 > ☐ Not at all
-> 2. I have looked forward with enjoyment to things:  
+> 2. I have looked forward with enjoyment to things: 
 > ☐ As much as I ever did  
 > ☐ A little less than I used to  
 > ☐ Much less than I used to  
@@ -384,7 +384,7 @@ This section provides copies of the screening tools discussed in this book, info
 > 
 > *Ma situation, maintenant que je suis enceinte/que j’ai un bébé*
 > 
-> Nous aimerions connaître votre situation durant votre grossesse. Ce questionnaire nous aidera à suggérer des soins supplémentaires pour vous, si  c’est nécessaire. Vos réponses seront confidentielles.
+> Nous aimerions connaître votre situation durant votre grossesse. Ce questionnaire nous aidera à suggérer des soins supplémentaires pour vous, si c’est nécessaire. Vos réponses seront confidentielles.
 > 
 > |    |                                                                                                                                                      | Oui | Non |
 > |----+------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-----|
@@ -433,7 +433,7 @@ When the child is adopted, all parental responsibilities and rights between the 
 
 ### 3-2 What needs to happen for the child to be placed with an adoptive family?
 
-For an adoption to take place, an adoption agency needs to:  
+For an adoption to take place, an adoption agency needs to: 
 
 *	Conduct a screening/home study to check if the adoptive family are fit and proper to adopt a child.
 *	If the agency is satisfied with the results, they will register the family on a Register of Adoptable Children and Adoptive Parents.
@@ -565,11 +565,11 @@ Child Support Grants will be stopped:
 *	If the child is admitted to a state-funded institution for over six months.
 *	If the child dies.
 
-For more information contact a local SASSA office or look at:  [www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA](http://www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA)
+For more information contact a local SASSA office or look at: [www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA](http://www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA)
 
 ## 6. Protection Orders
 
-This information applies to South Africa. It is worth finding out about relevant laws and processes in your country.  This information below is taken from Miller R. (2003). *It’s an Order! A simple guide to your rights*. Cape Town: Mosaic Training, Service and Healing Centre for Women. ([www.mosaic.org.za](http://www.mosaic.org.za))
+This information applies to South Africa. It is worth finding out about relevant laws and processes in your country. This information below is taken from Miller R. (2003). *It’s an Order! A simple guide to your rights*. Cape Town: Mosaic Training, Service and Healing Centre for Women. ([www.mosaic.org.za](http://www.mosaic.org.za))
 
 ### 6-1 What is a Protection Order?
 
@@ -589,7 +589,7 @@ Anyone who has been or is being abused can apply for a Protection Order. In this
 *	The child of the woman can apply for a Protection Order without requiring the assistance of the woman as parent or guardian, however the case will be referred to the Children’s Court. 
 *	The woman can apply for a Protection Order on behalf of her children, without their permission, whether they are her natural, adopted or foster children. 
 
-Depending on the severity of the abuse, once the application forms and affidavit have been completed, an Interim Protection Order might be granted for a short period until the date the abuser must appear in front of the magistrate for the hearing of the case. Once the Protection Order is finalised, the Protection Order is permanent. A Protection Order can be withdrawn.  
+Depending on the severity of the abuse, once the application forms and affidavit have been completed, an Interim Protection Order might be granted for a short period until the date the abuser must appear in front of the magistrate for the hearing of the case. Once the Protection Order is finalised, the Protection Order is permanent. A Protection Order can be withdrawn. 
 
 ### 6-2 What is the process for getting a Protection Order?
 
@@ -603,7 +603,7 @@ A woman can apply for a Protection Order at any Magistrates’ Court nearest to 
 2.	She will be asked to make a sworn statement to the clerk or policeman that what she has written is true, and sign the application form. Her file will be passed on to the magistrate.
 3.	The magistrate will read through the application form and decide if the woman qualifies for an Interim (temporary) Protection Order or not. 
 4.	If it is granted, the clerk will tell the woman what her court return date is, and will give her an application number.
-5.	The magistrate will issue a Notice to Appear in Court to the abuser, which will inform him that an application for a Protection Order has been made, and that he must appear on the return date to give his side of the story.  
+5.	The magistrate will issue a Notice to Appear in Court to the abuser, which will inform him that an application for a Protection Order has been made, and that he must appear on the return date to give his side of the story. 
 6.	The police or sheriff will go to the abuser’s address and serve the copy of the Interim Protection Order on the woman’s abuser. 
 7.	The police or the sheriff will fill in the Return of Service form, and return it to the court when the Protection Order has been served.
 8.	Then, the woman will be entitled to receive an Interim Warrant of Arrest, which she must get from the court. Some courts may only give a Final Warrant of Arrest when a woman appears in court for the Protection Order to be made final. 

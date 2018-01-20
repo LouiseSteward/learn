@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 6: Treatment of breast cancer
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is the aim of breast cancer treatment?
 	-	To prevent the cancer spreading to the other breast
 	-	To save the breast at all costs

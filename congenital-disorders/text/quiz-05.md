@@ -5,7 +5,7 @@ style: chapter test
 
 # Quiz 5: Multifactorial congenital disorders
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	What is a neural tube defect?
 	-	An abnormality of the peripheral nerves.

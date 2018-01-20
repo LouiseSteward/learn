@@ -3,7 +3,9 @@ title: Quiz 1. Failure to breathe at birth and resuscitation
 style: chapter test
 ---
 
-## Quiz 1: Failure to breathe at birth and resuscitation
+{% include metadata %}
+
+# Quiz 1: Failure to breathe at birth and resuscitation
 
 Please choose the *one*, most correct answer to each question or statement.
 

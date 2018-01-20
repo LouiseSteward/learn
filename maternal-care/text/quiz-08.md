@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 8: Monitoring and management of the first stage of labour
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	The latent phase of the first stage of labour is:
 	-	The period of time the cervix takes to dilate from 3 cm to full dilatation

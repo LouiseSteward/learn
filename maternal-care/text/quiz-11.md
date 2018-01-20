@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 11: The third stage of labour
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	The third stage of labour starts when:
 	-	The cervix is fully dilated

@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 2: Maternal mortality
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	The maternal mortality includes:
 	-	Only deaths during pregnancy.
 	-	Deaths that occur between 20 weeks and delivery.

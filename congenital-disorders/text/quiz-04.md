@@ -5,7 +5,7 @@ style: chapter test
 
 # Quiz 4: Single gene disorders
 
-Please choose the one most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	Oculocutaneous albinism, Waardenburg syndrome and haemophilia are inherited as:
 	+	Single gene defects.

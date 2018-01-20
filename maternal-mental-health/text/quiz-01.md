@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 1: Introduction to maternal mental health
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	What is mental illness?
 	-	Feeling distressed
 	+	A diagnosable condition

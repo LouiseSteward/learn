@@ -7,6 +7,8 @@ style: chapter test
 
 # Quiz 2: Micro-organisms of relevance to infection prevention and control
 
+Please choose the *one*, most correct answer to each question or statement.
+
 1.	Micro-organisms are:
 	-	Visible to the naked eye
 	-	All harmful to human health
