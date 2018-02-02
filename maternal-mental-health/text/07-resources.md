@@ -9,6 +9,7 @@ title: 7. Resources
 This section provides copies of the screening tools discussed in this book, information about termination and adoption services, guidelines around applying for a Maintenance Order or Child Support Grant, referral tools, and a listing of relevant counselling and training organisations in South Africa. 
 
 ## Contents
+{:.non-printing}
 
 *   [1\. Screening tools](#screening-tools)
 *   [2\. Termination of pregnancy (TOP) services](#termination-of-pregnancy-top-services)
@@ -23,7 +24,7 @@ This section provides copies of the screening tools discussed in this book, info
 
 ## 1. Screening tools
 
-*	The screening tools can be copied and used for screening. 
+*	The screening tools can be copied and used in screening sessions. 
 *	All screening tools are provided in English, Afrikaans, isiXhosa and French. 
 *	Information about how to score each screening tool can be found in chapter 2. 
 
@@ -668,7 +669,7 @@ A letter of referral may be used when referring to an organisation outside your 
 
 This evaluation form helps to see if your referral has been useful. 
 
-After referring your client, complete a 'follow-up' evaluation using the form below. 
+After referring your client, complete a 'follow-up' evaluation using the referral evaluation form. 
 
 #### Referral Evaluation Form
 {:.wide}
@@ -700,38 +701,38 @@ After referring your client, complete a 'follow-up' evaluation using the form be
 ## 8. South African national helplines
 
 South African national helpline contact numbers
-{:.table-caption}
+{:.table-caption .wide}
 
-|-------------------------------------------------------------+-------------------------------------|
-|                        Organisation                         |               Number                |
-|-------------------------------------------------------------+-------------------------------------|
-| Advice Desk for Abused Women                                | 031 262 9673/9679 or 031&nbsp;204&nbsp;4922   |
-| AIDS Helpline                                               | 0800 012 322                        |
-| Alcoholics Anonymous                                        | 0861 435 722                        |
-| Care Assist (health & psychiatric concerns helpline)        | 011 359 5000                        |
-| Child Line                                                  | 0800 055 555                        |
-| Child Welfare                                               | 0800 435 754 or 011 492 2888         |
-| Compassionate Friends                                       | 011 440 6322 or  072 798 1202       |
-| Domestic Violence Assistance Programme                      | 031  261 4398                       |
-| Emergency contraception helpline                            | 0800 246 432                        |
-| Families South Africa (FAMSA)                               | 011 975 7106/7                      |
-| Gay & Lesbian Association                                   | 011 717 4239                        |
-| Lifeline                                                    | 0861 322 322                        |
-| Love Life Sexual Health Line                                | 0800 121 900                        |
+|------------------------------------------------------+----------------------|
+|                        Organisation                  |  Number              |
+|------------------------------------------------------+----------------------|
+| Advice Desk for Abused Women                         | 031 262 9673/9679 or 031 204 4922   |
+| AIDS Helpline                                        | 0800 012 322         |
+| Alcoholics Anonymous                                 | 0861 435 722         |
+| Care Assist (health & psychiatric concerns helpline) | 011 359 5000         |
+| Child Line                                           | 0800 055 555         |
+| Child Welfare                                        | 0800 435 754 or 011 492 2888 |
+| Compassionate Friends                                | 011 440 6322 or  072 798 1202       |
+| Domestic Violence Assistance Programme               | 031  261 4398        |
+| Emergency contraception helpline                     | 0800 246 432         |
+| Families South Africa (FAMSA)                        | 011 975 7106/7       |
+| Gay & Lesbian Association                            | 011 717 4239         |
+| Lifeline                                             | 0861 322 322         |
+| Love Life Sexual Health Line                         | 0800 121 900         |
 | Marie Stopes (pregnancy, emergency contraception, abortion) | 0800 11 77 85                       |
-| Mental Health Info Centre                                   | 021 938 9229/9029                   |
-| Mental Health Society                                       | 011 781 1852                        |
-| Narcotics Anonymous                                         | 083 900 6962                        |
-| People Opposing Women Abuse (POWA)                          | 011 642 4345 or 083 765 1235        |
-| Post Natal Depression Support Association (PNDSA)           | SMS ‘help’ and name to 082&nbsp;882&nbsp;0072 |
-| Rape and Trauma Line                                        | 021 447 9762                        |
-| SA Depression and Anxiety Group                             | 011 262 6396                        |
-| Safeline                                                    | 0800 035 553                        |
-| Schizophrenia Foundation of SA                              | 011 484 9330                        |
-| Stop Gender Violence Helpline                               | 0800 150 150                        |
-| Western Cape Mental Health Service Directory                | 021 483 4003/4270/5660/4572         |
-| National Mental Health Information Line                     | 0800 567 567                        |
-|-------------------------------------------------------------+-------------------------------------|
+| Mental Health Info Centre                            | 021 938 9229/9029    |
+| Mental Health Society                                | 011 781 1852         |
+| Narcotics Anonymous                                  | 083 900 6962         |
+| People Opposing Women Abuse (POWA)                   | 011 642 4345 or 083 765 1235        |
+| Post Natal Depression Support Association (PNDSA)    | SMS ‘help’ and name to 082 882 0072 |
+| Rape and Trauma Line                                 | 021 447 9762         |
+| SA Depression and Anxiety Group                      | 011 262 6396         |
+| Safeline                                             | 0800 035 553         |
+| Schizophrenia Foundation of SA                       | 011 484 9330         |
+| Stop Gender Violence Helpline                        | 0800 150 150         |
+| Western Cape Mental Health Service Directory         | 021 483 4003/4270/5660/4572 |
+| National Mental Health Information Line              | 0800 567 567         |
+|------------------------------------------------------+----------------------|
 {:.wide}
 
 > National Mental Health Information Line: 0800 567 567
