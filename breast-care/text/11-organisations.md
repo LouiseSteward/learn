@@ -28,8 +28,8 @@ Aims to provide a support through education for young adults, primarily in the D
 
 ## Avon Justine iThemba Crusade of Hope (CoH)
 
-- Contact: Vicky Saunders-Flaherty / Katlego Modipane 
-- Email: [Vicky.Saunders-Flaherty@avon.com](mailto:Vicky.Saunders-Flaherty@avon.com) / [Katlego.Modipane@avon.com](mailto:Katlego.Modipane@avon.com)
+- Contact: Vicky Saunders-Flaherty or Katlego Modipane 
+- Email: [Vicky.Saunders-Flaherty@avon.com](mailto:Vicky.Saunders-Flaherty@avon.com) or [Katlego.Modipane@avon.com](mailto:Katlego.Modipane@avon.com)
 
 Mainly a backing sponsor of LGFB and BHF and CANSA. Aims to promote education of breast conditions and healthcare, primarily in ‘rural areas’. Sponsored mobile clinics.
 
@@ -47,15 +47,15 @@ The course is aimed at nurses and is based on the content of this book. The core
 ## Phakamisa (PKM)
 
 - Tel: 0860 742 526 472
-- Website: [www.m.phakamisa.me](http://www.m.phakamisa.me) / [www.facebook.com/PhakamisaZA](http://www.facebook.com/PhakamisaZA)
+- Website: [www.m.phakamisa.me](http://www.m.phakamisa.me) or [www.facebook.com/PhakamisaZA](http://www.facebook.com/PhakamisaZA)
 
 Small website geared at pointing people at either support or information centres. Support groups used include: CANSA or Breast Health Foundation. The site is able to use cellphone number or IP address to identify location and then highlight relevant information groups in their area. 
 
 ## Vrede Foundation (VF)
 
-- Contact: Bernadette Kesting / Henre Pretorius
+- Contact: Bernadette Kesting or Henre Pretorius
 - Tel: 082 570 7888 / 083 234 6633
-- Email: [info@vredefoundation.co.za](mailto:info@vredefoundation.co.za) / [bern@vredefoundation.co.za](mailto:bern@vredefoundation.co.za) / [henre@vredefoundation.co.za](mailto:henre@vredefoundation.co.za) 
+- Email: [info@vredefoundation.co.za](mailto:info@vredefoundation.co.za) or [bern@vredefoundation.co.za](mailto:bern@vredefoundation.co.za) or [henre@vredefoundation.co.za](mailto:henre@vredefoundation.co.za) 
 - Website: [www.vredefoundation.co.za](http://www.vredefoundation.co.za)
 
 This fundraising, support and education NGO aims to educate young South Africans (15–29) about cancer in general. Fundraising is done to promote awareness and to provide financial aid to those who don’t have access to medical aid. 
