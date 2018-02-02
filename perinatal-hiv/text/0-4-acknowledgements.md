@@ -13,10 +13,10 @@ The aim of this Perinatal HIV course is to improve the care of HIV-positive preg
 
 We acknowledge the contributions of the following colleagues, each an expert in their own field of perinatal care or HIV management:
 
-Prof M. Adhikari; Dr R. Bobat; Dr J. Burgess; Sr F. Cope; Dr M. Cotton; Prof H. de Groot; Dr G. Gray; Dr D. Greenfield; Prof G. Hussey; Sr M. Kreft; Prof G. Maartens; Mrs S. Martindale-Tucker; Dr J. McIntyre; Dr C. Orrell; Sr M. Petersen; Dr K. Pillay; Prof G. Theron
+Prof M. Adhikari; Dr R. Bobat; Dr J. Burgess; Sr F. Cope; Prof M. Cotton; Prof H. de Groot; Dr G. Gray; Dr D. Greenfield; Prof G. Hussey; Sr M. Kreft; Prof G. Maartens; Mrs S. Martindale-Tucker; Dr J. McIntyre; Dr C. Orrell; Sr M. Petersen; Dr K. Pillay.
 
 We also acknowledge all the participants of the Perinatal HIV course who over the years have made suggestions and offered constructive criticism. It is only through constant feedback from colleagues and participants that the content of our courses can be improved.
 
 We would like to thank Eduhealthcare for funding this publication.
 
-*Editor-in-chief of the Perinatal Education Programme, Prof D. L. Woods*
+*Editors of the Perinatal Education Programme, Prof Gerhard Theron and Prof David Woods*

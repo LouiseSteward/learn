@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 1: Introduction to perinatal HIV
 
-Please choose the *one*, most correct answer to each question or statement.
+Choose the *one*, most correct answer to each question or statement.
 
 1.	What is HIV?
 	+	A retrovirus
@@ -106,6 +106,6 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Only clear away the needle after the procedure has been completed
 20.	What prophylaxis should be given to a healthcare worker after an accidental needle-stick injury when collecting blood from an HIV-positive patient?
 	-	Penicillin should be given immediately
-	+	Truvada and Aluvia should be started within two hours
+	+	Truvada and Atazanavir/Ritonavir should be started within two hours
 	-	Hepatitis A vaccine should be given within 72 hours
 	-	Co-trimoxazole
