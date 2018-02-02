@@ -108,4 +108,4 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	All cultured pathogens should be treated with appropriate antibiotics 
 	-	The possibility of culture contamination is very small
 	+	The pathogen cultured should be interpreted in the context of the patient’s clinical picture 
-	-	The possibility of colonisation rather than infection is not worth considering. 
+	-	The possibility of colonisation rather than infection is not worth considering.
