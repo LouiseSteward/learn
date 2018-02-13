@@ -18,7 +18,7 @@ In this guide, you will learn about:
 * what makes group work powerful
 * starting your group and getting support
 * goal-setting and managing finances
-* managing group meetings and tests
+* managing group meetings and quizzes
 * keeping participants motivated
 * exams, certificates and ceremonies
 * measuring the impact of learning on your daily work.
@@ -34,8 +34,7 @@ This guide describes the best way to run a Bettercare study group, but we unders
 
 Being a good facilitator requires initiative and leadership skills. Because of this, we want to reward our facilitators for the important role they play in the empowerment and training of healthcare workers. If more than half of your group members who write the exam qualify for a certificate, we will also mail you a Bettercare Facilitator certificate acknowledging your leadership capability and commitment to a goal. You can earn one of these certificates for each different Bettercare course that you facilitate (e.g. one for Newborn Care and another one for Childhood HIV).
 
-If you have any questions or need help with any aspect of the group learning process, please contact us. You can email <info@bettercare.co.za> or call +27 21 671 1278.
+If you have any questions or need help with any aspect of the group learning process, please contact us. You can email <info@bettercare.co.za> or call 076 657 0353.
 
-Best wishes
-
+Best wishes,
 The Bettercare Team

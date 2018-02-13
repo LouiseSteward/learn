@@ -29,7 +29,7 @@ This group of topics from Mother and Baby Care for Community Health Workers incl
 
 The Community Health Work modules included in this course book have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape, funded by the Small Projects Foundation.
 
-*Editor: Professor David Woods*
+*Editor: Prof David Woods*
 
 ## Why decentralised learning? 
 
@@ -54,7 +54,7 @@ By registering on the Learning Station site, students can also complete the mult
 
 This methodology allows users control over their studies without feeling as though they are being watched. Users can submit their results only when feel they have mastered a section, empowering them with learning skills and encouraging self-motivation. The Bettercare Learning Station privacy policy includes the clause that only information which users have agreed to make available may be used to generate reports.
 
-You can access the learning station here: ls.bettercare.co.za
+You can access the learning station here: [www.bettercare.co.za/learn](http://www.bettercare.co.za/learn)
 
 ## Format of the courses
 
@@ -104,7 +104,7 @@ Bettercare learning materials are regularly updated to keep up with developments
 *   Fax: 086 219 8093
 *   Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
 *   Website: [www.bettercare.co.za](http://bettercare.co.za)
-*   Learning Station: [ls.bettercare.co.za](http://ls.bettercare.co.za)  
+*   Learning Station: [www.bettercare.co.za/learn](http://www.bettercare.co.za/learn)  
 {:.keep-together}
 
 ### Exams

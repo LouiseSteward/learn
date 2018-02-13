@@ -15,7 +15,7 @@ title: Skin conditions photographs
 > ![Acne]({{ images }}/p-1-acne.jpg)
 > 
 > Acne
-{:.figure .small .fixed}
+{:.figure .medium .fixed}
 
 > ![Acute eczema]({{ images }}/p-2-acute-eczema.jpg)
 > 

@@ -46,7 +46,7 @@ published: true
 ## Before every group meeting
 
 * All group members must read the relevant chapter. 
-* Create the lesson plan (see Chapter 4: How to run a Bettercare group). 
+* Create the lesson plan (see [Chapter 4](04.html): How to run a Bettercare group). 
 * Make sure you have all the resources you need for the meeting. 
 * Organise someone to demonstrate the skill if needed. 
 * Send out a reminder SMS to all group members of session venue and time. 
@@ -56,9 +56,9 @@ published: true
 * Discuss difficult sections of the chapter you have all studied the previous week. 
 * Go through the chapter case studies. 
 * Have a demonstration and discussion of the relevant skill. 
-* Everyone does the post-test for the chapter you have studied and discussed. 
-* Everyone marks and records the pre- and post-tests. 
-* Everyone completes the pre-test for the next chapter. 
+* Everyone does the post-quiz for the chapter you have studied and discussed. 
+* Everyone marks and records the pre- and post-quizzes. 
+* Everyone completes the pre-quiz for the next chapter. 
 
 ## After completing the chapters
 
@@ -70,4 +70,4 @@ published: true
 * Receive certificates. 
 * If 80% of your group are successful in the exam, you will receive a facilitator’s certificate. 
 * Arrange a certificate handover ceremony if possible. 
-* Take a group photo and send to info@bettercare.co.za. 
+* Take a group photo and send to exams@bettercare.co.za. 
