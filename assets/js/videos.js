@@ -1,7 +1,5 @@
 "use strict";
 
-console.log('Starting video JS');
-
 var ebwVideoInit = function() {
     return navigator.userAgent.indexOf('Opera Mini') === -1 &&
         'querySelector' in document &&
@@ -68,4 +66,8 @@ var videoShow = function() {
     });
 }
 
-videoShow();
+var videosExist = document.querySelector('.video');
+if (videosExist) {
+    console.log('Starting videos.js');
+    videoShow();
+}
