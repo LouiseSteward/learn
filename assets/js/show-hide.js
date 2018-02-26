@@ -16,7 +16,11 @@ function showHide(shID) {
 }
 
 var st = document.getElementById('live-test-show');
-st.addEventListener("click", function(){showHide("live-test")});
+if (st) {
+  st.addEventListener("click", function(){showHide("live-test")});
+}
 
 var ht = document.getElementById('live-test-hide');
-ht.addEventListener("click", function(){showHide("live-test")});
+if (ht) {
+  ht.addEventListener("click", function(){showHide("live-test")});
+}
