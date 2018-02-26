@@ -15,7 +15,7 @@ var index = elasticlunr(function () {
     index.addDoc({
       id: {{count}},
       title: {% if page.title and page.title != "" %}{{ page.title | jsonify}}{% else %}{{ page.url | replace: "/"," " | jsonify}}{% endif %},
-      content: {{page.content | strip_html | jsonify}},
+      content: {{page.content | strip_html | replace: " ", " " | jsonify}},
     });
     {% assign count = count | plus: 1 %}
   {% endfor %}
