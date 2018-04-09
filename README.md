@@ -17,6 +17,23 @@ The live website is hosted at [bettercare.co.za/learn](http://bettercare.co.za/l
 
 3. If you have errors, check that you have installed dependencies. The easiest way to do this is to run the usual output script and select the 'Install/update dependencies' option.
 
+## Processing images
+
+This repo includes a script that converts any images in `book/images/_source` into the correct formats and saves them into the relevant output image sets in `book/images/`, such as `book/images/web` and `book/images/print-pdf`. It only processes images in `_source` that are newer than those in `book/images/web`.
+
+To use this, you must have installed:
+
+- [Gulp](https://gulpjs.com/)
+- [GraphicsMagick](http://www.graphicsmagick.org/)
+ 
+Then, from a Terminal/Command Prompt in the `learn` folder, enter this command:
+
+`gulp --book directory`
+
+where `directory` is the book directory for which you want to process images. E.g. 
+
+`gulp --book perinatal-hiv`
+
 ## Licence
 
 This repository contains two licences:
