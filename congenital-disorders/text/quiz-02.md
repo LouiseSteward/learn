@@ -19,14 +19,14 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	The best possible care in the situation should always be offered.
 3.	What is a three generation family tree?
 	-	A method of providing care to three generations of a family with congenital disorder.
-	+	A pictured representation of normal, carrier and abnormal people in three generations of a family.
+	+	A pictured representation of unaffected, carrier and abnormal people in three generations of a family.
 	-	A way of predicting whether grandchildren will be male or female.
 	-	The source of a new drug to treat haemophilia.
 4.	Can a medical genetic diagnosis always be made?
 	-	Yes, if the person is fully examined and all the tests are done.
 	-	Only if the DNA screening test is done.
-	+	In about 40% of cases.
-	-	Usually not (only in about 10% of cases).
+	+	In about 40 percent of cases.
+	-	Usually not (only in about 10 percent of cases).
 5.	In the treatment of congenital disorders:
 	-	Neurodevelopmental therapy does not help.
 	-	Only surgical treatment is useful.
