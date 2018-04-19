@@ -30,7 +30,7 @@ Please choose the *one*, most correct answer to each question or statement.
 5.	Females have:
 	-	One X chromosome.
 	-	One Y chromosome.
-	-	Two X chromosomes.
+	+	Two X chromosomes.
 	-	No X chromosomes.
 6.	Ova and sperms are also called sex cells or:
 	-	Zygotes.
@@ -53,8 +53,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	A decreased number of genes.
 	-	It has nothing to do with genes.
 10.	What is the chance of inheriting a dominant gene present in one parent?
-	-	There is a 25% chance of inheriting the gene.
-	+	There is a 50% chance of inheriting the gene.
+	-	There is a 25 percent chance of inheriting the gene.
+	+	There is a 50 percent chance of inheriting the gene.
 	-	Only females pass on the gene.
 	-	Only males pass on the gene.
 11.	What is a recessive gene?
@@ -68,18 +68,18 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Heterozygous.
 	-	A twin.
 13.	If both parents are carriers of a recessive gene, the chance of their infant inheriting both recessive genes is:
-	-	1:1 (i.e. 100%).
-	-	1:2 (i.e. 50%).
-	+	1:4 (i.e. 25%).
-	-	1:10 (i.e. 10%).
+	-	1:1 (i.e. 100 percent).
+	-	1:2 (i.e. 50 percent).
+	+	1:4 (i.e. 25 percent).
+	-	1:10 (i.e. 10 percent).
 14.	Name the type of inheritance if a recessive gene is carried by females and only passed on to their male infants:
 	-	Dominant inheritance.
 	-	Recessive inheritance.
 	-	Y-linked inheritance.
 	+	X-linked inheritance.
 15.	What are multifactorial congenital disorders?
-	-	A congenital disorder caused but two or more genetic abnormalities.
-	-	A congenital disorder cause by two or more teratogens.
+	-	A congenital disorder caused but 2 or more genetic abnormalities.
+	-	A congenital disorder cause by 2 or more teratogens.
 	+	A congenital disorders caused by the interaction of genetic and environmental factors.
 	-	A congenital disorder common in twins.
 16.	What is a teratogen?
@@ -97,7 +97,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Oligohydramnios (too little amniotic fluid)
 	-	Wearing tight fitting clothes during pregnancy
 	-	Reducing calorie intake in late pregnancy to slow fetal growth
-19. What is the name of a pattern of multiple structural abnormalities which can easily be recognized?
+19. What is the name of a pattern of multiple structural abnormalities which can easily be recognised?
 	-	An association
 	-	A disruption
 	+	A syndrome

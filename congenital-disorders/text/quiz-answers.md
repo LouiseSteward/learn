@@ -15,7 +15,7 @@ Relearn the sections in brackets for questions you get wrong.
 2.	a	(1-3)
 3.	c	(1-4)
 4.	d	(1-8)
-5.		(1-8)
+5.	c	(1-8)
 6.	c	(1-9)
 7.	a	(1-10)
 8.	a	(1-11)
