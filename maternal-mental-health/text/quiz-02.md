@@ -11,7 +11,7 @@ Please choose the *one*, most correct answer to each question or statement.
 
 1.	Why is mental illness often overlooked?
 	-	Mental illness is not important
-	+	Health workers may feel uncomfortable having to address mental illness
+	+	Care providers may feel uncomfortable having to address mental illness
 	-	People with mental illness cannot talk about it
 	-	Mental illness cannot be treated
 2.	What is stigma?
@@ -76,7 +76,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Coping with motherhood
 14.	When screening for depression and anxiety with the Edinburgh Postnatal Depression Scale (EPDS), the questions ask about how the patient felt:
 	-	Today
-	+	In the past week
+	+	In the past 7 days
 	-	In the past month
 	-	Over the past year
 15.	When scoring the Edinburgh Postnatal Depression Scale (EPDS) questionnaire, which of the following are TRUE
