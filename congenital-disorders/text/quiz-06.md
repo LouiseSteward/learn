@@ -23,15 +23,15 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Caused by a teratogen.
 	-	Caused by a lack of folic acid in a poor diet.
 4.	How common is fetal alcohol syndrome in some communities in South Africa?
-	-	Very common, i.e. 500/1000 (50%) pregnancies.
-	+	Common, i.e. 50/1000 (5%) pregnancies.
-	-	Not common, i.e. 5/1000 (0.5%) pregnancies.
-	-	Rare, i.e. 1/1000 (0.1%) pregnancies.
+	-	Very common, i.e. 500/1000 (50 percent) pregnancies.
+	+	Common, i.e. 50/1000 (5 percent) pregnancies.
+	-	Not common, i.e. 5/1000 (0.5 percent) pregnancies.
+	-	Rare, i.e. 1/1000 (0.1 percent) pregnancies.
 5.	How many alcoholic drinks are usually needed to damage the fetus?
-	-	Only one per day.
-	+	At least three per day.
-	-	At least five per day.
-	-	At least ten per day.
+	-	Only 1 per day.
+	+	At least 3 per day.
+	-	At least 5 per day.
+	-	At least 10 per day.
 6.	One drink (15 ml alcohol) is equal to:
 	-	A quart of beer (750 ml).
 	-	Half a tot of spirits (e.g. brandy).
@@ -55,7 +55,7 @@ Please choose the *one*, most correct answer to each question or statement.
 10.	When is it easiest to recognise a child with fetal alcohol syndrome?
 	-	During pregnancy.
 	-	At birth.
-	+	Between three and 10 years.
+	+	Between 3 and 10 years.
 	-	After 10 years.
 11.	Common signs of fetal alcohol syndrome are:
 	-	Large eyes.
@@ -90,7 +90,7 @@ Please choose the *one*, most correct answer to each question or statement.
 17.	Children with fetal alcohol syndrome should:
 	-	Not be sent to school.
 	-	Only be sent to a special school.
-	+	Be sent to a normal school but need extra help.
+	+	Be sent to a mainstream school but need extra help.
 	-	Be sent to any school.
 18.	Infants with fetal alcohol syndrome should:
 	-	Not be breastfed as alcohol crosses in the breast milk in large amounts.

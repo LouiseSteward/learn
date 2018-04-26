@@ -1,11 +1,23 @@
-title: Congenital Disorders. Quiz 1. Introduction to birth defects
+title: Congenital Disorders. Quiz 1. Introduction to congential disorders
 
 
-How high is the prevalence of birth defects in developing countries?
--	10/1000 live births.
--	30/1000 live births.
-+	80/1000 live births.
--	120/1000 live births.
+What is a congenital disorder?
+	-	An abnormality of structure present at birth
+	-	An abnormality of function present at birth
+	+	Either an abnormality of structure or function present at birth
+	-	An abnormality of structure or function which is not present at birth
+
+What is birth prevalence?
+	+	The number of affected infants per 1000 live births
+	-	The number of affected infants per 1000 total births
+	-	The number of affected infants born in a month
+	-	The number of affected infants born in a year
+
+How common are congenital disorders in developing countries?
+	-	10/1000 total births.
+	-	30/1000 still births.
+	+	80/1000 live births.
+	-	120/1000 live births.
 
 How many chromosomes are found in the cells of the human body?
 -	22
@@ -24,24 +36,6 @@ Ova and sperms are also called sex cells or:
 -	Embryos.
 +	Gametes.
 -	Genes.
-
-What is trisomy?
-+	An extra chromosome.
--	An extra three chromosomes.
--	A missing chromosome.
--	An extra gene.
-
-Trisomy is usually due to:
--	Translocation.
-+	Non-disjunction.
--	Deletion.
--	Mosaicism.
-
-What is an example of monosomy?
--	Down syndrome.
--	Edward syndrome.
--	Patau syndrome.
-+	Turner syndrome.
 
 What is a gene?
 +	A small package of DNA.
@@ -62,8 +56,8 @@ What is a mutation?
 -	It has nothing to do with genes.
 
 What is the chance of inheriting a dominant gene present in one parent?
--	There is a 25% chance of inheriting the gene.
-+	There is a 50% chance of inheriting the gene.
+-	There is a 25 percent chance of inheriting the gene.
++	There is a 50 percent chance of inheriting the gene.
 -	Only females pass on the gene.
 -	Only males pass on the gene.
 
@@ -80,10 +74,10 @@ A person who has a dominant and a recessive gene for a particular physical featu
 -	A twin.
 
 If both parents are carriers of a recessive gene, the chance of their infant inheriting both recessive genes is:
--	1:1 (i.e. 100%).
--	1:2 (i.e. 50%).
-+	1:4 (i.e. 25%).
--	1:10 (i.e. 10%).
+-	1:1 (i.e. 100 percent).
+-	1:2 (i.e. 50 percent).
++	1:4 (i.e. 25 percent).
+-	1:10 (i.e. 10 percent).
 
 Name the type of inheritance if a recessive gene is carried by females and only passed on to their male infants:
 -	Dominant inheritance.
@@ -91,32 +85,39 @@ Name the type of inheritance if a recessive gene is carried by females and only 
 -	Y-linked inheritance.
 +	X-linked inheritance.
 
-What clinical disorder is caused by a single gene defect?
--	Cystic fibrosis.
--	Down syndrome.
--	Fetal alcohol syndrome.
-+	Club feet.
+What are multifactorial congenital disorders?
+-	A congenital disorder caused but 2 or more genetic abnormalities.
+-	A congenital disorder cause by 2 or more teratogens.
++	A congenital disorders caused by the interaction of genetic and environmental factors.
+-	A congenital disorder common in twins.
 
-Which of the following conditions are caused by a multifactorial inheritance?
--	Neurofibromatosis.
-+	Neural tube defect.
--	Thalassaemia.
--	Glucose-6-phosphate dehydrogenase deficiency (G6PD).
 
 What is a teratogen?
 -	An abnormal chromosome.
 -	An abnormal gene.
-+	Something that damages the developing organism.
++	Something that damages the embryo or fetus.
 -	Something that damages a gene.
 
-When do teratogens have the most effect?
--	The pre-implantation phase.
-+	The embryonic phase.
--	The fetal phase.
--	After birth.
+What is a malformation?
++	A congenital disorder which is caused by a problem in the first trimester
+-	A congenital disorder caused by amniotic bands
+-	A congenital disorder caused by hypoxia in labour
+-	A congenital disorder caused by a problem in the last trimester
 
-Which of the following is a teratogen?
--	The X-chromosome.
--	A recessive gene.
--	A translocation.
-+	Rubella virus.
+Which is an example of constraint causing a congenital disorder?
+-	Drinking excess alcohol during pregnancy
++	Oligohydramnios (too little amniotic fluid)
+-	Wearing tight fitting clothes during pregnancy
+-	Reducing calorie intake in late pregnancy to slow fetal growth
+
+What is the name of a pattern of multiple structural abnormalities which can easily be recognised?
+-	An association
+-	A disruption
++	A syndrome
+-	A deformity
+
+What is a sequence?
++	One physical abnormality resulting in a number of other abnormalities
+-	Two or more siblings with the same congenital disorder
+-	A number of closely related single gene defects resulting in a congenital disorder
+-	Two or more chromosomes causing a functional congenital disorder

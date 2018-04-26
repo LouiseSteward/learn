@@ -29,9 +29,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Blindness.
 5.	The risk of a child having Waardenburg syndrome if one of the parents is affected is:
 	-	Very small.
-	-	25%.
-	+	50%.
-	-	100%.
+	-	25 percent.
+	+	50 percent.
+	-	100 percent.
 6.	How is oculocutaneous albinism inherited?
 	-	As an autosomal dominant disorder.
 	+	As an autosomal recessive disorder.
@@ -97,13 +97,13 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Place ice over the site of the bleed and give the child two aspirin.
 	-	Start a blood transfusion.
 	+	Start a transfusion of factor VIII or IX.
-19.	What is the risk for parents who have two sons with haemophilia having another affected child in future pregnancies?
+19.	What is the risk for parents who have 2 sons with haemophilia having another affected child in future pregnancies?
 	-	Very small.
-	-	10% if it is a boy.
-	+	50% if it is a boy.
+	-	10 percent if a boy.
+	+	50 percent if a boy.
 	-	All their future children are likely to be affected.
 20.	If the father has haemophilia, what is the risk of his sons having haemophilia also?
 	+	Nil.
 	-	1:4.	
 	-	1:2.	
-	-	1:1 (100%).
+	-	1:1 (100 percent).

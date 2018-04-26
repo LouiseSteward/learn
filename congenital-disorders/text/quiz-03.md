@@ -63,7 +63,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Slow growth.
 	-	Rapid growth.
 12.	When should the parents of an infant with Down syndrome be told the diagnosis?
-	-	It is best if they are left to find out for themselves that the infant is not normal.
+	-	It is best if they are left to find out for themselves.
 	+	As soon as possible.
 	-	When the child gets to school-going age.
 	-	When the child reaches puberty.
@@ -83,9 +83,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Recurrent infection.
 	-	Bleeding.
 16.	What is the life expectancy of individuals with Down syndrome in South Africa?
-	-	The same as normal people.
+	-	The same as people without Down syndrome.
 	+	More than half die before two years of age.
-	-	At least 25% die on the first day of life.
+	-	At least 25 percent die on the first day of life.
 	-	Most are stillborn.
 17.	How can children with Down syndrome be helped to reach their full potential?
 	-	They should be placed in a special institution as soon as they are one year old.
@@ -102,8 +102,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Triple test on the mother’s blood at 20 weeks.
 	-	Ultrasound examination for ventricular septal defect (VSD).
 	-	Chorionic villous biopsy to determine whether the fetus has hypothyroidism.
-20.	What is the risk of a 25-year-old woman having a second child with Down syndrome due to non-disjunction?
-	+	1%.
-	-	15%.
-	-	25%.
-	-	50%.
+20.	What is the risk of a 25 year old woman having a second child with Down syndrome due to non-disjunction?
+	+	1 percent.
+	-	15 percent.
+	-	25 percent.
+	-	50 percent.
