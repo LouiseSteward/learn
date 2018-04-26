@@ -37,7 +37,7 @@ Please choose the *one*, most correct answer to each question or statement.
 6.	What local non-governmental resources may be available to help pregnant women with their emotional problems? 
 	-	Library where a mother can read about common problems
 	-	Bus stop where she can speak to other people
-	+	Charity that offers counselling
+	+	Community organisation that offers counselling
 	-	Social grant
 7.	Who can go to the Maintenance Court?
 	-	Only the mother of a child
@@ -74,7 +74,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Money for food and clothing
 	-	Someone who will listen and tell her what to do
 	+	Someone who will listen and let her express her feelings 
-14.	Why might women default on appointments?
+14.	Why might women not attend appointments?
 	-	They are lazy
 	-	They don’t want help
 	+	They experience practical and emotional barriers that stop them going to appointments

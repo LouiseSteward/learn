@@ -24,7 +24,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	They have the same access as everyone else so should have no more difficulties
 	+	The women may not feel worthy of support
 	-	They are supported by the Department of Social Development and so have good access to mental health care
-4.	How can a health or social worker support a woman with few resources?
+4.	How can a care provider support a woman with few resources?
 	-	Tell her to get a job
 	+	Listen to her, show kindness and respect
 	-	Inform her husband that she needs more care
@@ -41,9 +41,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Don’t judge her, show kindness and respect
 7.	In South Africa, what percentage of pregnancies are unintended (unplanned)?
 	-	None, all are intended
-	-	6% are unintended
-	-	16% are unintended
-	+	60% are unintended
+	-	6 percent are unintended
+	-	16 percent are unintended
+	+	60 percent are unintended
 8.	Which statement regarding unwanted pregnancy and mental health is true?
 	-	All women with mental illness should terminate their pregnancies
 	-	Once a woman has had a termination, she will always be mentally ill
@@ -93,8 +93,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Excessive spending
 	-	Often going partying without a partner
 	+	Being restricted in seeing family and friends
-	-	Wearing provocative clothing like skimpy tops and short skirts
-18.	How can a health or social worker support an abused mother?
+	-	Wearing clothing like skimpy tops and short skirts
+18.	How can a care provider support an abused mother?
 	-	Tell her that she must leave the abuser
 	+	Listen to her story
 	-	Ask her why she lets him get away with it
@@ -104,7 +104,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Failure to get the child to school on time
 	-	Neglecting to pick up after the child has thrown food on the floor
 	+	Failure to provide adequately for the child’s emotional or physical needs
-20.	What is the best way for a health or social worker to help an abused child?
+20.	What is the best way for a care provider to help an abused child?
 	+	Contact Social Services or Child Welfare because the child’s life is at risk
 	-	Ignore the problem, the child will grow up and leave home anyway
 	-	Hit the mother so she knows what it feels like
