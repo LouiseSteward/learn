@@ -10284,8 +10284,8 @@ works:
                 id: "unintended-pregnancy-and-termination-of-pregnancy"
                 label: "Unintended pregnancy and termination of pregnancy"
               - file: "06"
-                id: "refugees-and-mental-illness"
-                label: "Refugees and mental illness"
+                id: "refugees-migrants-and-mental-illness"
+                label: "Refugees, migrants and mental illness"
               - file: "06"
                 id: "maternal-abuse"
                 label: "Maternal abuse"
@@ -10370,10 +10370,6 @@ works:
               - file: "08-resources"
                 id: "12-additional-information-on-infant-mental-health"
                 label: "**12.** Additional information on infant mental health"
-          - file: "09-references"
-            id: "references"
-            label: "References"
-            class: "auxiliary"
           - label: "Quizzes"
             children:
               - file: "quiz-01"
@@ -10588,8 +10584,8 @@ works:
                 id: "unintended-pregnancy-and-termination-of-pregnancy"
                 label: "Unintended pregnancy and termination of pregnancy"
               - file: "06"
-                id: "refugees-and-mental-illness"
-                label: "Refugees and mental illness"
+                id: "refugees-migrants-and-and-mental-illness"
+                label: "Refugees, migrants and mental illness"
               - file: "06"
                 id: "maternal-abuse"
                 label: "Maternal abuse"
@@ -10673,9 +10669,6 @@ works:
               - file: "08-resources"
                 id: "12-additional-information-on-infant-mental-health"
                 label: "**12.** Additional information on infant mental health"
-          - file: "09-references"
-            id: "references"
-            label: "References"
         start-page: "0-3-contents" # At which file should users start reading?
         contents-page: "0-3-contents" # Your contents-page file, if you have one.
         footer: "" # Text that appears in the footer of this book's pages on the website.
