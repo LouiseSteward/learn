@@ -5,6 +5,11 @@ as output tags, e.g. {{ title }} for the current
 book's title.
 {% endcomment %}
 
+{% comment %}Don't do all this work if metadata
+is already loaded on this page.{% endcomment %}
+{% if metadata-loaded %}
+{% else %}
+
 {% capture output-format %}{{ site.output }}{% endcapture %}
 
 {% comment %}
@@ -637,3 +642,7 @@ processed as documents by Jekyll, and aren't accessible that way.{% endcomment %
   {% endif %}
   {% break %}
 {% endfor %}
+
+{% comment %}End of entire metadata load.{% endcomment %}
+{% endif %}
+{% assign metadata-loaded = true %}
