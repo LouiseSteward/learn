@@ -97,9 +97,15 @@ Relearn the sections in brackets for questions you get wrong.
 15.	d (4-30)
 16.	d (4-31)
 17.	c (4-32)
+<<<<<<< HEAD
 18.	d (4-34)
 19.	b (4-38)
 20.	a (4-39)
+=======
+18.	d (4-32)
+19.	b (4-32)
+20.	a (4-32)
+>>>>>>> womens-health-care
 
 ## Quiz 5: Special medical issues in maternal mental health
 

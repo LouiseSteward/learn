@@ -697,8 +697,13 @@ Parents or primary caregivers who earn below a certain amount can also access th
 *	A single parent or caregiver who earns R3 800 or less per month (or less than R45 600 per year) can apply for this grant.
 *   A married couple who together earn R7 600 or less per month (or less than R91 200 per year) can apply for this grant.
 *   Parents or primary caregivers must be South African citizens or permanent residents of South Africa. They and the child must be living in South Africa.
+<<<<<<< HEAD:maternal-mental-health/text/08-resources.md
 
 
+=======
+
+
+>>>>>>> womens-health-care:maternal-mental-health/text/08-resources.md
 ### 8-2 What is the process for getting a Child Support grant?
 
 Parents or primary caregivers can apply for a grant at their nearest South African Social Security Agency (SASSA) office. There is no cost to apply. 
@@ -840,6 +845,11 @@ South African national helpline contact numbers
 |------------------------------------------------------+----------------------|
 {:.wide}
 
+<<<<<<< HEAD:maternal-mental-health/text/08-resources.md
+=======
+> National Mental Health Information Line: 0800 567 567
+
+>>>>>>> womens-health-care:maternal-mental-health/text/08-resources.md
 ## 11. South African organisations for training in counselling
 
 ### 11-1 Lay counselling training
@@ -857,7 +867,11 @@ South African national helpline contact numbers
 *	011 715 2000
 *	082 231 0805
 
+<<<<<<< HEAD:maternal-mental-health/text/08-resources.md
 ### 11-2 Professional counselling training
+=======
+### 9-2 Professional counselling training
+>>>>>>> womens-health-care:maternal-mental-health/text/08-resources.md
 
 #### Families South Africa (FAMSA)
 
