@@ -48,11 +48,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Supportive family and friends
 	-	Substance use
 	-	Previous history of mental illness
-<<<<<<< HEAD
 	-	Unintended (unplanned) pregnancy
-=======
-	-	Unplanned pregnancy
->>>>>>> womens-health-care
 9.	What is the ‘baby blues’?
 	-	A baby that needs to be given oxygen at birth
 	-	A male infant 

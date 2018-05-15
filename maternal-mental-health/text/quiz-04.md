@@ -80,12 +80,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Feeling pity for someone’s suffering
 	+	Understanding someone’s emotions even though you have not experienced them
 15.	What are some of the personal qualities of someone who engages empathically?:
-	-	Disrespect for others 
-<<<<<<< HEAD
+	-	Disrespect for others
 	-	Being judgemental 
-=======
-	-	Being judgmental 
->>>>>>> womens-health-care
 	-	Sharing confidential information
 	+	Being genuine
 16. The term ‘positive regard’ means:

@@ -433,20 +433,18 @@ This section provides the following resources:
 
 ### 2-1 How to write a referral letter
 
-A letter of referral may be used when referring to an organisation outside your facility. Use the template below to draft a letter of referral.
+A letter of referral may be used when referring to an organisation outside your facility. Use the template to draft a letter of referral.
 
 #### Letter of referral
 {:.keep-with-next .wide}
 
-> Address of your health unit  
-> Town  
+> Address of your health unit
 > District  
 > Telephone number  
 > 
 > Contact at referral organisation    
 > Name of referral organisation  
-> Address of referral organisation  
-> Town
+> Address of referral organisation
 > 
 > Date [insert date here]
 > 
@@ -467,7 +465,7 @@ A letter of referral may be used when referring to an organisation outside your 
 > Your name
 > 
 > Job Title
-{:.box .fixed .wide .keep-together}
+{:.letter .wide .keep-together}
 
 ### 2-2 Mental Health Referral Evaluation
 
@@ -520,15 +518,15 @@ SADAG offers referrals to psychologists, psychiatrists or support groups by trai
 *  They are open 7 days a week from 8am to 8pm.
 *  Telephone number: 011 234 4837 or 0800 21 22 23
 
-**Lifeline**
-
-Lifeline offers support for personal crisis, trauma, abuse or rape.
-Toll-free number: 0861 322 322
-
 **FAMSA (Families South Africa)**
 
 FAMSA offers counselling for couples and families, with branches throughout South Africa.
 National office telephone number: 011 975 7106/7
+
+**Lifeline**
+
+Lifeline offers support for personal crisis, trauma, abuse or rape.
+Toll-free number: 0861 322 322
 
 ##  4. Resources for pregnant women and new mothers
 
@@ -567,7 +565,8 @@ Useful phone numbers
 
 **AIDS Helpline**   0800 012 322
 
-Other (add your own notes here)
+**Other (add your own notes below)**
+{:.table-caption .wide}
 
 |                        Organisation                  |  Number              |
 |------------------------------------------------------+----------------------|
@@ -697,13 +696,7 @@ Parents or primary caregivers who earn below a certain amount can also access th
 *	A single parent or caregiver who earns R3 800 or less per month (or less than R45 600 per year) can apply for this grant.
 *   A married couple who together earn R7 600 or less per month (or less than R91 200 per year) can apply for this grant.
 *   Parents or primary caregivers must be South African citizens or permanent residents of South Africa. They and the child must be living in South Africa.
-<<<<<<< HEAD:maternal-mental-health/text/08-resources.md
 
-
-=======
-
-
->>>>>>> womens-health-care:maternal-mental-health/text/08-resources.md
 ### 8-2 What is the process for getting a Child Support grant?
 
 Parents or primary caregivers can apply for a grant at their nearest South African Social Security Agency (SASSA) office. There is no cost to apply. 
@@ -845,11 +838,6 @@ South African national helpline contact numbers
 |------------------------------------------------------+----------------------|
 {:.wide}
 
-<<<<<<< HEAD:maternal-mental-health/text/08-resources.md
-=======
-> National Mental Health Information Line: 0800 567 567
-
->>>>>>> womens-health-care:maternal-mental-health/text/08-resources.md
 ## 11. South African organisations for training in counselling
 
 ### 11-1 Lay counselling training
@@ -867,11 +855,7 @@ South African national helpline contact numbers
 *	011 715 2000
 *	082 231 0805
 
-<<<<<<< HEAD:maternal-mental-health/text/08-resources.md
 ### 11-2 Professional counselling training
-=======
-### 9-2 Professional counselling training
->>>>>>> womens-health-care:maternal-mental-health/text/08-resources.md
 
 #### Families South Africa (FAMSA)
 
