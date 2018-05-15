@@ -11,7 +11,7 @@ Well Women
 Addressing the everyday health needs of women
 {:.titlepage-subtitle}
 
-Written by David Woods and Silke Dyer
+Written by Prof David Woods, Prof Silke Dyer and Dr Deon Kennedy
 {:.titlepage-author}
 
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}
