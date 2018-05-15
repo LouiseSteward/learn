@@ -16,9 +16,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	When the patient has been on antiretroviral treatment for a year
 2.	When should the routine follow-up visits be done during the first four months after starting antiretroviral treatment?
 	-	Weekly
-	-	Every two weeks
-	+	Monthly (four, eight and 12 weeks)
-	-	At six and 12 weeks
+	-	Every 2 weeks
+	+	At 4, 8 and 16 weeks)
+	-	At 6 and 12 weeks
 3.	When should education and counselling be provided?
 	-	During the preparation of antiretroviral treatment only
 	-	At the first treatment visit only
@@ -36,10 +36,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The serum ALT (alanine aminotransferase) should be measured.
 6.	How often should medicines be collected from the clinic?
 	-	Every week
-	+	Every one to three months
-	-	Every four to five months
-	-	Every six months
-7.	A haemoglobin (Hb) level and differential count at months 3 and 6 should be measured in patients receiving:
+	+	Every 1 to 2 months
+	-	Every 4 to 5 months
+	-	Every 6 months
+7.	A haemoglobin (Hb) level and differential count at 3 and 6 months should be measured in patients receiving:
 	-	Nevirapine
 	-	d4T
 	-	3TC
@@ -51,13 +51,13 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Serum ALT (alanine aminotransferase)
 9.	How often should a patient be seen by the doctor or nurse if antiretroviral treatment is successful?
 	-	Every month
-	+	Every three months
-	-	Every six months
+	+	Every 2 to 3 months
+	-	Every 6 months
 	-	Every year
 10.	For how long can treatment be successful?
 	-	Usually for a year
-	-	From one to five years
-	-	From five to 10 years
+	-	From one to 5 years
+	-	From five to 15 years
 	+	More than 10 years
 11.	What indicates treatment failure?
 	-	The development of immune reconstruction inflammatory syndrome
@@ -90,20 +90,20 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Taking antiretroviral drugs with meals
 	-	Viral ‘blips’
 17.	Rifampicin markedly reduces the blood levels of:
-	-	‘Nucs’ such as AZT
-	-	‘Non-nucs’ such as efavirenz
-	+	‘PIs’ such as Aluvia
+	-	Nucs such as AZT
+	-	Non-nucs such as efavirenz
+	+	Protease inhibitors such as Aluvia
 	-	All antiretroviral drugs
 18.	What should be done if a patient has a severe drug reaction to an antiretroviral drug?
 	-	Stop that drug.
 	+	Stop all antiretroviral drugs.
 	-	Continue the treatment but give steroids such as intravenous prednisone.
 	-	Continue the treatment but give an oral antihistamine.
-19.	Which patients are at the greatest risk of immune reconstitution inflammatory syndrome?
-	-	Patients who are generally well when the antiretroviral treatment is started
-	-	Patients with a low viral load
-	+	Patients with a very low CD4 count
-	-	Patients who are younger than 20 years old
+19.	How does immune reconstitution inflammatory syndrome present?
+	-	Sudden weight gain
+	-	Vomiting when antiretroviral drugs are given
+	+	Hair loss especially in women
+	-	Unexpected clinical deterioration
 20.	Which HIV-associated infection is commonest with immune reconstitution inflammatory syndrome in South Africa?
 	-	Cryptococcal meningitis
 	-	Cytomegalovirus retinitis

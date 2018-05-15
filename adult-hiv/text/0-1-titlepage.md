@@ -11,7 +11,7 @@ Adult HIV
 What health professionals need to know
 {:.titlepage-subtitle}
 
-Written by Catherine Orrell, Richard Kaplan and David Woods
+Written by Catherine Orrell, Richard Kaplan, Anna Cross and David Woods
 {:.titlepage-author}
 
 Edited by David Woods
