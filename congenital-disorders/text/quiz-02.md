@@ -25,7 +25,7 @@ Please choose the *one*, most correct answer to each question or statement.
 4.	Can a medical genetic diagnosis always be made?
 	-	Yes, if the person is fully examined and all the tests are done.
 	-	Only if the DNA screening test is done.
-	+	In about 40 percent of cases.
+	+	In about 60 percent of cases.
 	-	Usually not (only in about 10 percent of cases).
 5.	In the treatment of congenital disorders:
 	-	Neurodevelopmental therapy does not help.

@@ -37,7 +37,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	As an autosomal recessive disorder.
 	-	As an X-linked recessive disorder.
 	-	As a chromosomal abnormality.
-7.	How common is oculocutaneous albinism in South Africa?
+7.	How common is oculocutaneous albinism in the black population of South Africa?
 	-	About 1 per 1000 live births.
 	+	About 1 per 4000 live births.
 	-	About 1 per 10 000 live births.

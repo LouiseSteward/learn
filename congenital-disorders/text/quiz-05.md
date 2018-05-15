@@ -33,7 +33,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Meningomyelocoele.
 	-	Hydrocephalus.
 6.	The birth prevalence of neural tube defects in South Africa is:
-	-	10–40/ 1000.	
+	-	1–4/ 100.	
 	+	1–4/ 1000.	
 	-	1/ 10 000.	
 	-	4/ 100 000.	

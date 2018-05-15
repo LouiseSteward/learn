@@ -72,16 +72,16 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Normal intelligence.
 	+	Visual problems.
 	-	Paralysis.
-14.	What is a common complication of Down syndrome?
-	+	Congenital heart defects.
-	-	Congenital kidney failure.
-	-	Congenital diaphragmatic hernia.
-	-	Congenital deafness.
-15.	Children with Down syndrome are at an increased risk of:
+14.	Children with Down syndrome are at an increased risk of:
 	-	Arthritis.
 	-	Anaemia.
 	+	Recurrent infection.
 	-	Bleeding.
+15.	What is a common complication of Down syndrome?
+	+	Congenital heart defects.
+	-	Congenital kidney failure.
+	-	Congenital diaphragmatic hernia.
+	-	Congenital deafness.
 16.	What is the life expectancy of individuals with Down syndrome in South Africa?
 	-	The same as people without Down syndrome.
 	+	More than half die before two years of age.

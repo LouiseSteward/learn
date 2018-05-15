@@ -28,8 +28,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Not common, i.e. 5/1000 (0.5 percent) pregnancies.
 	-	Rare, i.e. 1/1000 (0.1 percent) pregnancies.
 5.	How many alcoholic drinks are usually needed to damage the fetus?
-	-	Only 1 per day.
-	+	At least 3 per day.
+	+	Any number of drinks may be dangerous.
+	-	At least 3 per day.
 	-	At least 5 per day.
 	-	At least 10 per day.
 6.	One drink (15 ml alcohol) is equal to:
