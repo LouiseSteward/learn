@@ -11,7 +11,7 @@ Please choose the *one*, most correct answer to each question or statement.
 
 1.	What is menopause?
 	-	The first menstruation in a young girl
-	-	The first six weeks after the birth of an infant
+	-	The first 6 weeks after the birth of an infant
 	+	The end of menstrual periods in an older woman
 	-	Vaginal bleeding sometimes seen in newborn infants
 2.	Monthly menstrual blood loss is abnormal when it is:
