@@ -29,12 +29,12 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	They do not suck well.
 	-	Their stools consist of meconium.
 	+	Their kidneys only produce a little urine.
-5.	The fluid volume needed on day 1 for infants that weigh less than 1500 g at birth?is:
+5.	The fluid volume needed on day 1 for infants that weigh less than 1500 g at birth is:
 	-	25 ml/kg
 	-	60 ml/kg
 	+	75 ml/kg
 	-	100 ml/kg
-6.	Which infants should be given an extra 25?ml/kg fluid per day?
+6.	Which infants should be given an extra 25 ml/kg fluid per day?
 	+	Infants under an overhead radiant heater
 	-	Infants in a closed incubator
 	-	Infants receiving phototherapy
