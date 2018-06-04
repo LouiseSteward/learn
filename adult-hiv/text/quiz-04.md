@@ -81,7 +81,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	All antiretroviral drugs
 15. Minor side effects such as nausea, loose stools and tiredness are common with:
 	+	Most antiretroviral drugs during the first weeks of treatment
-	-	Nucs after the first six weeks of treatment
+	-	Nucs after the first 6 weeks of treatment
 	-	3TC if it is taken with meals
 	-	Efavirenz if it is taken on an empty stomach
 16. A sign of a serious rash which needs urgent treatment is:

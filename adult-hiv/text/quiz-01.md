@@ -66,9 +66,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Vaginal or urethral discharge
 12.	How long is the latent phase of HIV infection in adults?
 	-	Six weeks
-	-	Commonly three to six months
-	-	About one year
-	+	Usually five to 10 years
+	-	Commonly 3 to 6 months
+	-	About 1 year
+	+	Usually 5 to 10 years
 13.	Which clinical sign is common in stage 1 HIV infection?
 	-	Night sweats
 	-	Fever
