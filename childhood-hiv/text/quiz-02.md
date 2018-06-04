@@ -9,7 +9,7 @@ style: chapter test
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	During the first six weeks after HIV infection:
+1.	During the first 6 weeks after HIV infection:
 	-	The child always becomes seriously ill.
 	-	The CD4 count rises.
 	+	The amount of HIV in the blood increases.
