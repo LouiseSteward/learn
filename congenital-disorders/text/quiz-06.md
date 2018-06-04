@@ -23,10 +23,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Caused by a teratogen.
 	-	Caused by a lack of folic acid in a poor diet.
 4.	How common is fetal alcohol syndrome in some communities in South Africa?
-	-	Very common, i.e. 500/1000 (50 percent) pregnancies.
-	+	Common, i.e. 50/1000 (5 percent) pregnancies.
-	-	Not common, i.e. 5/1000 (0.5 percent) pregnancies.
-	-	Rare, i.e. 1/1000 (0.1 percent) pregnancies.
+	-	Very common, i.e. 500/1000 (50%) pregnancies.
+	+	Common, i.e. 50/1000 (5%) pregnancies.
+	-	Not common, i.e. 5/1000 (0.5%) pregnancies.
+	-	Rare, i.e. 1/1000 (0.1%) pregnancies.
 5.	How many alcoholic drinks are usually needed to damage the fetus?
 	+	Any number of drinks may be dangerous.
 	-	At least 3 per day.

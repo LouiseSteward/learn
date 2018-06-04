@@ -85,7 +85,7 @@ Please choose the *one*, most correct answer to each question or statement.
 16.	What is the life expectancy of individuals with Down syndrome in South Africa?
 	-	The same as people without Down syndrome.
 	+	More than half die before two years of age.
-	-	At least 25 percent die on the first day of life.
+	-	At least 25% die on the first day of life.
 	-	Most are stillborn.
 17.	How can children with Down syndrome be helped to reach their full potential?
 	-	They should be placed in a special institution as soon as they are one year old.
@@ -103,7 +103,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Ultrasound examination for ventricular septal defect (VSD).
 	-	Chorionic villous biopsy to determine whether the fetus has hypothyroidism.
 20.	What is the risk of a 25 year old woman having a second child with Down syndrome due to non-disjunction?
-	+	1 percent.
-	-	15 percent.
-	-	25 percent.
-	-	50 percent.
+	+	1%.
+	-	15%.
+	-	25%.
+	-	50%.

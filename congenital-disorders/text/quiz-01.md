@@ -53,8 +53,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	A substance that damages a fetus.
 	-	A defect in a single gene.
 10.	What is the chance of inheriting a dominant gene present in one parent?
-	-	There is a 25 percent chance of inheriting the gene.
-	+	There is a 50 percent chance of inheriting the gene.
+	-	There is a 25% chance of inheriting the gene.
+	+	There is a 50% chance of inheriting the gene.
 	-	Only females pass on the gene.
 	-	Only males pass on the gene.
 11.	What is a recessive gene?
@@ -68,10 +68,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Heterozygous.
 	-	A twin.
 13.	If both parents are carriers of a recessive gene, the chance of their infant inheriting both recessive genes is:
-	-	1:1 (i.e. 100 percent).
-	-	1:2 (i.e. 50 percent).
-	+	1:4 (i.e. 25 percent).
-	-	1:10 (i.e. 10 percent).
+	-	1:1 (i.e. 100%).
+	-	1:2 (i.e. 50%).
+	+	1:4 (i.e. 25%).
+	-	1:10 (i.e. 10%).
 14.	Name the type of inheritance if a recessive gene is carried by females and only passed on to their male infants:
 	-	Dominant inheritance.
 	-	Recessive inheritance.
