@@ -84,16 +84,16 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Only if the rapist is known to be HIV positive
 	-	Only if it was a case of gang rape
 	-	Only if there is physical injury to the vagina
-16.	What post-exposure prophylaxis against HIV should be given?
-	-	A single dose of nevirapine
-	-	AZT only for 14 days
-	+	AZT and 3TC for 28 days
-	-	Antiretroviral treatment with three drugs for 3 months
-17.	If the woman denies intimate-partner violence but you remain suspicious that it is occurring:
+16.	If the woman denies intimate-partner violence but you remain suspicious that it is occurring:
 	-	You must report it to the local magistrate
 	-	You must report it to the local police
 	+	You should ask her to come back again soon
 	-	It is not your responsibility if she denies partner violence
+17.	What post-exposure prophylaxis against HIV should be given?
+	-	A single dose of nevirapine
+	-	AZT only for 14 days
+	+	Truvada, atazanavir and ritonavir for 28 days
+	-	Antiretroviral treatment with three drugs for 3 months
 18.	Which sexual assault victims need immediate attention?
 	-	Only those who are seriously injured
 	-	Only those who feel their lives are threatened

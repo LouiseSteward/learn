@@ -51,7 +51,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Jaundice
 9.	Progestogen-only oral contraceptives:
 	-	Are taken for 21 days followed by a break of 7 days
-	+	Are suitable for breastfeeding mothers as they do not suppress lactation
+	+	Are suitable for breastfeeding mothers as they have little effect on lactation
 	-	Are recommended for women who are not able to take medication reliably every day
 	-	Should not be used as they are not a reliable form of contraception
 10.	Injectable contraceptives: 
@@ -84,18 +84,18 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	By vaginal examination
 	+	By taking a history
 	-	By special gynaecological tests
-16.	Is infertility common?
-	+	Yes, as 10 to 15% of couples suffer from infertility
-	-	Only in women who have had a sexually transmitted infection
-	-	Only in women over the age of 38 years
-	-	No
-17.	Why is infertility important?
+16.	Why is infertility important?
 	-	Because it is a natural way of controlling the size of families
 	+	Because is causes suffering
 	-	Because it places a strain on government funds
 	-	Infertility is not important in Africa
+17. Is infertility common?
+	+	Yes, as 10 to 15% of couples suffer from infertility
+	-	Only in women who have had a sexually transmitted infection
+	-	Only in women over the age of 38 years
+	-	No	
 18.	A common cause of infertility is:
-	+	Blocked Fallopian tubes
+	+	Blocked fallopian tubes
 	-	Monilial vaginitis
 	-	A previous miscarriage
 	-	Endometriosis
