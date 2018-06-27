@@ -34,7 +34,7 @@ exclude:
   - /*/images/epub
   - /*/images/app
   # Books ---------------------------------
-  - adult-hiv
+  # - adult-hiv
   # - breast-care
   - catalogue
   # - child-healthcare
@@ -57,7 +57,7 @@ exclude:
   # - primary-newborn-care
   # - samples
   # - saving-mothers-and-babies
-  # - well-women
+  # - womens-health-care
 
 # Populate the keep_files list for temporary faster builds
 # or to keep previously generated files for other formats.
