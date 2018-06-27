@@ -28,6 +28,32 @@ exclude:
   - /*/images/screen-pdf
   - /*/images/web
   - /*/images/app
+  # Books ------------------
+  # - adult-hiv
+  # - breast-care
+  # - catalogue
+  # - child-healthcare
+  # - childhood-critical-care
+  # - childhood-hiv
+  # - childhood-tb
+  # - congenital-disorders
+  # - ebola-prevention-and-control
+  # - facilitators-guide
+  # - fetal-heart-rate-handbook
+  # - infection-prevention-and-control
+  # - intrapartum-care
+  # - maternal-care
+  # - maternal-mental-health
+  # - mother-and-baby-care-for-community-health-workers
+  # - mother-and-baby-friendly-care
+  # - newborn-care
+  # - perinatal-hiv
+  # - primary-maternal-care
+  # - primary-newborn-care
+  # - samples
+  # - saving-mothers-and-babies
+  # - well-women
+  # ------------------------
 # We deliberately empty the keep_files list here,
 # so that files we don't want don't end up in the epub
 # but not in the manifest.
