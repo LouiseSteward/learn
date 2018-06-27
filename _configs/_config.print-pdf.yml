@@ -34,11 +34,11 @@ exclude:
   - /*/images/epub
   - /*/images/app
   # Books ---------------------------------
-  # - adult-hiv
+  - adult-hiv
   # - breast-care
-  # - catalogue
+  - catalogue
   # - child-healthcare
-  # - childhood-critical-care
+  - childhood-critical-care
   # - childhood-hiv
   # - childhood-tb
   # - congenital-disorders

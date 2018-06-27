@@ -9,7 +9,7 @@ style: copyright-page
 
 First published in 2008 by [Bettercare](http://bettercare.co.za). Updated 1 Apr 2009, 24 Feb 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Text © Perinatal Education Programme 2008
+Text © Perinatal Education Trust 2008
 
 ISBN (print edition): 978-1-920218-24-9  
 ISBN (PDF edition): 978-1-920218-56-0  

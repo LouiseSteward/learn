@@ -9,7 +9,7 @@ style: copyright-page
 
 First published in 2009 by [Bettercare](http://bettercare.co.za). Updated 16 Feb 2011, 25 Feb 2015 (layout), 12 July 2017 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Text © Perinatal Education Programme 2009  
+Text © Perinatal Education Trust 2009  
 Illustrations by Anne Westoby  
 
 ISBN (paperback): 978-1-920218-38-6  

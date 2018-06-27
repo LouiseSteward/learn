@@ -80,7 +80,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Feeling pity for someone’s suffering
 	+	Understanding someone’s emotions even though you have not experienced them
 15.	What are some of the personal qualities of someone who engages empathically?:
-	-	Disrespect for others 
+	-	Disrespect for others
 	-	Being judgemental 
 	-	Sharing confidential information
 	+	Being genuine

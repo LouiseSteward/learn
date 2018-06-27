@@ -36,9 +36,9 @@ Please choose the *one*, most correct answer to each question or statement.
     +   Loss of a loved one
 6. Which of the following is likely to cause a tolerable infant stress response if a supportive caregiver is present?
     +   A frightening injury
-    +   Persistent economic hardship in the family
-    +   Meeting a new person
-    +   Substance abuse in the family
+    -   Persistent economic hardship in the family
+    -   Meeting a new person
+    -   Substance abuse in the family
 7. Which of the following factors relates to “toxic” stress? 
     -   It is short-lived but severe 
     -   It is as a result of a birth defects in the infant.

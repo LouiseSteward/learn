@@ -7,7 +7,7 @@ style: copyright-page
 
 *Mother and Baby Care for Community Health Workers*
 
-First published in 2016 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2017 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © David Woods 2016
 

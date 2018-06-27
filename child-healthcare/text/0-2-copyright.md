@@ -9,9 +9,9 @@ style: copyright-page
 
 First published in 2007 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Updated 23 August 2007, 23 January 2015 (layout)
+Updated 23 August 2007, 23 January 2015 (layout).
 
-Text © Eduhealthcare 2007  
+Text © Perinatal Education Trust 2007  
 
 ISBN (paperback): 978-1-920218-01-0  
 ISBN (international paperback): 978-1-920218-15-7  

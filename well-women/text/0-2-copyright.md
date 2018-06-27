@@ -7,9 +7,9 @@ style: copyright-page
 
 *Well Women: Addressing the everyday health needs of women*
 
-First published in 2011 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2011 by [Bettercare](http://bettercare.co.za). Updated May 2018. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Text © Eduhealthcare 2011
+Text © Perinatal Education Trust 2011
 
 ISBN (print edition): 978-1-920218-65-2  
 ISBN (PDF edition): 978-1-920218-66-9  

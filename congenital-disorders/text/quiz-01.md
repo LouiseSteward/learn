@@ -13,7 +13,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Either an abnormality of structure or function present at birth
 	-	An abnormality of structure or function which is not present at birth
 2.	What is birth prevalence?
-	+	The number of affected infants per 1000 live births
+	+	The number of affected infants per 1000 in a population
 	-	The number of affected infants per 1000 total births
 	-	The number of affected infants born in a month
 	-	The number of affected infants born in a year
@@ -42,19 +42,19 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	A group of chromosomes.
 	-	A fertilised egg.
 	-	A pair of chromosomes.
-8.	What are alleles?
-	+	A pair of similar genes.
-	-	Single chromosomes.
-	-	A substance that damages a fetus.
-	-	A defect in a single gene.
-9.	What is a mutation?
+8.	What is a mutation?
 	+	A change in the structure of a gene.
 	-	An increased number of genes.
 	-	A decreased number of genes.
 	-	It has nothing to do with genes.
+9.	What are alleles?
+	+	A pair of similar genes.
+	-	Single chromosomes.
+	-	A substance that damages a fetus.
+	-	A defect in a single gene.
 10.	What is the chance of inheriting a dominant gene present in one parent?
-	-	There is a 25 percent chance of inheriting the gene.
-	+	There is a 50 percent chance of inheriting the gene.
+	-	There is a 25% chance of inheriting the gene.
+	+	There is a 50% chance of inheriting the gene.
 	-	Only females pass on the gene.
 	-	Only males pass on the gene.
 11.	What is a recessive gene?
@@ -68,10 +68,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Heterozygous.
 	-	A twin.
 13.	If both parents are carriers of a recessive gene, the chance of their infant inheriting both recessive genes is:
-	-	1:1 (i.e. 100 percent).
-	-	1:2 (i.e. 50 percent).
-	+	1:4 (i.e. 25 percent).
-	-	1:10 (i.e. 10 percent).
+	-	1:1 (i.e. 100%).
+	-	1:2 (i.e. 50%).
+	+	1:4 (i.e. 25%).
+	-	1:10 (i.e. 10%).
 14.	Name the type of inheritance if a recessive gene is carried by females and only passed on to their male infants:
 	-	Dominant inheritance.
 	-	Recessive inheritance.
@@ -85,14 +85,14 @@ Please choose the *one*, most correct answer to each question or statement.
 16.	What is a teratogen?
 	-	An abnormal chromosome.
 	-	An abnormal gene.
-	+	Something that damages the embryo or fetus.
-	-	Something that damages a gene.
+	+	Something in the environment that damages the embryo or fetus.
+	-	Something in the environment that damages a gene.
 17. What is a malformation?
 	+	A congenital disorder which is caused by a problem in the first trimester
 	-	A congenital disorder caused by amniotic bands
 	-	A congenital disorder caused by hypoxia in labour
 	-	A congenital disorder caused by a problem in the last trimester
-18.	Which is an example of constraint causing a congenital disorder?
+18.	What may cause a deformity?
 	-	Drinking excess alcohol during pregnancy
 	+	Oligohydramnios (too little amniotic fluid)
 	-	Wearing tight fitting clothes during pregnancy

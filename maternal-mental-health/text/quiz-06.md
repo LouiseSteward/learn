@@ -41,9 +41,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Don’t judge her, show kindness and respect
 7.	In South Africa, what percentage of pregnancies are unintended (unplanned)?
 	-	None, all are intended
-	-	6 percent are unintended
-	-	16 percent are unintended
-	+	60 percent are unintended
+	-	6% are unintended
+	-	16% are unintended
+	+	60% are unintended
 8.	Which statement regarding unwanted pregnancy and mental health is true?
 	-	All women with mental illness should terminate their pregnancies
 	-	Once a woman has had a termination, she will always be mentally ill

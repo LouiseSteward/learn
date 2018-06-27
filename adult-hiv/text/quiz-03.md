@@ -15,35 +15,35 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	When the patient becomes seriously ill with tuberculosis
 	-	When the patient is terminally ill
 2.	At what stage of the HIV infection is antiretroviral treatment indicated?
-	-	Stage 2, 3 and 4
 	-	Stage 1 only
 	-	Stage 2 only
-	+	Stage 3 or 4 only
+	-	Stage 3 or 4 only
+	+	At any stage
 3.	Antiretroviral treatment is indicated when the CD4 count falls below:
-	-	350 cells/µl
-	+	500 cells/µl
-	-	100 cells/µl
-	-	50 cells/µl
-4.	Should psychosocial factors be considered when deciding whether to start antiretroviral treatment?
-	+	Yes, because they determine whether treatment is likely to be successful or not.
-	-	Yes, because poor people cannot be relied upon to take regular treatment.
-	-	No, because it is the democratic right of all HIV positive people to have antiretroviral treatment.
-	-	No, because assessing psychosocial factors is unreliable and too difficult.
-5.	What may happen if antiretroviral treatment is started too early?
+	-	Is at any level
+	+	Falls below 500 cells/µl
+	-	Falls below 100 cells/µl
+	-	Falls below 50 cells/µl
+4.	Why should psychosocial factors be considered when deciding whether to start antiretroviral treatment?
+	+	Because they determine whether treatment is likely to be successful or not.
+	-	Because poor people cannot be relied upon to take regular treatment.
+	-	Because it is the democratic right of all HIV positive people to have antiretroviral treatment.
+	-	Because assessing psychosocial factors is unreliable and too difficult.
+5.	Which group of patients with HIV infection should be fast tracked onto antiretroviral treatment?
+	-	There is no need to fast track any patient.
+	-	All women should be given treatment without delay.
+	-	Patients over the age of 45 years should be started on antiretroviral treatment urgently.
+	+	Pregnant women should be fast tracked.
+6. What may happen if antiretroviral treatment is started too early?
 	-	Male patients may become sexually impotent.
 	+	Poor adherence and drug resistance are more likely to become a problem.
 	-	The patient has an increased risk of developing tuberculosis.
 	-	The HIV infection may progress rapidly.
-6.	How long does it take to prepare a patient for antiretroviral treatment?
+7.	How long does it take to prepare a patient for antiretroviral treatment?
 	-	Two to four days
 	-	One week
 	+	Two to four weeks
 	-	Three months
-7.	Which group of patients with HIV infection should be fast tracked onto antiretroviral treatment?
-	-	There is no need to fast track any patient. 
-	-	All women should be given treatment without delay.
-	-	Patients over the age of 45 years should be started on antiretroviral treatment urgently.
-	+	Pregnant women should be fast tracked.
 8.	Which of the following factors must be considered before starting antiretroviral treatment in the state health service?
 	-	The patient should be able to afford the cost of treatment.
 	+	The patient should not have untreated depression.
@@ -99,7 +99,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Patients should have a CD4 count done.
 	-	All patients should have a chest X-ray.
 	+	Blood results should be checked and tests repeated if necessary.
-19.	What is a common cause for postponing the start of antiretroviral treatment?
+19.	When is a patient not ready to start antiretroviral treatment?
 	+	The patient is unreliable and does not attend clinic regularly.
 	-	The patient is too old.
 	-	The patient is too sick.

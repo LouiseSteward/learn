@@ -20,7 +20,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Helps people with HIV infection understand their illness
 	-	Is too difficult and therefore is not effective
 3.	What is safer sex?
-	-	Only having sex with two or three partners a year
+	-	Only having sex with 2 or 3 partners a year
 	-	Only having anal and not vaginal intercourse
 	-	Using oral contraceptives to prevent pregnancy
 	+	Always using a condom
@@ -82,8 +82,8 @@ Please choose the *one*, most correct answer to each question or statement.
 15.	How often should the CD4 count be measured in well people with HIV infection?
 	-	Every week
 	-	Every month
-	-	Every three months
-	+	Every six months
+	-	Every 3 months
+	+	Every 6 months
 16.	What is palliative care?
 	+	Care of patients with an incurable disease
 	-	Care of dying patients

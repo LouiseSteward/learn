@@ -14,7 +14,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Women who have multiple sex partners
 	+	Women who have positive and respectful sexual relationships
 	-	Women whose sexual life is controlled by their partners
-2.	What are the Millennium Development Goals?
+2.	What are the Sustainable Development Goals?
 	-	A new form of lottery to raise funds for reproductive health in poor communities
 	-	A South African plan to reduce infertility in resource-poor communities
 	+	An international project to improve the lives of poor people
@@ -90,7 +90,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Multiple pregnancy
 	+	Pregnancy-induced hypertension
 17.	Smoking increases the risk of:
-	-	Breast cancer
+	-	Bowel cancer
 	-	Diabetes
 	+	Osteoporosis
 	-	None of the above

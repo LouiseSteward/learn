@@ -1,111 +1,111 @@
 ---
-title: Quiz 5. Abuse of women
+title: Quiz 5. Pain and discomfort in women
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 5: Abuse of women
+# Quiz 5: Pain and discomfort in women
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	What activity would qualify as abuse?
-	-	Repeated shouting at a women by her partner in order to control her
-	-	Demanding sex in return for financial support
-	-	A boyfriend slapping a woman only when he is drunk
-	+	All of the above
-2.	What is the commonest form of abuse?
-	+	Verbal abuse
-	-	Emotional abuse
-	-	Financial abuse
-	-	Physical abuse
-3.	What is rape?
-	-	Only forced vaginal or anal intercourse
-	-	Only forced vaginal intercourse if physical injury occurs
-	-	Only forced vaginal intercourse with a penis
-	+	Any forced penetration of the vagina, anus or mouth with a penis or other object
-4.	Rape can happen to:
-	-	Only women
-	-	Only women and young girls
-	-	Only adult women or men
-	+	Women, men or children
-5.	What is gender-based violence?
-	-	Physical violence between women
-	-	Emotional violence between women and their children
-	+	Any violence directed against women because they are women
-	-	Only non-consensual abuse against women
-6.	Where does gender-based violence occur?
-	-	Only in jail
-	-	Often in primary school
-	+	Usually in the home
-	-	Most commonly in the work place
-7.	How common is intimate-partner violence in South Africa?
-	+	Very common
-	-	Only common in wealthy communities
-	-	Only common in unmarried couples
-	-	Uncommon
-8.	Which women are at greatest risk of intimate-partner violence?
-	-	Old women
-	+	Poor women
-	-	Married women
-	-	Women with children
-9.	Intimate-partner violence is more common when:
-	+	The woman or her partner have been abused themselves as children
-	-	The woman is older than her partner
-	-	The woman is well educated
-	-	The woman is very religious
-10.	How is intimate-partner violence diagnosed?
-	-	It relies on physical examination
-	+	By getting a history of violence
-	-	Only by a sworn statement made in a court of law
-	-	By taking a Pap smear
-11.	What advice should be given to all women who are suffering from intimate-partner violence?
-	-	They should fight back
-	-	They must leave their partner immediately
-	-	They must accept that their partner should control their lives
-	+	They should be told of their right to report the violence to the police
-12.	Sexual assault is usually committed by:
-	-	A stranger
-	-	A person seeking political asylum
-	+	A person well known to the victim
-	-	A person who is mentally disturbed
-13.	Who should attend to the survivor of a severe sexual assault?
-	-	Only a gynaecologist
-	-	Only a district surgeon
-	-	Only a doctor
-	+	Any healthcare worker who has had special training
-14.	In a forensic examination:
-	-	The victim should be examined under general anaesthesia
-	-	A lawyer should be present
-	+	A sexual assault examination kit should be used
-	-	Photographs of the genitalia must always be taken
-15.	Should raped women be tested for HIV?
-	+	All should be tested
-	-	Only if the rapist is known to be HIV positive
-	-	Only if it was a case of gang rape
-	-	Only if there is physical injury to the vagina
-16.	What post-exposure prophylaxis against HIV should be given?
-	-	A single dose of nevirapine
-	-	AZT only for 14 days
-	+	AZT and 3TC for 28 days
-	-	Antiretroviral treatment with three drugs for 3 months
-17.	If the woman denies intimate-partner violence but you remain suspicious that it is occurring:
-	-	You must report it to the local magistrate
-	-	You must report it to the local police
-	+	You should ask her to come back again soon
-	-	It is not your responsibility if she denies partner violence
-18.	Which sexual assault victims need immediate attention?
-	-	Only those who are seriously injured
-	-	Only those who feel their lives are threatened
-	-	Only those who are not referred to hospital
-	+	All need immediate attention, even if the clinic is very busy
-19.	When should hepatitis B immunisation be given to a victim of sexual assault?
-	+	Immediately while waiting for the antibody test result
-	-	When the result of the hepatitis B antibody test is received
-	-	A week after the assault when any vaginal tears have healed
-	-	Hepatitis B immunisation is not needed as most women already have antibodies to hepatitis B
-20.	When should a sexual assault victim come back for follow-up care?
-	-	Every day for a week
-	+	At 3 days, 6 weeks and 3 months
-	-	Only if she feels she needs further help
-	-	Follow-up visits are not encouraged as further visits to the same clinic will only make the emotional trauma worse
+1.	What is gynaecological pain?
+    + Pain that occurs in women but not men
+    - Pain that only occurs in pregnant women
+    - Pain that only occurs in women who are not pregnant
+    - Pain that only occurs in the vulva or vagina
+2.	What is an important cause of acute pelvic pain?
+    - Pelvic adhesions and scarring
+    + Appendicitis
+    - Adenomyosis
+    - Placenta praevia
+3.	What is a common cause of acute pelvic infection?
+    - Candida
+    - Herpes
+    + Chlamydia
+    - Hepatitis B virus
+4.	What common complication of an ovarian cyst may cause pelvic pain?
+    - Infection
+    - Collapse
+    - Malignancy
+    + Torsion
+5.	How does ectopic pregnancy present clinically?
+    - With chronic pelvic pain
+    + With acute pelvic pain
+    - With cyclical pelvic pain
+    - With painless vaginal bleeding
+6.	When does primary dysmenorrhoea cause pelvic pain?
+    - In the middle of the menstrual cycle
+    - In the week before the menstrual period
+    + During the menstrual period
+    - In the week after the menstrual period
+7.	Primary dysmenorrhoea is usually treated with:
+    - An antibiotic such as penicillin
+    + A non-steroidal anti-inflammatory such as ibrufen
+    - A sedatives such as diazepam
+    - An intrauterine contraceptive device
+8.	What is a typically symptom of endometriosis?
+    - Headaches
+    - Back ache
+    + Pelvic pain a few days before the menstrual period
+    - Pain at the time of ovulation
+9.	What is endometriosis?
+    - An infection of the lining of the uterus
+    - Cancer of the uterus
+    - Atrophy (thinning) of the lining of the uterus
+    + Endometrial tissue outside the uterus
+10.	What treatment is effective in reducing the pain of endometriosis?
+    + A combined oral contraceptive
+    - Dilatation and curettage (D and C)
+    - A diuretic
+    - A broad spectrum antibiotic
+11.	What is the clinical presentation of fibroids?
+    + They often cause no symptoms
+    - They always present with pelvic pain
+    - Fever and vaginal discharge are common
+    - They cause missed periods
+12.	What is a common cause of chronic pelvic pain?
+    - Uterine cancer
+    - Urinary tract infection
+    + Irritable bowel syndrome
+    - Adenomatosis
+13.	What is an important complication of chronic pelvic inflammatory disease?
+    - Missing periods
+    - Adenomyosis
+    + Infertility
+    - Renal failure
+14.	What is a common cause of vulvar pain?
+    - Cervical cancer
+    - Uterine prolapsed
+    - Lichen planus
+    + A fissure
+15.	What is the usual treatment of atrophic vulvovaginitis?
+    + Oestrogen cream
+    - Mycostatin cream
+    - Steroid cream
+    - Aqueous cream
+16.	Vulvar pain during pregnancy is commonly due to:
+    - Vaginal prolapse
+    - Miscarriage
+    + Vulvar varices
+    - Eczema (dermatitis)
+17.	What is vulvodynia?
+    + Vulvar pain without an obvious cause
+    - Narrowing of the vagina due to repeated infections
+    - A fungal infection of the vagina
+    - Severe vulvar pain caused by herpes infection
+18.	What is a typical symptom of vulvodynia?
+    - Non-offensive vaginal discharge
+    + A local burning pain when inserting a tampon 
+    - Vulvar pain during menstruation
+    - Severe vulvar pain during pregnancy
+19.	What is dyspareunia?
+    - Pain when passing urine
+    + Pain during sexual intercourse
+    - Pain the passing stool
+    - Pain after eating
+20.	What is cyclical mastalgia?
+    - Pain in one breast that is usually caused by cancer
+    - Pain in both breasts during ovulation
+    - Pain in both breasts after exercise such as cycling
+    + Pain in both breasts before the start of the menstrual period

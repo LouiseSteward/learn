@@ -33,7 +33,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Meningomyelocoele.
 	-	Hydrocephalus.
 6.	The birth prevalence of neural tube defects in South Africa is:
-	-	10–40/ 1000.	
+	-	1–4/ 100.	
 	+	1–4/ 1000.	
 	-	1/ 10 000.	
 	-	4/ 100 000.	
@@ -88,10 +88,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Folic acid.
 	-	Zinc.
 17.	What are the risks of a mother having a second child with a neural tube defect?
-	-	1 percent.
-	+	5 percent.
-	-	25 percent.
-	-	50 percent.
+	-	1%.
+	+	5%.
+	-	25%.
+	-	50%.
 18.	Which maternal serum screening test helps to identify pregnant women at increased risk of having a child with neural tube defects?
 	-	Alkaline phosphatase.
 	-	Glucose 6 phosphate dehydrogenase (G6PD).
