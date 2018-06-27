@@ -44,18 +44,19 @@ $font-size-bigger: 2 !default; // How many times bigger than font-size-default f
 $spaced-paras: false !default;
 
 // Buttons
-$button-border-radius: 0.1em !default; // Roundness of button corners.
+$button-border-radius: 0.2em !default; // Roundness of button corners.
 
 // Colours
-$color-text-main: initial !default;
-$color-text-secondary: initial !default;
-$color-background: white !default;
-$color-light: #e0e0e0 !default;
-$color-mid: #9c9c9c !default;
-$color-accent: #000000 !default;
-$color-links: #5f738c !default;
-$color-buttons: #5f738c !default;
-$color-highlight: #ffd54d !default;
+$color-text-main: #222222;
+$color-text-secondary: #222222;
+$color-background: white;
+$color-light: #efeeee;
+$color-mid: #6c6c6c;
+$color-accent: #4f89d2;
+$color-links: $color-accent;
+$color-buttons: $color-accent;
+$color-buttons-hover: darken( $color-buttons, 20% );
+$color-highlight: #ffd54d;
 
 // Set the default start-depth of pages.
 // This is the distance from the top of the page to the first element on the first page.
@@ -179,3 +180,257 @@ $epub-reset-sequences: true !default; //
 
 // Logic (if this then that)
 @import "partials/epub-reset-sequences"; // 
+
+// ---------------------
+// Custom CSS for series
+// ---------------------
+
+// Variables
+
+$color-accent-secondary: #4fd298;
+
+// Basic typography
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    strong:first-of-type {
+        color: $color-mid;
+        display: block;
+    }
+}
+
+a {
+    &.button {
+        padding: 0.4em; // overrides template
+    }
+}
+
+// Navigation list
+
+#nav {
+    // Don't actually make <strong> numbers bold, just using them as spans
+    a {
+        strong:first-child {
+            font-weight: inherit;
+        }
+    }
+}
+
+// Key concepts boxes
+
+blockquote {
+    font-family: $font-text-secondary;
+    clear: both;
+    color: white;
+    background-color: $color-accent-secondary;
+    font-weight: bold;
+    margin: 1em 0;
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0.2em;
+    p {
+        margin: 0;
+        padding: 0;
+    }
+    .box {
+        background-color: inherit;
+        color: inherit;
+        font-weight: inherit;
+        font-size: inherit;
+        padding: 0;
+        border: 1px solid $color-mid;
+        p {
+            margin: 0 0 0.5em 0;
+        }
+    }
+}
+
+// Notes
+ 
+dl {
+    color: $color-mid;
+    font-family: $font-text-secondary;
+    padding: 0 1em;
+    font-size: 0.9em;
+    line-height: $line-height-default;
+    // add back similar space to normal paragraph space-below
+    margin-bottom: $line-height-default / $font-size-smaller;
+    dt {
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+    dd {
+        .table-caption {
+            margin-top: 1em;
+        }
+    }
+}
+
+// Figures
+
+// Legacy styling
+
+// Note: we use the blockquote element to wrap figures and their captions in valid XHTML. 
+// Use the .figure class for the blockquote wrapping an image and a caption. 
+// Add .fixed, .small and/or .large for layout and size options.
+
+blockquote.figure {
+    clear: both;
+    page-break-inside: avoid;
+    background-color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    color: $color-mid;
+    border: 1px solid $color-mid;
+    border-radius: $button-border-radius;
+    margin: 1em 0;
+    padding: 0.5em;
+}
+.figure p {
+    clear: both;
+    text-align: center;
+    page-break-inside: avoid;
+    page-break-before: avoid;
+}
+.figure p img {
+    padding: 0.5em 0 1em 0;
+    margin: 0 auto;
+    max-width: 100%; 
+    object-fit: unset; // overrides template scale-down, which makes svgs really small
+}
+@media screen and (max-height: 800px) {
+    blockquote.figure p img {
+        max-height: 400px;
+        }
+}
+@media screen and (max-height: 500px) {
+    blockquote.figure p img {
+        max-height: 200px;
+        }
+}.figure p:nth-child(2) {
+    padding: 0.5em 0 0 0;
+    border-top: 1px dashed $color-mid;
+    text-align: left;
+}
+.figure.x-small p img {}
+.figure.small p img {}
+.figure.large p img {
+    max-height:inherit;
+}
+@media screen and (min-width: 600px) {
+    .figure.large p img {
+        max-height: 600px;
+    }
+}
+
+// Title pages
+
+.title-page {
+    .titlepage-title {
+        font-size: 3em;
+        font-weight: 600;
+        line-height: 100%;
+    }
+    .titlepage-subtitle {
+        font-weight: normal;
+        margin: 0 0 1em 0;
+        line-height: 100%;
+    }
+    .titlepage-author {
+        font-size: 1.5em;
+        margin: 0 0 2em 0;
+    }
+    .titlepage-logo {
+        width: 200px;
+        display: inline-block;
+        margin: auto;
+    }
+}
+
+// Tables of contents
+
+/*
+ * Table of contents NEEDS WORK
+ */
+
+.toc-list, .chapter-toc {
+    font-family: $font-text-secondary;
+    list-style-type: none;
+    margin: 0;
+    a {
+        clear: both;
+        text-decoration: none;
+        border: 1px solid #f2f2f2;
+        padding: 0.25em;
+        margin: 0 0 0.5em 0;
+        display: block;
+        border-radius: $button-border-radius;
+        background-color: #f9f9f9;
+        &:hover {
+            background-color: white;
+        }
+        strong:first-of-type {
+            font-weight: normal;
+        }
+        // auxiliary items like skills workshops less prominent
+    }
+    li {
+        &.frontmatter-entry {
+            display: inline-block;
+            float: left;
+            margin-right: 0.5em;
+            a {
+                background-color: white;
+                &:hover {
+                    background-color: #f9f9f9;
+                }
+            }
+            ul, ol {
+                li {
+                    display: none;
+                }
+            }
+        }
+        &.auxiliary a {
+            color: #b2b2b2;
+        }
+        ul, ol {
+            li {
+                display: none;
+            }
+        }
+    }
+}
+
+// Static tests pages
+
+/*
+ * Tests
+ */
+
+.test ol li {
+    margin: 0 0 1em 0;
+ }
+.test ol li li {
+    list-style-type: lower-alpha;
+    margin: 0;
+}
+.test .correct-answer {
+    display: none;
+    border: 1px solid #f2f2f2;
+    padding: 0.1em 0.3em;
+    border-radius: 0.2em;
+    margin: 0 0 0 0.5em;
+}
+.test .keep-together {
+    page-break-inside: avoid;
+}
+
+/*
+ * Live tests
+ */
+
+// The live tests shouldn't build, but we leave this
+// just in case.
+.live-test {
+    display: none;
+}

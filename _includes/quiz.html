@@ -1,3 +1,5 @@
+{% if site.output == "web" %}
+	
 <a id="live-test-show" href="#live-test" class="button non-printing">Open chapter quiz</a>
 
 <div id="live-test" class="live-test non-printing">
@@ -8,3 +10,5 @@
 	</div><!--.loading-->
 	<a href="" id="live-test-hide" class="button non-printing">Close quiz</a>
 </div><!--#live-test .live-test .non-printing-->
+
+{% endif %}
