@@ -48,7 +48,7 @@ exclude:
 # - primary-newborn-care
 # - samples
 # - saving-mothers-and-babies
-# - well-women
+# - womens-health-care
 # Images ------------------------------------
 - /*/images/print-pdf
 - /*/images/screen-pdf

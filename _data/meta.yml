@@ -16434,10 +16434,10 @@ works:
           - "0-3-contents"
           - "01"
           - "02"
-  - directory: "well-women"
-    title: "Well Women"
-    subtitle: "Well Women: Addressing the everyday health needs of women"
-    creator: "Eduhealthcare" # E.g. the author
+  - directory: "womens-health-care"
+    title: "Women's Health Care"
+    subtitle: "Women's Health Care: Addressing the everyday health needs of women"
+    creator: "Perinatal Education Trust" # E.g. the author
     contributor: "" # E.g. other contributors
     subject: "Healthcare" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
     description: "" # E.g. the blurb
