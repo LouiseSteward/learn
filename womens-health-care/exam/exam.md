@@ -1,11 +1,11 @@
 ---
 title: Bettercare learning programmes
-book: Well Women
+book: Women's Health Care
 style: exam
 published: true
 ---
 
-# Well Women Exam
+# Women's Health Care Exam
 
 {% include exam-instructions.html %}
 
