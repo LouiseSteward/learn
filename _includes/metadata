@@ -644,5 +644,5 @@ processed as documents by Jekyll, and aren't accessible that way.{% endcomment %
 {% endfor %}
 
 {% comment %}End of entire metadata load.{% endcomment %}
-{% endif %}
 {% assign metadata-loaded = true %}
+{% endif %}
