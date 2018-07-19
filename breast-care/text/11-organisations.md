@@ -11,7 +11,7 @@ Organisations associated with awareness and education but not necessarily suppor
 ## Contents
 {:.non-printing}
 
-*   [18twenty8 (18T)](#twenty8-18t)
+*   [18twenty8 (18T)](#18twenty8-18t)
 *   [Avon Justine iThemba Crusade of Hope (CoH)](#avon-justine-ithemba-crusade-of-hope-coh)
 *   [Breast Course 4 Nurses](#breast-course-4-nurses)
 *   [Phakamisa (PKM)](#phakamisa-pkm)
