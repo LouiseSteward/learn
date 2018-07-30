@@ -5,5 +5,5 @@ style: cover
 
 {% include metadata %}
 
-![Cover]({{ images }}/cover.svg){:.cover}
+![Cover]({{ images }}/cover.jpg){:.cover}
 {:.cover}
