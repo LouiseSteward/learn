@@ -12,7 +12,7 @@ First published in 2010 by [Bettercare](http://bettercare.co.za). Updated: 11 Ma
 Text © David Woods and Robert Gie 2010
 
 ISBN (print edition): 978-1-920218-46-1  
-ISBN (PDF edition): 978-1-920218-47-8  
+ISBN (international paperback edition): 978-1-717897-92-3  
 ISBN (reflowable edition): 978-1-928313-02-1
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
