@@ -14,7 +14,7 @@ Cover photograph © Harris Steinman
 Illustrations by Mary Hann and Anne Westoby  
 
 ISBN (paperback): 978-1-920218-28-7  
-ISBN (PDF ebook): 978-1-920218-57-7  
+ISBN (international paperback edition): 978-1-717898-19-7  
 ISBN (reflowable ebook): 978-1-928313-08-3
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
