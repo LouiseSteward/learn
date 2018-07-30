@@ -12,7 +12,7 @@ First published in 2011 by [Bettercare](http://bettercare.co.za). Updated May 20
 Text © Perinatal Education Trust 2011
 
 ISBN (print edition): 978-1-920218-65-2  
-ISBN (PDF edition): 978-1-920218-66-9  
+ISBN (international paperback edition): 978-1-717898-85-2  
 ISBN (reflowable edition): 978-1-920218-90-4
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
