@@ -13,7 +13,7 @@ Text © Perinatal Education Trust 2009
 Illustrations by Anne Westoby  
 
 ISBN (paperback): 978-1-920218-38-6  
-ISBN (PDF ebook edition): 978-1-920218-39-3  
+ISBN (international paperback edition): 978-1-717898-08-1  
 ISBN (reflowable edition): 978-1-928313-04-5
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
