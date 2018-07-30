@@ -14,7 +14,7 @@ Cover photograph © [EU Humanitarian Aid and Civil Protection](https://www.flick
 Illustrations by Lizelle Niit and Kevin Shelley
 
 ISBN (paperback): 978-1-920218-86-7  
-ISBN (PDF edition): 978-1-920218-87-4  
+ISBN (international paperback edition): 978-1-717897-99-2  
 ISBN (reflowable edition): 978-1-920218-88-1
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
