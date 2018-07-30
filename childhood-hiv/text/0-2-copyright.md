@@ -13,7 +13,7 @@ Text © David Woods and Brian Eley 2008
 Cover photograph by Anna Nersesyan at Life Studios, Cape Town
 
 ISBN (paperback): 978-1-920218-21-8  
-ISBN (PDF ebook): 978-1-920218-33-1  
+ISBN (international paperback edition): 978-1-717897-87-9 
 ISBN (reflowable edition): 978-1-920218-97-3
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
