@@ -14,8 +14,7 @@ Updated 23 August 2007, 23 January 2015 (layout).
 Text © Perinatal Education Trust 2007  
 
 ISBN (paperback): 978-1-920218-01-0  
-ISBN (international paperback): 978-1-920218-15-7  
-ISBN (PDF ebook): 978-1-920218-55-3  
+ISBN (international paperback edition): 978-1-717895-17-2 
 ISBN (reflowable ebook): 978-1-920218-95-9
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
