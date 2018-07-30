@@ -15,7 +15,7 @@ Text © Perinatal Mental Health Project 2015
 Illustrations by Graeme Arendse, adapted for low-bandwidth access by Kevin Shelley
 
 ISBN (print edition): 978-1-920218-83-6  
-ISBN (PDF edition): 978-1-920218-84-3  
+ISBN (international paperback edition): 978-1-717897-79-4  
 ISBN (reflowable edition): 978-1-920218-88-1
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
