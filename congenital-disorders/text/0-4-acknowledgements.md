@@ -19,8 +19,10 @@ Editor-in-Chief of the Perinatal Education Programme: Prof D L Woods
 
 Editor of *Congenital Disorders*: Prof D L Woods
 
-Authors of *Birth Defects* (now *Congenital Disorders*): Prof A L Christianson, Prof D L Woods, Dr H Malherbe, Prof C Aldous, Prof D L Viljoen, Dr B Henderson, Ms P Craig
+Authors of *Congenital Disorders* (previously *Birth Defects*): Prof A L Christianson, Prof D L Woods, Prof D L Viljoen, Dr B Henderson, Ms P Craig
 
-Contributors to *Birth Defects* (now *Congenital Disorders*): Dr L Bhengu, Mrs N Chabilal, Dr G de Jong, Ms M Glass, Dr B Henderson, Mrs D Lombard, Mrs M Mongo, Mrs L Olivier, Dr A Robertson, Ms S Walters, Mrs T Wessels, Prof W Winship
+Contributors to *Congenital Disorders* (previously *Birth Defects*): Dr L Bhengu, Mrs N Chabilal, Dr G de Jong, Ms M Glass, Dr B Henderson, Mrs D Lombard, Mrs M Mongo, Mrs L Olivier, Dr A Robertson, Ms S Walters, Mrs T Wessels, Prof W Winship
 
 Selected photographs: Prof W Winship
+
+This edition was revised by Prof Colleen Aldous, Dr Helen Malherbe and Dr Prashini Govender under the guidance of Prof D L Woods.
