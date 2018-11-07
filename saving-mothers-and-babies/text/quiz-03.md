@@ -24,12 +24,12 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Perinatal deaths per 1000 deliveries.
 	-	Perinatal deaths per 10 000 deliveries.
 	-	Perinatal deaths per 100 000 deliveries.
-4.	What is the perinatal mortality rate in industrialised countries?
+4.	What is the perinatal mortality rate in high-income countries?
 	+	About 10.
 	-	About 50.
 	-	About 100.
 	-	About 150.
-5.	What is the perinatal mortality rate in poor countries?
+5.	What is the perinatal mortality rate in low-income countries?
 	-	About 50.
 	+	About 70.
 	-	About 100.
@@ -64,15 +64,15 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	An infant born dead and weighing less than 500 g.
 	-	Any infant weighing less than 1000 g that is born dead or dies in the first 24 hours.
 	-	Any infant that has fused eyelids at birth
-12.	What is the stillbirth rate in poor countries?
-	-	The same as in industrialised countries.
+12.	What is the stillbirth rate in low-income countries?
+	-	The same as in high-income countries.
 	-	About 5.
 	+	About 45.
 	-	Usually over 100.
 13.	What is a macerated stillbirth?
 	-	An abortion.
 	-	An infant which has died during labour.
-	+	An stillborn infant with discolouration and peeling of the skin.
+	+	A stillborn infant with discolouration and peeling of the skin.
 	-	A live born infant weighing less than 1000 g that dies soon after delivery.
 14.	What is an important primary cause of stillbirth?
 	+	Placental abruption.
@@ -94,15 +94,15 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Preterm labour.
 	-	Birth asphyxia.
 	-	Placenta praevia.
-18.	What fetal infections commonly cause perinatal deaths in poor countries?
+18.	What fetal infections commonly cause perinatal deaths in low-income countries?
 	-	Rubella (German measles).
 	-	Toxoplasmosis.
 	+	Syphilis.
 	-	HIV.
 19.	What is the ratio of stillbirths to early neonatal deaths?
-	-	About two in industrialised countries.
-	+	Two or more in poor countries.
-	-	About one in poor countries.
+	-	About two in high-income countries.
+	+	Two or more in low-income countries.
+	-	About one in low-income countries.
 	-	About five in South Africa.
 20.	What is the perinatal care index?
 	+	The perinatal mortality rate divided by the low birth weight rate.
