@@ -40,7 +40,7 @@ Please choose the *one*, most correct answer to each question or statement.
 8.	What antiretroviral medicine (ARV) should be given to babies born to HIV positive mothers?
 	+	Nevirapine
 	-	A fixed dose combination of 2 medicines
-	-	AZT
+	-	3TC
 9.	How should HIV positive women feed their newborn babies?
 	-	Bottle feed with milk formula
 	+	Exclusively breastfeed

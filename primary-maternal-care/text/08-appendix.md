@@ -62,7 +62,7 @@ The level of care needed is shown as follows:
    <p>Chromosome abnormalities are commoner, e.g. Down syndrome</p></td>
   <td><p>Carefully look for medical problems at the first visit, and at 28 and 34 weeks.</p>
    <p>Motivate for sterilisation.</p></td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td><p>Determine the duration of pregnancy:</p>
@@ -93,11 +93,11 @@ The level of care needed is shown as follows:
    <p>Hypertension and diabetes</p>
    <p>Use weight, height and attached BMI table.</p>
    <p>When reading BMI off table:</p>
-   <p>With 1st visit in 2nd trimester, subtract 4&nbsp;kg</p>
-   <p>With 1st visit in 3rd trimester, subtract 8&nbsp;kg</p></td>
+   <p>With 1st visit in 2nd trimester, subtract 4&#160;kg</p>
+   <p>With 1st visit in 3rd trimester, subtract 8&#160;kg</p></td>
   <td><p>Ultrasound examination for accurate gestational age estimation at 18-22 weeks.</p>
    <p>Monitor for hypertension and glycosuria.</p></td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>BMI below 40</td>
@@ -125,7 +125,7 @@ The level of care needed is shown as follows:
   <td rowspan='3'><p>Diabetes mellitus (family history)</p></td>
   <td rowspan='3'><p>There is an increased risk of the patient developing diabetes during pregnancy.</p></td>
   <td>Careful screen for glycosuria:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td><p>If absent –</p></td>
@@ -147,7 +147,7 @@ The level of care needed is shown as follows:
   <td rowspan='3'><p>Congenital abnormalities (in the family)</p></td>
   <td rowspan='3'><p>Serious abnormalities tend to recur.</p></td>
   <td>Determine the duration of pregnancy:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td><p>If 13 weeks or less, an ultrasound examination for nuchal thickness is done, followed at 22 weeks looking for structural defects.</p></td>
@@ -216,7 +216,7 @@ The level of care needed is shown as follows:
   <td rowspan='3'><p>Prostaglandin F2 alpha is contraindicated.</p>
    <p>Asthma usually improves during pregnancy.</p></td>
   <td>Ask about medication and symptoms:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>Asymptomatic and not on steroids –</td>
@@ -249,7 +249,7 @@ The level of care needed is shown as follows:
    <p>2. Antihypertensive treatment.</p></td>
   <td rowspan='3'><p>Pre-eclampsia, abruptio placentae, and IUGR or perinatal death.</p></td>
   <td>Change to alpha methyldopa and stop diuretics:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>With good control and no proteinuria –</td>
@@ -304,7 +304,7 @@ The level of care needed is shown as follows:
   <td rowspan='3'><p>Determine if the patient is a carrier of the hepatitis B virus.</p>
    <p>Can infect the infant during delivery.</p></td>
   <td>Test for the hepatitis B antigen:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>If antigen absent –</td>
@@ -368,7 +368,7 @@ The level of care needed is shown as follows:
    <p>10% chance after previous abruption.</p>
    <p>25% chance after 2 previous abruptions.</p></td>
   <td>Advise the patient:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>Induce labour at 38 weeks.</td>
@@ -445,8 +445,8 @@ The level of care needed is shown as follows:
  <tr>
   <td rowspan='3'><p>Pre-eclampsia</p></td>
   <td>Two groups:</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>1. Primigravidas with pre-eclampsia close to term.</td>
@@ -484,7 +484,7 @@ The level of care needed is shown as follows:
   <td rowspan='4'><p>Abruptio placentae and placenta praevia are both serious complications. Local causes, e.g. vaginitis, cervicitis, can also cause bleeding.</p></td>
   <td><p>If not currently bleeding and there is no fetal distress:</p>
    <p>1. Do speculum examination:</p></td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td><p>No local cause.</p></td>
@@ -510,21 +510,21 @@ The level of care needed is shown as follows:
   <td rowspan='3'><p>Diastolic blood pressure of 90 and/or systolic of 140 mm Hg or more</p></td>
   <td rowspan='3'><p>Hypertension or pre-eclampsia.</p></td>
   <td>Repeat after 30 minutes rest on her side:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>If diastolic 90-99 and systolic 140–149 mm Hg without proteinuria, start alpha methyldopa.</td>
   <td>2</td>
  </tr>
  <tr>
-  <td><p>If diastolic 100 and systolic 150&nbsp;mm&nbsp;Hg or more or proteinuria, admit to hospital.</p></td>
+  <td><p>If diastolic 100 and systolic 150&#160;mm&#160;Hg or more or proteinuria, admit to hospital.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
   <td rowspan='4'><p>Reduced fetal movements</p></td>
   <td rowspan='4'><p>Fetal distress or intra-uterine death.</p></td>
   <td>Duration of pregnancy 28 weeks or more. Repeat kick charts:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>Good count without IUGR.</td>
@@ -542,7 +542,7 @@ The level of care needed is shown as follows:
   <td rowspan='3'><p>Glycosuria 1+ or more</p></td>
   <td rowspan='3'><p>Possible diabetes.</p></td>
   <td>Random blood glucose estimation:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td><p>Less than 8 mmol/l is normal. </p>
@@ -555,7 +555,7 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td><p>Haemoglobin less than 10&nbsp;g/dl</p></td>
+  <td><p>Haemoglobin less than 10&#160;g/dl</p></td>
   <td><p>Anaemia in pregnancy.</p></td>
   <td><p>Arrange full blood count.</p>
    <p>If confirmed anaemia – Refer.</p></td>
@@ -577,7 +577,7 @@ The level of care needed is shown as follows:
    <p>Careful monitoring of proteinuria and rising blood pressure.</p>
    <p>Do Hb more frequently.</p>
    <p>Ultrasound examination for growth and chorionicity:</p></td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>Monochorionic (one placenta)</td>
@@ -607,7 +607,7 @@ The level of care needed is shown as follows:
   <td rowspan='4'><p>Proteinuria</p></td>
   <td rowspan='4'><p>Pre-eclampsia or renal disease, e.g. chronic nephritis or nephrosis, may be present.</p></td>
   <td>Exclude urinary tract infection. Test urine for protein:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>Trace (150 mg/l) can be normal.</td>
@@ -686,7 +686,7 @@ The level of care needed is shown as follows:
    <p>Fetal death.</p>
    <p>Incorrect dates.</p></td>
   <td>Careful measurement of fundal growth and fetal movement counts:</td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>Good growth over a period of 2 weeks.</td>
@@ -705,7 +705,7 @@ The level of care needed is shown as follows:
   <td rowspan='3'><p>Breech, oblique or transverse lies suggest possible placenta praevia, multiple pregnancy or disproportion.</p></td>
   <td><p>Less than 34 weeks, not important.</p>
    <p>If more than 34 weeks: exclude the named complications, and refer to a doctor for external cephalic version at 36 weeks, if there are no contraindications.</p></td>
-  <td>&nbsp;</td>
+  <td>&#160;</td>
  </tr>
  <tr>
   <td>Successful version.</td>
@@ -764,7 +764,7 @@ The level of care needed is shown as follows:
 <table class="wide">
  <thead>
   <tr>
-   <td>Height&nbsp;&#8594;<br />Weight&nbsp;&#8595;</td>
+   <td>Height&#160;&#8594;<br />Weight&#160;&#8595;</td>
    <td>140 cm</td>
    <td>145 cm</td>
    <td>150 cm</td>
@@ -783,7 +783,7 @@ The level of care needed is shown as follows:
  </thead>
  <tbody>
   <tr>
-   <td>48&nbsp;kg</td>
+   <td>48&#160;kg</td>
    <td>24.5</td>
    <td>22.8</td>
    <td>21.3</td>
@@ -800,7 +800,7 @@ The level of care needed is shown as follows:
    <td>11.4</td>
   </tr>
   <tr>
-   <td>51&nbsp;kg</td>
+   <td>51&#160;kg</td>
    <td>26.0</td>
    <td>24.3</td>
    <td>22.7</td>
@@ -817,7 +817,7 @@ The level of care needed is shown as follows:
    <td>12.1</td>
   </tr>
   <tr>
-   <td>54&nbsp;kg</td>
+   <td>54&#160;kg</td>
    <td>27.6</td>
    <td>25.7</td>
    <td>24.0</td>
@@ -834,7 +834,7 @@ The level of care needed is shown as follows:
    <td>12.8</td>
   </tr>
   <tr>
-   <td>57&nbsp;kg</td>
+   <td>57&#160;kg</td>
    <td>29.1</td>
    <td>27.1</td>
    <td>25.3</td>
@@ -851,7 +851,7 @@ The level of care needed is shown as follows:
    <td>13.6</td>
   </tr>
   <tr>
-   <td>60&nbsp;kg</td>
+   <td>60&#160;kg</td>
    <td>30.6</td>
    <td>28.5</td>
    <td>26.7</td>
@@ -868,7 +868,7 @@ The level of care needed is shown as follows:
    <td>14.3</td>
   </tr>
   <tr>
-   <td>63&nbsp;kg</td>
+   <td>63&#160;kg</td>
    <td>32.1</td>
    <td>30.0</td>
    <td>28.0</td>
@@ -885,7 +885,7 @@ The level of care needed is shown as follows:
    <td>15.0</td>
   </tr>
   <tr>
-   <td>66&nbsp;kg</td>
+   <td>66&#160;kg</td>
    <td>33.7</td>
    <td>31.4</td>
    <td>29.3</td>
@@ -902,7 +902,7 @@ The level of care needed is shown as follows:
    <td>15.7</td>
   </tr>
   <tr>
-   <td>69&nbsp;kg</td>
+   <td>69&#160;kg</td>
    <td>35.2</td>
    <td>32.8</td>
    <td>30.7</td>
@@ -919,7 +919,7 @@ The level of care needed is shown as follows:
    <td>16.4</td>
   </tr>
   <tr>
-   <td>72&nbsp;kg</td>
+   <td>72&#160;kg</td>
    <td>36.7</td>
    <td>34.2</td>
    <td>32.0</td>
@@ -936,7 +936,7 @@ The level of care needed is shown as follows:
    <td>17.1</td>
   </tr>
   <tr>
-   <td>75&nbsp;kg</td>
+   <td>75&#160;kg</td>
    <td>38.3</td>
    <td>35.7</td>
    <td>33.3</td>
@@ -953,7 +953,7 @@ The level of care needed is shown as follows:
    <td>17.8</td>
   </tr>
   <tr>
-   <td>78&nbsp;kg</td>
+   <td>78&#160;kg</td>
    <td>39.8</td>
    <td>37.1</td>
    <td>34.7</td>
@@ -970,7 +970,7 @@ The level of care needed is shown as follows:
    <td>18.6</td>
   </tr>
   <tr>
-   <td>81&nbsp;kg</td>
+   <td>81&#160;kg</td>
    <td>41.3</td>
    <td>38.5</td>
    <td>36.0</td>
@@ -987,7 +987,7 @@ The level of care needed is shown as follows:
    <td>19.3</td>
   </tr>
   <tr>
-   <td>84&nbsp;kg</td>
+   <td>84&#160;kg</td>
    <td>42.9</td>
    <td>40.0</td>
    <td>37.3</td>
@@ -1004,7 +1004,7 @@ The level of care needed is shown as follows:
    <td>20.0</td>
   </tr>
   <tr>
-   <td>87&nbsp;kg</td>
+   <td>87&#160;kg</td>
    <td>44.4</td>
    <td>41.4</td>
    <td>38.7</td>
@@ -1021,7 +1021,7 @@ The level of care needed is shown as follows:
    <td>20.7</td>
   </tr>
   <tr>
-   <td>90&nbsp;kg</td>
+   <td>90&#160;kg</td>
    <td>45.9</td>
    <td>42.8</td>
    <td>40.0</td>
@@ -1038,7 +1038,7 @@ The level of care needed is shown as follows:
    <td>21.4</td>
   </tr>
   <tr>
-   <td>93&nbsp;kg</td>
+   <td>93&#160;kg</td>
    <td>47.4</td>
    <td>44.2</td>
    <td>41.3</td>
@@ -1055,7 +1055,7 @@ The level of care needed is shown as follows:
    <td>22.1</td>
   </tr>
   <tr>
-   <td>96&nbsp;kg</td>
+   <td>96&#160;kg</td>
    <td>49.0</td>
    <td>45.7</td>
    <td>42.7</td>
@@ -1072,7 +1072,7 @@ The level of care needed is shown as follows:
    <td>22.8</td>
   </tr>
   <tr>
-   <td>99&nbsp;kg</td>
+   <td>99&#160;kg</td>
    <td>50.5</td>
    <td>47.1</td>
    <td>44.0</td>
@@ -1089,7 +1089,7 @@ The level of care needed is shown as follows:
    <td>23.6</td>
   </tr>
   <tr>
-   <td>102&nbsp;kg</td>
+   <td>102&#160;kg</td>
    <td>52.0</td>
    <td>48.5</td>
    <td>45.3</td>
@@ -1106,7 +1106,7 @@ The level of care needed is shown as follows:
    <td>24.3</td>
   </tr>
   <tr>
-   <td>105&nbsp;kg</td>
+   <td>105&#160;kg</td>
    <td>53.6</td>
    <td>49.9</td>
    <td>46.7</td>
@@ -1123,7 +1123,7 @@ The level of care needed is shown as follows:
    <td>25.0</td>
   </tr>
   <tr>
-   <td>108&nbsp;kg</td>
+   <td>108&#160;kg</td>
    <td>55.1</td>
    <td>51.4</td>
    <td>48.0</td>
@@ -1140,7 +1140,7 @@ The level of care needed is shown as follows:
    <td>25.7</td>
   </tr>
   <tr>
-   <td>111&nbsp;kg</td>
+   <td>111&#160;kg</td>
    <td>56.6</td>
    <td>52.8</td>
    <td>49.3</td>
@@ -1157,7 +1157,7 @@ The level of care needed is shown as follows:
    <td>26.4</td>
   </tr>
   <tr>
-   <td>114&nbsp;kg</td>
+   <td>114&#160;kg</td>
    <td>58.2</td>
    <td>54.2</td>
    <td>50.7</td>
@@ -1174,7 +1174,7 @@ The level of care needed is shown as follows:
    <td>27.1</td>
   </tr>
   <tr>
-   <td>117&nbsp;kg</td>
+   <td>117&#160;kg</td>
    <td>59.7</td>
    <td>55.6</td>
    <td>52.0</td>
@@ -1191,7 +1191,7 @@ The level of care needed is shown as follows:
    <td>27.8</td>
   </tr>
   <tr>
-   <td>120&nbsp;kg</td>
+   <td>120&#160;kg</td>
    <td>61.2</td>
    <td>57.1</td>
    <td>53.3</td>
@@ -1208,7 +1208,7 @@ The level of care needed is shown as follows:
    <td>28.6</td>
   </tr>
   <tr>
-   <td>123&nbsp;kg</td>
+   <td>123&#160;kg</td>
    <td>62.8</td>
    <td>58.5</td>
    <td>54.7</td>

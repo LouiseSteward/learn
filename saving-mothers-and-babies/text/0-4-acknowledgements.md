@@ -13,7 +13,7 @@ Funding towards this publication was generously provided by Eduhealthcare.
 
 *Editor-in-Chief of the Perinatal Education Programme: Prof D. L. Woods*
 
-*Editors of Saving Mothers and Babies: Prof D L Woods, Prof R C Pattinson, Dr D H Greenfield*
+*Editors of Saving Mothers and Babies: Prof G S Gebhardt*
 
-*Contributors: Prof G Theron, Prof H de Groot, Ms H Louw.*
+*Contributors: Prof G Theron and Prof R C Pattinson*
 

@@ -84,7 +84,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	It indicates the quality of antenatal care.
 	-	It can be used to calculate the maternal mortality rate.
 	-	It can be used to calculate the stillbirth rate.
-16.	What is the expected Caesarean section rate in a developing country?
+16.	What is the expected Caesarean section rate in a low- and middle-income country?
 	-	10%.
 	+	15%.
 	-	20%.

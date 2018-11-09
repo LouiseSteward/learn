@@ -14,7 +14,7 @@ Illustrations by Anne Westoby
 Cover photograph by Damien Schumann
 
 ISBN (print edition): 978-1-920218-41-6  
-ISBN (PDF edition): 978-1-920218-42-3  
+ISBN (international paperback edition): 978-1-717897-73-2 
 ISBN (reflowable edition): 978-1-920218-93-5
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).

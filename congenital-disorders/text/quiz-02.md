@@ -48,11 +48,11 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Hepatitis A or B.
 	-	Trichomonas vaginal infection.
 9.	What is medical genetic screening?
-	-	Asking the age of women to find teenage mothers as they are at an increased risk for delivering infants with cogential disorders.
+	-	Asking the age of women to find teenage mothers as they are at an increased risk for delivering infants with congenital disorders.
 	-	Asking the age of the father (husband or partner).
-	+	Applying a question or test to a population to identify individuals at increased risk for cogential disorders.
-	-	Taking chest X-rays of all pregnant mothers to look for fetuses with cogential disorders.
-10.	When is the best time to do genetic screening tests for cogential disorders?
+	+	Applying a question or test to a population to identify individuals at increased risk for congenital disorders.
+	-	Taking chest X-rays of all pregnant mothers to look for fetuses with congenital disorders.
+10.	When is the best time to do genetic screening tests for congenital disorders?
 	+	Preconception (before pregnancy).
 	-	Only during the first trimester of pregnancy.
 	-	Only after 20 weeks of gestation.

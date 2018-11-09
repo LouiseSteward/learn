@@ -24,7 +24,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The general health of women.
 	-	The standard of care for pregnant women.
 	+	Both the health of women and the standard of care available.
-4.	What is the maternal mortality ratio in industrialised countries?
+4.	What is the maternal mortality ratio in high-income countries?
 	-	About 1.
 	+	About 10.
 	-	About 100.
@@ -59,7 +59,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Diabetes.
 	-	Complications of hypertension.
 	-	Puerperal sepsis.
-11.	Why do so many pregnant women still die in poor countries?
+11.	Why do so many pregnant women still die in low-income countries?
 	-	Lack of knowledge about how to treat ill women.
 	-	Many more complications during pregnancy.
 	-	Poor health of pregnant women.
@@ -74,8 +74,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	An official report on the confidential enquiry into maternal deaths.
 	-	A report given in parliament each year.
 	-	A training manual for doctors and nurses working in maternity hospitals.
-14.	Avoidable factors, missed opportunities or substandard care :
-	-	Cannot be prevented in poor countries.
+14.	Avoidable factors, missed opportunities or substandard care:
+	-	Cannot be prevented in low-income countries.
 	-	Are not a problem in large, teaching hospitals.
 	+	Should be looked for in each maternal death.
 	-	Should be reported to the police.
@@ -100,7 +100,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Being too lazy to use a partogram.
 	-	Completing the partogram but not interpreting it correctly according to the standard protocol.
 19.	What is the maternal mortality index?
-	-	The maternal mortality in South Africa compared to industrialised countries.
+	-	The maternal mortality in South Africa compared to high-income countries.
 	-	The percentage that the maternal mortality increases or decreases over a year.
 	+	The number of maternal deaths divided by the number of deaths or near deaths.
 	-	The number of maternal deaths divided by the number of perinatal deaths.

@@ -13,7 +13,7 @@ Text © Jenny Edge and David Woods 2014
 Illustrations by Fiona Gawronsky, adapted for low-bandwidth access by Kevin Shelley and Arthur Attwell  
 
 ISBN (paperback): 978-1-920218-76-8  
-ISBN (PDF ebook): 978-1-920218-77-5  
+ISBN (international paperback edition): 978-1-717897-84-8 
 ISBN (reflowable edition): 978-1-920218-91-1
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).

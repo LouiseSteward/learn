@@ -45,7 +45,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Deciding on a name for the baby before delivery
 	+	Having a clear idea what to do when labour starts
 	-	Taking special health insurance for delivery
-10.	What should a CHW ask about at a home visit after delivery?
+10.	What should a Community Healthcare Worker ask about at a home visit after delivery?
 	+	Does the lochia (vaginal fluid) smell bad
 	-	Has the mother bought a bottle and milk formula yet
 	-	Whether the mother is able to pay for the visit

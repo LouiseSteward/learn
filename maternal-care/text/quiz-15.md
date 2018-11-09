@@ -83,7 +83,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Be kept by the clinic
 	-	Be written in the patient’s folder
 	+	Be recorded in a maternity case record which the patient keeps
-	-	Be written in detail both in the clinic folder and on the patient’s materity case record.
+	-	Be written in detail both in the clinic folder and on the patient’s maternity case record.
 16.	What should be done to make the transfer of a patient from a clinic to hospital as safe as possible?
 	-	She should be transferred immediately.
 	-	Time should not be wasted by contacting the hospital by telephone.

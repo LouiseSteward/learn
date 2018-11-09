@@ -12,7 +12,7 @@ Please choose the *one*, most correct answer to each question or statement.
 1.	Why conduct an audit of health care?
 	-	It is a legal requirement.
 	+	It is the best method of identifying clinical problems.
-	-	It guarantees improved heath care.
+	-	It guarantees improved health care.
 	-	To calculate the funds needed to manage a health care service.
 2.	What is a maternal care audit?
 	+	A review of problems which occur during the care of pregnant women.
@@ -89,7 +89,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	To look for avoidable factors.
 	-	To seek solutions.
 	+	All of the above.
-17.	At a feed back meeting:
+17.	At a feedback meeting:
 	-	Parents are told the cause of their infant’s death.
 	+	The results of a perinatal audit are discussed with the staff.
 	-	Errors made by the staff are reported to the medical superintendent.

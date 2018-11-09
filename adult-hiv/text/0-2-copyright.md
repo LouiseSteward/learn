@@ -12,7 +12,7 @@ First published in 2007. Updated: 6 April 2011, 25 August 2012, 2 June 2014, 16 
 Text © Desmond Tutu HIV Foundation 2014  
 
 ISBN (print edition): 978-1-920218-17-1  
-ISBN (PDF edition): 978-1-920218-54-6  
+ISBN (international paperback edition): 978-1-717893-53-6
 ISBN (reflowable edition): 978-1-920218-92-8
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).

@@ -23,25 +23,25 @@ This section provides the following resources:
 ## Contents
 {:.non-printing}
 
-*   [1\. Screening tools for common mental disorders](#screening-tools-for-common-mental-disorders)
-*   [2\. Making referrals](#making-referrals)
-*   [3\. Useful contact numbers for care providers in South Africa](#useful-contact-numbers-for-care-providers-in-south-africa)
-*   [4\. Resources for pregnant women and new mothers](#resources-for-pregnant-women-and-new-mothers)
-*   [5\. Information about termination of pregnancy](#information-about-termination-of-pregnancy)
-*   [6\. Information on adoption services](#information-on-adoption-services)
-*   [7\. Maintenance Orders](#maintenance-orders)
-*   [8\. Child Support Grants](#child-support-grants)
-*   [9\. Protection orders](#protection-orders)
-*   [10.\ South African national helplines](#south-african-national-helplines)
-*   [11.\ South African organisations for training in counselling](#south-african-organisations-for-training-in-counselling)
-*   [12.\ Additional information on infant mental health](#additional-information-on-infant-mental-health)
+*   [1. Screening tools for common mental disorders](#1-screening-tools-for-common-mental-disorders)
+*   [2. Making referrals](#2-making-referrals)
+*   [3. Useful contact numbers for care providers in South Africa](#3-useful-contact-numbers-for-care-providers-in-south-africa)
+*   [4. Resources for pregnant women and new mothers](#4-resources-for-pregnant-women-and-new-mothers)
+*   [5. Information about termination of pregnancy](#5-information-about-termination-of-pregnancy)
+*   [6. Information on adoption services](#6-information-on-adoption-services)
+*   [7. Maintenance Orders](#7-maintenance-orders)
+*   [8. Child Support Grants](#8-child-support-grants)
+*   [9. Protection orders](#9-protection-orders)
+*   [10. South African national helplines](#10-south-african-national-helplines)
+*   [11. South African organisations for training in counselling](#11-south-african-organisations-for-training-in-counselling)
+*   [12. Additional information on infant mental health](#12-additional-information-on-infant-mental-health)
 {:.chapter-toc .page-ref-list}
 
 ## 1. Screening tools for common mental disorders
 
 *	The screening tools can be copied and used in screening sessions. 
 *	All screening tools are provided in English, Afrikaans, isiXhosa and French. 
-*	Information about how to score each screening tool can be found in [chapter 2](02.md). 
+*	Information about how to score each screening tool can be found in [chapter 2](02.html). 
 
 > ### Mental Distress Tool (English)
 > 

@@ -14,7 +14,7 @@ title: Examination form
     </tr>
     <tr>
       <td>Name:</td>
-      <td colspan="5">&nbsp;</td>
+      <td colspan="5">&#160;</td>
     </tr>
     <tr>
       <td colspan="2">DOB:</td>
@@ -39,25 +39,25 @@ title: Examination form
     </tr>
     <tr>
       <td>GP:</td>
-      <td colspan="3">&nbsp;</td>
+      <td colspan="3">&#160;</td>
       <td>Tel:</td>
-      <td>&nbsp;</td>
+      <td>&#160;</td>
     </tr>
     <tr>
       <td colspan="6">History:
-        <p>&nbsp;</p></td>
+        <p>&#160;</p></td>
     </tr>
     <tr>
       <td colspan="6">Family History:
-        <p>&nbsp;</p></td>
+        <p>&#160;</p></td>
     </tr>
     <tr>
       <td colspan="6">Past medical History:
-        <p>&nbsp;</p></td>
+        <p>&#160;</p></td>
     </tr>
     <tr>
       <td colspan="6">Drugs:
-        <p>&nbsp;</p></td>
+        <p>&#160;</p></td>
     </tr>
     <tr>
       <td colspan="2">Menopausal:☐</td>

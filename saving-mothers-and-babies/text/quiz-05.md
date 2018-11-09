@@ -27,7 +27,7 @@ Please choose the *one*, most correct answer to each question or statement.
 4.	Why is it important to identify the specific avoidable factor?
 	+	Because only then can steps be taken to prevent similar deaths in future.
 	-	So that research can be directed at looking for better treatments.
-	-	In order that it can be added to the details recorded in the death certificate.
+	-	In order that it can be added to the details recorded in the notification of death form.
 	-	So that it can be recorded in the report of the perinatal meeting.
 5.	How can changes be made to improve health care?
 	-	By disciplining staff who make mistakes.
