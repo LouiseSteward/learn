@@ -1,0 +1,386 @@
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+    <title>
+    Bettercare Learning Programmes: Images
+    </title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="Images" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://example.com/learn/docs/images.html" />
+    <meta property="og:image" content="http://example.com/learn/_docs/images/web/" />
+        <link rel="stylesheet" type="text/css" media="all" href="/learn/adult-hiv/styles/web.css" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5570316-41"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-5570316-41');
+</script>
+</head>
+<body class="_docs chapter">
+<div id="wrapper">
+<div class="masthead">
+    <ul>
+        <li class="masthead-project-name"><a href="../index.html">Bettercare Learning Programmes</a></li>
+        <li class="masthead-docs-index"><a href="..//docs/">Docs</a></li>
+        <li class="masthead-docs-page">Images</li>
+    </ul>
+</div><!--.masthead-->
+<a href="#nav">≡</a>
+	<div id="content">
+<h1 class="no_toc" id="images">Images</h1>
+<ul id="markdown-toc">
+  <li><a href="#adding-image-files" id="markdown-toc-adding-image-files">Adding image files</a>    <ul>
+      <li><a href="#automating-image-conversions" id="markdown-toc-automating-image-conversions">Automating image conversions</a></li>
+    </ul>
+  </li>
+  <li><a href="#adding-images-in-markdown" id="markdown-toc-adding-images-in-markdown">Adding images in markdown</a>    <ul>
+      <li><a href="#images-in-translations" id="markdown-toc-images-in-translations">Images in translations</a></li>
+    </ul>
+  </li>
+  <li><a href="#figures" id="markdown-toc-figures">Figures</a></li>
+  <li><a href="#simple-markdown-figures" id="markdown-toc-simple-markdown-figures">Simple markdown figures</a></li>
+  <li><a href="#advanced-figures" id="markdown-toc-advanced-figures">Advanced figures</a></li>
+  <li><a href="#alternative-image-sets" id="markdown-toc-alternative-image-sets">Alternative image sets</a></li>
+  <li><a href="#image-placement" id="markdown-toc-image-placement">Image placement</a></li>
+  <li><a href="#preparing-images" id="markdown-toc-preparing-images">Preparing images</a>    <ul>
+      <li><a href="#using-svg-images" id="markdown-toc-using-svg-images">Using SVG images</a>        <ul>
+          <li><a href="#image-sizes" id="markdown-toc-image-sizes">Image sizes</a></li>
+        </ul>
+      </li>
+      <li><a href="#resolution" id="markdown-toc-resolution">Resolution</a></li>
+      <li><a href="#image-styles" id="markdown-toc-image-styles">Image styles</a></li>
+      <li><a href="#cover-images" id="markdown-toc-cover-images">Cover images</a></li>
+    </ul>
+  </li>
+</ul>
+<h2 id="adding-image-files">Adding image files</h2>
+<p>Our template comes with four folders for images, which correspond to output formats: <code class="highlighter-rouge">print-pdf</code>, <code class="highlighter-rouge">screen-pdf</code>, <code class="highlighter-rouge">web</code> and <code class="highlighter-rouge">epub</code>. Save your images files there. Each folder should contain the same set of images, saved appropriately for each format. For instance, while their file names must be identical, <code class="highlighter-rouge">web</code> images might be full-colour, 96dpi, and up to 800 pixels wide; while <code class="highlighter-rouge">print-pdf</code> images might be in greyscale, 300dpi and 2400 pixels wide.</p>
+<h3 id="automating-image-conversions">Automating image conversions</h3>
+<p>You can automate the conversion of images to various outputs with <a href="https://gulpjs.com/">gulp</a>. You need to have npm installed, and to have run <code class="highlighter-rouge">nom install</code> in the project root to install the <code class="highlighter-rouge">node_modules</code>.</p>
+<p>Then you only need to put high-res versions of your images in <code class="highlighter-rouge">images/_source</code> and run <code class="highlighter-rouge">gulp</code>. Our gulp script will automatically optimise, convert and save your images to the four output folders, including specifying the correct colour profiles and creating multiple image sizes for web output.</p>
+<p>By default, <code class="highlighter-rouge">gulp</code> will convert the images in your <code class="highlighter-rouge">book</code> folder. To convert the images in a different folder, say <code class="highlighter-rouge">my-potato-book</code>:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gulp --book my-potato-book
+</code></pre></div></div>
+<p>If you’re processing image files in a translation subdirectory, specify the language by its code. E.g.:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gulp --language fr
+</code></pre></div></div>
+<h2 id="adding-images-in-markdown">Adding images in markdown</h2>
+<p>We use standard markdown to embed images:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![A description of the image](../{{ site.image-set }}/filename.svg)
+</code></pre></div></div>
+<p>Let’s break that down:</p>
+<ul>
+  <li>the exclamation mark and square and round brackets make up the masic markdown image syntax: <code class="highlighter-rouge">![Description](filename)</code>. The description is especially important for screen-readers used by the visually impaired.</li>
+  <li><code class="highlighter-rouge">../</code> means ‘go up, out of the <code class="highlighter-rouge">text</code> folder’</li>
+  <li><code class="highlighter-rouge">{{ site.image-set }}/</code> means ‘go into the folder containing our preferred set of images’ (as defined in <code class="highlighter-rouge">_config.yml</code>). The default image-set folder is <code class="highlighter-rouge">images</code>.</li>
+  <li>finally, the image file name.</li>
+</ul>
+<h3 id="images-in-translations">Images in translations</h3>
+<p>If you are creating a <a href="70-translations.html#translations">translation</a> in a subdirectory of <code class="highlighter-rouge">text</code>, and your images are in the parent book folder, you need to change the path to the images slightly. You have two options:</p>
+<ol>
+  <li>
+    <p>Use the <code class="highlighter-rouge">{{ path-to-book-directory }}</code> metadata tag. At the top of your markdown file, add <code class="highlighter-rouge">{% include metadata %}</code>, so that you can use metadata variables in that file. Then instead of any <code class="highlighter-rouge">../</code>s, you use the tag: <code class="highlighter-rouge">{{ path-to-book-directory }}{{ site.image-set }}/filename.jpg</code>.</p>
+    <p>Even if you’re not in a translation folder, it’s good practice to always use the <code class="highlighter-rouge">{{ path-to-book-directory }}</code> tag for maximum portability, if you don’t mind having the <code class="highlighter-rouge">{% include metadata %}</code> tag at the top of your files.</p>
+  </li>
+  <li>
+    <p>Add another <code class="highlighter-rouge">../</code> for each directory level. So if your translation text is in <code class="highlighter-rouge">book/text/fr</code>, you need to come up three levels before going into <code class="highlighter-rouge">book/images</code>. So your path is <code class="highlighter-rouge">../../{{ site.image-set }}/filename.jpg</code>.</p>
+  </li>
+</ol>
+<h2 id="figures">Figures</h2>
+<p>A figure is the combination of an image and a caption. Sometimes a figure can include things like tables or video instead of images, and the captions can be accompanied by things like titles and sources.</p>
+<h2 id="simple-markdown-figures">Simple markdown figures</h2>
+<p>You can create simple markdown figures that include an image followed by a caption. We put these together in a <code class="highlighter-rouge">&lt;blockquote&gt;</code> element with a <code class="highlighter-rouge">.figure</code> class. We can then control placement by styling the <code class="highlighter-rouge">&lt;blockquote&gt;</code>.</p>
+<p>The reason we use a blockquote is that it lets us keep images and their captions together. A <code class="highlighter-rouge">&lt;figure&gt;</code> element would be better HTML, but it won’t validate in EPUB2, and can’t be created with kramdown.</p>
+<p>Here’s an example of markdown for a figure:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; ![Line drawing of a book](../{{ site.image-set }}/book.jpg)
+&gt;
+&gt; This is not a book.
+{:.figure}
+</code></pre></div></div>
+<p>Every line (except the <code class="highlighter-rouge">{:.figure}</code> class tag at the end) starts with a <code class="highlighter-rouge">&gt;</code> and a space. These wrap the figure (image and caption) in a <code class="highlighter-rouge">blockquote</code> element.</p>
+<p>The first line is the image reference. As noted above, it consists of:</p>
+<ul>
+  <li>an exclamation mark telling markdown that we’re placing an image</li>
+  <li>the <code class="highlighter-rouge">alt</code> attribute in square brackets</li>
+  <li>the path to the image file.</li>
+</ul>
+<p>The third line is the figure caption, followed by the kramdown tag <code class="highlighter-rouge">{:.figure}</code>, which lets our stylesheets format the <code class="highlighter-rouge">blockquote</code> as a figure. (For instance, preventing a page break between the image and the caption in print.)</p>
+<p>This will display like this.</p>
+<blockquote class="figure">
+  <p><img src="../images/web/book.jpg" alt="Line drawing of a book" /></p>
+  <p>This is not a book.</p>
+</blockquote>
+<p>If your image has no caption, just skip the empty line and caption line:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; ![Figure 2-A: The Ballard scoring method](../{{ site.image-set }}/fig-2-A.svg)
+{:.figure}
+</code></pre></div></div>
+<p>If it’s important to you that the image isn’t in a blockquote, and there is no caption, you can use:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![Figure 2-A: The Ballard scoring method](../{{ site.image-set }}/fig-2-A.svg)
+{:.figure}
+</code></pre></div></div>
+<h2 id="advanced-figures">Advanced figures</h2>
+<p>Figures are much more powerful if you use the <code class="highlighter-rouge">figure</code> include. The <code class="highlighter-rouge">figure</code> include is a dedicated piece of code in our template that creates figures with many options.</p>
+<p>To include a figure this way, start with this simple tag:</p>
+<p><code class="highlighter-rouge">{% include figure %}</code></p>
+<p>Then, inside that tag after the word <code class="highlighter-rouge">figure</code>, you add extra info, depending what you need it to include.</p>
+<p>In the tag for each figure, we can define the following information:</p>
+<ul>
+  <li>one or more images</li>
+  <li>html (e.g. for complex tables with merged cells)</li>
+  <li>markdown (e.g. for simple tables)</li>
+  <li>a reference (e.g. ‘Figure 1.2’, which will appear in front of the caption)</li>
+  <li>a link (clicking the image opens this link; without it, by default clicking the image opens the image file)</li>
+  <li>a caption (appears below the image)</li>
+  <li>a title (can be used to title descriptive text)</li>
+  <li>a description (hidden by default and used at <code class="highlighter-rouge">alt</code> text on the image; can be displayed and used with custom CSS)</li>
+  <li>a source (appears below the figure)</li>
+  <li>a <a href="#classes">class</a> (for styling the layout of a given figure).</li>
+</ul>
+<p>The template uses that information differently depending on the output format. For instance, on the web and in the epub, the description is the text that screen-readers will read aloud to blind users who can’t see an image, and we don’t need to display it in print.</p>
+<p>A caption and a description are similar, but not the same. A caption usually provides information about the figure, while a description describes its appearance.</p>
+<p>We define these things in the tag using ‘parameters’. For instance, we set the <code class="highlighter-rouge">image</code> parameter by writing <code class="highlighter-rouge">image='mydog.jpg'</code>. Here is a <code class="highlighter-rouge">figure</code> include with each parameter set. You can copy this and set the value in each parameter. Nothing is mandatory, so you only need to include the parameters that your figure needs defined.</p>
+<p>Here is a full example:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% include figure
+   images="mydog.jpg, yourdog.jpg"
+   html="&lt;table&gt;&lt;/table&gt;"
+   markdown="A *bad* example."
+   reference="Figure 1.2a"
+   link="http://example.com"
+   caption="This is the figure caption."
+   title="My Example Figure"
+   description="This should describe what the images look like."
+   source="Fire and Lion, 2017"
+   class="featured"
+%}
+</code></pre></div></div>
+<p>Note the double quotes. If the text you’re adding to a parameter contains quotes, you’d use single quotes in the text – or vice versa. Do not mix single and double quotes, or the software won’t know where the parameter ends. If you must use, say, double quotes inside the quotes around a parameter, use the actual unicode glyphs for curly quotes, <code class="highlighter-rouge">“</code> and <code class="highlighter-rouge">”</code>. For instance, all of these are okay:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>caption="Blake's illustration for 'The Tyger'."
+caption='Blake's illustration for "The Tyger".'
+caption="Blake's illustration for “The Tyger”."
+</code></pre></div></div>
+<h2 id="alternative-image-sets">Alternative image sets</h2>
+<p>There are often good reasons for producing books with different sets of images. For instance, one edition may have colour images and another black-and-white. Or your print edition might call for high-res images, but you want low-res ones for the ebook.</p>
+<p>You want Jekyll to get images from the right image set. We do this by using the <code class="highlighter-rouge">{{ site.image-set }}</code> tag to refer to whatever format-specific image set Jekyll should use.</p>
+<p>For example:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![]({{ site.image-set }}/filename.jpg)
+</code></pre></div></div>
+<p>To always use a specific image file for any given image, irrespective of the <code class="highlighter-rouge">images-set</code> config, simply hard-code your image path in markdown – that is, without using the <code class="highlighter-rouge">{{ site.image-set }}</code> tag. For example, for a given image you might specify the default images folder <code class="highlighter-rouge">![](images/filename.jpg)</code> or a specific subfolder <code class="highlighter-rouge">![](images/nb/filename.jpg)</code>.</p>
+<p>If you’re using `</p>
+<div class="figure">
+<div class="figure-body">
+</div><!--.figure-body-->
+</div>
+<p><code class="highlighter-rouge"> to add your figures, you don't need to specify any path or </code>site.image-set`. The figure include does that for you.</p>
+<h2 id="image-placement">Image placement</h2>
+<p>You may need to control how an image is sized and placed on the page – especially in print – depending on its detail or aspect ratio and nearby images or other elements. You do this by adding a class tag to the line following the image or figure created with a <code class="highlighter-rouge">&gt;</code> blockquote. (This applies a class to the blockquote in HTML.)</p>
+<p>You have two broad options:</p>
+<p>The lazy way: use these class attributes:</p>
+<ul>
+  <li><code class="highlighter-rouge">.x-small</code> limits the image height. In print, to 30mm.</li>
+  <li><code class="highlighter-rouge">.small</code> limits the image height. In print, to 45mm.</li>
+  <li><code class="highlighter-rouge">.medium</code> limits the image height. In print, to 65mm, which allows two figures with shortish captions to fit on a page.</li>
+  <li><code class="highlighter-rouge">.large</code> fills the width and most of a printed page, up to 150mm tall. Try to put these images at the end of a section, because they cause a page break.</li>
+  <li><code class="highlighter-rouge">.fixed</code> keeps the figure in its place in the text flow, and will not float it to the top or bottom of a page. For instance, when an image must appear in a step-by-step list of instructions.</li>
+</ul>
+<p>You add these classes to the `{:.figure} tag like this:</p>
+<p><code class="highlighter-rouge">{:.figure .small}</code></p>
+<p><code class="highlighter-rouge">{:.figure .fixed}</code></p>
+<p>and so on. You can combine size and placement classes like this, too:</p>
+<p><code class="highlighter-rouge">{:.figure .fixed .small}</code></p>
+<p>The more accurate way: use a class tag to specify the exact height of the image in lines. This is important if you’re maintaining a baseline grid on your pages. For instance, <code class="highlighter-rouge">{:.height-5}</code> will limit the image to a height of five lines. Unlike the lazy way above, this tag should be applied to the image, not the figure. So a complete figure element might look like this in markdown:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; ![Potatoes on the moon](images/web/1-moon-potatoes.jpg)
+&gt; {:.height-12}
+&gt;
+&gt; Potatoes grow well on the moon if well watered.
+{:.figure}
+</code></pre></div></div>
+<blockquote>
+  <p>CSS tip: <a href="http://stackoverflow.com/questions/24626908/how-to-get-rid-of-extra-space-below-svg-in-div-element">If you’re having trouble with SVGs having space around them</a>, in your CSS make sure you set the height of the <code class="highlighter-rouge">img</code> element. SVGs are inline elements by default, and will add white space around them.</p>
+</blockquote>
+<h2 id="preparing-images">Preparing images</h2>
+<ul>
+  <li>We recommend consistently using JPG – large versions in the <code class="highlighter-rouge">print-pdf</code> images folder and web-optimised versions in <code class="highlighter-rouge">screen-pdf</code>, <code class="highlighter-rouge">web</code> and <code class="highlighter-rouge">epub</code>. For some books we use SVG so that they scale beautifully but also remain small in file-size for web use; but EPUB2 does not support SVG.</li>
+  <li>Ensure that raster images, or raster/bitmap elements in SVG, are high-res enough for printing (e.g. 300dpi at full size).</li>
+</ul>
+<h3 id="using-svg-images">Using SVG images</h3>
+<p>If you choose to use SVG:</p>
+<ul>
+  <li>Embed images placed in SVG images, don’t just link them.</li>
+  <li>Create a JPG version of every SVG image with the same file name (e.g. <code class="highlighter-rouge">bear.svg</code> and <code class="highlighter-rouge">bear.jpg</code>). You’ll need the JPG fallback for EPUB. (We recommend JPG over GIF or PNG as a general default. One reason is that transparency seems like a good idea until your end-user switches their e-reader to ‘night mode’, and your black line-art disappears into the background.)</li>
+</ul>
+<p>Here’s our most common workflow for converting images to SVG:</p>
+<ul>
+  <li>If the image was created in InDesign (e.g. a flowchart made of InDesign frames): open in InDesign, group the frames that make up the image, copy, and paste into a new Illustrator file. Adjust Illustrator file artboards as necessary, then save as SVG.</li>
+  <li>If the image was created in Photoshop or other raster format: open the original, copy into Illustrator. Live trace the image. (We mostly use the ‘Detailed Illustration’ preset.) Save as SVG. You can also use the trace function in Inkscape instead of Illustrator.</li>
+  <li>If you save SVG from Adobe Illustrator (and possibly other creators, too), choose to convert type to outlines. (For us, the main reason for this is that PrinceXML gives unpredictable results with type in SVG. But it’s probably safest generally to convert type to outlines for consistent output.)</li>
+</ul>
+<h4 id="image-sizes">Image sizes</h4>
+<p>We like to use these settings where possible:</p>
+<ul>
+  <li>Default width: 115mm</li>
+  <li>Aspect ratios: 4:3 (portrait or landscape), a closer ratio, or square. Images at wider ratios (e.g. 16:9) than 4:3 make layout more difficult.</li>
+  <li>Therefore, maximum height is 150mm. (That’s very slightly less than a 4:3 height:width ratio.)</li>
+</ul>
+<p>Using Illustrator? Different SVG editors treat image size differently. For instance, a 2-inch-wide image in Illustrator will appear 1.6 inches wide in Prince and Inkscape. Why? Because when creating the SVG’s XML, Illustrator includes its dimensions in pixels, and <em>assumes a 72dpi resolution</em>, where Prince and Inkscape follow the W3C SVG spec and assume 90dpi. As a result, images coming out of Illustrator always appear 80% of their intended size. So, if you’re creating images in Illustrator, set your image sizes to 125% of what you intend to appear in the book. That means:</p>
+<ul>
+  <li>default width 115mm × 125% = 143.75mm</li>
+  <li>max height (at 4:3) = 190mm</li>
+</ul>
+<p>Check out <a href="https://helpx.adobe.com/illustrator/using/saving-artwork.html#save_in_svg_format">Adobe’s guidance on saving SVGs</a>.</p>
+<p>If your SVG files seem big, <a href="http://stackoverflow.com/a/7068651/1781075">read up on optimising SVGs</a>, and/or (if you’re comfortable using Python scripts) run your SVGs through <a href="http://codedread.com/scour/">Scour</a>.</p>
+<h3 id="resolution">Resolution</h3>
+<ul>
+  <li>For SVG images, the editor you use will determine underlying resolution. Illustrator uses 72dpi, and Inkscape 90dpi. We favour and assume 90dpi, but can rescale SVG images with  our stylesheets just in case.</li>
+  <li>For JPGs, we often use 200dpi and image quality of 80 (‘very high’ in Adobe presets). This allows for reasonable print quality while keeping file sizes sensible for web delivery. The higher resolution also allows ebook users to zoom in for more detail. This saves having to create different images for each image set. However, it is best practice to create separate image sets, with higher quality for <code class="highlighter-rouge">print-pdf</code>.</li>
+  <li>To get a 200dpi JPG that is 115 mm wide, the image must be 906 pixels wide. (115mm is 4.53 inches, which contains 906 pixels at 200 pixels per inch, aka 200 dpi.)</li>
+  <li>Try to keep non-<code class="highlighter-rouge">print-pdf</code> JPG file sizes below 127KB: <a href="http://authoradventures.blogspot.com/2014/02/image-size-limit-increased-in-kindle.html">Amazon Kindle may automatically downsample images above that</a>, and it’s better if you control the downsampling for quality than let their servers do it. However, for raster-only images (e.g. x-rays or photos) if a larger size is required for acceptable print quality then larger is fine.</li>
+</ul>
+<h3 id="image-styles">Image styles</h3>
+<p>We like these approaches to artwork, where possible:</p>
+<ul>
+  <li>Use the same font and size for all labels</li>
+  <li>Fit artboards to artwork bounds; there should be no white space around the art in an image. (Control space with CSS styling.) Since you’re creating images to a specific size, you may need to <strong>expand artwork to fit the artboard</strong>, <em>not</em> fit artboards to artwork bounds, which would make your whole image smaller.</li>
+</ul>
+<p>If you use live trace to create art from a raster source, you must clean up the file to remove unnecessary fills that add to file size but do little for clarity.</p>
+<p>Raster images should follow the sizing constraints above and be saved as jpg (since older Amazon Kindles only use JPG or GIF, avoid PNG or other formats). Save as RGB.</p>
+<h3 id="cover-images">Cover images</h3>
+<p>Add the front-cover image to the book’s <code class="highlighter-rouge">images</code> folder. Ensure colour settings are RGB and the DPI is set to 72. We recommend creating the image in three sizes:</p>
+<ul>
+  <li><code class="highlighter-rouge">cover.jpg</code>: 960px high (in keeping with epub best practice these are just under 1000px on their longest side)</li>
+  <li><code class="highlighter-rouge">cover-thumb.jpg</code>: 300px wide</li>
+  <li><code class="highlighter-rouge">cover-large.jpg</code>: 2000px high</li>
+</ul>
+<p>The first is mandatory. The thumbnail and large images are for your convenience. For instance, when uploading a book to Amazon Kindle, you must provide a cover image this large.</p>
+	</div><!--#content-->
+    <div id="nav" class="non-printing">
+            <h2>Electric Book docs (v0.10.0)</h2>
+            <div class="search">
+<form class="search" action="../search.html" method="get">
+  <label for="search-box"></label>
+  <input type="text" id="search-box" class="search-box" name="query" placeholder="Search">
+</form>
+            </div><!--.search-->
+            <div class="nav-list">
+                <ol>
+                    <li>
+                        <a href="https://bettercare.co.za">Bettercare</a>
+                    </li>
+                </ol>
+                    <ol class="nav-project-home">
+                        <li><a href="../index.html">All programmes</a></li>
+                    </ol>
+                    <ul>
+                        <li><a href="../docs">Docs</a>
+<ul>
+    <li class="has-children"><a>Editing</a>
+      <ul>
+          <li>
+            <a href="/learn/docs/classes.html">Supported classes</a>
+          </li>
+          <li>
+            <a href="/learn/docs/images.html">Images</a>
+          </li>
+          <li>
+            <a href="/learn/docs/indd-to-md.html">Converting from InDesign</a>
+          </li>
+          <li>
+            <a href="/learn/docs/indexes.html">Indexes</a>
+          </li>
+          <li>
+            <a href="/learn/docs/markdown.html">Markdown</a>
+          </li>
+          <li>
+            <a href="/learn/docs/maths.html">Mathematics</a>
+          </li>
+          <li>
+            <a href="/learn/docs/notes.html">Footnotes, endnotes and sidenotes</a>
+          </li>
+          <li>
+            <a href="/learn/docs/poetry.html">Poetry</a>
+          </li>
+          <li>
+            <a href="/learn/docs/tables.html">Tables</a>
+          </li>
+          <li>
+            <a href="/learn/docs/tocs.html">Tables of contents</a>
+          </li>
+          <li>
+            <a href="/learn/docs/translations.html">Translations</a>
+          </li>
+          <li>
+            <a href="/learn/docs/video.html">Video</a>
+          </li>
+      </ul>
+    </li>
+    <li class="has-children"><a>Layout</a>
+      <ul>
+          <li>
+            <a href="/learn/docs/page-numbers.html">Page numbers</a>
+          </li>
+      </ul>
+    </li>
+    <li class="has-children"><a>Output</a>
+      <ul>
+          <li>
+            <a href="/learn/docs/epub-output.html">Epub output</a>
+          </li>
+          <li>
+            <a href="/learn/docs/print-output.html">Print output</a>
+          </li>
+      </ul>
+    </li>
+    <li class="has-children"><a>Setup</a>
+      <ul>
+          <li>
+            <a href="/learn/docs/intro.html">Introduction</a>
+          </li>
+          <li>
+            <a href="/learn/docs/quick-start.html">Quick start</a>
+          </li>
+      </ul>
+    </li>
+    <li class="has-children"><a>Technical</a>
+      <ul>
+          <li>
+            <a href="/learn/docs/javascript.html">Using Javascript</a>
+          </li>
+          <li>
+            <a href="/learn/docs/setting-up.html">Setting up</a>
+          </li>
+      </ul>
+    </li>
+    <li class="has-children"><a>Troubleshooting</a>
+      <ul>
+          <li>
+            <a href="/learn/docs/troubleshooting.html">Troubleshooting and tips</a>
+          </li>
+      </ul>
+    </li>
+</ul>
+                        </li>
+                    </ul>
+  <ol class="">
+  </ol>
+            </div><!--.nav-list-->
+            <div class="widgets">
+            </div><!--.widgets-->
+    </div><!--#nav-->
+    <div id="footer">
+        <div class="footer-content">
+                <p>
+                    <a href="http://bettercare.co.za">
+                        <img src="..//assets/images/bettercare-logo.svg" />
+                    </a>
+                    <!--<a href="http://bettercare.co.za">Bettercare</a>-->
+                </p>
+        </div><!--.footer-content-->
+    </div><!--#footer-->
+<script src="../assets/js/bundle.js"></script>
+</div><!--#wrapper-->
+</body>
+</html>
