@@ -56,8 +56,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Should not be used as they are not a reliable form of contraception
 10.	Injectable contraceptives: 
 	-	Are given every 28 days
-	+	Increase fertility when they are stopped
-	-	Commonly cause mild menstrual abnormalities
+	-	Increase fertility when they are stopped
+	+	Commonly cause mild menstrual abnormalities
 	-	Increase the risk of sexually transmitted infections
 11.	The copper intra-uterine contraceptive device (IUCD):
 	-	Can cause copper poisoning if not changed every 3 years
