@@ -9,7 +9,7 @@ style: copyright-page
 
 First published in 2007 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Updated 23 August 2007, 23 January 2015 (layout).
+Updated August 2007, January 2015 (layout).
 
 Text © Perinatal Education Trust 2007  
 

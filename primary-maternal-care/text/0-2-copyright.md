@@ -7,7 +7,7 @@ style: copyright-page
 
 *Primary Maternal Care: Antenatal and postnatal care in the clinic*
 
-First published in 2009 by [Bettercare](http://bettercare.co.za). Updated 1 December 2009, 2 August 2011 (layout only), 31 August 2014, 16 February 2015 (layout), 2 June 2017 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2009 by [Bettercare](http://bettercare.co.za). Updated December 2009, August 2011 (layout only), August 2014, February 2015 (layout), June 2017 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Trust 2009
 
