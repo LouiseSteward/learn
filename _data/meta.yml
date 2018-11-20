@@ -2971,23 +2971,6 @@ works:
               - file: "04"
                 id: "case-study-1"
                 label: "Case studies"
-          - label: "Quizzes"
-            children:
-              - file: "quiz-01"
-                id: "quiz-1-growth-and-nutrition"
-                label: "Quiz 1: Growth and nutrition"
-              - file: "quiz-02"
-                id: "quiz-2-childhood-hiv"
-                label: "Quiz 2: Childhood HIV"
-              - file: "quiz-03"
-                id: "quiz-3-tuberculosis-in-children"
-                label: "Quiz 3: Tuberculosis in children"
-              - file: "quiz-04"
-                id: "quiz-4-adolescent-care"
-                label: "Quiz 4: Adolescent Care"
-              - file: "quiz-answers"
-                id: "answers"
-                label: "Answers"
         start-page: "0-3-contents" # At which file should users start reading?
         contents-page: "0-3-contents" # Your contents-page file, if you have one.
         footer: "" # Text that appears in the footer of this book's pages on the website.
