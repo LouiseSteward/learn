@@ -7,11 +7,11 @@ style: copyright-page
 
 *Child and Adolescent Care for Community Health Workers*
 
-First published in 2017 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2018 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © David Woods 2018
 
-ISBN (print edition):
+ISBN (print edition): 978-0-620-82050-9
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 

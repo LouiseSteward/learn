@@ -15,4 +15,6 @@ Bettercare would like to gratefully acknowledge the contribution of **Small Proj
 
 SPF is a conscientious non-governmental organisation that has contributed to community empowerment and development in the Eastern Cape and across South Africa. Established in January 1988, SPF is a community development and training trust that operates under the governance of a non-remunerated Board of Trustees. SPF specialises in the areas of project management, social marketing, development facilitation, training, innovative development, research and evaluation.
 
+**Kistefos AS** provided a generous grant to **Small Project Foundation** to fund the development and production of this booklet.
+
 *Editor: Prof David Woods*
