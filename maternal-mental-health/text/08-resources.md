@@ -6,20 +6,6 @@ title: 8. Resources
 
 # **8** Resources
 
-This section provides the following resources:
-1.  Screening tools for common mental disorders in different languages
-2.  Making referrals
-3.  Useful contact numbers for care providers in South Africa
-4.  Resources for pregnant women and new mothers
-5.  Information about termination of pregnancy
-6.  Information on adoption services
-7.  Maintenance Orders
-8.  Child Support Grants
-9.  Protection orders
-10. South African national helplines
-11. South African organisations for training in counselling
-12. Additional information on infant mental health
-
 ## Contents
 {:.non-printing}
 
