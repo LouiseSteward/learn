@@ -24,10 +24,13 @@ title: 8. Resources
 {:.chapter-toc .page-ref-list}
 
 ## 1. Screening tools for common mental disorders
+{:.wide}
 
 *	The screening tools can be copied and used in screening sessions. 
 *	All screening tools are provided in English, Afrikaans, isiXhosa and French. 
-*	Information about how to score each screening tool can be found in [chapter 2](02.html). 
+*	Information about how to score each screening tool can be found in [chapter 2](02.html).
+*  Screening tools provided: Mental Distress Tool, Edinburgh Postnatal Depression Scale (EPDS), and Risk Factor Assessment (RFA).
+{:.wide}
 
 ### Mental Distress Tool (English)
 {:.table-caption .wide .page-break-before}
