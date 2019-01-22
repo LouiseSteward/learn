@@ -46,6 +46,7 @@ exclude:
 # - perinatal-hiv
 # - primary-maternal-care
 # - primary-newborn-care
+# - public-health
 # - samples
 # - saving-mothers-and-babies
 # - womens-health-care
@@ -82,6 +83,7 @@ keep_files:
 # - perinatal-hiv
 # - primary-maternal-care
 # - primary-newborn-care
+# - public-health
 # - samples
 # - saving-mothers-and-babies
 # - well-women
@@ -107,6 +109,7 @@ keep_files:
 # - perinatal-hiv/images/web
 # - primary-maternal-care/images/web
 # - primary-newborn-care/images/web
+# - public-health/images/web
 # - samples/images/web
 # - saving-mothers-and-babies/images/web
 # - well-women/images/web
