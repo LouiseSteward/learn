@@ -1,111 +1,111 @@
 ---
-title: Quiz 4. Maternal and perinatal mortality audits
+title: Quiz 4. Environmental health
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 4: Maternal and perinatal mortality audits
+# Quiz 4: Environmental health
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	Why conduct an audit of health care?
-	-	It is a legal requirement.
-	+	It is the best method of identifying clinical problems.
-	-	It guarantees improved heath care.
-	-	To calculate the funds needed to manage a health care service.
-2.	What is a maternal care audit?
-	+	A review of problems which occur during the care of pregnant women.
-	-	An investigation to determine the number of nurses needed to provide antenatal care.
-	-	A list of women who die during labour and delivery.
-	-	A training course for midwives.
-3.	What is a perinatal care audit?
-	-	A list of common causes of stillbirth.
-	-	A list of important causes of early neonatal death.
-	+	An assessment of care given to infants before, during and after delivery.
-	-	A review of maternal problems during labour and delivery.
-4.	At a perinatal mortality meeting:
-	-	Only maternal deaths are discussed.
-	-	Only stillbirths are discussed.
-	-	Only neonatal deaths are discussed.
-	+	Maternal deaths, stillbirths and neonatal deaths are discussed.
-5.	Who should attend a perinatal mortality meeting?
-	+	All the staff.
-	-	Only doctors.
-	-	Only the midwives.
-	-	The senior medical and nursing staff.
-6.	Who usually arranges a perinatal mortality meeting?
-	-	The local magistrate.
-	-	The paediatric intern.
-	-	The senior pathologist.
-	+	A senior member of the obstetric staff.
-7.	How often should a perinatal mortality meeting be held?
-	-	Every day.
-	+	Once a week to once a month.
-	-	Once a year.
-	-	Whenever a maternal death occurs.
-8.	What routine information should be presented at a perinatal mortality meeting?
-	+	The number of normal, assisted and Caesarean deliveries.
-	-	Only the total number of deliveries.
-	-	The number of infants receiving phototherapy.
-	-	The number of women with prolonged labour.
-9.	How should information be presented at a perinatal mortality meeting?
-	-	The folders should be photocopied and read by all the participants.
-	-	The patient records should be summarised and distributed a week before the meeting.
-	+	The clinical records should be summarised and presented at the meeting.
-	-	The history and examination should be presented from memory.
-10.	Is confidentially important in a perinatal mortality meeting?
-	-	The mother’s name should not be mentioned.
-	-	The hospital or clinic’s name should not be mentioned.
-	+	The content and discussion should be confidential.
-	-	Confidentiality is not important as long as the names of the staff concerned are not mentioned.
-11.	What is meant by a ‘near miss’ at a mortality meeting?
-	-	A perinatal mortality meeting which was almost cancelled due to a lack of support.
-	-	A threatened miscarriage which was prevented with good treatment.
-	-	A missed opportunity to prevent a maternal death.
-	+	A very ill patient who nearly died.
-12.	Why should ‘great saves’ be mentioned at a perinatal mortality meeting?
-	+	They remind the staff that most patients received good care.
-	-	They compensate for staff errors which resulted in a perinatal death.
-	-	They prevent the medical superintendent from criticising particular staff at the meeting.
-	-	They encourage all the staff to attend.
-13.	A perinatal mortality meeting is:
-	+	An excellent opportunity for learning how best to care for mothers and infants.
-	-	Should not be used for teaching nurses and doctors.
-	-	Is usually boring and a waste of time.
-	-	Is outdated and no longer necessary.
-14.	How is a perinatal mortality report prepared?
-	-	It should be written before the perinatal mortality meeting.
-	+	A special form is used to record the main findings of each death discussed at the meeting.
-	-	Only the details of maternal deaths are needed for the report.
-	-	Maternal and neonatal deaths but not stillbirths should be included in the report.
-15.	What is the Perinatal Problem Identification Programme?
-	-	A supplementary manual of PEP.
-	-	A programme to train medical students.
-	+	A computer-based system of analysing the causes of maternal and perinatal deaths.
-	-	A computer programme to record research information.
-16.	What is the goal of the Perinatal Problem Identification Programme?
-	-	To determine the causes of maternal and perinatal deaths.
-	-	To look for avoidable factors.
-	-	To seek solutions.
-	+	All of the above.
-17.	At a feed back meeting:
-	-	Parents are told the cause of their infant’s death.
-	+	The results of a perinatal audit are discussed with the staff.
-	-	Errors made by the staff are reported to the medical superintendent.
-	-	The result of a post mortem examination is made available to the magistrate.
-18.	How are sites for gathering perinatal data usually grouped?
-	+	In metropolitan, city and town, and rural areas.
-	-	Into areas with high or low perinatal mortality rates.
-	-	Into coastal and inland sites.
-	-	Into sites with a high or low socioeconomic status.
-19.	Intrapartum hypoxia is a common cause of perinatal death in rural areas, suggesting that:
-	-	All women should be delivered in town.
-	-	Most women should be delivered by a doctor.
-	-	Use of a partogram is not helpful.
-	+	Labour management of often poor.
-20.	What is the Saving Babies Report?
-	-	A textbook on newborn care.
-	-	A report on the number of infants under 5 years who die each year.
-	+	A review of perinatal deaths and avoidable factors.
-	-	A report on causes of cot deaths.
+1.	Which of the following is a major source of air pollution?
+	+	Smoke from indoor fires 
+	- 	Smoke from burning garden rubbish
+	- 	Ozone from the ocean
+	- 	Emissions from nuclear power stations
+2.	Air pollution may result in:
+	- 	Rickets
+	- 	Rheumatic fever
+	+	Lung cancer
+	- 	Breast cancer
+3.	How big a problem is air pollution?
+	- 	It is no longer a problem is industrialised countries like China
+	+	Globally, there is an air pollution problem in large cities where it is an important cause of ill health
+	- 	It is not a problem in poor countries like India because coal is too expensive to be used
+	- 	South Africa has an air pollution problem in rural areas due to grass fires.
+4.	An important chemical air pollutant which can affect health is:
+	- 	Carbon dioxide
+	- 	Nitrogen
+	+	Sulphur dioxide
+	- 	Manganese
+5.	How can individuals improve air quality?
+	- 	Wear a mask while outside
+	- 	Only smoke filtered cigarettes
+	- 	Burn wood rather than coal at home
+	+	Cook with gas rather than wood or coal
+6.	How many households in South Africa have access to piped water?
+	- 	25%
+	- 	50%
+	- 	75%
+	+	90%
+7.	What percentage of piped water is of good quality in South Africa?
+	- 	23%
+	- 	43%
+	+	63%
+	- 	83%
+8.	What is the recommended daily basic water requirements per person in South Africa?
+	- 	3 litres
+	+	25 litres
+	- 	50 litres
+	- 	400 litres
+9.	Too little water may result in:
+	- 	Bronchitis and asthma due to the bad smell of stagnant water
+	- 	Plague due to fleas breeding in the stagnant sewerage
+	+	Deaths due to dehydration
+	- 	Giardiasis in dried up rivers
+10.	Which of the following is a recognised risk from drinking poor quality water?
+	- 	Diabetes
+	+	Diarrhoea
+	- 	Bowel cancer
+	- 	Pancreatitis
+11.	What is environmental enteropathy?
+	+	A chronic gut condition caused by drinking contaminated water
+	- 	A form of acute dysentery presenting with blood stools
+	- 	Meningitis caused by bacteria in dirty water
+	- 	Drying of the environment caused by drought
+12.	An important cause of chemical pollution of water in South Africa is?
+	- 	Tin from old pipes
+	- 	Copper from taps
+	+	Heavy metals from old mines
+	- 	Iron from rusty pipes
+13.	Which of the following is considered “improved toilet facilities” in South Africa?
+	- 	Shared bucket system with a daily collection
+	- 	Bucket system in each house with a weekly collection
+	- 	Unventilated pit toilets
+	+	 “VIP” pit toilets
+14.	What percentage of the South African population has access to flush toilets?
+	- 	25%
+	- 	40%
+	+	60%
+	- 	75%
+15.	What is the main cause of climate change?
+	- 	It is part of a natural cycle of global warming caused by the energy output of the sun increasing
+	+	It is caused by burning fossil fuels such as coal, oil and natural gas.
+	- 	It is a result of too many satellites in space
+	- 	It is caused by rising sea levels
+16.	What effect will climate change have on the world’s climate?
+	- 	All regions will become hotter and drier
+	- 	Sea levels will fall due to increased evaporation
+	- 	Ice at the poles will melt making the world wetter and colder
+	+	Severe weather events such as droughts, floods and heat waves will become more common
+17.	Health risks from climate change in South Africa include more:
+	+	Mosquito borne diseases
+	- 	Heart disease
+	- 	Influenza
+	- 	Stunting
+18.	Climate change could lead to:
+	- 	Improved farming due to more sunshine
+	-	Less air pollution due to more rain
+	- 	More sea food as a result of warmer seas
+	+	Conflict over scare resources such as food and water
+19.	How can the risk of climate change be reduced?
+	- 	Stop building nuclear power stations
+	- 	Build more coal fired power stations
+	+	Increase the use of wind energy
+	- 	Stop the sale of cigarettes
+20.	The impact of climate change is expected to be worst in:
+	- 	Wealthy countries as they produce the most air pollution
+	+	Middle and low income countries
+	- 	Cold countries far away from the equator
+	- 	Cities far from the sea

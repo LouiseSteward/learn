@@ -1,111 +1,111 @@
 ---
-title: Quiz 2. Maternal mortality
+title: Quiz 9. Access to healthcare
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 2: Maternal mortality
+# Quiz 9: Access to healthcare
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	The maternal mortality includes:
-	-	Only deaths during pregnancy.
-	-	Deaths that occur between 20 weeks and delivery.
-	-	Deaths during pregnancy and the first week after delivery.
-	+	Deaths between conception and forty two days after delivery.
-2.	How is the maternal mortality ratio expressed?
-	-	As a percent.
-	-	Per 1000 deliveries.
-	+	Per 100 000 deliveries.
-	-	Per million deliveries.
-3.	The maternal mortality ratio reflects:
-	-	The number of pregnant women in the community.
-	-	The general health of women.
-	-	The standard of care for pregnant women.
-	+	Both the health of women and the standard of care available.
-4.	What is the maternal mortality ratio in industrialised countries?
-	-	About 1.
-	+	About 10.
-	-	About 100.
-	-	About 1000.
-5.	What is the estimated maternal mortality ratio in South Africa?
-	-	About 50.
-	+	About 200.
-	-	About 500.
-	-	About 2500.
-6.	Are maternal deaths notifiable in South Africa?
-	+	All maternal deaths are notifiable.
-	-	Only deaths that occur in hospitals or clinics.
-	-	Only deaths that occur after 20 weeks of pregnancy.
-	-	Only deaths that occur during pregnancy, labour or delivery.
-7.	What are important direct causes of maternal death?
-	+	Hypertension.
-	-	AIDS.
-	-	Motor car accidents.
-	-	Malaria
-8.	What is a common indirect causes of maternal death?
-	-	Abruptio placenta.
-	+	Cardiac disease.
-	-	Suicide.
-	-	Puerperal sepsis.
-9.	What is the commonest cause of maternal death in South Africa?
-	-	Septic abortion.
-	-	Hypertension.
-	-	Haemorrhage.
-	+	AIDS.
-10.	What is the commonest direct cause of maternal death in level 1 clinics and hospital in South Africa?
-	+	Obstetric haemorrhage, especially postpartum haemorrhage.
-	-	Diabetes.
-	-	Complications of hypertension.
-	-	Puerperal sepsis.
-11.	Why do so many pregnant women still die in poor countries?
-	-	Lack of knowledge about how to treat ill women.
-	-	Many more complications during pregnancy.
-	-	Poor health of pregnant women.
-	+	Women do not have easy access to good care.
-12.	Is there a confidential enquiry into maternal deaths in South Africa?
-	+	Yes.
-	-	Only in the private sector.
-	-	Only in cities and large towns.
-	-	No.
-13.	What is the Saving Mothers Report?
-	-	A newspaper for midwives.
-	+	An official report on the confidential enquiry into maternal deaths.
-	-	A report given in parliament each year.
-	-	A training manual for doctors and nurses working in maternity hospitals.
-14.	Avoidable factors, missed opportunities or substandard care :
-	-	Cannot be prevented in poor countries.
-	-	Are not a problem in large, teaching hospitals.
-	+	Should be looked for in each maternal death.
-	-	Should be reported to the police.
-15.	Which is a patient related problem?
-	+	Not attending antenatal care.
-	-	Prolonged labour.
-	-	Lack of transport to antenatal clinic.
-	-	No hospital within easy reach.
-16.	What is an administrative related problem?
-	-	A mother not seeking help when warning signs present.
-	+	Lack of adequate training for midwives.
-	-	Lazy and negligent staff.
-	-	Delay in referring a sick patient from clinic to hospital.
-17.	What is a staff related problem?
-	-	Inadequate facilities.
-	-	Too few staff.
-	-	Mothers not reporting decreased fetal movements.
-	+	Not following standard protocols.
-18.	What is an honest error?
-	+	Forgetting to chart observations on the partogram.
-	-	Not completing the partogram correctly as you do not think partograms are useful.
-	-	Being too lazy to use a partogram.
-	-	Completing the partogram but not interpreting it correctly according to the standard protocol.
-19.	What is the maternal mortality index?
-	-	The maternal mortality in South Africa compared to industrialised countries.
-	-	The percentage that the maternal mortality increases or decreases over a year.
-	+	The number of maternal deaths divided by the number of deaths or near deaths.
-	-	The number of maternal deaths divided by the number of perinatal deaths.
-20.	What is happening to the maternal mortality rate in most African countries?
-	+	It is increasing due to the number of AIDS deaths during pregnancy.
-	-	It is decreasing as HIV positive women are not falling pregnant.
-	-	It is decreasing as the standard of maternal care improves.
-	-	It has remained the same for many years.
+ 1. What does “access to healthcare” mean?
+	- 	The roads leading to a clinic or facility are in a good state
+	- 	People stick to their recommended treatments
+	- 	People attend for preventative healthcare
+	+	People have the opportunity to use healthcare
+2. What does “universal health coverage” mean?
+	- 	Good quality healthcare is free to poor people
+	- 	People have the right to use health services in other countries
+	+	Good quality, affordable healthcare is available to all households
+	- 	Government and private healthcare providers work in the same system
+3. Universal health coverage:
+	- 	Is available in most high income countries
+	+	In most countries is seen as something to work towards rather than something that can be achieved in the short term
+	- 	The United States is a good example of a country that has achieved universal health coverage
+	- 	No low or middle income countries are close to universal health coverage
+4. What does the “right to health” mean?
+	+	Everybody has the right to achieve the highest possible standard of health
+	- 	Everybody has the right to be healthy and happy
+	- 	Healthcare should be free for everyone
+	- 	Healthcare that is accessible, affordable and acceptable only to those that can pay for it
+5. What does “progressive realisation” of a right mean?
+	- 	It is a right that should be realised in progressive countries
+	- 	It has only slowly been realised that something should be a right
+	+	It may not be possible to provide something immediately to everybody, but a government has a duty to work towards providing it to as many people as possible in a fair way.
+	- 	Something will become a right, slowly with time even if people do not demand it
+6. What does primary healthcare mean?
+	- 	The first point of contact between patients and health services
+	- 	Preventative care only
+	- 	Health promotion only
+	+	Provision of health services, including prevention and health promotion, to a particular community in order to have better health for all
+7. Health promotion:
+	- 	Is the same as health education
+	+	Includes helping people improve their health
+	- 	Includes preparing hospitals and clinics for the increasing burden of chronic diseases
+	- 	Includes preparing hospitals and clinics for climate change
+8. Which is an example of a healthy public policy?
+	+	Removing VAT from fresh food items
+	- 	Building new roads
+	- 	Removing tariffs on imported goods
+	- 	Increasing the use of elevators in shopping malls
+9. Which statement about countries with good primary healthcare is true?
+	- 	They tend to be richer countries
+	- 	They tend to be poorer countries
+	+	Citizens tend to have good health with lower total healthcare spending
+	- 	Citizens tend to have good health but total healthcare spending is high
+10. The following is an example of poor equity in health:
+	+	Women in Zimbabwe are more likely to die in childbirth than women in South Africa
+	- 	Diabetics are more likely to be obese
+	- 	Older people are more likely to have heart disease
+	- 	People from West Africa are more likely to have sickle cell disease
+11. Which statement about South Africa’s district health system is true:
+	- 	It includes all district and regional hospitals falling within the health district
+	- 	The district head office is usually within 25km of facilities
+	+	It includes responsibility for preventative and community based care, as well as district hospitals
+	- 	It is responsible for the reduced severity of chronic disease in South Africa
+12. How is the District Health System managed in the eight large urban areas in South Africa?
+	- 	Directly by the province
+	- 	By 44 health districts that correspond to the municipalities
+	- 	By metropolitan sub-district offices
+	+	By metropolitan municipalities called “metros”
+13. Outside metros, clinics are run:
+	- 	Directly by the province
+	- 	By the district office with the sub-district office being responsible for planning and coordination
+	+	By the sub-district office with the district office being responsible for planning and coordination
+	- 	By the nearest metro
+14. How successful has the district health system been in allowing management decisions to be taken more locally?
+	- 	Very successful as provincial managers actively encourage district managers to adapt their policies
+	+	Partially successful as district managers are often uncertain how much authority they have to adapt national and provincial policies
+	- 	Partially successful as district health councils usually function well but district managers often don’t listen to them
+	- 	Not at all successful as district managers often lose their jobs for adapting policies
+15. Community clinic committees:
+	- 	Have been very successful in communicating health needs to local managers
+	- 	Are well attended because members are paid travel expenses and a stipend
+	- 	Have been successful because local councillors usually attend regularly
+	+	Have had limited success only as meetings are often irregular and get bogged down with individual complaints
+16. What is a ward based outreach team?
+	+	A team consisting of community health workers and a primary care nurse that is responsible for primary healthcare of all individuals in an electoral ward
+	- 	A team consisting of a family physician and primary healthcare nurses responsible for primary healthcare of all individuals in an electoral ward
+	- 	A team of clinical nurse practitioners that provides outreach and support to problem clinics
+	- 	A specialised nursing team that provides home based care within the community
+17. How may a District Clinical Specialist Team provide clinical governance to a health district?
+	- 	A monthly visit to each clinic
+	- 	Ensuring salaries are paid on time
+	+	Ensuring that staff correctly diagnose and manage high blood pressure in pregnancy
+	- 	Regular planning meetings with provincial managers
+18. Which of the following healthcare practitioners are members of the District Clinical Specialist Team
+	- 	An orthopaedic surgeon
+	+	A primary healthcare nurse
+	- 	A hospital manager
+	- 	A dermatologist
+19. The District Clinical Specialist Teams are expected to focus particularly on which clinical area?
+	+	Mother and child health
+	- 	TB and other communicable diseases
+	- 	Safe anaesthesia
+	- 	Chronic diseases of lifestyle
+20. Which statement about primary healthcare is true?
+	- 	It is mostly about health education and prevention and does not involve looking after sick people
+	- 	Primary healthcare involves screening patients so that difficult cases can be managed elsewhere
+	+	Increasingly, complex patients with many medical and social problems are managed in primary care
+	- 	Primary care nurses are usually well supported by local specialists and family physicians

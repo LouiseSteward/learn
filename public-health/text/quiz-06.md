@@ -1,111 +1,111 @@
 ---
-title: Quiz 2. Maternal mortality
+title: Quiz 6. Some important health problems and their causes
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 2: Maternal mortality
+# Quiz 6: Some important health problems and their causes
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	The maternal mortality includes:
-	-	Only deaths during pregnancy.
-	-	Deaths that occur between 20 weeks and delivery.
-	-	Deaths during pregnancy and the first week after delivery.
-	+	Deaths between conception and forty two days after delivery.
-2.	How is the maternal mortality ratio expressed?
-	-	As a percent.
-	-	Per 1000 deliveries.
-	+	Per 100 000 deliveries.
-	-	Per million deliveries.
-3.	The maternal mortality ratio reflects:
-	-	The number of pregnant women in the community.
-	-	The general health of women.
-	-	The standard of care for pregnant women.
-	+	Both the health of women and the standard of care available.
-4.	What is the maternal mortality ratio in industrialised countries?
-	-	About 1.
-	+	About 10.
-	-	About 100.
-	-	About 1000.
-5.	What is the estimated maternal mortality ratio in South Africa?
-	-	About 50.
-	+	About 200.
-	-	About 500.
-	-	About 2500.
-6.	Are maternal deaths notifiable in South Africa?
-	+	All maternal deaths are notifiable.
-	-	Only deaths that occur in hospitals or clinics.
-	-	Only deaths that occur after 20 weeks of pregnancy.
-	-	Only deaths that occur during pregnancy, labour or delivery.
-7.	What are important direct causes of maternal death?
-	+	Hypertension.
-	-	AIDS.
-	-	Motor car accidents.
-	-	Malaria
-8.	What is a common indirect causes of maternal death?
-	-	Abruptio placenta.
-	+	Cardiac disease.
-	-	Suicide.
-	-	Puerperal sepsis.
-9.	What is the commonest cause of maternal death in South Africa?
-	-	Septic abortion.
-	-	Hypertension.
-	-	Haemorrhage.
-	+	AIDS.
-10.	What is the commonest direct cause of maternal death in level 1 clinics and hospital in South Africa?
-	+	Obstetric haemorrhage, especially postpartum haemorrhage.
-	-	Diabetes.
-	-	Complications of hypertension.
-	-	Puerperal sepsis.
-11.	Why do so many pregnant women still die in poor countries?
-	-	Lack of knowledge about how to treat ill women.
-	-	Many more complications during pregnancy.
-	-	Poor health of pregnant women.
-	+	Women do not have easy access to good care.
-12.	Is there a confidential enquiry into maternal deaths in South Africa?
-	+	Yes.
-	-	Only in the private sector.
-	-	Only in cities and large towns.
-	-	No.
-13.	What is the Saving Mothers Report?
-	-	A newspaper for midwives.
-	+	An official report on the confidential enquiry into maternal deaths.
-	-	A report given in parliament each year.
-	-	A training manual for doctors and nurses working in maternity hospitals.
-14.	Avoidable factors, missed opportunities or substandard care :
-	-	Cannot be prevented in poor countries.
-	-	Are not a problem in large, teaching hospitals.
-	+	Should be looked for in each maternal death.
-	-	Should be reported to the police.
-15.	Which is a patient related problem?
-	+	Not attending antenatal care.
-	-	Prolonged labour.
-	-	Lack of transport to antenatal clinic.
-	-	No hospital within easy reach.
-16.	What is an administrative related problem?
-	-	A mother not seeking help when warning signs present.
-	+	Lack of adequate training for midwives.
-	-	Lazy and negligent staff.
-	-	Delay in referring a sick patient from clinic to hospital.
-17.	What is a staff related problem?
-	-	Inadequate facilities.
-	-	Too few staff.
-	-	Mothers not reporting decreased fetal movements.
-	+	Not following standard protocols.
-18.	What is an honest error?
-	+	Forgetting to chart observations on the partogram.
-	-	Not completing the partogram correctly as you do not think partograms are useful.
-	-	Being too lazy to use a partogram.
-	-	Completing the partogram but not interpreting it correctly according to the standard protocol.
-19.	What is the maternal mortality index?
-	-	The maternal mortality in South Africa compared to industrialised countries.
-	-	The percentage that the maternal mortality increases or decreases over a year.
-	+	The number of maternal deaths divided by the number of deaths or near deaths.
-	-	The number of maternal deaths divided by the number of perinatal deaths.
-20.	What is happening to the maternal mortality rate in most African countries?
-	+	It is increasing due to the number of AIDS deaths during pregnancy.
-	-	It is decreasing as HIV positive women are not falling pregnant.
-	-	It is decreasing as the standard of maternal care improves.
-	-	It has remained the same for many years.
+1.	What would you call a sudden increase in the number of cases of measles well above what is expected for that country?
+	- 	A pandemic
+	+	An epidemic
+	- 	An endemic
+	- 	An outbreak
+2.	Which animal is thought to the likely source of HIV?
+	- 	Fruit bats
+	- 	Baboons
+	+	Chimpanzees
+	- 	Pigs
+3.	Which factor determines the severity of an epidemic?
+	- 	The month of the year
+	- 	How ill the person is who starts the epidemic
+	+	The number of susceptible people an infected person comes into contact with 
+	- 	The ages of the people who are ill with the infection
+4.	To keep a patient with signs of an infectious disease away from healthy people is called:
+	- 	Quarantine
+	- 	Separation
+	- 	Insulation
+	+	Isolation
+5.	To separate a person who is well but been in contact with someone suffering from a dangerous disease is called:
+	+	Quarantine
+	- 	Separation
+	- 	Insulation
+	- 	Isolation
+6.	How can a hospital prepare for an epidemic?
+	- 	Close the hospital and manage all patients at the local clinic
+	- 	Close the wards and only keep the outpatient facility open
+	- 	All the staff and in patients should have antibiotics
+	+	Draw up a case definition
+7.	What is an important cause of bacterial resistance?
+	+	The overuse of antibiotics
+	- 	Not using enough antibiotics
+	- 	Completing a full course of antibiotics
+	- 	The increased use of anti-viral agents
+8.	How can hospital acquired infections be prevented?
+	- 	Give antibiotics to all patients
+	+	Introduce an antibiotic stewardship programme
+	- 	Stop staff privileges if too many patients become infected
+	- 	Bath all patients when they are admitted
+9.	Why is resistance to TB drugs becoming a problem?
+	- 	Too many TB drugs are given at the same time
+	- 	The incorrect TB drugs are being used
+	- 	Cheap, generic TB drugs are being used
+	+	Patients stop taking their TB drugs once they feel better
+10.	Multiple drug resistant TB should not be treated with:
+	- 	Streptomycin
+	- 	Gentamicin
+	+	Rifampicin
+	- 	Fluoroquinolones
+11.	Which condition is a non-communicable disease?
+	- 	Leprosy
+	+	Stroke
+	- 	TB
+	- 	Scabies
+12.	Which of the following would you consider as a chronic disease of lifestyle?
+	- 	Haemophilia
+	- 	Malaria
+	- 	Epilepsy
+	+	Diabetes
+13.	What contributes to chronic diseases of lifestyle?
+	- 	Too much exercise
+	+	Obesity
+	- 	Drinking too much coffee
+	- 	Being a vegetarian
+14.	What condition at birth increases the risk of cardiometabolic disease in adulthood?
+	- 	Need for resuscitation due to failure to breathe well
+	- 	Breastfeeding immediately after delivery
+	- 	Prolonged pregnancy with a gestational age beyond 42 weeks
+	+	Low birth weight
+15.	Which cancer can be prevented by immunisation?
+	+	Cervical cancer
+	- 	Pancreatic cancer
+	- 	Breast cancer
+	- 	Stomach cancer
+16.	The burden of chronic lung disease in poor communities can be reduced by:
+	- 	Annual influenza immunisation
+	- 	Not drinking alcohol
+	+	Not smoking
+	- 	Taking regular exercise
+17.	What is a risk factor for trauma deaths?
+	- 	Using public transport
+	- 	Poor school facilities
+	- 	Walking to work
+	+	Gangsterism
+18.	Which of the following important conditions contributing to the burden of disease is most likely to be missed on routine assessments of population health?
+	- 	Chronic obstructive lung disease
+	+	Mental health problems
+	- 	Cancer
+	- 	HIV
+19.	What does epidemiological transition mean?
+	- 	Trying to discover the cause of a chronic illness
+	- 	Transferring the responsibility of preventing chronic diseases from doctors to public health officials
+	+	Non-communicable diseases replacing infections as the main burden of disease in countries with increasing standard of living
+	- 	The rapid spread of a virus to cause an epidemic in poor countries
+20.	Why do governments not prevent non-communicable diseases?
+	+	Because preventable measures such as lifestyle choices are left to individuals
+	- 	Because they do not know how to prevent them
+	- 	Because preventing them is too expensive
+	- 	Because they help to control population growth

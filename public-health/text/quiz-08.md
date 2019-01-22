@@ -1,111 +1,111 @@
 ---
-title: Quiz 4. Maternal and perinatal mortality audits
+title: Quiz 8. The governance and organisation of healthcare in South Africa
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 4: Maternal and perinatal mortality audits
+# Quiz 8: The governance and organisation of healthcare in South Africa
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	Why conduct an audit of health care?
-	-	It is a legal requirement.
-	+	It is the best method of identifying clinical problems.
-	-	It guarantees improved heath care.
-	-	To calculate the funds needed to manage a health care service.
-2.	What is a maternal care audit?
-	+	A review of problems which occur during the care of pregnant women.
-	-	An investigation to determine the number of nurses needed to provide antenatal care.
-	-	A list of women who die during labour and delivery.
-	-	A training course for midwives.
-3.	What is a perinatal care audit?
-	-	A list of common causes of stillbirth.
-	-	A list of important causes of early neonatal death.
-	+	An assessment of care given to infants before, during and after delivery.
-	-	A review of maternal problems during labour and delivery.
-4.	At a perinatal mortality meeting:
-	-	Only maternal deaths are discussed.
-	-	Only stillbirths are discussed.
-	-	Only neonatal deaths are discussed.
-	+	Maternal deaths, stillbirths and neonatal deaths are discussed.
-5.	Who should attend a perinatal mortality meeting?
-	+	All the staff.
-	-	Only doctors.
-	-	Only the midwives.
-	-	The senior medical and nursing staff.
-6.	Who usually arranges a perinatal mortality meeting?
-	-	The local magistrate.
-	-	The paediatric intern.
-	-	The senior pathologist.
-	+	A senior member of the obstetric staff.
-7.	How often should a perinatal mortality meeting be held?
-	-	Every day.
-	+	Once a week to once a month.
-	-	Once a year.
-	-	Whenever a maternal death occurs.
-8.	What routine information should be presented at a perinatal mortality meeting?
-	+	The number of normal, assisted and Caesarean deliveries.
-	-	Only the total number of deliveries.
-	-	The number of infants receiving phototherapy.
-	-	The number of women with prolonged labour.
-9.	How should information be presented at a perinatal mortality meeting?
-	-	The folders should be photocopied and read by all the participants.
-	-	The patient records should be summarised and distributed a week before the meeting.
-	+	The clinical records should be summarised and presented at the meeting.
-	-	The history and examination should be presented from memory.
-10.	Is confidentially important in a perinatal mortality meeting?
-	-	The mother’s name should not be mentioned.
-	-	The hospital or clinic’s name should not be mentioned.
-	+	The content and discussion should be confidential.
-	-	Confidentiality is not important as long as the names of the staff concerned are not mentioned.
-11.	What is meant by a ‘near miss’ at a mortality meeting?
-	-	A perinatal mortality meeting which was almost cancelled due to a lack of support.
-	-	A threatened miscarriage which was prevented with good treatment.
-	-	A missed opportunity to prevent a maternal death.
-	+	A very ill patient who nearly died.
-12.	Why should ‘great saves’ be mentioned at a perinatal mortality meeting?
-	+	They remind the staff that most patients received good care.
-	-	They compensate for staff errors which resulted in a perinatal death.
-	-	They prevent the medical superintendent from criticising particular staff at the meeting.
-	-	They encourage all the staff to attend.
-13.	A perinatal mortality meeting is:
-	+	An excellent opportunity for learning how best to care for mothers and infants.
-	-	Should not be used for teaching nurses and doctors.
-	-	Is usually boring and a waste of time.
-	-	Is outdated and no longer necessary.
-14.	How is a perinatal mortality report prepared?
-	-	It should be written before the perinatal mortality meeting.
-	+	A special form is used to record the main findings of each death discussed at the meeting.
-	-	Only the details of maternal deaths are needed for the report.
-	-	Maternal and neonatal deaths but not stillbirths should be included in the report.
-15.	What is the Perinatal Problem Identification Programme?
-	-	A supplementary manual of PEP.
-	-	A programme to train medical students.
-	+	A computer-based system of analysing the causes of maternal and perinatal deaths.
-	-	A computer programme to record research information.
-16.	What is the goal of the Perinatal Problem Identification Programme?
-	-	To determine the causes of maternal and perinatal deaths.
-	-	To look for avoidable factors.
-	-	To seek solutions.
-	+	All of the above.
-17.	At a feed back meeting:
-	-	Parents are told the cause of their infant’s death.
-	+	The results of a perinatal audit are discussed with the staff.
-	-	Errors made by the staff are reported to the medical superintendent.
-	-	The result of a post mortem examination is made available to the magistrate.
-18.	How are sites for gathering perinatal data usually grouped?
-	+	In metropolitan, city and town, and rural areas.
-	-	Into areas with high or low perinatal mortality rates.
-	-	Into coastal and inland sites.
-	-	Into sites with a high or low socioeconomic status.
-19.	Intrapartum hypoxia is a common cause of perinatal death in rural areas, suggesting that:
-	-	All women should be delivered in town.
-	-	Most women should be delivered by a doctor.
-	-	Use of a partogram is not helpful.
-	+	Labour management of often poor.
-20.	What is the Saving Babies Report?
-	-	A textbook on newborn care.
-	-	A report on the number of infants under 5 years who die each year.
-	+	A review of perinatal deaths and avoidable factors.
-	-	A report on causes of cot deaths.
+1.  Which of the following is the highest authority in South Africa?
+	- 	The Cabinet
+	- 	The President
+	+	The Constitution
+	- 	The Council of Provinces
+2. The three main branches of government should be independent of each other. This important democratic principle is called:
+	- 	The universal franchise
+	- 	Proportional representation
+	- 	Liberty, equality and brotherhood
+	+	The separation of powers
+3. Which branch of government is responsible for making laws?
+	+	The legislature
+	- 	The executive
+	- 	The judiciary
+	- 	The cabinet
+4. When a law is being made, a “green paper” is often presented to the public for discussion. A green paper is:
+	+	The first document that introduces a proposed law for discussion
+	- 	A more detailed statement of what the government intends to do
+	- 	A draft law that must be approved by cabinet
+	- 	A statement from the State lawyers that the draft law is consistent with the constitution
+5. The National Department of Health:
+	+	Develops health policies
+	- 	Runs clinics and hospitals
+	- 	Employs clinical staff
+	- 	Makes decisions about the purchase of major items such as X-ray machines
+6. Provincial departments of health:
+	- 	Are responsible for monitoring environmental pollution and pest control
+	- 	Inspect public eating places
+	+	Are responsible for running hospitals and clinics and managing the health budget
+	- 	Receive their budgets directly from the National Department of Health
+7. In local government, a “ward”:
+	- 	Is a person designated by the mayor to be responsible for a community
+	- 	Coordinates the activities of local municipalities
+	- 	Is only found in metropolitan municipalities
+	+	Is the smallest unit of local government. Voters in a ward elect a councillor to the local or metropolitan council
+8. Regulations:
+	- 	Are general principles that do not need updating regularly
+	- 	Must be approved by both houses of Parliament
+	+	Lay out the details of how a law will be applied
+	- 	Are decided by cabinet
+9. Which statement about statutory bodies is true?
+	- 	They have to answer to the President
+	+	They are established by an Act of Parliament to produce regulations and administer laws
+	- 	The South African Pharmacy Council is responsible for ensuring the quality of medicines sold in South Africa
+	- 	The Council for Medical Schemes is responsible for registering private doctors
+10. Which statement about policies is true?
+	- 	Once a policy is made, it should not be updated for 10 years
+	- 	Policies should only be made by the superintendent or chief executive of a hospital
+	- 	Ignoring policies is a legal offence
+	+	The aim of a policy should be made clear
+11. Which of the following is a primary care facility?
+	- 	A hospital which only treats children
+	+	A mobile clinic
+	- 	A facility that provides chronic care to the elderly
+	- 	An emergency unit at a large hospital
+12. Which is a specialised hospital?
+	+	A TB hospital
+	- 	A hospital for women’s problems only
+	- 	A hospital with a ward for teenagers
+	- 	A teaching hospital
+13. In South Africa, family physicians are usually work in:
+	- 	Specialised hospitals
+	+	District hospitals
+	- 	Regional hospitals
+	- 	Tertiary hospitals
+14. A specialist in general paediatrics usually works in which sort of hospital in South Africa?
+	-	Primary care clinic
+	- 	District hospital
+	+	Regional hospital
+	- 	Tertiary hospital
+15. A paediatric cardiologist usually works in which sort of hospital in South Africa?
+	- 	Primary care clinic
+	- 	District hospital
+	- 	Regional hospital
+	+	Tertiary hospital
+16. The commonest type of hospital in South Africa is a:
+	- 	Specialised hospital
+	+	District hospital
+	- 	Regional hospital
+	- 	Tertiary hospital
+17. Emergency centres in South African government hospitals:
+	- 	Require referral from a general practitioner
+	+	Are often used by people seeking primary care
+	- 	Work on an appointments’ only basis
+	- 	Usually require payment in advance
+18. In South Africa, emergency ambulances:
+	- 	Are dispatched on a “first come first served” basis
+	- 	Must always go to the closest hospital
+	- 	Ambulance crews can decide whether they think a case is serious before attending
+	+	Can take a government patient to a private facility for stabilisation if necessary
+19. Who provides primary health services in schools?
+	+	 School health nurses
+	- 	Private general practitioners
+	-  	Specially trained teachers 
+	- 	There are no health services in schools
+20. Which statement about the prison health service is true?
+	- 	It is completely separate from the Department of Health, meaning that prisoners do not need to be seen in government hospitals
+	- 	It is well staffed
+	+	The security precautions for prisoners seen in government hospitals is the responsibility of the department of correctional services
+	- 	Prisoners are at low risk of infectious disease because they are physically separated from each other

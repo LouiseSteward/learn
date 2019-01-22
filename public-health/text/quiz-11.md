@@ -1,111 +1,111 @@
 ---
-title: Quiz 2. Maternal mortality
+title: Quiz 11. Health information systems
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 2: Maternal mortality
+# Quiz 11: Health information systems
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	The maternal mortality includes:
-	-	Only deaths during pregnancy.
-	-	Deaths that occur between 20 weeks and delivery.
-	-	Deaths during pregnancy and the first week after delivery.
-	+	Deaths between conception and forty two days after delivery.
-2.	How is the maternal mortality ratio expressed?
-	-	As a percent.
-	-	Per 1000 deliveries.
-	+	Per 100 000 deliveries.
-	-	Per million deliveries.
-3.	The maternal mortality ratio reflects:
-	-	The number of pregnant women in the community.
-	-	The general health of women.
-	-	The standard of care for pregnant women.
-	+	Both the health of women and the standard of care available.
-4.	What is the maternal mortality ratio in industrialised countries?
-	-	About 1.
-	+	About 10.
-	-	About 100.
-	-	About 1000.
-5.	What is the estimated maternal mortality ratio in South Africa?
-	-	About 50.
-	+	About 200.
-	-	About 500.
-	-	About 2500.
-6.	Are maternal deaths notifiable in South Africa?
-	+	All maternal deaths are notifiable.
-	-	Only deaths that occur in hospitals or clinics.
-	-	Only deaths that occur after 20 weeks of pregnancy.
-	-	Only deaths that occur during pregnancy, labour or delivery.
-7.	What are important direct causes of maternal death?
-	+	Hypertension.
-	-	AIDS.
-	-	Motor car accidents.
-	-	Malaria
-8.	What is a common indirect causes of maternal death?
-	-	Abruptio placenta.
-	+	Cardiac disease.
-	-	Suicide.
-	-	Puerperal sepsis.
-9.	What is the commonest cause of maternal death in South Africa?
-	-	Septic abortion.
-	-	Hypertension.
-	-	Haemorrhage.
-	+	AIDS.
-10.	What is the commonest direct cause of maternal death in level 1 clinics and hospital in South Africa?
-	+	Obstetric haemorrhage, especially postpartum haemorrhage.
-	-	Diabetes.
-	-	Complications of hypertension.
-	-	Puerperal sepsis.
-11.	Why do so many pregnant women still die in poor countries?
-	-	Lack of knowledge about how to treat ill women.
-	-	Many more complications during pregnancy.
-	-	Poor health of pregnant women.
-	+	Women do not have easy access to good care.
-12.	Is there a confidential enquiry into maternal deaths in South Africa?
-	+	Yes.
-	-	Only in the private sector.
-	-	Only in cities and large towns.
-	-	No.
-13.	What is the Saving Mothers Report?
-	-	A newspaper for midwives.
-	+	An official report on the confidential enquiry into maternal deaths.
-	-	A report given in parliament each year.
-	-	A training manual for doctors and nurses working in maternity hospitals.
-14.	Avoidable factors, missed opportunities or substandard care :
-	-	Cannot be prevented in poor countries.
-	-	Are not a problem in large, teaching hospitals.
-	+	Should be looked for in each maternal death.
-	-	Should be reported to the police.
-15.	Which is a patient related problem?
-	+	Not attending antenatal care.
-	-	Prolonged labour.
-	-	Lack of transport to antenatal clinic.
-	-	No hospital within easy reach.
-16.	What is an administrative related problem?
-	-	A mother not seeking help when warning signs present.
-	+	Lack of adequate training for midwives.
-	-	Lazy and negligent staff.
-	-	Delay in referring a sick patient from clinic to hospital.
-17.	What is a staff related problem?
-	-	Inadequate facilities.
-	-	Too few staff.
-	-	Mothers not reporting decreased fetal movements.
-	+	Not following standard protocols.
-18.	What is an honest error?
-	+	Forgetting to chart observations on the partogram.
-	-	Not completing the partogram correctly as you do not think partograms are useful.
-	-	Being too lazy to use a partogram.
-	-	Completing the partogram but not interpreting it correctly according to the standard protocol.
-19.	What is the maternal mortality index?
-	-	The maternal mortality in South Africa compared to industrialised countries.
-	-	The percentage that the maternal mortality increases or decreases over a year.
-	+	The number of maternal deaths divided by the number of deaths or near deaths.
-	-	The number of maternal deaths divided by the number of perinatal deaths.
-20.	What is happening to the maternal mortality rate in most African countries?
-	+	It is increasing due to the number of AIDS deaths during pregnancy.
-	-	It is decreasing as HIV positive women are not falling pregnant.
-	-	It is decreasing as the standard of maternal care improves.
-	-	It has remained the same for many years.
+1. Which of the following best describes a good health information system?
+	- 	A good health information system collects information about healthcare activities so staff can be monitored
+	+	A good health information system collects, analyses and communicates information
+	- 	A good health information system provides up to date information about new protocols
+	- 	A good health information system is designed to track use of resources in order to prevent theft 
+2. What is the most important feature of data collection in a good health information system?
+	- 	Data collection is compulsory with disciplinary action for non-compliant staff 
+	- 	Data collection is optional depending on whether staff have time
+	- 	Staff should be able to use their own mobile devices
+	+	The data collected is as accurate and complete as possible
+3. What is the most important feature of data use in a good health information system? 
+	+	The information collected is used to improve clinical care
+	- 	All users have an individual user name and password
+	- 	Use is restricted to planners at head office
+	- 	It can be converted into Powerpoint slides
+4. Does the data collection in a good health information system have to be electronic?
+	- 	Yes. Paper systems are very out of date
+	- 	No. Paper systems are better because most people are confused by electronic systems
+	+	No. Good electronic systems are preferable because they are quicker and less prone to error, but a well-designed paper system is preferable to a badly designed electronic system
+	- 	Yes. The data collected by an electronic system is always more complete and accurate
+5. What is a “user interface”?
+	- 	It refers to the style of keyboard on a mobile phone
+	+	It refers to the way in which a user interacts with a computer programme
+	- 	It refers to the skills of the person using an eHealth system
+	- 	It refers to the size of a computer screen
+6. What are the features of an information system with a good user interface?
+	+	It can be quickly and easily used by most people and collects important information
+	- 	It can be used by specially trained data entry clerks to enter information from paper forms
+	- 	It can be used by most people as long as they have matric level education
+	- 	It is stylish and colourful 
+7. A hospital wishes to use an electronic system to capture its caseload. What is likely to happen if there is a poor user interface?
+	- 	The hospital will be able to capture data more accurately than by using paper records
+	- 	Staff will use their own mobile devices instead of hospital computers
+	+	More staff will become computer literate
+	- 	Data entry will be inaccurate and incomplete
+8. How can a good user interface be achieved?
+	- 	By contracting out services to private IT companies
+	+	By information technology experts taking account of the experiences of the people who use the system  
+	- 	By disciplining staff who do not use it correctly
+	- 	By not changing the programme after it has been implemented 
+9. After information has been analysed, who should have access to the results of the analysis? 
+	- 	Senior managers only are they are the ones who make decisions about services
+	- 	Facility staff only as they are the only ones in a position to improve care
+	+	Anybody working in the system should have access to information related to their area of work
+	- 	Anybody, including the general public, should have access to all health and healthcare information at all times 
+10. Which of these the best example of using eHealth to support decision making?
+	+	Use of a poison information website
+	-	Regular journal clubs
+	- 	Electronic booking of outpatient appointments
+	- 	Sending appointment reminders to patients by SMS
+11. A young person has been diagnosed with HIV and is feeling lonely and isolated. How could eHealth best help him?
+	- 	He will be able to use eHealth systems to book his outpatient appointments
+	- 	He will be able to SMS his doctor about any concerns
+	+	He can use the internet to find a support group
+	- 	He can use the internet to find out the latest advances in HIV treatment
+12. Why is mHealth particularly important in African health systems?
+	- 	Mobile telephone networks transfer information more quickly than the internet
+	+	Most people have access to mobile telephone networks, fewer have access to computers and the internet.
+	- 	Mobile telephone networks transfer information over longer distances than the internet
+	- 	Most people have access to computers and the internet, fewer have access to mobile telephone networks
+13. Which statement about eHealth and mHealth is true?
+	+	eHealth means transferring healthcare and health information by electronic means while mHealth is a type of eHealth that focuses on the use of mobile devices, particularly mobile telephone networks
+	- 	eHealth and mHealth mean the same thing and can be used interchangeably
+	- 	In South Africa, eHealth is used more widely than mHealth to communicate with patients because most people now have access to the internet
+	- 	eHealth relies mainly on SMS messaging while mHealth requires the use of “apps”
+14. What the best example of the “informal” use of eHealth by health professionals, particularly doctors?
+	- 	A doctor in a rural hospital sends an SMS to a specialist and uses their first name
+	- 	A doctor uses his smart phone to add a patient to a clinic list, using the hospital booking system
+	- 	A doctor asks a relative to send an SMS to a patient to ask why she did not attend clinic
+	+	A doctor takes a picture of a chest X-ray with his smart phone and sends it via email to a colleague for an opinion
+15. Which statement about the future use of eHealth systems in Africa is true?
+	- 	eHealth is only used in South Africa
+	- 	eHealth is an approach for more advanced economies and African countries must first focus on getting basic healthcare right 
+	- 	To date, there have been no successful large scale eHealth or mHealth projects in Africa
+	+	eHealth and mHealth approaches are likely to be particularly beneficial in Africa
+16. Which of these is the best example of using eHealth to improve quality of care?
+	- 	Staff can speak to each other while on vacation
+	+	Specialists can be contacted for a “virtual consultation”.
+	- 	Nurses can scold patients whne they fail to attend follow-up clinic
+	- 	Doctors can order take-away lunches so they do not have to leave the hospital
+17. Which of these is the best example of using eHealth to store and share patient information between healthcare providers?
+	- 	Requesting outpatient appointments by SMS
+	- 	A rural doctor can make a cell phone call to a secretary and have a discharge summary faxed from a referral hospital
+	+	Discharge summaries are stored in an electronic database that can be accessed by a registered doctor from any hospital or clinic in the province 
+	- 	Discharge summaries are stored in an electronic database but can only be accessed by a doctor working in that hospital    
+18. How can an elderly lady with badly controlled high blood pressure be helped to take her medication every day?
+	- 	Referring her to a website with information about high blood pressure
+	- 	Sending pictures of people with strokes and other complications of high blood pressure to her mobile phone
+	- 	It is inappropriate to use eHealth/mHealth in the elderly as they cannot understand it
+	+	A system that sends automatic reminders to take her tablets to her mobile phone 
+19. In South Africa, the mHealth project that provides ongoing support and education to midwives is called:
+	- 	MomConnect
+	+	NurseConnect
+	- 	MidwifeConnect
+	- 	NatalConnect
+20. What is the most important consideration for health professionals when using informal eHealth systems to communicate with each other about patients?
+	+	Confidentiality
+	- 	Interoperability
+	- 	Bandwidth
+	- 	Accountability

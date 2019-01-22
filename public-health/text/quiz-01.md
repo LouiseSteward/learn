@@ -1,111 +1,111 @@
 ---
-title: Quiz 1. Introduction to maternal and perinatal mortality
+title: Quiz 1. Sources of information about communities and populations
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 1: Introduction to maternal and perinatal mortality
+# Quiz 1: Sources of information about communities and populations
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	What is the meaning of mortality rate?
-	-	The commonest causes of death.
-	-	The total number of people who die each year.
-	+	The proportion or percentage of people who die each year.
-	-	The speed at which people die.
-2.	The mortality rate:
-	-	Is usually the same for all hospitals.
-	-	Usually does not change from year to year.
-	-	Falls as people get older.
-	+	Is usually calculated each year for each health district.
-3.	Why is it useful to know the mortality rate?
-	-	It reflects the amount of illness in a community.
-	-	It reflects the standard of health care.
-	+	It reflects both the amount of illness and the standard of health care.
-	-	It reflects the number of people in the community rather than the amount of illness or standard of health care.
-4.	The primary cause of death is:
-	-	The cause of most deaths in that community.
-	+	The condition which led to the death.
-	-	The cause of death that is the easiest to prevent.
-	-	The first cause of death that is thought of.
-5.	The final cause of death is:
-	-	The most unexpected cause of death.
-	-	The cause of death diagnosed by a doctor.
-	+	The event which finally caused the death.
-	-	The most likely cause of death.
-6.	What is an audit?
-	-	An instrument for examining the ear.
-	+	A systematic assessment.
-	-	A common cause of maternal death.
-	-	A death report.
-7.	What is a mortality meeting?
-	+	A meeting of health care workers where the deaths of patients are discussed.
-	-	A funeral service.
-	-	A support group to help patients who are dying.
-	-	A meeting to decide which staff member is responsible for a patient’s death.
-8.	Why is a mortality report important?
-	-	It is used to calculate the funding needed by each hospital.
-	+	It is used to identify problems and plan improvements in a clinical service.
-	-	It is used to calculate the staff required in each clinic.
-	-	It is used to identify doctors or nurses who need to attend training courses.
-9.	What is morbidity?
-	-	A preventable cause of death.
-	-	A cause of death which cannot be prevented by good care.
-	+	Conditions which make patients ill but do not kill them.
-	-	A condition which causes severe depression after delivery.
-10.	Why is it important to document morbidity?
-	-	It can be treated with antibiotics.
-	+	Because deaths can be prevented by reducing the morbidity.
-	-	Because morbidity is easy to document.
-	-	It is a sign of good care.
-11.	Who should be responsible for collecting maternal mortality information?
-	-	The medical superintendent or matron.
-	-	Only the medical staff.
-	-	The senior nursing staff.
-	+	Everyone in the service.
-12.	What is a confidential enquiry?
-	-	A secret investigation into poor care provided by a doctor or nurse.
-	-	An attempt to prevent the public knowing that a patient died due to negligence.
-	-	An investigation by a magistrate or judge.
-	+	An investigation into a death where the name of the patient and staff are not made known.
-13.	What is a birth register?
-	-	A person who registers all births.
-	+	A book in labour ward where a record of all births is kept.
-	-	A list of infants admitted to the nursery.
-	-	The number of women who deliver each month.
-14.	A minimum data set is:
-	-	The essential information which should be recorded on a patient held antenatal card.
-	-	The information which is documented in the partogram (labour record).
-	+	The basic information which must be collected on all births.
-	-	Information recorded on all low birth weight infants.
-15.	Why is the percentage of pregnant women screened for syphilis important?
-	-	It indicates the amount of sexually transmitted disease in the community.
-	+	It indicates the quality of antenatal care.
-	-	It can be used to calculate the maternal mortality rate.
-	-	It can be used to calculate the stillbirth rate.
-16.	What is the expected Caesarean section rate in a developing country?
-	-	10%.
-	+	15%.
-	-	20%.
-	-	25%.
-17.	What is the use of knowing the rate of asphyxiated infants (infants who do not breath well after delivery)?
-	-	A high rate indicates poor care during pregnancy.
-	+	A high rate indicates poor care in labour.
-	-	A high rate indicates inadequate resuscitation.
-	-	A high rate indicates poor newborn care.
-18.	The low birth weight rate is:
-	-	The number of infants weighing less than 2000 g at birth.
-	+	The percentage of infants weighing less than 2500 g at birth.
-	-	The number of infants born before 37 weeks gestation per 1000 deliveries.
-	-	The number of infants born before 35 weeks gestation per 10 000 deliveries.
-19.	The low birth weight rate is important because it:
-	+	Reflects the socioeconomic status of the community.
-	-	Is used to calculate the perinatal mortality rate.
-	-	Can be used to predict the number of Caesarean sections needed in a hospital.
-	-	Increases in communities where diabetes during pregnancy is common.
-20.	What is the low birth weight rate in South Africa?
-	-	About 5%.
-	-	About 10%
-	+	About 15%.
-	-	About 20%.
+1.	Which of the following is a community?
+	- 	All South Africans
+	- 	Everyone who speaks Xhosa as their home language
+	+ 	Car drivers in Cape Town
+	- 	Members of a social or sports club
+2. In public health, the “demand for healthcare” means:
+	- 	Protest action for services
+	+ 	The number of people coming to healthcare facilities and the types of problems they present with
+	- 	Services requested at meetings between health service officials and community organisations
+	- 	Letters written to newspapers about service gaps 
+3.	Are the health needs of a community the same as their demands?
+	- 	Yes as they know their own needs better than anyone else
+	- 	Yes as they will be told by the local general practitioners
+	+	No as people with health needs may not be attending for healthcare
+	- 	No as communities always exaggerate their health demands
+4.	Which method would be the most valuable when making a community diagnosis in a squatter camp?
+	+ 	Ask the people living there what they see as their biggest health risks and needs
+	-  	Ask the local hospital or clinic staff what they think are the biggest health problems in the community
+	- 	An expensive research study would be needed to get reliable data
+	- 	It is not worth the effort as a squatter camp is too disorganised to make a community diagnosis
+5.	Community orientated primary care includes:
+	- 	Obtaining funds for local clinics
+	+ 	Community health workers visiting all homes
+	- 	Getting unemployed youths to work as porters in hospitals
+	- 	Telling communities what care they need
+6.	Community mapping includes:
+	- 	Making sure that the community is included on street maps
+	+ 	Maps drawn up in partnership with community members 
+	- 	Ensuring that all roads are named
+	- 	A system to make sure that rates are paid
+7.	When trying to tackle health risks in a squatter camp with a high crime rate:
+	- 	There is likely to be a strong sense of belonging in this community
+	- 	It is likely that the community members will be able to work together effectively to reduce health risks  
+	- 	Even if individuals are not empowered, strong community organisations can usually be found
+	+ 	Low levels of community organisation and trust mean that working with individuals or households may be the most effective method
+8.	What is demography?
+	+ 	The study of the structure of populations
+	- 	The study of hand writing
+	- 	A new form of body scanning
+	- 	A method of interviewing community leaders
+9.	What is population density?
+	- 	How many people in a population
+	+ 	How many people in a unit of space such as km2
+	- 	The average number of people living in a house
+	- 	The ratio of males to females in a population
+10.	What does a high ratio of boys to girls in a population suggest?
+	- 	Girls are not counted in a census
+	- 	Maternal illness during pregnancy results in more girl stillbirths
+	+ 	More girl foetuses than boy foetuses are aborted in sex selective termination of pregnancy
+	- 	There are more male twins than female twins especially in older women
+11.	How is the maternal mortality ratio expressed?
+	+ 	The number of maternal deaths per 100 000 live births
+	- 	The number of maternal deaths per 10 000 deliveries
+	- 	The number of maternal deaths per 1000 pregnancies
+	- 	The number of maternal deaths per year
+12.	What deaths are included in infant mortality?
+	- 	First week deaths only
+	- 	First month deaths only
+	+ 	All deaths in the first year
+	- 	All deaths in the first 5 years
+13.	Age specific fertility rate gives an indication of:
+	+ 	How fast a population is expected to grow
+	- 	How many women are working
+	- 	How many men are unemployed
+	- 	The degree of environmental pollution
+14.	What is the demographic transition?
+	- 	The political transfer of power from the rich to the poor
+	+ 	The change in the age structure of a population
+	- 	The number of women taking over work previously done by men
+	- 	The acceptance of gays and lesbians in society
+15.	Which countries have a population pyramid with a wide base and a narrow apex?
+	- 	Wealthy industrialised countries like Germany
+	- 	Rapidly growing countries like South Korea
+	- 	Countries with a stable population such as the USA
+	+ 	Poor, undeveloped countries like Mozambique
+16.	In a developed country like the United Kingdom the commonest age group is:
+	- 	Young children under 5 years
+	- 	Teenagers
+	+ 	Adults between 30 and 50 years
+	- 	Older people of 60 years and more
+17.	What is a consequence of the demographic transition?
+	- 	More political stability in the country
+	+ 	Improved childhood education and health
+	- 	People able to retire earlier
+	- 	Less chronic disease
+18.	How often is a national census done in South Africa?
+	- 	Annually
+	- 	Every 2 years
+	- 	Every 5 years
+	+	Every 10 years
+19.	How is census data recorded?
+	- 	It is taken from the births and deaths registers
+	- 	The average mid-year population estimates over 5 years are used
+	+	Every household is visited to collect information
+	- 	Randomly selected members of the public are contacted by cell phone
+20.		Which of the following data sources provides the expected population size for each year?
+	+	Mid-year population estimates
+	- 	The general household survey
+	- 	The census
+	- 	Hospital admissions

@@ -1,111 +1,111 @@
 ---
-title: Quiz 5. Finding solutions to maternal and perinatal mortality
+title: Quiz 5. Nutrition
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 5: Finding solutions to maternal and perinatal mortality
+# Quiz 5: Nutrition
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	How can solutions best be found for maternal and perinatal deaths?
-	-	Look for answers in textbooks.
-	-	Follow standard protocols of management.
-	+	Identify avoidable factors.
-	-	Consult the nearest medical school.
-2.	Which of the following is an example of a missed opportunity?
-	+	Failure to screen a pregnant woman for syphilis when she attended antenatal clinic.
-	-	Not predicting a placental abruption.
-	-	Using an incorrect method of listening to the fetal heart during labour.
-	-	Referring a patient without sending a referral letter.
-3.	What is substandard care?
-	-	A midwife rather than a doctor performing a vaginal delivery.
-	-	Delivering a low risk mother at a level 2 hospital.
-	+	Not suctioning the mouth and throat of a meconium stained infant at delivery.
-	-	A mother failing to push properly during the second stage of labour.
-4.	Why is it important to identify the specific avoidable factor?
-	+	Because only then can steps be taken to prevent similar deaths in future.
-	-	So that research can be directed at looking for better treatments.
-	-	In order that it can be added to the details recorded in the death certificate.
-	-	So that it can be recorded in the report of the perinatal meeting.
-5.	How can changes be made to improve health care?
-	-	By disciplining staff who make mistakes.
-	+	By improving protocols.
-	-	By delivering as many women as possible in hospital.
-	-	By limiting the number of women who attend antenatal clinic.
-6.	How can newborn care provided by health workers be improved?
-	-	By asking health workers to work longer hours.
-	-	By preventing preterm labour.
-	-	By paying health care workers more.
-	+	By creating clear referral criteria.
-7.	What is a key recommendation to prevent maternal death?
-	-	Primary care clinics should perform Caesarean sections.
-	+	Midwife obstetric clinics should be established.
-	-	All HIV positive women should be delivered in hospital.
-	-	All women be observed in hospital for five days after delivery.
-8.	Should every maternal death be reported?
-	+	Yes.
-	-	Only maternal deaths in hospital.
-	-	Only maternal deaths in hospitals or clinics.
-	-	Only women who are at least three months pregnant.
-9.	What national HIV/AIDS policy is needed for pregnant women?
-	-	Terminate all pregnancies.
-	-	Refer all HIV mothers to a level 2 hospital.
-	-	Treat all HIV positive mothers prophylactically with co-trimoxazole and anti-tuberculosis medication.
-	+	Counselling, testing and antiretroviral drugs must be made available at all hospitals and clinics.
-10.	What administrative related factor is often associated with perinatal death?
-	-	Not providing a CTG machine to every clinic that does deliveries.
-	-	Not providing an ultrasound machine to every level 1 hospital.
-	-	Not providing medical officers for every clinic that does deliveries.
-	+	Not providing adequate transport for referring women with labour complications from clinic to hospital.
-11.	What health worker related factor is commonly associated with perinatal death?
-	-	Underestimating the size of the fetus.
-	+	No response to poor intrauterine growth.
-	-	Not clamping the umbilical cord immediately after delivery of the infant.
-	-	Giving the infant to the mother before delivering the placenta.
-12.	What common cause of neonatal death can often be prevented with good, simple care?
-	+	Fetal hypoxia during labour.
-	-	Intrauterine growth restriction.
-	-	Congenital abnormalities.
-	-	Preterm labour.
-13.	What can be done to reduce the perinatal mortality rate?
-	+	Encourage mothers to book for antenatal care as early as possible.
-	-	Treat all mothers for syphilis if screening is not possible.
-	-	Deliver all HIV positive women in hospital.
-	-	Instruct all HIV positive mothers to formula feed their infants.
-14.	How can fetal hypoxia during labour be best detected?
-	-	Plot cervical dilatation on the partogram.
-	-	Regularly check the mother’s urine for ketones.
-	+	Monitor the fetal heart carefully at the end of contractions.
-	-	Monitor the fetal heart carefully between contractions.
-15.	How should birth asphyxia be managed?
-	-	Dry the infant well and wait for respiration to start.
-	-	Rush the infant to hospital.
-	-	Give the infant oxygen via a nasogastric tube.
-	+	Give mask and bag ventilation even if oxygen is not available.
-16.	How can the risk of hyaline membrane disease in the newborn infant be reduced if women go into preterm labour?
-	+	Suppress labour and give betamethasone.
-	-	Give an antibiotic such as tetracycline.
-	-	Rupture the membranes.
-	-	Give the mother oxygen.
-17.	What can reduce the risk of neonatal mortality in small infants?
-	+	Teach mothers to give kangaroo mother care (skin to skin care).
-	-	Deliver mothers at home.
-	-	Give all small newborn infants antibiotics.
-	-	Do not give konakion (vitamin K) to small infants.
-18.	How can infection of the fetus be prevented during labour?
-	-	Give all women prophylactic antibiotics in labour.
-	-	Do not perform vaginal examinations until the mother wants to push.
-	+	Use aseptic technique during vaginal examinations.
-	-	Deliver as many mothers as possible in hospital.
-19.	How can bacterial infection of the newborn infant be prevented?
-	-	Wash the infant every day.
-	-	Do not allow family and friends to hold the infant.
-	-	Keep preterm infants in hospital for as long as possible.
-	+	Exclusively breastfeed infants for 6 months.
-20.	How can the risk of mother to child transmission of HIV be reduced?
-	-	Deliver all HIV positive women in hospital.
-	+	Offer antiretrovirals to all HIV positive pregnant women.
-	-	Shorten labour by performing an episiotomy.
-	-	Rupture the membranes as soon as possible.
+1.	Which of the following is a macronutrient?
+	- 	Vitamins
+	- 	Iodine
+	+	Protein
+	- 	Zinc
+2.	Which of the following is a micronutrient?
+	+	Iron
+	- 	Protein
+	- 	Fat
+	- 	Carbohydrate
+3.	What is the body mass index?
+	- 	A measure of the amount of food eaten
+	- 	The weight expressed in kilograms
+	+	A measure of weight for height
+	- 	An exercise to help lose weight
+4.	Which of the following is the best predictor of chronic disease in an adult due to bad lifestyle?
+	- 	Body weight
+	- 	Arm circumference
+	- 	Height
+	+	Waist circumference
+5.	What does a child’s weight-for-age above the +2 z line indicate?
+	- 	Rapid growth
+	+	Overweight
+	- 	Underweight
+	- 	Thin
+6.	What does a child’s height-for-age below the -2 z line indicate?
+	- 	Growing too fast
+	- 	Tall
+	- 	Normal height
+	+	Stunted
+7.	A child is obese if her weight-for height is:
+	+	Above the +3 z score
+	- 	Between the + 2 and 3 z scores
+	- 	Above the +2 z score
+	- 	Above the +1 z score
+8.	What is referred to a “hidden hunger”?
+	- 	Someone on a low carbohydrate diet
+	- 	Someone on a low protein diet
+	- 	A baby that is bottle and not breast fed
+	+	Micronutrient deficiency
+9.	What percentage of South African women over 20 years are overweight?
+	+	70%
+	- 	50%
+	- 	25%
+	- 	10%
+10.	What is a common complication of overnutrition?
+	- 	Rheumatoid arthritis
+	+	Hypertension
+	- 	Gout
+	- 	Osteoporosis
+11.	Which is an important micronutrient which is often deficient in children?
+	- 	Vitamin D
+	- 	Vitamin C
+	- 	Vitamin B
+	+	Vitamin A
+12.	What is a common result of iron deficiency in children?
+	- 	Obesity
+	+	Impaired cognitive (mental) development
+	- 	Jaundice
+	- 	Rickets
+13.	Anaemia is commonly due to a lack of:
+	+	Iron
+	- 	Folic acid
+	- 	Vitamin B12
+	- 	Protein
+14.	What is a common nutritional problem in pregnancy?
+	- 	Iodine deficiency
+	+	Diabetes
+	- 	Rickets
+	- 	Scurvy
+15.	What percentage of South African households experience hunger?
+	- 	5%
+	- 	10%
+	+	25%
+	- 	50%
+16.	What is the main cause of undernutrition in South Africa?
+	- 	Intestinal parasites
+	- 	Incorrect food advertising in the media
+	- 	Junk food
+	+	Poverty
+17.	What is an example fortification of staple foods?
+	- 	Adding sugar to condensed milk
+	- 	Adding raisins and nuts to white bread
+	+	Adding folate (folic acid) to maize and wheat flour
+	- 	Adding protein powder to health drinks
+18.	What is an example of micronutrient supplementation?
+	- 	Adding iodine to table salt
+	+	Giving vitamin B6 tablets to people on TB treatment
+	- 	The school feeding programme
+	- 	The nutritional therapeutic programme
+19.	What is the national school nutrition programme?
+	- 	Giving vitamin A and D to all school children
+	+	A feeding programme for primary school children in poor areas
+	- 	Nutritional courses for teachers
+	- 	A “tuck shop” in every school
+20.	What is usually included in food parcels?
+	- 	White sugar
+	- 	Cool drinks
+	+	Peanut butter
+	- 	Salted chips

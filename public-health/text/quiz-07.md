@@ -1,111 +1,111 @@
 ---
-title: Quiz 5. Finding solutions to maternal and perinatal mortality
+title: Quiz 7. Responding to health risks
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 5: Finding solutions to maternal and perinatal mortality
+# Quiz 7: Responding to health risks
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	How can solutions best be found for maternal and perinatal deaths?
-	-	Look for answers in textbooks.
-	-	Follow standard protocols of management.
-	+	Identify avoidable factors.
-	-	Consult the nearest medical school.
-2.	Which of the following is an example of a missed opportunity?
-	+	Failure to screen a pregnant woman for syphilis when she attended antenatal clinic.
-	-	Not predicting a placental abruption.
-	-	Using an incorrect method of listening to the fetal heart during labour.
-	-	Referring a patient without sending a referral letter.
-3.	What is substandard care?
-	-	A midwife rather than a doctor performing a vaginal delivery.
-	-	Delivering a low risk mother at a level 2 hospital.
-	+	Not suctioning the mouth and throat of a meconium stained infant at delivery.
-	-	A mother failing to push properly during the second stage of labour.
-4.	Why is it important to identify the specific avoidable factor?
-	+	Because only then can steps be taken to prevent similar deaths in future.
-	-	So that research can be directed at looking for better treatments.
-	-	In order that it can be added to the details recorded in the death certificate.
-	-	So that it can be recorded in the report of the perinatal meeting.
-5.	How can changes be made to improve health care?
-	-	By disciplining staff who make mistakes.
-	+	By improving protocols.
-	-	By delivering as many women as possible in hospital.
-	-	By limiting the number of women who attend antenatal clinic.
-6.	How can newborn care provided by health workers be improved?
-	-	By asking health workers to work longer hours.
-	-	By preventing preterm labour.
-	-	By paying health care workers more.
-	+	By creating clear referral criteria.
-7.	What is a key recommendation to prevent maternal death?
-	-	Primary care clinics should perform Caesarean sections.
-	+	Midwife obstetric clinics should be established.
-	-	All HIV positive women should be delivered in hospital.
-	-	All women be observed in hospital for five days after delivery.
-8.	Should every maternal death be reported?
-	+	Yes.
-	-	Only maternal deaths in hospital.
-	-	Only maternal deaths in hospitals or clinics.
-	-	Only women who are at least three months pregnant.
-9.	What national HIV/AIDS policy is needed for pregnant women?
-	-	Terminate all pregnancies.
-	-	Refer all HIV mothers to a level 2 hospital.
-	-	Treat all HIV positive mothers prophylactically with co-trimoxazole and anti-tuberculosis medication.
-	+	Counselling, testing and antiretroviral drugs must be made available at all hospitals and clinics.
-10.	What administrative related factor is often associated with perinatal death?
-	-	Not providing a CTG machine to every clinic that does deliveries.
-	-	Not providing an ultrasound machine to every level 1 hospital.
-	-	Not providing medical officers for every clinic that does deliveries.
-	+	Not providing adequate transport for referring women with labour complications from clinic to hospital.
-11.	What health worker related factor is commonly associated with perinatal death?
-	-	Underestimating the size of the fetus.
-	+	No response to poor intrauterine growth.
-	-	Not clamping the umbilical cord immediately after delivery of the infant.
-	-	Giving the infant to the mother before delivering the placenta.
-12.	What common cause of neonatal death can often be prevented with good, simple care?
-	+	Fetal hypoxia during labour.
-	-	Intrauterine growth restriction.
-	-	Congenital abnormalities.
-	-	Preterm labour.
-13.	What can be done to reduce the perinatal mortality rate?
-	+	Encourage mothers to book for antenatal care as early as possible.
-	-	Treat all mothers for syphilis if screening is not possible.
-	-	Deliver all HIV positive women in hospital.
-	-	Instruct all HIV positive mothers to formula feed their infants.
-14.	How can fetal hypoxia during labour be best detected?
-	-	Plot cervical dilatation on the partogram.
-	-	Regularly check the mother’s urine for ketones.
-	+	Monitor the fetal heart carefully at the end of contractions.
-	-	Monitor the fetal heart carefully between contractions.
-15.	How should birth asphyxia be managed?
-	-	Dry the infant well and wait for respiration to start.
-	-	Rush the infant to hospital.
-	-	Give the infant oxygen via a nasogastric tube.
-	+	Give mask and bag ventilation even if oxygen is not available.
-16.	How can the risk of hyaline membrane disease in the newborn infant be reduced if women go into preterm labour?
-	+	Suppress labour and give betamethasone.
-	-	Give an antibiotic such as tetracycline.
-	-	Rupture the membranes.
-	-	Give the mother oxygen.
-17.	What can reduce the risk of neonatal mortality in small infants?
-	+	Teach mothers to give kangaroo mother care (skin to skin care).
-	-	Deliver mothers at home.
-	-	Give all small newborn infants antibiotics.
-	-	Do not give konakion (vitamin K) to small infants.
-18.	How can infection of the fetus be prevented during labour?
-	-	Give all women prophylactic antibiotics in labour.
-	-	Do not perform vaginal examinations until the mother wants to push.
-	+	Use aseptic technique during vaginal examinations.
-	-	Deliver as many mothers as possible in hospital.
-19.	How can bacterial infection of the newborn infant be prevented?
-	-	Wash the infant every day.
-	-	Do not allow family and friends to hold the infant.
-	-	Keep preterm infants in hospital for as long as possible.
-	+	Exclusively breastfeed infants for 6 months.
-20.	How can the risk of mother to child transmission of HIV be reduced?
-	-	Deliver all HIV positive women in hospital.
-	+	Offer antiretrovirals to all HIV positive pregnant women.
-	-	Shorten labour by performing an episiotomy.
-	-	Rupture the membranes as soon as possible.
+1.	What is primary prevention?
+	- 	Preventing infections in primary school children
+	+	Identifying and removing risk factors before they cause harm
+	- 	Providing primary care to a community
+	- 	Preventing the commonest cause of death in a population
+2.	What is secondary prevention?
+	-  	Preventing sport injuries in boys attending high school
+	- 	Preventing the spread of primary cancers to other parts of the body
+	+	Identifying and treating a condition early to return the person to full health and often cure the patient
+	- 	Preventing the second most common cause of death in a community
+3.	What is tertiary prevention?
+	+	Makes sure that a person with an established health problem can function as fully as possible
+	- 	The most effective form of preventing a medical condition
+	- 	Preventing health problems in students at a university health clinic
+	- 	Curing a condition when the first and second line of treatment has failed
+4.	What is a common problem with primary prevention?
+	-	It is usually very expensive
+	- 	If often is not effective
+	- 	Consent has to be obtained from parents
+	+	It has to be applied to many to benefit only a few
+5.	What is an important drawback of screening for disease?
+	- 	It is easier to diagnose a disease when it first presents with symptoms and signs
+	- 	It is usually cheaper to treat established disease than pay for a screening programme
+	+	There is an emotional cost when someone is diagnosed through screening while they still feel perfectly healthy
+	- 	It would be better if health workers looked after sick people than screen well people
+6.	What is essential for a good screening programme?
+	+	There must be an effective treatment for the condition being screened for
+	- 	It should be an uncommon and not very serious disease
+	- 	Price is not important if it is a good test
+	- 	People should be able to do the test themselves
+7.	What is one of the criteria for a good screening test?
+	- 	Everybody it identifies up must have the disease 
+	- 	It should be very cheap
+	-	It should be particularly sensitive in children and younger people
+	+	It should pick up nearly all the people who have the disease
+8.	What is risk reduction in healthcare?
+	- 	Screening a community for risk factors
+	+	Both identifying the risk and removing it at source
+	- 	Reducing complications of a malfunctioning health system
+	- 	Reducing the risk that patients will sue the healthcare system
+9.	What is risk mitigation in healthcare?
+	+	Trying to reduce the consequences of a risk
+	- 	Trying to reduce the risk altogether
+	- 	Moving a risk from one community to another
+	- 	The same as both primary and secondary prevention
+10.	What is the “one health” approach to reducing health risks?
+	- 	Providing all levels of care at one facility
+	- 	Trying to find one treatment that will improve a number of chronic health conditions
+	+	Recognising that the health of people, animals and the environment are linked and dependent on each other
+	- 	Combining primary, secondary and tertiary prevention into a single service
+11.	What is a healthcare system?
+	- 	A plan to only provide healthcare to those who can afford private care
+	- 	A computer system which controls the distribution of funds
+	- 	A method of training health workers to be “patient friendly”
+	+	Everything that is needed to provide healthcare to a population
+12.	What is a complex system?
+	- 	A system that is too complicated to be effective in a developing country
+	- 	A system that must have both the public and private sector as partners
+	- 	A system that is very expensive and needs overseas funding
+	+	A system consisting of many parts that interact with each other
+13.	How can “systems thinking” help in providing healthcare?
+	- 	Most people agree than it cannot help
+	- 	It helps health workers remember appointments and responsibilities
+	+	It helps people to understand that changing one part of the system affects the behaviour of the whole system
+	- 	It allows health workers to provide a service at a number of different facilities
+14.	Are private practitioners able to play a role in a national healthcare system?
+	+	Yes as private practitioners can provide some services
+	- 	Only if the private practitioners are paid more than they earn in their own practices
+	- 	It is uncommon for them to play a role as they are too busy with their private patients
+	- 	No they cannot play a role as they are too expensive
+15.	What is governance in a healthcare system?
+	- 	The senior executive officer of the health system
+	- 	The head office where the senior executive officer of the health system works
+	+	The process that sets the standards, outcomes and oversight of the system
+	- 	The accounting officer who is responsible for the financial management of the health system
+16.	What does accountability in a health system mean?
+	+	Taking responsibility for clearly defined and understood tasks.
+	- 	Obtaining adequate funds for the service
+	- 	Counting the number of patients admitted each day
+	- 	Attempting to fill all the vacant posts
+17.	What happens if there is poor governance?
+	- 	The staff are less stressed
+	- 	The cost of managing the service decreases
+	+	Standards fall and outcomes are poor
+	- 	Doctors and nurses are able to make their own decisions to improve care
+18.	What is a vertical health programme?
+	- 	The most effective way of providing general healthcare
+	+	A way of making an impact on a particular condition or disease
+	- 	A programme that helps health workers get rapid promotion and improved salaries
+	- 	A method of fast referral of patients from a clinic to the district hospital
+19. “Increasing human capacity” in a health system includes:
+	- 	Making sure there is very strong job security
+	+	Giving people the skills and confidence to improvise and adapt protocols to fit their local work environment
+	- 	Employing more facilitators and coordinators
+	- 	Focussing on vertical health systems
+20.	How easy is it to change a health system?
+	- 	With strict discipline it is easy
+	- 	With adequate funding it should be easy
+	- 	It is only easy in large organisations
+	+	It is difficult as health systems are complex organisations
