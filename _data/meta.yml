@@ -21707,8 +21707,7 @@ works:
           - "13a"
           - "14"
           - "15"
-          - "16-appendix-1"
-          - "17-appendix-2"
+          - "16-appendix"
           - "quiz-01"
           - "quiz-02"
           - "quiz-03"
@@ -21813,6 +21812,7 @@ works:
           - file: "03"
             id: "3-analysing-the-causes-of-health-problems-and-socially-determined-health"
             label: "**3.** Analysing the causes of health problems and socially determined health"
+            children:
               - file: "03"
                 id: "unravelling-the-causes-of-ill-health"
                 label: "Unravelling the causes of ill health"
@@ -21864,8 +21864,8 @@ works:
             label: "**5.** Nutrition"
             children:
               - file: "05"
-                id: "nutrition
-                label: "Nutrition
+                id: "nutrition"
+                label: "Nutrition"
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -22311,7 +22311,8 @@ works:
             label: "**Part 2**"
           - file: "03"
             id: "3-analysing-the-causes-of-health-problems-and-socially-determined-health"
-            label: "**3.** Analysing the causes of health problems and socially determined health:
+            label: "**3.** Analysing the causes of health problems and socially determined health"
+            children:
               - file: "03"
                 id: "unravelling-the-causes-of-ill-health"
                 label: "Unravelling the causes of ill health"
@@ -22363,8 +22364,8 @@ works:
             label: "**5.** Nutrition"
             children:
               - file: "05"
-                id: "nutrition
-                label: "Nutrition
+                id: "nutrition"
+                label: "Nutrition"
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
@@ -22853,7 +22854,8 @@ works:
             label: "**Part 2**"
           - file: "03"
             id: "3-analysing-the-causes-of-health-problems-and-socially-determined-health"
-            label: "**3.** Analysing the causes of health problems and socially determined health:
+            label: "**3.** Analysing the causes of health problems and socially determined health"
+            children:
               - file: "03"
                 id: "unravelling-the-causes-of-ill-health"
                 label: "Unravelling the causes of ill health"
@@ -22905,8 +22907,8 @@ works:
             label: "**5.** Nutrition"
             children:
               - file: "05"
-                id: "nutrition
-                label: "Nutrition
+                id: "nutrition"
+                label: "Nutrition"
               - file: "05"
                 id: "objectives"
                 label: "Objectives"
