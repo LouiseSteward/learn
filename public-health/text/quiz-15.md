@@ -1,11 +1,11 @@
 ---
-title: Quiz 15. Improving health service performance 
+title: Quiz 15. Improving the performance of health services and programmes
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 15: Improving health service performance
+# Quiz 15: Improving the performance of health services and programmes
 
 Please choose the *one*, most correct answer to each question or statement.
 

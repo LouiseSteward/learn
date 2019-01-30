@@ -11,7 +11,10 @@ Public Health
 Caring for communities and populations
 {:.titlepage-subtitle}
 
-Written by Dr Miranda Voss and edited Prof David Woods
+Written by Dr Miranda Voss
+{:.titlepage-author}
+
+Edited by Prof David Woods
 {:.titlepage-author}
 
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}

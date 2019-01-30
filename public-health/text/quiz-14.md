@@ -1,11 +1,11 @@
 ---
-title: Quiz 14. Assessing the performance of health services and programmes
+title: Quiz 14. Measuring the performance of health services and programmes
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 14: Assessing the performance of health services and programmes
+# Quiz 14: Measuring the performance of health services and programmes
 
 Please choose the *one*, most correct answer to each question or statement.
 

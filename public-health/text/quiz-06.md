@@ -1,11 +1,11 @@
 ---
-title: Quiz 6. Some important health problems and their causes
+title: Quiz 6. Important health problems and their causes
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 6: Some important health problems and their causes
+# Quiz 6: Important health problems and their causes
 
 Please choose the *one*, most correct answer to each question or statement.
 

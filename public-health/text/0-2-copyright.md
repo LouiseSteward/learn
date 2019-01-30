@@ -7,14 +7,13 @@ style: copyright-page
 
 *Public Health: Caring for communities and populations*
 
-First published in 2019 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in January 2019 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Text © Miranda Voss 2018
+Text © Miranda Voss 2018  
 Illustrations © Graeme Arendse 2018
 
-ISBN (print edition): 978-0-620-82500-9
-ISBN (PDF edition):  
-ISBN (reflowable edition): 
+ISBN (print edition): 978-0-620-82500-9  
+ISBN (international paperback edition): 978-1-795-39836-7  
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 

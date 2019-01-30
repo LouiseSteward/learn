@@ -10,7 +10,7 @@ title: Resources
 {:.non-printing}
 
 *   [Useful organisations](#useful-organisations)
-*   [Further Reading and Public Health Learning](#further-reading-and-public-health-learning)
+*   [Further reading and public health learning](#further-reading-and-public-health-learning)
 *   [A holistic patient assessment and management using the ICF framework](#a-holistic-patient-assessment-and-management-using-the-icf-framework)
 {:.chapter-toc}
 
@@ -44,7 +44,8 @@ Unions that can support you:
  
 A summary of the [Protected Disclosures Act](http://www.justice.gov.za/legislation/notices/2011/20110831_gg34572 _n702-disclosure-guidelines.pdf)
     
-## Further Reading and Public Health Learning
+## Further reading and public health learning
+{:.page-break-before}
 
 ### Books and eBooks
 
@@ -113,6 +114,7 @@ Systems thinking in public health. D Bishai and L Paina, Johns Hopkins Universit
 Open2Study. Emergency management. J Mitchell, Massey University.
 
 ## A holistic patient assessment and management using the ICF framework
+{:.page-break-before}
 
 **Diagnosis**: 55 year old female – left above knee amputation (AKA) 1 month ago, lives in an informal settlement
 
@@ -176,3 +178,4 @@ Open2Study. Emergency management. J Mitchell, Massey University.
     <td colspan="2"></td>
   </tr>
 </table>
+{:.wide}

@@ -316,7 +316,7 @@ Relearn the sections in brackets for questions you get wrong.
 19. c   (30-12)
 20. b   (30-14)
 
-## Quiz 14: Assessing the performance in health services and programmes
+## Quiz 14: Measuring the performance of health services and programmes
 
 1.  a   (31-2)
 2.  b   (31-2)
@@ -340,7 +340,7 @@ Relearn the sections in brackets for questions you get wrong.
 20. b   (34-6)
 
 
-## Quiz 15: Improving health service performance
+## Quiz 15: Improving the performance of health services and programmes
 
 1.  d   (35-2)
 2.  c   (35-4)
