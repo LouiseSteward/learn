@@ -7,7 +7,7 @@ style: copyright-page
 
 *Mother and Baby Friendly Care: Best practice for healthcare professionals*
 
-First published in 2008 by [Bettercare](http://bettercare.co.za). Updated 1 Apr 2009, 24 Feb 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2008 by [Bettercare](http://bettercare.co.za). Updated April 2009, February 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Trust 2008
 

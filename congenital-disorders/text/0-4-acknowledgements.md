@@ -7,15 +7,13 @@ style: frontmatter
 
 # Acknowledgements
 
-*Congenital Disorders* has been edited from the *Birth Defects* course book of the Perinatal Education Programme. This learning programme for professionals is developed by the Perinatal Education Trust and funded by Eduhealthcare.
+*Congenital Disorders* has been edited from the *Birth Defects* course book of the Perinatal Education Programme. This learning programme for professionals was developed by the Perinatal Education Trust and funded by Eduhealthcare.
 
-The March of Dimes, through a generous grant to the Southern African Inherited Disorders Association (SAIDA), supported the authors and contributors and the development of the Medical Genetic Education Programme for primary care practitioners, which was based on the *Birth Defects* course book.
+The March of Dimes, through a generous grant to the Southern African Inherited Disorders Association (SAIDA), supported the authors and contributors and the development of the Medical Genetic Education Programme (MGEP) for primary care practitioners, which was based on the *Birth Defects* course book.
 
 We acknowledge all the participants of the Perinatal Education Programme who have made suggestions and offered constructive criticism. It is only through constant feedback from colleagues and participants that the content of the Perinatal Education Programme courses have been improved.
 
 ## Team
-
-Editor-in-Chief of the Perinatal Education Programme: Prof D L Woods
 
 Editor of *Congenital Disorders*: Prof D L Woods
 

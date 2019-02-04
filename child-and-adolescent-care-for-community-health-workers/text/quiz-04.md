@@ -5,7 +5,7 @@ style: chapter test
 
 {% include metadata %}
 
-# Quiz 4: HAdolescent Care
+# Quiz 4: Adolescent Care
 
 Please choose the *one*, most correct answer to each question or statement.
 
@@ -41,7 +41,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The service should be for both adolescents and adults but not children
 	+	A healthy lifestyle should be promoted
 	-	Boys and girls should be seen on different days
-9.	What is an important characteristic of adolescent friendly staff?
+9.	What is an important characteristic of adolescent-friendly staff?
 	+	They must be able to communicate well with adolescents
 	-	They must be strict to set a good example of correct behaviour
 	-	They should all be under the age of 25 years

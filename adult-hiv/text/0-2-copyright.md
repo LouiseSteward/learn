@@ -7,7 +7,7 @@ style: copyright-page
 
 *Adult HIV: What health professionals need to know*
 
-First published in 2007. Updated: 6 April 2011, 25 August 2012, 2 June 2014, 16 January 2014 (layout), 28 July 2015, 22 May 2018 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2007. Updated: April 2011, August 2012, June 2014, January 2014 (layout), July 2015, May 2018 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Desmond Tutu HIV Foundation 2014  
 

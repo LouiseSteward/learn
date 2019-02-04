@@ -1,11 +1,11 @@
 ---
-title: Quiz 3. Tuberculosis (TB) in children
+title: Quiz 3. Tuberculosis in children
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 3: Tuberculosis (TB) in children
+# Quiz 3: Tuberculosis in children
 
 Please choose the *one*, most correct answer to each question or statement.
 
@@ -17,14 +17,14 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Very few as children usually do not get TB
 	+	About 10%
 	-	All children with TB infection will get ill with TB
-3.	Which immunization helps to reduce the risk of TB?
+3.	Which immunisation helps to reduce the risk of TB?
 	+	BCG
 	-	Pneumococcal vaccine
 	-	Whooping cough vaccine
 4.	What would make you think that a child may have TB?
 	-	A sore throat
 	-	Diarrhoea and vomiting
-	+	A cough for more than two weeks
+	+	A cough for more than 2 weeks
 5.	What should you do if you think a child has TB?
 	-	Wait for a few weeks to see if they will get better
 	-	Ask the district nurse to listen to the child’s chest and start antibiotics
@@ -46,6 +46,6 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Children under 5 years of age
 	-	Older children who are at school
 10.	How can a health care worker help with TB treatment?
-	+	Help improve compliance
+	+	Help improve adherence
 	-	Take the child to the clinic every week
 	-	Weigh the child at every visit

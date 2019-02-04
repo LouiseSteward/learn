@@ -25,7 +25,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	One
 	-	Two
 	+	Three
-5.	How often should the HIV treatment be given?
+5.	How often should the HIV medicines be given?
 	+	Every day
 	-	Five days a week
 	-	Once a week
@@ -33,7 +33,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Taking medicine correctly every day
 	-	Weighing a child at every clinic visit
 	-	Attending school regularly
-7.	What adverse effects may be caused by HIV treatment in children?
+7.	What adverse effects may be caused by HIV medicines in children?
 	+	A rash
 	-	Swollen legs
 	-	Red urine
@@ -46,6 +46,6 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	The whole family should understand and help with the treatment
 	-	Both parents must always go with the child for clinic visits
 10.	How can adolescents avoid being infected with HIV?
-	+	Stay in school and delay the time of first sex
+	+	Delay the time of first sex and use protection when having sexual intercourse
 	-	Take oral contraceptives
 	-	Use traditional medicine

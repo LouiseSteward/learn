@@ -51,6 +51,7 @@ exclude:
   # - primary-maternal-care
   # - primary-newborn-care
   # - samples
+  # - public-health
   # - saving-mothers-and-babies
   # - womens-health-care
   # ------------------------

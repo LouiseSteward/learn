@@ -6,20 +6,6 @@ title: 8. Resources
 
 # **8** Resources
 
-This section provides the following resources:
-1.  Screening tools for common mental disorders in different languages
-2.  Making referrals
-3.  Useful contact numbers for care providers in South Africa
-4.  Resources for pregnant women and new mothers
-5.  Information about termination of pregnancy
-6.  Information on adoption services
-7.  Maintenance Orders
-8.  Child Support Grants
-9.  Protection orders
-10. South African national helplines
-11. South African organisations for training in counselling
-12. Additional information on infant mental health
-
 ## Contents
 {:.non-printing}
 
@@ -38,46 +24,213 @@ This section provides the following resources:
 {:.chapter-toc .page-ref-list}
 
 ## 1. Screening tools for common mental disorders
+{:.wide}
 
 *	The screening tools can be copied and used in screening sessions. 
 *	All screening tools are provided in English, Afrikaans, isiXhosa and French. 
-*	Information about how to score each screening tool can be found in [chapter 2](02.html). 
+*	Information about how to score each screening tool can be found in [chapter 2](02.html).
+*  Screening tools provided: Mental Distress Tool, Edinburgh Postnatal Depression Scale (EPDS), and Risk Factor Assessment (RFA).
+{:.wide}
 
-> ### Mental Distress Tool (English)
-> 
-> In the last 2 weeks, have you on some or most days
-> 
-> 1. Felt unable to stop worrying, or thinking too much? Yes/No
-> 2. Felt down, depressed or hopeless? Yes/No
-> 3. Had thoughts and plans to harm yourself or commit suicide? Yes/No
-{:.box .fixed .wide}
+### Mental Distress Tool (English)
+{:.table-caption .wide .page-break-before}
 
-> ### Mental Distress Tool (Afrikaans)
-> 
-> In die laaste 2 weke, het jy meeste van die tyd
-> 
-> 1. Gevoel asof jy nie kan ophou ‘worry’ nie of te veel dink? Ja/Nee
-> 2. ‘Depressed’, af of nikswert gevoel? Ja/Nee
-> 3. Daaraan gedink en beplan om jouself seer te maak of dood te maak? Ja/Nee
-{:.box .fixed .wide}
+(ONLY to be conducted if there are resources available for referral, e.g. mental health nurse, social worker, NGO, medical officer.)
 
-> ### Mental Distress Tool (IsiXhosa)
-> 
-> Kwiveki ezimbini (2 weeks) ezigqithileyo, ubuke wamane (ngezinye emini okanye intsuku ezinintsi)
-> 
-> 1. Ukhe uzive ingathi awukwazi ukuyeka ukucinga okanye ukucinga kakhulu? Ewe/Hayi
-> 2. Ukhe uzive umoya wakho uphantsi, uphelelwe lithemba okanye uziva udepressed? Ewe/Hayi
-> 3. Ubukhe ubenazo na ingcinga zokuzibulala nokuzenzakalisa? Ewe/Hayi
-{:.box .fixed .wide}
+Suggested words to use before screening: “We would like to know about all the women who come here: how they are doing physically and emotionally. This helps us to understand the best sort of care we can offer. Please may I ask you three questions about how you are emotionally? Please answer ‘yes’ or ‘no’ to each question.”
 
-> ### Mental Distress Tool (French)
->
-> Pendant les deux dernières semaines, avez-vous quelques fois ou souvent éprouvé les sentiments suivant? 
-> 
-> 1. Vous n’avez pas pu vous empêcher d’être préoccupée, ou de réfléchir trop Oui/Non
-> 2. Vous vous êtes sentie accablée, déprimée ou désespérée Oui/Non
-> 3. Vous avez pensé, ou planifié de vous faire du mal ou vous suicider Oui/Non
-{:.box .fixed .wide}
+<table>
+  <tr>
+    <td>In the last 2 weeks, have you on some or most days felt unable to stop worrying or thinking too much?</td>
+    <td>☐Yes (1)</td>
+    <td>☐No (0)</td>
+  </tr>
+  <tr>
+    <td>In the last 2 weeks, have you on some or most days felt down, depressed or hopeless?</td>
+    <td>☐Yes (1)</td>
+    <td>☐No (0)</td>
+  </tr>
+  <tr>
+    <td>In the last 2 weeks, have you on some or most days had thoughts and plans to harm yourself or commit suicide? (The self harm question will require urgent referral if there are both thoughts AND plans. If there is a history of previous attempt, referral is required even if there are thoughts alone.)</td>
+    <td>☐Yes (1)<br>*Refer*</td>
+    <td>☐No (0)</td>
+  </tr>
+  <tr>
+    <td rowspan="4">TOTAL SCORE</td>
+    <td colspan="2">☐ 0</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 1</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 2 &gt; Refer</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 3 &gt; Refer</td>
+  </tr>
+  <tr>
+    <td>Offered counselling</td>
+    <td>☐Yes (1)</td>
+    <td>☐No (0)</td>
+  </tr>
+  <tr>
+    <td>Accepted counselling</td>
+    <td>☐Yes (1)</td>
+    <td>☐No (0)</td>
+  </tr>
+</table>
+{:.wide}
+
+### Mental Distress Tool (Afrikaans)
+{:.table-caption .wide .page-break-before}
+
+(Hierdie gesprek  moet SLEGS gedoen word as daar hulpbronne beskibaar is waarheen vrouens verwys kan word, bv. ’n geestelike gesondheids verpleegster, maatskaplike werker, NPO of mediese beampte.)
+
+Voorgestelde inleiding tot die gesprek: “Ons wil graag uitvind oor al die vrouens wat hierheen kom: Hoe is hulle emosionele en fisiese welstand? Dit help ons om vas te stel watter tipe sorg ons kan bied. Kan ek jou asseblief drie vrae oor jou emosionele welstand vra? Antwoord asseblief ‘ja’ of ‘nee’ op elke vraag. 
+
+<table>
+  <tr>
+    <td>In die laaste 2 weke, het jy op sommige of meeste van die dae gevoel asof jy jou nie kan ophou bekommer (worry) oor goed nie of dat jy te veel dink?</td>
+    <td>☐Ja (1)</td>
+    <td>☐Nee (0)</td>
+  </tr>
+  <tr>
+    <td>In die laaste 2 weke, het jy op sommige of meeste van die dae depressief / af en hopeloos gevoel?</td>
+    <td>☐Ja (1)</td>
+    <td>☐Nee (0)</td>
+  </tr>
+  <tr>
+    <td>In die laaste 2 weke, het jy op sommige of meeste van die dae gedagtes gehad en planne gemaak om jouself seer te maak of om selfmoord te pleeg? (Verwys dringend na hulp as daar beide gedagtes EN planne is vir die vraag oor selfskade en selfmoord. As daar in die verlede reeds ’n poging was, is ’n verwysing noodsaaklik, selfs al is daar net gedagtes)</td>
+    <td>☐Ja (1)<br>*Verwys*</td>
+    <td>☐Nee (0)</td>
+  </tr>
+  <tr>
+    <td rowspan="4">TOTALE TELLING</td>
+    <td colspan="2">☐ 0</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 1</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 2 &gt; Verwys</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 3 &gt; Verwys</td>
+  </tr>
+  <tr>
+    <td>Berading aangebied</td>
+    <td>☐Ja (1)</td>
+    <td>☐Nee (0)</td>
+  </tr>
+  <tr>
+    <td>Berading aanvaar</td>
+    <td>☐Ja (1)</td>
+    <td>☐Nee (0)</td>
+  </tr>
+</table>
+{:.wide}
+
+### Mental Distress Tool (IsiXhosa)
+{:.table-caption .wide .page-break-before}
+
+**Isixhobo sokuphelisa uxinzelelo kwabakhulelweyo**
+
+(Eyokuqhutywa KUPHELA ukuba zikhona izixhobo zokuthumela, umz. umongikazi wempilo zasengqondweni, unontlalontle, NGO, ugqirha)
+
+Amagama acetyiweyo okusetyenziswa phambi kokuhlola: “Singathanda ukwazi ngabo bonke omama abaza apha: ukuba baziva njani emzimbeni nasemphefumlweni. Oku kusinceda siqonde olona hlobo lululo loncedo esingalunikeza. 
+
+<table>
+  <tr>
+    <td>Kweziveki ezimbini ezigqithileyo, ubukhe kwezinye iintsuku okanye phantse zonke iintsuku waziva ungakwazi ukuyeka ukukhathazeka okanye ukucinga kakhulu?</td>
+    <td>☐Ewe (1)</td>
+    <td>☐Hayi (0)</td>
+  </tr>
+  <tr>
+    <td>Kweziveki ezimbini ezigqithileyo, ubukhe kwezinye iintsuku okanye phantse zonke iintsuku waziva umzimba uphantsi, udakhumbile (udepressed) okanye ungena themba?</td>
+    <td>☐Ewe (1)</td>
+    <td>☐Hayi (0)</td>
+  </tr>
+  <tr>
+    <td>Kweziveki ezimbini ezigqithileyo, ubukhe kwezinye iintsuku okanye phantse zonke iintsuku waba neengcinga kunye namacebo okuzenzakalisa okanye ukuzibulala? (Ndingakubuza imibuzo emithathu malunga nokuba uziva njani emphefumlweni? Nceda phendula ‘ewe’ okanye ‘hayi’ kumbuzo ngamnye.)</td>
+    <td>☐Ewe (1)<br>*Thumela*</td>
+    <td>☐Hayi (0)</td>
+  </tr>
+  <tr>
+    <td rowspan="4">TOTAL SCORE</td>
+    <td colspan="2">☐ 0</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 1</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 2 &gt; Thumela</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 3 &gt; Thumela</td>
+  </tr>
+  <tr>
+    <td>Wanikwa icounselling</td>
+    <td>☐Ewe (1)</td>
+    <td>☐Hayi (0)</td>
+  </tr>
+  <tr>
+    <td>Wavuma icounselling</td>
+    <td>☐Ewe (1)</td>
+    <td>☐Hayi (0)</td>
+  </tr>
+</table>
+{:.wide}
+
+### Mental Distress Tool (French)
+{:.table-caption .wide .page-break-before}
+
+**Troubles at afflictions psychologiques chez les Mamans – Outil d’Evaluation.**
+
+(Cette évaluation est indiquée uniquement dans les cas où il est possible d’aiguiller le patient vers les services de santé ou de soutien (infirmière en santé mentale, assistante sociale, ONG, docteur).
+
+Avant de procéder à l’évaluation, présentez l’objectif de cet outil dans les termes suivants: “Nous souhaitons mieux connaître toutes les femmes qui viennent en consultation ici, notamment leur état physique et mental.  Ceci nous aide à mieux adapter les soins que nous offrons. Est-ce-que vous êtes d’accord que je vous pose trois questions au sujet de votre état émotionnel ? Si oui, veuillez répondre ‘oui’ ou ‘non’ à chacune des questions.
+
+<table>
+  <tr>
+    <td>Est-ce que, pour la plupart des quinze derniers jours, vous n’avez pas pu vous empêcher d’être préoccupée, ou de réfléchir trop?</td>
+    <td>☐Oui (1)</td>
+    <td>☐Non (0)</td>
+  </tr>
+  <tr>
+    <td>Pour la plupart des derniers quinze jours, est ce que vous vous êtes sentie accablée, déprimée ou désespérée?</td>
+    <td>☐Oui (1)</td>
+    <td>☐Non (0)</td>
+  </tr>
+  <tr>
+    <td>Pour la plupart des derniers quinze jours, avez-vous pensé et planifié de vous automutiler ou vous suicider? (L’aiguillage est urgent si le patient répond avoir pensé ET planifié une action d’automutilation ou de suicide. Si les antécédents cliniques du patient font état d’une tentative précédente, l’aiguillage est nécessaire même si le patient a pensé mais pas planifié une action d’automutilation ou de tentative de suicide)</td>
+    <td>☐Oui (1)<br>*Aiguillage indiqué*</td>
+    <td>☐Non (0)</td>
+  </tr>
+  <tr>
+    <td rowspan="4">RESULTAT GLOBAL</td>
+    <td colspan="2">☐ 0</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 1</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 2 &gt; Aiguillage indiqué</td>
+  </tr>
+  <tr>
+    <td colspan="2">☐ 3 &gt; Aiguillage indiqué</td>
+  </tr>
+  <tr>
+    <td>Soins psychosociaux proposés</td>
+    <td>☐Oui (1)</td>
+    <td>☐Non (0)</td>
+  </tr>
+  <tr>
+    <td>Soins psychosociaux acceptés</td>
+    <td>☐Oui (1)</td>
+    <td>☐Non (0)</td>
+  </tr>
+</table>
+{:.wide}
 
 > ### Edinburgh Postnatal Depression Scale (EPDS) (English)
 > 

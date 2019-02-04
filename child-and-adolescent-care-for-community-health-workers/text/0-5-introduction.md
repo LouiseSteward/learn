@@ -18,41 +18,38 @@ title: Introduction
 {:.chapter-toc}
 
 Community Health Workers (CHWs) serve as a very important direct link between patients, communities and health services. As trusted on-the-ground support to community members, they therefore expand access to essential healthcare information as well as available treatment and prevention programmes.
-The Mothers and Baby Care for Community Health Workers course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging Community Health Workers in South Africa.
-The proven Perinatal Education Programme methodology of decentralised, small group, learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of Community Health Workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
-This group of topics from Mother and Baby Care for Community Health Workers includes:
+The *Child and Adolescent Care for Community Health Workers* course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging Community Health Workers in South Africa.
+The proven Perinatal Education Programme (PEP) methodology of decentralised, small group learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of Community Health Workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
+This group of topics from *Child and Adolescent Care for Community Health Workers* includes:
 
 1.  Growth and nutrition
 2.  Childhood HIV
-3.  Tuberculosis (TB) in children
+3.  Tuberculosis in children
 4.  Adolescent Care
 
-The Community Health Work modules included in this course book have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape, funded by the Small Projects Foundation.
+The modules included in this course book have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape, funded by the Small Projects Foundation.
 
 *Editor: Prof David Woods*
 
 ## Why decentralised learning? 
 
-Continuing education for health professionals traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health professionals’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
+Education for health professionals traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health professionals’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
 
-PEP developed the self-help, decentralised learning method in response to these problems and address the needs of all professional healthcare workers, especially those in under-resourced regions. Working closely with PEP, all Bettercare learning programmes follow this basic, proven learning methodology.
-A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, Bettercare learning programmes make your job simpler and easier. We provide the learning programme, you run the course. You can implement Bettercare learning programmes in your institution right now.
+PEP developed the self-help, decentralised learning method in response to these problems and address the needs of all professional healthcare workers, especially those in under-resourced regions. Working closely with PEP, all Bettercare learning programmes follow this learning methodology.
 
-Each chapter of a Bettercare learning programme contains the most relevant and up-to-date information health professionals rely on to provide excellent and appropriate care to their patients. Learning material is presented in a question-and-answer format. Each chapter has a multiple-choice quiz consisting of 20 questions. Usersfore studying a chapter to identify gaps in knowledge  and to test their learning at the end of each chapter.
+A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, Bettercare learning programmes make your job simpler and easier. We provide the learning programme, you run the course. You can implement Bettercare learning programmes in your institution right now. This method and approach has been adapted for community health workers. 
+
+Each chapter of a Bettercare learning programme contains the most relevant and up-to-date information health workers rely on to provide excellent and appropriate care. Learning material is presented in a question-and-answer format. Each chapter has a multiple-choice quiz consisting of 10 questions. Each quiz should used before studying a chapter to identify gaps in knowledge and again to test their learning at the end of each chapter.
 
 Participants study one chapter at a time on their own and then meet colleagues to discuss what they have learned. The formation of study groups encourages co-operative learning where colleagues share their knowledge and understanding. While the role of a facilitator can be useful, a formal teacher is not needed. The question-and-answer method makes learning effective and enjoyable.
 
-There is no need to wait for acceptance to a centralised training programme. Manage your own continuing education and invite your colleagues to join you. Bettercare learning programmes have helped thousands of nurses, midwives, doctors and students increase their knowledge, boost their confidence, and improve patient care.
+There is no need to wait for acceptance to a centralised training programme. Manage your own continuing education and invite your colleagues to join you. Bettercare learning programmes have helped community health workers, nurses, midwives, doctors and students increase their knowledge, boost their confidence, and improve patient care.
 
 ## Bettercare Online Learning Station
 
-The Bettercare Learning Station is a simple website that can be used on tablets, computers or phones. It can also be set up as a dedicated touchscreen Learning Station in your institution. The material on the Learning Station is always the most up-to-date, and includes the full course content and the multiple-choice quizzes for each chapter.
+The Bettercare Learning Station is a simple website that can be used on tablets, computers or cellphones. The material on the Learning Station is always the most up-to-date, and includes the full course content and the multiple-choice quizzes for each chapter.
 
-The Learning Station is freely accessible online and includes all of the current Bettercare courses. All students are able to make use of this to supplement their studies. Students using Bettercare books can benefit from video clips addressing diagnosis and management which are attached to some of the chapters on the website.
-
-By registering on the Learning Station site, students can also complete the multiple-choice chapter quizzes. Registering is free, quick and only requires a cellphone number or email address and a password. On completing each quiz, users receive their results and advice on where they may have gone wrong. At the bottom of the results page, each user will have the option to submit their results for development points.
-
-This methodology allows users control over their studies without feeling as though they are being watched. Users can submit their results only when feel they have mastered a section, empowering them with learning skills and encouraging self-motivation. The Bettercare Learning Station privacy policy includes the clause that only information which users have agreed to make available may be used to generate reports.
+The Learning Station is freely accessible online and includes all of the current Bettercare courses. All students are able to make use of this to supplement their studies.
 
 You can access the learning station here: [www.bettercare.co.za/learn](http://www.bettercare.co.za/learn)
 
@@ -77,18 +74,15 @@ Each question is identified with the number of the chapter, followed by the numb
 
 > Important practical lessons are emphasised like this.
 
-Note
-:   Additional, non-essential information is provided for interest and given in notes like this. These facts are not used in the case studies or included in the multiple-choice questions.
-
 ### Case studies
 
 Each chapter closes with a few case studies which encourage the participant to consolidate and apply what was learned in the chapter. These studies give the participant an opportunity to see the problem as it usually presents itself in the clinic or hospital and integrate their new theoretical knowledge into practice. The participant should attempt to answer each question in the case study before reading the correct answer.
 
 ### Bettercare quizzes and examinations
 
-Self-evaluation is the most important part of learning. For every chapter, participants take a short self-quiz before and after studying each chapter. This way participants can see their knowledge improve and can address specific weaknesses.
+Self-evaluation is the most important part of learning. For every chapter, participants take a short quiz before and after studying each chapter. This way participants can see their knowledge improve and can address specific weaknesses.
 
-Quizzes are included in all our printed books and ebooks. Participants can take them for free on our Learning Station.
+Quizzes are included in all our printed books and eBooks. Participants can take them for free on our Learning Station.
 
 Bettercare also offers a final examination for each book. Participants need to achieve at least 80% in the final examination in order to successfully complete the learning programme. Successful candidates will be sent a digital certificate stating that they have successfully completed that learning programme.
 
@@ -113,7 +107,7 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 ### Support
 
-Please contact us if you would like to know which learning programmes are available in print, ebook or online format. A list is available on [www.bettercare.co.za/learning-programmes](http:/www.bettercare.co.za/learning-programmes).
+Please contact us if you would like to know which learning programmes are available in print, eBook or online format. A list is available on [www.bettercare.co.za/learning-programmes](http:/www.bettercare.co.za/learning-programmes).
 
 For information on learning programmes pending funding for development, publication and addition to the free online Learning Station, please email us at info@bettercare.co.za.
 
