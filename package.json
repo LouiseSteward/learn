@@ -30,7 +30,7 @@
     "gulp-mathjax-page": "^1.1.0",
     "gulp-newer": "^1.4.0",
     "gulp-rename": "^1.4.0",
-    "gulp-responsive-images": "github:electricbookworks/gulp-responsive-images",
+    "gulp-responsive-images": "git+https://github.com/electricbookworks/gulp-responsive-images.git",
     "gulp-svgmin": "^1.2.4",
     "gulp-uglify": "^3.0.1",
     "gulp-watch": "^5.0.1",
