@@ -104,7 +104,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	The average mid-year population estimates over 5 years are used
 	+	Every household is visited to collect information
 	- 	Randomly selected members of the public are contacted by cell phone
-20.		Which of the following data sources provides the expected population size for each year?
+20. Which of the following data sources provides the expected population size for each year?
 	+	Mid-year population estimates
 	- 	The general household survey
 	- 	The census
