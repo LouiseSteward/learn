@@ -403,6 +403,10 @@ blockquote.figure {
             }
         }
     }
+    // Show subheads when there are part pages
+    .toc-entry-title.toc-entry-part-page > ol > li {
+        display: block;
+    }
 }
 
 // Static tests pages
