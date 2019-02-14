@@ -664,6 +664,20 @@ ol li .figure, ul li .figure {
 .contents-page {
     li {
         hyphens: manual;
+        &.toc-entry-part-page {
+            margin-top: $line-height-default;
+            font-weight: bold;
+            font-family: $font-text-secondary;
+            & > ol:first-of-type {
+                // margin-top: $line-height-default;
+                margin-left: 0;
+                padding-left: 0;
+            }
+            li, a::after {
+                font-weight: normal;
+                font-family: $font-text-main;
+            }
+        }
     }
 }
 
