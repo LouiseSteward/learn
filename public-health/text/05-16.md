@@ -114,9 +114,10 @@ Systems thinking in public health. D Bishai and L Paina, Johns Hopkins Universit
 Open2Study. Emergency management. J Mitchell, Massey University.
 
 ## A holistic patient assessment and management using the ICF framework
-{:.page-break-before}
+{:.page-break-before .wide}
 
 **Diagnosis**: 55 year old female – left above knee amputation (AKA) 1 month ago, lives in an informal settlement
+{:.wide}
 
 <table>
   <tr>
