@@ -24,26 +24,26 @@
 $edition-suffix: null !default;
 
 // First, we set several variables related to overall page setup.
-$page-width: 210mm !default;
-$page-height: 297mm !default;
-$margin-top: 20mm !default;
-$margin-bottom: 20mm !default;
-$margin-outside: 20mm !default;
-$margin-inside: 20mm !default;
+$page-width: 148mm;
+$page-height: 210mm;
+$margin-top: 20mm;
+$margin-bottom: 12mm;
+$margin-outside: 10mm;
+$margin-inside: 20mm;
 $bleed: 0 !default;
 $trim: 0 !default;
 $crop-marks: none !default; // crop | none
 
 // Colours
 $colorspace: rgb !default; // auto | none | rgb | cmyk | gray
-$color-text-main: cmyk(0,0,0,1) !default;
-$color-text-secondary: cmyk(0,0,0,0.8) !default;
-$color-background: white !default;
-$color-light: cmyk(0,0,0,0.2) !default;
-$color-mid: cmyk(0,0,0,0.4) !default;
-$color-accent: cmyk(0,0,0,1) !default;
-$color-links: inherit !default;
-$color-highlight: #ffd54d !default;
+$color-text-main: cmyk(0,0,0,1);
+$color-text-secondary: cmyk(0,0,0,0.8);
+$color-background: white;
+$color-light: cmyk(0,0,0,0.2);
+$color-mid: cmyk(0,0,0,0.4);
+$color-accent: cmyk(0,0,0,1);
+$color-links: inherit;
+$color-highlight: #ffd54d;
 
 // PDF file setup options
 // Options for pdf-profile: PDF/A-1b, PDF/A-3b, PDF/X-1a:2001, PDF/X-1a:2003, PDF/X-3:2002, PDF/X-3:2003, PDF/X-4
@@ -63,21 +63,21 @@ $black-ink: true !default; // true or rich (true for pure black or rich for rich
 // Using prince-no-fallback triggers a warning and aborts PDF creation
 // if any glyphs are not found in the specified font, instead of switching to another one.
 // This is recommended for books where perfect reproduction among users is important.
-$font-text-main: "Crimson", prince-no-fallback !default;
-$font-text-secondary: "Source Sans Pro", prince-no-fallback !default;
-$font-display-main: "Source Sans Pro", prince-no-fallback !default;
-$font-display-secondary: "Crimson", prince-no-fallback !default;
-$font-code: "Ubuntu Mono", prince-no-fallback !default;
+$font-text-main: "Crimson", "DejaVu Serif", "DejaVu Math", prince-no-fallback;
+$font-text-secondary: "Source Sans Pro", "DejaVu Sans", "DejaVu Math", prince-no-fallback;
+$font-display-main: "Source Sans Pro", "DejaVu Sans", prince-no-fallback;
+$font-display-secondary: "Crimson", "DejaVu Serif", prince-no-fallback;
+$font-code: "Ubuntu Mono", "DejaVu Mono", prince-no-fallback;
 
 // Finally, we set variables related to text flow.
-$font-size-default: 12pt !default;
-$line-height-default: 16pt !default; // Set in points. For consistent baselines, all other line heights and vertical spaces are based on this.
-$font-size-smaller: 0.8 !default; // How much smaller than font-size-default for features like sidenotes and footers?
-$font-size-bigger: 2 !default; // How many times bigger than font-size-default for features like headings and pullquotes? Use whole numbers to preserve baseline grid.
-$text-align: justify !default; // left or right or inside or outside or justify or center
-$orphans: 1 !default; // Minimum number of lines that must be left at the bottom of the first page
-$widows: 1 !default; // Minimum number of lines that must be left at the top of the second page
-$letter-spacing-text: 0em !default; // Default letter-spacing for p, ul, ol, dl. Set in ems, e.g. 0.01em for 10/1000s of an em.
+$font-size-default: 9.5pt;
+$line-height-default: 13pt; // Set in points. For consistent baselines, all other line heights and vertical spaces are based on this.
+$font-size-smaller: 0.8; // How much smaller than font-size-default for features like sidenotes and footers?
+$font-size-bigger: 2; // How many times bigger than font-size-default for features like headings and pullquotes? Use whole numbers to preserve baseline grid.
+$text-align: left; // left or right or inside or outside or justify or center
+$orphans: 2; // Minimum number of lines that must be left at the bottom of the first page
+$widows: 2; // Minimum number of lines that must be left at the top of the second page
+$letter-spacing-text: 0em; // Default letter-spacing for p, ul, ol, dl. Set in ems, e.g. 0.01em for 10/1000s of an em.
 
 // Do you want space between paragraphs, rather than a text-indent? true or false
 $spaced-paras: false !default;
@@ -87,12 +87,12 @@ $button-border-radius: 0.1em !default; // Roundness of button corners.
 
 // Hyphenation
 // Variables here apply to p, ul, ol, dl
-$hyphenation: auto !default; // Can be auto, none, or manual (only breaks on hyphens and soft hyphens)
-$hyphenation-dictionary: "" !default; // Path to dictionary file, relative to `/book/styles`. E.g. "../../assets/hyph.dic". Overrides PrinceXML built-in hyphenation.
-$hyphenation-custom: add !default; // add or replace. Whether your dictionary adds to or replaces the built-in Prince dictionaries
-$hyphenate-after: 3 !default; // Minimum letters on new line after hyphen
-$hyphenate-before: 3 !default; // Minimum letters at end of line before hyphen
-$hyphenate-lines: 2 !default; // Preferred maximum number of consecutive lines ending with hyphens
+$hyphenation: manual; // Can be auto, none, or manual (only breaks on hyphens and soft hyphens)
+$hyphenation-dictionary: ""; // Path to dictionary file, relative to `/book/styles`. E.g. "../../assets/hyph.dic". Overrides PrinceXML built-in hyphenation.
+$hyphenation-custom: add; // add or replace. Whether your dictionary adds to or replaces the built-in Prince dictionaries
+$hyphenate-after: 3; // Minimum letters on new line after hyphen
+$hyphenate-before: 3; // Minimum letters at end of line before hyphen
+$hyphenate-lines: 2; // Preferred maximum number of consecutive lines ending with hyphens
 
 // Text dividers
 // For breaks created with *** in markdown.
@@ -101,12 +101,12 @@ $text-divider: "" !default; // Empty leaves space. \2022 is a bullet
 // Should chapters start on a right-hand page (recto) or on any page?
 // This setting applies to the frontmatter, dedication-page, epigraph-page and chapter page styles.
 // (The halftitle-page, title-page and contents-page page styles always start on a recto.)
-$start-on: right !default; // right or auto or left ()
+$start-on: auto; // right or auto or left ()
 
 // Set the default start-depth of pages.
 // This is the distance from the top of the page to the first element on the first page.
 // Set it in multiples of $line-height-default to preserve your baseline grid.
-$start-depth: $line-height-default * 6 !default;
+$start-depth: 0;
 
 // Style of page numbers on frontmatter pages
 // Remember to tag links to front matter pages in your TOC with {:.frontmatter-reference}
@@ -129,57 +129,57 @@ $frontmatter-reference-style: lower-roman !default; // lower-roman, decimal, see
 // * For other special characters, see CSS (ISO) at https://brajeshwar.github.io/entities/
 
 // Verso (left-hand-page)
-$verso-top: string(page-header) !default;
-$verso-top-left: normal !default;
-$verso-top-right: normal !default;
-$verso-top-left-corner: normal !default;
-$verso-top-right-corner: normal !default;
-$verso-bottom: counter(page) !default;
-$verso-bottom-left: normal !default;
-$verso-bottom-right: normal !default;
-$verso-bottom-left-corner: normal !default;
-$verso-bottom-right-corner: normal !default;
+$verso-top: string(h1-title, last);
+$verso-top-left: counter(page);
+$verso-top-right: normal;
+$verso-top-left-corner: normal;
+$verso-top-right-corner: normal;
+$verso-bottom: normal;
+$verso-bottom-left: normal;
+$verso-bottom-right: normal;
+$verso-bottom-left-corner: normal;
+$verso-bottom-right-corner: normal;
 
 // Recto (right-hand-page)
-$recto-top: string(h2-text, last) !default;
-$recto-top-left: normal !default;
-$recto-top-right: normal !default;
-$recto-top-left-corner: normal !default;
-$recto-top-right-corner: normal !default;
-$recto-bottom: counter(page) !default;
-$recto-bottom-left: normal !default;
-$recto-bottom-right: normal !default;
-$recto-bottom-left-corner: normal !default;
-$recto-bottom-right-corner: normal !default;
+$recto-top: string(h2-text, last);
+$recto-top-left: normal;
+$recto-top-right: counter(page);
+$recto-top-left-corner: normal;
+$recto-top-right-corner: normal;
+$recto-bottom: normal;
+$recto-bottom-left: normal;
+$recto-bottom-right: normal;
+$recto-bottom-left-corner: normal;
+$recto-bottom-right-corner: normal;
 
 // Verso (left-hand-page) for .frontmatter pages (`style: frontmatter`)
-$verso-top-frontmatter: string(page-header) !default;
-$verso-top-left-frontmatter: normal !default;
-$verso-top-right-frontmatter: normal !default;
-$verso-top-left-corner-frontmatter: normal !default;
-$verso-top-right-corner-frontmatter: normal !default;
-$verso-bottom-frontmatter: counter(page, $frontmatter-reference-style) !default;
-$verso-bottom-left-frontmatter: normal !default;
-$verso-bottom-right-frontmatter: normal !default;
-$verso-bottom-left-corner-frontmatter: normal !default;
-$verso-bottom-right-corner-frontmatter: normal !default;
+$verso-top-frontmatter: string(h1-title, last);
+$verso-top-left-frontmatter: counter(page, $frontmatter-reference-style);
+$verso-top-right-frontmatter: normal;
+$verso-top-left-corner-frontmatter: normal;
+$verso-top-right-corner-frontmatter: normal;
+$verso-bottom-frontmatter: normal;
+$verso-bottom-left-frontmatter: normal;
+$verso-bottom-right-frontmatter: normal;
+$verso-bottom-left-corner-frontmatter: normal;
+$verso-bottom-right-corner-frontmatter: normal;
 
 // Recto (right-hand-page) for .frontmatter pages (`style: frontmatter`)
-$recto-top-frontmatter: string(h2-text, last) !default;
-$recto-top-left-frontmatter: normal !default;
-$recto-top-right-frontmatter: normal !default;
-$recto-top-left-corner-frontmatter: normal !default;
-$recto-top-right-corner-frontmatter: normal !default;
-$recto-bottom-frontmatter: counter(page, $frontmatter-reference-style) !default;
-$recto-bottom-left-frontmatter: normal !default;
-$recto-bottom-right-frontmatter: normal !default;
-$recto-bottom-left-corner-frontmatter: normal !default;
-$recto-bottom-right-corner-frontmatter: normal !default;
+$recto-top-frontmatter: string(h2-text, last);
+$recto-top-left-frontmatter: normal;
+$recto-top-right-frontmatter: counter(page, $frontmatter-reference-style);
+$recto-top-left-corner-frontmatter: normal;
+$recto-top-right-corner-frontmatter: normal;
+$recto-bottom-frontmatter: normal;
+$recto-bottom-left-frontmatter: normal;
+$recto-bottom-right-frontmatter: normal;
+$recto-bottom-left-corner-frontmatter: normal;
+$recto-bottom-right-corner-frontmatter: normal;
 
 // Special highlights for temporary debugging/viewing:
 // Specify a colour for highlighting; use 'inherit' for none.
-$highlight-tightened: inherit !default;
-$highlight-loosened: inherit !default;
+$highlight-tightened: inherit;
+$highlight-loosened: inherit;
 
 // ---------------------------------
 // Set to false to turn partials off
@@ -241,7 +241,97 @@ $print-page-headers-footers-style: true !default; // Sets styling for headers an
 // Import font files (@font-face) for fonts you specify
 // ----------------------------------------------------
 
-// Default font-face rules added by print-font-faces partial below.
+// Crimson, Source Sans Pro, Ubuntu Mono loaded by print-font-faces partial
+
+/* Open Sans Condensed https://fonts.google.com/specimen/Open+Sans+Condensed */
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../../assets/fonts/OpenSans-CondLight.ttf);
+}
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../../assets/fonts/OpenSans-CondBold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../../assets/fonts/OpenSans-CondLightItalic.ttf);
+    font-style: italic;
+}
+
+/* DejaVu https://dejavu-fonts.github.io */
+@font-face {
+    font-family: "DejaVu Serif";
+    src: url(../../assets/fonts/DejaVuSerif.ttf);
+}
+@font-face {
+    font-family: "DejaVu Serif";
+    src: url(../../assets/fonts/DejaVuSerif-Italic.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "DejaVu Serif";
+    src: url(../../assets/fonts/DejaVuSerif-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "DejaVu Serif";
+    src: url(../../assets/fonts/DejaVuSerif-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* DejaVu https://dejavu-fonts.github.io */
+@font-face {
+    font-family: "DejaVu Sans";
+    src: url(../../assets/fonts/DejaVuSans.ttf);
+}
+@font-face {
+    font-family: "DejaVu Sans";
+    src: url(../../assets/fonts/DejaVuSans-Oblique.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "DejaVu Sans";
+    src: url(../../assets/fonts/DejaVuSans-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "DejaVu Sans";
+    src: url(../../assets/fonts/DejaVuSans-BoldOblique.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* DejaVu https://dejavu-fonts.github.io */
+@font-face {
+    font-family: "DejaVu Mono";
+    src: url(../../assets/fonts/DejaVuSansMono.ttf);
+}
+@font-face {
+    font-family: "DejaVu Mono";
+    src: url(../../assets/fonts/DejaVuSansMono-Oblique.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "DejaVu Mono";
+    src: url(../../assets/fonts/DejaVuSansMono-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "DejaVu Mono";
+    src: url(../../assets/fonts/DejaVuSansMono-BoldOblique.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* DejaVu Math https://dejavu-fonts.github.io */
+@font-face {
+    font-family: "DejaVu Math";
+    src: url(../../assets/fonts/DejaVuMathTeXGyre.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
 
 // ---------------------
 // Import theme partials
@@ -298,3 +388,399 @@ $print-page-headers-footers-style: true !default; // Sets styling for headers an
 @import "partials/print-reset-sequences"; // Resets p indents, margins after other elements. Must be last @import in list.
 @import "partials/print-page-headers-footers-content"; // Sets content for headers and footers
 @import "partials/print-page-headers-footers-style"; // Sets styling for headers and footers
+
+// Series styles
+
+// --------------------------------------------------------
+// Custom variables
+
+$column-width: (($page-width - $margin-inside - $margin-outside) / 2) - $line-height-default;
+
+// --------------------------------------------------------
+// Page styles
+
+.frontmatter,
+.chapter {
+    columns: 2;
+}
+.part-page {
+    page: part-page;
+    page-break-before: right;
+    margin-top: $line-height-default * 10;
+    h1 {
+        line-height: 1.1;
+        strong:first-of-type {
+            color: white;
+            display: block;
+            font-weight: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-size: $font-size-default * 1.5;
+            margin: 0 0 $line-height-default 0; // override inherited from usual h1 styles
+        }
+    }
+}
+@page part-page {
+    background-color: $color-mid;
+}
+
+// --------------------------------------------------------
+// Base typography
+
+h1 {
+    column-span: all;
+    strong:first-of-type {
+        color: $color-mid;
+        display: inline-block;
+        margin-right: $line-height-default;
+    }
+}
+
+// Key concept boxes
+// We use the blockquote element for key-concept boxes
+blockquote {
+    clear: both;
+    font-family: $font-text-secondary;
+    background-color: $color-mid;
+    font-weight: 600;
+    color: white;
+    padding: ($line-height-default / 2);
+    border-radius: $button-border-radius;
+    margin: $line-height-default 0;
+    page-break-inside: avoid;
+}
+
+// Definition lists
+// We use the dl element for notes
+
+dl {
+    font-family: $font-text-secondary;
+    // color: $color-mid;
+    font-size: $font-size-default * 0.9;
+    font-weight: 300;
+}
+// The word 'NOTE'
+dt {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    page-break-after: avoid;
+}
+// Tables inside notes
+dd .table-caption {
+    margin-top: $line-height-default;
+}
+
+// --------------------------------------------------------
+// Tables
+
+table {
+    font-family: $font-text-secondary;
+    margin: $line-height-default 0;
+    font-size: $font-size-default * 0.8;
+}
+thead, th {
+    font-weight: 600;
+}
+th, td {
+    vertical-align: top;
+    border-top: 0.5pt solid $color-mid;
+    border-bottom: 0.5pt solid $color-mid;
+    border-left: 0.5pt dotted $color-light;
+    border-right: 0.5pt dotted $color-light;
+    padding: ($line-height-default * 0.15) ($line-height-default * 0.3);
+    page-break-inside: avoid;
+    p {
+        margin: 0;
+        padding: 0;
+    }
+}
+thead, th, .table-subhead {
+    page-break-after: avoid;
+    background-color: #F2F2F2;
+    line-height: 120%;
+}
+.table-caption {
+    page-break-after:avoid;
+    font-style: italic;
+    em {
+        font-style: normal;
+    }
+}
+.table-row-stub {
+    font-weight: 600;
+}
+
+// --------------------------------------------------------
+// Figures
+// Legacy styling from old versions.
+// We use the blockquote element to wrap figures and their captions in valid XHTML. 
+// Use the .figure class for the blockquote wrapping an image and a caption.
+// Add .fixed, .small and/or .large for layout and size options.
+
+blockquote.figure, div.figure {
+    clear: both;
+    float: bottom;
+    // float: column-bottom;
+    page-break-inside: avoid;
+    background-color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    color: inherit;
+    border: 0.5pt solid $color-mid;
+    border-radius: $button-border-radius;
+    margin: $line-height-default 0 $line-height-default 0;
+    padding: $line-height-default * 0.5;
+    width: 100%;
+    box-sizing: border-box;
+}
+.fixed, .figure.fixed {
+    clear: both;
+    float: none; /* For figures that must keep their position in the text flow, not float to the top of the page. */
+}
+.figure p {
+    clear: both;
+    page-break-inside: avoid;
+    page-break-before: avoid;
+    text-align: center;
+}
+.figure p img {
+    width: auto;
+    max-height: 150mm;
+    max-width: 100%;
+    margin: 0 auto ($line-height-default * 0.5) auto;
+}
+.figure p:nth-child(2) {
+    padding: ($line-height-default * 0.5) 0 0 0;
+    border-top: 0.5pt dashed $color-mid;
+    text-align: left;
+}
+.figure.x-small p img {
+    width: auto;
+    max-height: $line-height-default * 5;
+}
+.figure.small p img {
+    width: auto;
+    max-height: $line-height-default * 8;
+}
+.figure.medium p img {
+    width: auto;
+    max-height: $line-height-default * 10;
+}
+.figure.large {
+    float: none;
+    page-break-before: always;
+}
+.figure.large img {
+    max-height: $line-height-default * 28;
+    max-width: 100%;
+    width: auto;
+}
+.figure.column-width {
+    column-span: 1;
+    float: column-bottom;
+    max-width: $column-width;
+    &.fixed {
+        float: none;
+    }
+}
+// Experimental. Effectively overrides 'unless-fit'
+// to reduce ugly instances of indented images in lists
+// beside floated, non-indented images.
+ol li .figure, ul li .figure {
+    &.fixed {
+        width: $column-width;
+        margin-left: -($line-height-default);
+    }
+}
+
+// .wide can be used for figures or other elements
+.wide {
+    column-span: all;
+    &.figure {
+        // float: bottom; // rather than the default column-bottom
+        table {
+            column-span: all;
+        }
+    }
+}
+
+  // These classes set the height of any element relative to the $line-height-default.
+  // Especially useful for controlling the height of images to retain a baseline grid.
+  // $line-height-default should be set in a non-relative unit, like points,
+  // otherwise you'll get exponential differences in height.
+  @for $i from 1 through 100 {
+    $height: $i * $line-height-default;
+    .figure-image-height-#{$i}#{$edition-suffix} img {
+      height: $height;
+    }
+  }
+
+.figure-gallery {
+    .figure {
+        display: inline-block;
+    }
+}
+
+// --------------------------------------------------------
+// Images
+.logo {
+    max-width: $line-height-default * 10;
+}
+
+// --------------------------------------------------------
+// Title page
+
+.title-page {
+    .titlepage-title {
+        font-size: $font-size-default * 3;
+        font-weight: 700;
+        font-family: $font-text-secondary;
+        margin: ($line-height-default * 6) 0 $line-height-default 0;
+        line-height: 100%;
+    }
+    .titlepage-subtitle {
+        font-size: $font-size-default * 2.5;
+        font-weight: 300;
+        font-family: $font-text-secondary;
+        margin: 0 0 $line-height-default 0;
+        line-height: 110%;
+    }
+    .titlepage-author {
+        font-size: $font-size-default * 1.5;
+        line-height: 120%;
+        margin: 0 0 $line-height-default 0;
+    }
+    .titlepage-logo {
+        max-width: $line-height-default * 10;
+        position: absolute;
+        bottom: 0;
+    }
+}
+
+// --------------------------------------------------------
+// Tables of contents
+
+.contents-page {
+    li {
+        hyphens: manual;
+    }
+}
+
+.toc-list {
+    .toc-entry-title {
+        &:last-of-type {
+            page-break-before: auto; // overrides default for lists
+        }
+    }
+    .toc-entry-text {
+        strong:first-child {
+            font-weight: inherit;
+        }
+    }
+}
+
+// Chapter TOCs are only for the web
+.chapter-toc {
+    display: none;
+}
+
+// --------------------------------------------------------
+// Tests
+
+.test {
+    column-fill: auto; /* Better than balance because our groups of MCQs keep together */
+    h1, h2 {
+        margin-bottom: $line-height-default * 2;
+    }
+    ul, ol {
+        // The question
+        li {
+            margin-bottom: $line-height-default;
+            font-weight: bold;
+            page-break-inside: avoid;
+            &:first-of-type {
+                // page-break-after: avoid;
+            }
+            &:last-of-type {
+                // page-break-before: avoid;
+            }
+            // The answer options
+            li {
+                page-break-inside: avoid;
+                page-break-before: avoid;
+                list-style-type: lower-alpha;
+                margin: 0;
+                font-weight: normal;
+                &:first-of-type {
+                    page-break-before: auto;
+                }
+            }
+        }
+    }
+    // Useful when using inspect to show all correct answers,
+    // hidden by default
+    .correct-answer {
+        display: none;
+        border: 1px solid #f2f2f2;
+        padding: ($line-height-default * 0.1) ($line-height-default * 0.3);
+        border-radius: $button-border-radius;
+        margin: 0 0 0 ($line-height-default * 0.5);
+    }
+}
+
+// --------------------------------------------------------
+// Answers
+
+.answers {}
+
+// --------------------------------------------------------
+// Layout fixes
+
+// Legacy classes to control tracking, usually to save widows and orphans.
+// More accurate to use 'tighten-n' where n is thousandths of an em.
+.tight {
+    letter-spacing: ($letter-spacing-text) - 0.0075em;
+    word-spacing: ($letter-spacing-text) - 0.0075em;
+}
+.x-tight {
+    letter-spacing: ($letter-spacing-text) - 0.01em;
+    word-spacing: ($letter-spacing-text) - 0.01em;
+}
+.loose {
+    letter-spacing: ($letter-spacing-text) + 0.0075em;
+    word-spacing: ($letter-spacing-text) + 0.0075em;
+}
+.x-loose {
+    letter-spacing: ($letter-spacing-text) + 0.01em;
+    word-spacing: ($letter-spacing-text) + 0.01em;
+}
+
+// This is useful for wide tables, but avoid wherever possible.
+.shrink {
+    font-size: 0.7em;
+    font-family: "Open Sans Condensed", prince-no-fallback;
+}
+
+// Save a line (use sparingly!)
+// Create save-1 through save-10
+@for $i from 0 through 10 {
+    .save-#{$i} {
+        margin-top: -($line-height-default * $i);
+    }
+}
+@for $i from 0 through 10 {
+    .add-#{$i} {
+        padding-top: ($line-height-default * $i);
+    }
+}
+@for $i from 0 through 20 {
+    .add-lines-#{$i} {
+        padding-bottom: ($line-height-default * $i);
+    }
+}
+@for $i from 0 through 20 {
+    .space-below-#{$i} {
+        margin-bottom: ($line-height-default * $i);
+    }
+}
