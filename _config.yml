@@ -143,6 +143,7 @@ exclude:
 # - perinatal-hiv
 # - primary-maternal-care
 # - primary-newborn-care
+# - public-health
 # - samples
 # - saving-mothers-and-babies
 # - womens-health-care
@@ -173,6 +174,7 @@ keep_files:
 # - perinatal-hiv
 # - primary-maternal-care
 # - primary-newborn-care
+# - public-health
 # - samples
 # - saving-mothers-and-babies
 # - womens-health-care
