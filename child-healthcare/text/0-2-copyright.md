@@ -9,13 +9,13 @@ style: copyright-page
 
 First published in 2007 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Updated August 2007, January 2015 (layout).
+Updated August 2007, January 2015 (layout), February 2019.
 
 Text © Perinatal Education Trust 2007  
 
 ISBN (paperback): 978-1-920218-01-0  
-ISBN (international paperback edition): 978-1-717895-17-2 
-ISBN (reflowable ebook): 978-1-920218-95-9
+ISBN (international paperback edition): 978-1-717895-17-2  
+ISBN (reflowable ebook): 978-1-920218-95-9  
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 

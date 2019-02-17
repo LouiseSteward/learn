@@ -29,16 +29,16 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Only important if it was written by a doctor.
 	-	Useful documentation to keep in the patient’s folder.
 	+	Helpful in drawing your attention to the presenting problem.
-5.	The Road-to-Health Card should be asked for:
+5.	The Road-to-Health Booklet should be asked for:
 	-	Only at an immunisation clinic.
 	-	At all clinic visits but not at a hospital visits.
 	-	Only when the child is seen by a nurse.
-	+	Always look at the Road-to-Health Card when a child attends any clinic or hospital.
+	+	Always look at the Road-to-Health Booklet when a child attends any clinic or hospital.
 6.	Knowing the child’s age is important because:
 	-	A doctor rather than a nurse should see all children under 3 months of age.
 	+	An accurate age is needed to plot the child’s weight on the growth chart.
 	-	Head circumference should be routinely measured in all children older than 2 years.
-	-	Notes should be recorded in the Road-to-Health Card only in children younger than 2 years.
+	-	Notes should be recorded in the Road-to-Health Booklet only in children younger than 2 years.
 7.	How should you measure a child’s temperature?
 	+	The axillary temperature is best in young children.
 	-	The oral temperature should be recorded in all children.

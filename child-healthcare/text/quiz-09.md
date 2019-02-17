@@ -19,7 +19,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Rarely it may infect the infant during labour and delivery.
 	-	Children may be infected when bitten by ticks, fleas or mosquitoes.
 	+	The infant may be infected with HIV during pregnancy, labour or delivery.
-3.	What is the risk of mother-to-child transmission if the woman is infected with HIV?
+3.	What is the risk of mother-to-child transmission if the woman is infected with HIV and antiretroviral prophylaxis is not used?
 	-	5–10%.
 	-	10–15%.
 	+	20–35%.
@@ -49,10 +49,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	20–25%.
 	-	15–19%.
 	-	Below 15%.
-9.	What drug or drugs are used for prophylactic treatment to reduce the risk of mother-to-child transmission of HIV?
+9.	What drug or drugs are used in newborn infants for prophylactic treatment to reduce the risk of mother-to-child transmission of HIV?
 	-	Co-trimoxazole.
 	+	AZT and nevirapine.
-	-	Kaletra.
+	-	Lopinavir/ritonavir.
 	-	INH and rifampicin.
 10.	All HIV positive children should receive:
 	+	Vitamin A.
@@ -89,11 +89,11 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Acne.
 	+	Pruritic papular urticaria (itchy bump disease).
 	-	Erythema toxicum.
-17.	First line antiretroviral treatment of children includes:
+17.	First line antiretroviral treatment of older children includes:
 	-	AZT.
 	+	3TC.
-	-	DDI.
-	-	ABC.
+	-	Lopinavir/ritonavir.
+	-	Nevirapine.
 18.	How many drugs are usually used when giving antiretroviral treatment?
 	-	1
 	-	2

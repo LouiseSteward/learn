@@ -47,7 +47,7 @@ Please choose the *one*, most correct answer to each question or statement.
 8.	What is the estimated under-5 mortality rate in South Africa?
 	-	15
 	-	30
-	+	70
+	+	40
 	-	90
 9.	Which childhood deaths should be notified?
 	+	All childhood deaths.
