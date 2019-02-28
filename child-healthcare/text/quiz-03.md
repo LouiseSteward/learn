@@ -79,7 +79,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Both weight and height above the + 2 line.
 	-	Height but not head circumference above the + 1 line.
 	-	Weight, height and head circumference above the 0 line.
-15.	When is an under 5 year old child wasted?
+15.	When is an under-5 year old child wasted?
 	-	When the weight is below the -2 line.
 	-	When the weight for height is below the –1 line.
 	+	When the mid-upper arm circumference is below 11.5 cm.

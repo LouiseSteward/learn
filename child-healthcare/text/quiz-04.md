@@ -59,7 +59,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Resuscitation.
 	-	Giving oral iron.
 	-	Treating intestinal parasites.
-11.	1.	What can be done to prevent malnutrition?
+11.	What can be done to prevent malnutrition?
 	+	Exclusively breast feed to the age of 6 months.
 	-	Add formula feeds from 3 months.
 	-	Add sugar to formula feeds.

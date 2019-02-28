@@ -54,7 +54,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	AZT and nevirapine.
 	-	Lopinavir/ritonavir.
 	-	INH and rifampicin.
-10.	All HIV positive children should receive:
+10.	All HIV-positive children should receive:
 	+	Vitamin A.
 	-	Vitamin C.
 	-	Prophylactic INH.
@@ -99,7 +99,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	2
 	+	3
 	-	4
-19.	What is important in the follow up care of HIV exposed infants?
+19.	What is important in the follow up care of HIV-exposed infants?
 	-	Giving HIV vaccine.
 	+	Monitoring growth carefully at each clinic visit.
 	-	Starting co-trimoxazole prophylaxis when the child reaches 12 months.

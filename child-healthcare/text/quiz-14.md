@@ -27,7 +27,7 @@ Please choose the *one*, most correct answer to each question or statement.
 4.	What factor at home may lead to emotional or behaviour problems?
 	+	Watching a lot of violence on television.
 	-	Drinking to many cool drinks.
-	-	Eating ‘junk food.’
+	-	Eating ‘junk food’.
 	-	Having a poorly educated father who is a labourer.
 5.	When should you consider child abuse?
 	+	When the history does not adequately explain the injury.
@@ -92,7 +92,7 @@ Please choose the *one*, most correct answer to each question or statement.
 17.	What is cerebral palsy?
 	-	A type of epilepsy.
 	-	Mental retardation.
-	+	A non-progressive motor disorder.
+	+	A non progressive motor disorder.
 	-	An emotional problem.
 18.	How should children with cerebral palsy be managed?
 	-	They should not go to school.

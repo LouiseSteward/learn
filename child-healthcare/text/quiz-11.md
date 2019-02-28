@@ -104,7 +104,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Prevent mosquito bites.
 	-	Only visit malaria regions in the rainy season.
 	-	Prevention is not needed for people who live in malaria regions as they rapidly become immune to malaria.
-20.	The recommended malaria prophylaxis for young children under 10 kg is:
+20.	The recommended malaria prophylaxis for young children under 10&nbsp;kg is:
 	+	Malanil (atovaquone plus proguanil).
 	-	Doxycycline.
 	-	Chloroquine.

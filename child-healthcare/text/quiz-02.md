@@ -48,7 +48,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Only in countries where polio is still a common problem.
 	-	Only to healthy term infants who are breastfed.
 	+	To both breastfed and bottle-fed infants.
-	-	Only if the parents ask for it.
+	-	Only if the parent or caregiver asks for it.
 9.	Oral polio immunisation should not be given to children:
 	-	Who are breastfed.
 	-	Who are malnourished.
@@ -71,7 +71,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	A mild fever and rash.
 13.	When should measles immunisation not be given?
 	-	To children who are underweight for age.
-	-	To healthy children who were born to an HIV positive mother.
+	-	To healthy children who were born to an HIV-positive mother.
 	-	To children with a cough and mild fever.
 	+	To children with untreated tuberculosis.
 14.	Hepatitis B vaccine should be given:

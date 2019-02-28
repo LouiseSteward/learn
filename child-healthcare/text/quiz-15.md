@@ -39,7 +39,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The number of private doctors in the country.
 	+	The health, nutrition and home environment of children.
 	-	The number of tertiary hospitals.
-7.	What is the under-5 mortality rate in most well resourced countries?
+7.	What is the under-5 mortality rate in most well-resourced countries?
 	-	Less than 5
 	+	Less than 10
 	-	Less than 50
@@ -57,11 +57,11 @@ Please choose the *one*, most correct answer to each question or statement.
 10.	When is the best time to record the clinical details after a child has died?
 	+	As soon as possible after the death.
 	-	When the patient’s hospital notes are summarised.
-	-	Only after the post mortem examination.
+	-	Only after the post-mortem examination.
 	-	Only after the death has been fully discussed.
 11.	What is the best way of determining the cause of childhood deaths?
 	-	A doctor should examine all dead children.
-	-	A post mortem examination should be done on all dead children.
+	-	A post-mortem examination should be done on all dead children.
 	+	All childhood deaths should be discussed at a mortality meeting.
 	-	All very ill children should be admitted to hospital to die.
 12.	What is the aim of mortality meetings?
