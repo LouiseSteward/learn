@@ -68,7 +68,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The shape of a child’s body.
 	-	The position of a child’s weight on a centile chart.
 	+	A line joining two size measurements on a growth chart.
-	-	A centile chart.
+	-	A measure of population increase as childhood mortality rate falls.
 13.	Most children double their birth weight by:
 	+	6 months.
 	-	9 months.

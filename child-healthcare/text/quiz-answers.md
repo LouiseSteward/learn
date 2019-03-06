@@ -68,12 +68,12 @@ Relearn the sections in brackets for questions you get wrong.
 12.	c	(3-23)
 13.	a	(3-26)
 14.	b	(3-33)
-15.	c	(3-35)
-16.	d	(3-37)
-17.	b	(3-39)
-18.	d	(3-40)
-19.	b	(3-44)
-20.	a	(3-45)
+15.	d	(3-35)
+16.	c	(3-37)
+17.	d	(3-39)
+18.	b	(3-40)
+19.	d	(3-44)
+20.	b	(3-45)
 
 ## Quiz 4: Nutrition
 

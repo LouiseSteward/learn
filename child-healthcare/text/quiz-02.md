@@ -92,7 +92,7 @@ Please choose the *one*, most correct answer to each question or statement.
 17.	Hib vaccine consists of:
 	-	Live hepatitis A virus.
 	+	Dead *Haemophilus influenzae*.
-	-	Attentuated Herpes B virus.
+	-	Weakened (attentuated) Herpes B virus.
 	-	Live influenza virus.
 18.	What is herd immunity?
 	+	A high level of immunity in the community.
