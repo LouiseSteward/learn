@@ -39,29 +39,29 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	In children under 36 months.
 	-	In children over 36 months.
 	-	In obese children.
-7.	What does the - 2 line mean?
-	+	Three percent of normal children will weigh less than the - 2 line.
-	-	The weight of every second child usually falls on the - 2 line.
-	-	Children with a weight less than the - 2 line are always wasted.
-	-	Obese children weigh more than the - 2 line.
+7.	What does the -2&nbsp;line mean?
+	+	Three percent of normal children will weigh less than the -2&nbsp;line.
+	-	The weight of every second child usually falls on the -2&nbsp;line.
+	-	Children with a weight less than the -2&nbsp;line are always wasted.
+	-	Obese children weigh more than the -2&nbsp;line.
 8.	A child’s weight is normal when:
-	-	It is above the + 2 line.
-	-	It is above the 0 line.
-	+	It is between the - 2 and + 2 lines.
-	-	It is below the - 2 line.
+	-	It is above the +2&nbsp;line.
+	-	It is above the 0&nbsp;line.
+	+	It is between the -2 and +2&nbsp;lines.
+	-	It is below the -2&nbsp;line.
 9.	A child is taller than normal when the height is
-	-	On the + 2 line.
-	+	Above the + 2 line.
-	-	Above the + 1 line.
-	-	Above the 0 line.
+	-	On the +2&nbsp;line.
+	+	Above the +2&nbsp;line.
+	-	Above the +1&nbsp;line.
+	-	Above the 0&nbsp;line.
 10.	A child’s head is small when the head circumference falls:
-	-	Below the + 1 line.
-	-	Below the 0 line.
-	-	Below the - 1 line.
-	+	Below the -2 line.
+	-	Below the +1&nbsp;line.
+	-	Below the 0&nbsp;line.
+	-	Below the -1&nbsp;line.
+	+	Below the -2&nbsp;line.
 11.	What is body mass index?
 	-	A large arm circumference.
-	-	Weight above the + 2 line.
+	-	Weight above the +2&nbsp;line.
 	+	A weight/height<sup>2</sup> ratio.
 	-	An increased abdominal circumference.
 12.	What is a growth curve?
@@ -75,35 +75,35 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	12 months.
 	-	18 months.
 14.	A large-for-age child has:
-	-	A weight but not height above the + 2 line.
-	+	Both weight and height above the + 2 line.
-	-	Height but not head circumference above the + 1 line.
-	-	Weight, height and head circumference above the 0 line.
+	-	A weight but not height above the +2&nbsp;line.
+	+	Both weight and height above the +2&nbsp;line.
+	-	Height but not head circumference above the +1&nbsp;line.
+	-	Weight, height and head circumference above the 0&nbsp;line.
 15.	When is an under-5 year old child wasted?
-	-	When the weight is below the -2 line.
-	-	When the weight for height is below the –1 line.
+	-	When the weight is below the -2&nbsp;line.
+	-	When the weight for height is below the –1&nbsp;line.
 	+	When the mid-upper arm circumference is below 11.5 cm.
-	-	When the body mass index is below the -1 line.
+	-	When the body mass index is below the -1&nbsp;line.
 16.	A child is stunted when:
-	-	The weight falls below the - 2 line.
-	-	The weight falls below the - 1 line.
-	+	The height falls below the - 2 line.
-	-	Height falls below the - 1 line.
+	-	The weight falls below the -2&nbsp;line.
+	-	The weight falls below the -1&nbsp;line.
+	+	The height falls below the -2&nbsp;line.
+	-	Height falls below the -1&nbsp;line.
 17.	What is the common growth pattern in poor communities?
 	-	Wasting.
 	-	Obesity.
 	-	Short stature alone (i.e. short) with a normal weight.
-	+	Weight and height both below the - 2 line.
+	+	Weight and height both below the -2&nbsp;line.
 18.	The puberty growth spurt:
 	-	Is earlier in boys than girls.
 	+	Is earlier in well nourished children.
 	-	Usually lasts for 5 years.
 	-	Usually starts at 13 years in girls.
 19.	An overweight child becomes obese when:
-	-	The weight crosses above the  + 2 line.
-	-	Both weight and length are above the + 1 line.
-	-	Body mass index is above the + 1 line.
-	+	Body mass index is above the + 2 line.
+	-	The weight crosses above the  +2&nbsp;line.
+	-	Both weight and length are above the +1&nbsp;line.
+	-	Body mass index is above the +1&nbsp;line.
+	+	Body mass index is above the +2&nbsp;line.
 20.	What is the best management of obesity?
 	-	A strict diet containing no fat.
 	+	A change in eating and lifestyle behaviour.

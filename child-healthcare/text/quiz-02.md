@@ -102,7 +102,7 @@ Please choose the *one*, most correct answer to each question or statement.
 19.	The vaccines at an immunisation clinic should be:
 	-	Kept warm.
 	-	Kept at room temperature.
-	+	Kept at 2–8 °C in a fridge.
+	+	Kept at 2–8&nbsp;°C in a fridge.
 	-	Frozen.
 20.	What is the cold chain?
 	-	A method of treating the raised, red papule after BCG immunisation.

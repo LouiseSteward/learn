@@ -12,7 +12,7 @@ Please choose the *one*, most correct answer to each question or statement.
 1.	The under-5 mortality rate is expressed as the number of infants who die under the age of 5 years per:
 	-	100 live births.
 	+	1000 live births.
-	-	100 000 live births.
+	-	100&nbsp;000 live births.
 	-	1 million live births.
 2.	The infant mortality rate includes all infants who die under the age of:
 	-	1 week.

@@ -100,10 +100,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Breastfeeding.
 	-	Tuberculosis.
 19.	Anaemia in children is defined as a haemoglobin concentration below:
-	-	11 g/dl.
-	-	10 g/dl.
-	+	9 g/dl.
-	-	8 g/dl.
+	-	11&nbsp;g/dl.
+	-	10&nbsp;g/dl.
+	+	9&nbsp;g/dl.
+	-	8&nbsp;g/dl.
 20.	Iron deficiency anaemia in children should be fully treated with oral iron for:
 	-	10 days.
 	-	1 month.
