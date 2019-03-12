@@ -14,9 +14,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The child’s physical and mental development.
 	-	The child’s arm circumference.
 	-	The child’s weight.
-2.	How are children’s nutritional state determined?
-	-	By measuring their height.
-	-	By measuring their skinfold thickness.
+2.	How are children’s nutritional status determined?
+	-	By measuring their intelligence.
+	-	By assessing their age.
 	+	By clinically examining them.
 	-	By taking a careful dietary history.
 3.	Which is a protein food?
@@ -40,9 +40,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Too much protein and energy.
 	+	Too little protein and energy.
 7.	A child has marasmus when:
-	-	The weight falls below the 10th centile.
-	-	The weight falls below the 3rd centile.
-	+	The child appears wasted with a weight well below the 3rd centile.
+	-	The weight falls below the - 1 line.
+	-	The weight falls below the - 2 line.
+	+	The child appears wasted with a weight well below the - 3 line.
 	-	The child is thin and has a pigmented, scaling rash.
 8.	What is a sign of kwashiorkor?
 	+	Oedema.
@@ -59,11 +59,11 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Resuscitation.
 	-	Giving oral iron.
 	-	Treating intestinal parasites.
-11.	Severe infections are most common in children with:
-	+	Vitamin A deficiency.
-	-	Vitamin B deficiency.
-	-	Vitamin C deficiency.
-	-	Vitamin D deficiency.
+11.	What can be done to prevent malnutrition?
+	+	Exclusively breast feed to the age of 6 months.
+	-	Add formula feeds from 3 months.
+	-	Add sugar to formula feeds.
+	-	Introduce porridge at 3 months.
 12.	Vitamin A deficiency can result in:
 	-	Bleeding.
 	-	Deafness.
@@ -100,10 +100,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Breastfeeding.
 	-	Tuberculosis.
 19.	Anaemia in children is defined as a haemoglobin concentration below:
-	-	11 g/dl.
-	-	10 g/dl.
-	+	9 g/dl.
-	-	8 g/dl.
+	-	11&nbsp;g/dl.
+	-	10&nbsp;g/dl.
+	+	9&nbsp;g/dl.
+	-	8&nbsp;g/dl.
 20.	Iron deficiency anaemia in children should be fully treated with oral iron for:
 	-	10 days.
 	-	1 month.

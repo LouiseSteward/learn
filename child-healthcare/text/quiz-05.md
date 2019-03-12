@@ -11,7 +11,7 @@ Please choose the *one*, most correct answer to each question or statement.
 
 1.	Diarrhoea is diagnosed when:
 	-	Stools are passed every day.
-	+	At least three loose and watery stools are passed in a day.
+	+	At least 3 loose and watery stools are passed in a day.
 	-	The stools smell offensive.
 	-	The stools contain blood.
 2.	What commonly causes diarrhoea?
@@ -48,7 +48,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Are usually lethargic and refuse to drink fluids.
 	+	Are restless and irritable.
 	-	Have severely decreased skin turgor.
-	-	Have lost more than 10 kg body weight.
+	-	Have lost more than 10&nbsp;kg body weight.
 9.	A normal capillary filling time is:
 	-	Less than 1 second.
 	+	Less than 3 seconds.
@@ -75,7 +75,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Should be admitted to hospital as the diarrhoea may become worse.
 	-	Must be seen by a doctor.
 14.	How should a sugar and salt solution be made?
-	-	Add one teaspoon of salt and one teaspoon of sugar to 1 litre of water.
+	-	Add 1 teaspoon of salt and 1 teaspoon of sugar to 1 litre of water.
 	-	Add 4 teaspoons of sugar and a pinch of salt to 1 litre of water.
 	+	Add 8 teaspoons of sugar and half a teaspoon of salt to 1 litre of water.
 	-	Add 10 teaspoons of sugar and 1 teaspoon of salt to 1 litre of water.

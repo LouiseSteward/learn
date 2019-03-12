@@ -37,7 +37,7 @@ exclude:
   - adult-hiv
   - breast-care
   - catalogue
-  - child-healthcare
+  # - child-healthcare
   - childhood-critical-care
   - childhood-hiv
   - childhood-tb
@@ -55,7 +55,7 @@ exclude:
   - perinatal-hiv
   - primary-maternal-care
   - primary-newborn-care
-  # - public-health
+  - public-health
   - samples
   - saving-mothers-and-babies
   - womens-health-care

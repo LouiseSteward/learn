@@ -25,7 +25,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Apply saliva each morning.
 	-	Cover with a plaster.
 4.	What is ringworm?
-	+	The cause of ‘sandworm.’
+	+	The cause of 'sandworm'.
 	-	An infection commonly found on the finger.
 	-	A rash caused by a fungus.
 	-	A worm which causes allergic rashes.
@@ -79,7 +79,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	A crusting rash on the cheeks.
 	-	A red, greasy rash of the face and scalp.
 	-	Papules and pustules on the face.
-15.	What would you advise in a 4 month old child with mild eczema?
+15.	What would you advise in a 4-month-old child with mild eczema?
 	-	Wear woollen clothes to keep warm.
 	-	Wash well with soap and apply antihistamine cream.
 	-	Stop breastfeeding.

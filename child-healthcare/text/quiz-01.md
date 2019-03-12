@@ -15,30 +15,30 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Do a physical examination.
 	-	Get a chest X-ray.
 2.	How should you address a child?
-	-	Speak to the mother rather than to the child.
+	-	Speak to the parent or caregiver rather than to the child.
 	-	It is best to call all children ‘kid’ so that you do not frighten them.
 	+	Speak directly to the child using the child’s name.
 	-	It is better if a nurse rather than a doctor speaks to the child.
-3.	Is it important to listen to what mothers have to say?
-	+	Yes, as the mother knows the child best.
-	-	Yes, as the mother will be paying for the visit.
-	-	No, as the mother expects you to tell her what the symptoms are.
-	-	No, as mothers do not give an accurate history.
+3.	Is it important to listen to what parent or caregiver's have to say?
+	+	Yes, as the parent or caregiver knows the child best.
+	-	Yes, as the parent or caregiver will be paying for the visit.
+	-	No, as the parent or caregiver expects you to tell them what the symptoms are.
+	-	No, as parent or caregiver do not give an accurate history.
 4.	What is the value of a referral letter?
 	-	Of little value as the information is often incorrect.
 	-	Only important if it was written by a doctor.
 	-	Useful documentation to keep in the patient’s folder.
 	+	Helpful in drawing your attention to the presenting problem.
-5.	The Road-to-Health Card should be asked for:
+5.	The Road-to-Health Booklet should be asked for:
 	-	Only at an immunisation clinic.
 	-	At all clinic visits but not at a hospital visits.
 	-	Only when the child is seen by a nurse.
-	+	Always look at the Road-to-Health Card when a child attends any clinic or hospital.
+	+	Always look at the Road-to-Health Booklet when a child attends any clinic or hospital.
 6.	Knowing the child’s age is important because:
 	-	A doctor rather than a nurse should see all children under 3 months of age.
 	+	An accurate age is needed to plot the child’s weight on the growth chart.
 	-	Head circumference should be routinely measured in all children older than 2 years.
-	-	Notes should be recorded in the Road-to-Health Card only in children younger than 2 years.
+	-	Notes should be recorded in the Road-to-Health Booklet only in children younger than 2 years.
 7.	How should you measure a child’s temperature?
 	+	The axillary temperature is best in young children.
 	-	The oral temperature should be recorded in all children.
@@ -46,7 +46,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Digital thermometers should not be used in children as they are inaccurate.
 8.	Who should give the history?
 	+	The child if possible.
-	-	The mother or guardian.
+	-	The parent or caregiver.
 	-	The referring doctor or nurse.
 	-	The nurse should take the history from the mother and then tell the doctor the important points.
 9.	An immunisation history is important:
@@ -70,7 +70,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Percuss (both listen and feel).
 	+	Inspect (look).
 13.	When performing the examination:
-	-	It is best if the parents are asked to leave the room.
+	-	It is best if the parent or caregiver is asked to leave the room.
 	+	It is important to have warm hands.
 	-	A nurse should hold the child still.
 	-	Always place the child on an examination table.

@@ -21,21 +21,21 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Polio.
 3.	Which are killed vaccines?
 	-	Measles.
-	+	DPT.
+	+	Intramuscular polio.
 	-	Oral polio.
 	-	BCG.
-4.	When should DPT (Diphtheria, Pertussis, Tetanus) immunisation be given?
+4.	When should DTaP (Diphtheria, Tetanus, Pertussis) immunisation be given?
 	-	At birth and again at 6 months.
 	-	At 3, 6 and 12 months.
 	+	At 6, 10 and 14 weeks.
 	-	At 9 and 18 months.
 5.	What immunisations are routinely given to newborn infants?
 	-	BCG only.
-	-	Polio only.
-	+	Both BCG and polio.
+	-	Oral polio only.
+	+	Both BCG and oral polio.
 	-	Hepatitis B.
 6.	Where should immunisations be recorded?
-	+	In the child’s Road-to-Health Card.
+	+	In the child’s Road-to-Health Booklet.
 	-	In the clinic immunisation record book.
 	-	In the labour ward register.
 	-	In the hospital records.
@@ -47,19 +47,19 @@ Please choose the *one*, most correct answer to each question or statement.
 8.	Polio vaccine should be given:
 	-	Only in countries where polio is still a common problem.
 	-	Only to healthy term infants who are breastfed.
-	+	To breastfed and bottle-fed infants.
-	-	Only if the parents ask for it.
+	+	To both breastfed and bottle-fed infants.
+	-	Only if the parent or caregiver asks for it.
 9.	Oral polio immunisation should not be given to children:
 	-	Who are breastfed.
 	-	Who are malnourished.
-	+	With signs of HIV infection.
+	+	With clinical signs of HIV infection.
 	-	With loose stools.
-10.	What are common side effects of DPT (Diphtheria, Pertussis, Tetanus) immunisation?
+10.	What are common side effects of DTaP (Diphtheria, Tetanus, Pertussis) immunisation?
 	+	Local tenderness and mild irritability.
 	-	An ulcer at the injection site with locally enlarged lymph nodes.
 	-	A fever above 40.5 °C.
 	-	Lethargy or persistent screaming or convulsions.
-11.	DPT (Diphtheria, Pertussis, Tetanus) immunisation should not be given to:
+11.	DTaP (Diphtheria, Tetanus, Pertussis) immunisation should not be given to:
 	+	Children over 2 years.
 	-	Children who had a mildly tender arm after the previous immunisation.
 	-	Children with eczema.
@@ -71,12 +71,12 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	A mild fever and rash.
 13.	When should measles immunisation not be given?
 	-	To children who are underweight for age.
-	-	To healthy children who were born to an HIV positive mother.
+	-	To healthy children who were born to an HIV-positive mother.
 	-	To children with a cough and mild fever.
 	+	To children with untreated tuberculosis.
 14.	Hepatitis B vaccine should be given:
 	-	Orally.
-	-	Into the right deltoid muscle.
+	-	Intradermally.
 	+	Into the right thigh muscle.
 	-	Into the buttock.
 15.	If a mother has had hepatitis B, her infant should be given:
@@ -89,11 +89,11 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Hepatitis.
 	-	Whooping cough.
 	+	Meningitis.
-17.	Hib vaccine protects the child against:
-	-	Hepatitis B.
-	+	*Haemophilus influenzae*.
-	-	Herpes B.
-	-	Viral influenza.
+17.	Hib vaccine consists of:
+	-	Live hepatitis A virus.
+	+	Dead *Haemophilus influenzae*.
+	-	Weakened (attentuated) Herpes B virus.
+	-	Live influenza virus.
 18.	What is herd immunity?
 	+	A high level of immunity in the community.
 	-	Immunity to cow pox.
@@ -102,10 +102,10 @@ Please choose the *one*, most correct answer to each question or statement.
 19.	The vaccines at an immunisation clinic should be:
 	-	Kept warm.
 	-	Kept at room temperature.
-	+	Kept at 2–8 °C in a fridge.
+	+	Kept at 2–8&nbsp;°C in a fridge.
 	-	Frozen.
 20.	What is the cold chain?
 	-	A method of treating the raised, red papule after BCG immunisation.
 	-	A complication of MMR immunisation.
-	-	A contraindication to DPT immunisation.
+	-	A contraindication to DTaP immunisation.
 	+	An effective way of keeping vaccines cool.

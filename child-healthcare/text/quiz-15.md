@@ -12,7 +12,7 @@ Please choose the *one*, most correct answer to each question or statement.
 1.	The under-5 mortality rate is expressed as the number of infants who die under the age of 5 years per:
 	-	100 live births.
 	+	1000 live births.
-	-	100 000 live births.
+	-	100&nbsp;000 live births.
 	-	1 million live births.
 2.	The infant mortality rate includes all infants who die under the age of:
 	-	1 week.
@@ -39,7 +39,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The number of private doctors in the country.
 	+	The health, nutrition and home environment of children.
 	-	The number of tertiary hospitals.
-7.	What is the under-5 mortality rate in most well resourced countries?
+7.	What is the under-5 mortality rate in most well-resourced countries?
 	-	Less than 5
 	+	Less than 10
 	-	Less than 50
@@ -47,7 +47,7 @@ Please choose the *one*, most correct answer to each question or statement.
 8.	What is the estimated under-5 mortality rate in South Africa?
 	-	15
 	-	30
-	+	70
+	+	40
 	-	90
 9.	Which childhood deaths should be notified?
 	+	All childhood deaths.
@@ -57,11 +57,11 @@ Please choose the *one*, most correct answer to each question or statement.
 10.	When is the best time to record the clinical details after a child has died?
 	+	As soon as possible after the death.
 	-	When the patient’s hospital notes are summarised.
-	-	Only after the post mortem examination.
+	-	Only after the post-mortem examination.
 	-	Only after the death has been fully discussed.
 11.	What is the best way of determining the cause of childhood deaths?
 	-	A doctor should examine all dead children.
-	-	A post mortem examination should be done on all dead children.
+	-	A post-mortem examination should be done on all dead children.
 	+	All childhood deaths should be discussed at a mortality meeting.
 	-	All very ill children should be admitted to hospital to die.
 12.	What is the aim of mortality meetings?
