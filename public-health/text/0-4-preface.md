@@ -25,7 +25,7 @@ Public health asks the following questions about the health of communities and p
 3.  What are the solutions?
 4.  How well are the solutions working and can we do better?
 
-The terms “community health” and “population health” are used interchangeably with “public health”. A closely related field is “global health.” Global health is slightly different because it compares health and health care between countries rather than between different populations and communities in the same country. However, it uses the same approaches and tools. In this book, the term public health is used throughout.
+The terms “community health” and “population health” are used interchangeably with “public health”. A closely related field is “global health”. Global health is slightly different because it compares health and health care between countries rather than between different populations and communities in the same country. However, it uses the same approaches and tools. In this book, the term public health is used throughout.
 
 ## Why do clinicians need to know about public health?
 
