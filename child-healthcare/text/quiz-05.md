@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 5: Diarrhoea
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	Diarrhoea is diagnosed when:
 	-	Stools are passed every day.

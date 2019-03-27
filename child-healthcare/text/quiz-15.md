@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 15: Childhood mortality
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	The under-5 mortality rate is expressed as the number of infants who die under the age of 5 years per:
 	-	100 live births.

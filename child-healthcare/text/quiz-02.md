@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 2: Immunisation
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	What is immunisation?
 	-	A method of treating tuberculosis.

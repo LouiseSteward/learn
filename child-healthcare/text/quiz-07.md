@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 7: Lower respiratory tract conditions
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	What is a sign of breathing difficulty?
 	-	Cough.
