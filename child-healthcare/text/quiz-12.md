@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 12: Skin conditions
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	What is a papule?
 	-	A flat spot.

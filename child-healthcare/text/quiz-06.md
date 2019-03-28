@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 6: Upper respiratory tract conditions
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	The upper respiratory tract includes the:
 	-	Larynx.

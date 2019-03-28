@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 3: Growth and development
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	What is growth?
 	-	A measurement of size.

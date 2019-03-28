@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 13: Serious illnesses
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	Acute rheumatic fever usually follows:
 	+	Pharyngitis.

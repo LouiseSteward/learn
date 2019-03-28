@@ -5,6 +5,7 @@ style: chapter answers
 # Answers
 
 Relearn the sections in brackets for questions you get wrong.
+{:.wide}
 
 ## Quiz 1: History and examination
 

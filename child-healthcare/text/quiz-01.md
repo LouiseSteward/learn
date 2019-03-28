@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 1: History and examination
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	What is the first step in the general examination of a child?
 	+	Introduce yourself.

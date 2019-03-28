@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 4: Nutrition
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	What is a child’s nutrition?
 	+	The child’s diet.

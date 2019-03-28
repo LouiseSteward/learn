@@ -8,6 +8,7 @@ style: chapter test
 # Quiz 9: HIV infection
 
 Please choose the *one*, most correct answer to each question or statement.
+{:.wide}
 
 1.	What is AIDS?
 	-	A virus, also known as HIV.
