@@ -27,16 +27,16 @@ Please choose the *one*, most correct answer to each question or statement.
 4. An employee has made a complaint through the official channels about her supervisor. The supervisor then puts the employee on twice as many weekend shifts as her colleagues, knowing that this is causing problems with childcare:
 	- 	This is only to be expected if you complain about your supervisor
 	- 	She should accept the shifts but then try to swap with her colleagues, who are sympathetic
-	+	This is victimisation, which is illegal. She should speak with her union representative.
+	+	This is victimisation, which is illegal. She should speak with her union representative
 	- 	She should speak with a newspaper
 5. Why is it useful to refer to the National Core Standards if you wish to make a complaint within your facility?
 	- 	Managers will respond more quickly, so this approach is useful in an emergency
 	-	Nobody disagrees with the National Core Standards, so this approach is useful when there is a breakdown in trust
 	- 	The Protected Disclosures Act requires that a complaint must be made using the National Core Standards before it can be taken out of the facility
 	+	It means you can “depersonalise” a problem and shift attention to compliance with health policies and legislation
-6. You are helping a patient to make a complaint about a hospital using the National Complaints Management Protocol but the person has received no response two months after writing a letter to the complaints manager:
+6. You are helping a patient to make a complaint about a hospital using the National Complaints Management Protocol but the person has received no response 2 months after writing a letter to the complaints manager:
 	+	He is entitled to take the complaint to the complaints manager at district or provincial level
-	- 	He should wait up to six months before taking the complaint further
+	- 	He should wait up to 6 months before taking the complaint further
 	- 	No response means that the complaints manager has decided the issue is not important and he should just accept this
 	- 	There are no time limits on the length of time the complaints manager should take before responding
 7. The professional behaviour of a hospital superintendent is worrying several senior staff members. They have had several unpleasant meetings with her, and there has been no response from the manager at the district office. Which of the following is true?
@@ -70,12 +70,12 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	This is a bad idea because it is not cost effective in public health systems
 	- 	This is a bad idea because patients will be expecting food or cash every time they visit the clinic
 13. An elderly patient has high blood pressure that is not responding to treatment. Her daughter says her mother has become very forgetful and she does not think she is taking the pills properly. What is the best way of dealing with this?
-- 	Add additional pills because her current drugs are not effective
-+	Simplify the prescription and show the daughter how to use a pill organiser
-- 	Educate the mother about the risks of stroke if she does not take her medication
-- 	Organise a peer support group for elderly patients with high blood pressure 
+	- 	Add additional pills because her current drugs are not effective
+	+	Simplify the prescription and show the daughter how to use a pill organiser
+	- 	Educate the mother about the risks of stroke if she does not take her medication
+	- 	Organise a peer support group for elderly patients with high blood pressure 
 14. What is the difference between a “major incident” and a “disaster”?
-	+	A major incident can be chaotic, but is manageable, while in a disaster the numbers and types of patients overwhelms the facility.
+	+	A major incident can be chaotic, but is manageable, while in a disaster the numbers and types of patients overwhelms the facility
 	- 	A disaster can be chaotic, but is manageable. In a major incident the numbers and types of patients overwhelms the facility
 	- 	Major incidents are man-made while disasters are natural
 	- 	Disasters are man-made and major incidents are natural

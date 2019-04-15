@@ -28,7 +28,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	The first document that introduces a proposed law for discussion
 	- 	A more detailed statement of what the government intends to do
 	- 	A draft law that must be approved by cabinet
-	- 	A statement from the State lawyers that the draft law is consistent with the constitution
+	- 	A statement from government lawyers that the draft law is consistent with the constitution
 5. The National Department of Health:
 	+	Develops health policies
 	- 	Runs clinics and hospitals
@@ -69,7 +69,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	A hospital for women’s problems only
 	- 	A hospital with a ward for teenagers
 	- 	A teaching hospital
-13. In South Africa, family physicians are usually work in:
+13. In South Africa, family physicians usually work in:
 	- 	Specialised hospitals
 	+	District hospitals
 	- 	Regional hospitals

@@ -13,7 +13,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	It is too expensive for African countries to train enough health professionals
 	- 	Most African countries are unable to find suitable candidates to train as health professionals
 	- 	In Africa men do not want to train as nurses and midwives
-	- 	There is only a shortage of doctors but not nurses and midwives.
+	- 	There is only a shortage of doctors but not nurses and midwives
 2. An important role of human resource management is getting good quality staff appointed to rural posts. This process is called:
 	- 	Task shifting
 	- Retention
@@ -108,4 +108,4 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	Carefully analyse things that have gone wrong over the day and choose not to let them happen again
 	- 	Volunteer to represent colleagues’ interests at the management liaison committee
 	+	Avoid spending too much time with colleagues who complain
-	- 	Do additional overtime to pay for a cell phone upgrade
+	- 	Do additional overtime to pay for a cellphone upgrade

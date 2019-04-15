@@ -50,7 +50,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	By disciplining staff who do not use it correctly
 	- 	By not changing the programme after it has been implemented 
 9. After information has been analysed, who should have access to the results of the analysis? 
-	- 	Senior managers only are they are the ones who make decisions about services
+	- 	Senior managers only are the ones who make decisions about services
 	- 	Facility staff only as they are the only ones in a position to improve care
 	+	Anybody working in the system should have access to information related to their area of work
 	- 	Anybody, including the general public, should have access to all health and healthcare information at all times 
@@ -86,12 +86,12 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	eHealth and mHealth approaches are likely to be particularly beneficial in Africa
 16. Which of these is the best example of using eHealth to improve quality of care?
 	- 	Staff can speak to each other while on vacation
-	+	Specialists can be contacted for a “virtual consultation”.
-	- 	Nurses can scold patients whne they fail to attend follow-up clinic
+	+	Specialists can be contacted for a “virtual consultation”
+	- 	Nurses can scold patients when they fail to attend follow-up clinic
 	- 	Doctors can order take-away lunches so they do not have to leave the hospital
 17. Which of these is the best example of using eHealth to store and share patient information between healthcare providers?
 	- 	Requesting outpatient appointments by SMS
-	- 	A rural doctor can make a cell phone call to a secretary and have a discharge summary faxed from a referral hospital
+	- 	A rural doctor can make a cellphone call to a secretary and have a discharge summary faxed from a referral hospital
 	+	Discharge summaries are stored in an electronic database that can be accessed by a registered doctor from any hospital or clinic in the province 
 	- 	Discharge summaries are stored in an electronic database but can only be accessed by a doctor working in that hospital    
 18. How can an elderly lady with badly controlled high blood pressure be helped to take her medication every day?

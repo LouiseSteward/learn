@@ -44,9 +44,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	Some harm has come to a patient but there was no problem with the healthcare process 
 	- 	There is a complaint in the newspaper
 	- 	A part of the healthcare process has gone wrong and some harm has come to a patient
-8. Why is the “5 whys” method is a useful tool when trying to understand the underlying reasons for a mistake?
+8. Why is the “5 whys” method a useful tool when trying to understand the underlying reasons for a mistake?
 	- 	Trying to think of 5 different reasons why something might have happened
-	+	Asking “why?” for each explanation until you can drill down to the underlying problem. This usually means asking “why” 5 times for each explanation.
+	+	Asking “why?” for each explanation until you can drill down to the underlying problem. This usually means asking “why” 5 times for each explanation
 	- 	Researching the literature to find the 5 most common reasons something happened
 	- 	Discussing things in detail after they have happened 5 times 
 9. In healthcare management, “patient safety” means:
