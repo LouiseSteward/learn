@@ -15,9 +15,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	There are low levels of wound infections
 	- 	Antibiotics are prescribed appropriately
 2. Which of these is an example of a process standard?
-	- 	All soap dispensers are filled with soap
+	- 	Hand spray is available at the bedside
 	+	Staff members wash their hands after seeing a patient
-	- 	There are low levels of wound infections
+	- 	There are low levels of skin infections
 	- 	Fire exits are clearly marked
 3. What does “accreditation” of a clinic or hospital mean?
 	- 	There are positive reports in the media about the facility

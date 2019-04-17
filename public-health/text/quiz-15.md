@@ -23,7 +23,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	PDSA stands for Prepare, Design, See, Act and describes a method for making large scale changes
 	+	PDSA stands for Plan, Do, Study, Act and describes a method for testing changes on a small scale to see how well they work
 	- 	PDSA stands for People, Dress-code, Standards, Authority and describes a method for staff performance management
-	- 	PDSA stands for Plan, So, Study, Act and describes a way of ensuring that management changes are correctly implemented by lower level staff
+	- 	PDSA stands for Plan, Demonstrate, Study, Action and describes a way of ensuring that management changes are correctly implemented by lower level staff
 4. Which of the following is a good aim statement for a quality improvement project? 
 	+	We will reduce the rate of catheter infections from 20% to less than 5% in 6 months
 	- 	We will have no infections whatsoever in this ward in 6 months
