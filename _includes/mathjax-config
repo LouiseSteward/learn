@@ -100,7 +100,8 @@ MathJax.Hub.Config({
     "HTML-CSS": {
         availableFonts: [], // force use of webFont
         webFont: "{% if page.mathjax-font %}{{ page.mathjax-font }}{% else %}{{ site.mathjax-font }}{% endif %}",
-        scale: 90,
+        matchFontHeight: false,
+        scale: 80,
         styles: {
             ".MathJax [style*=border-top-width]": {
                 "border-top-width": "0.5pt ! important"
