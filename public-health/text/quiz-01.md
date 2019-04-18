@@ -51,7 +51,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	A method of interviewing community leaders
 9.	What is population density?
 	- 	How many people in a population
-	+ 	How many people in a unit of space such as km2
+	+ 	How many people in a unit of space such as km<sup>2</sup>
 	- 	The average number of people living in a house
 	- 	The ratio of males to females in a population
 10.	What does a high ratio of boys to girls in a population suggest?
@@ -60,8 +60,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	+ 	More girl foetuses than boy foetuses are aborted in sex selective termination of pregnancy
 	- 	There are more male twins than female twins especially in older women
 11.	How is the maternal mortality ratio expressed?
-	+ 	The number of maternal deaths per 100 000 live births
-	- 	The number of maternal deaths per 10 000 deliveries
+	+ 	The number of maternal deaths per 100&nbsp;000 live births
+	- 	The number of maternal deaths per 10&nbsp;000 deliveries
 	- 	The number of maternal deaths per 1000 pregnancies
 	- 	The number of maternal deaths per year
 12.	What deaths are included in infant mortality?
@@ -103,7 +103,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	It is taken from the births and deaths registers
 	- 	The average mid-year population estimates over 5 years are used
 	+	Every household is visited to collect information
-	- 	Randomly selected members of the public are contacted by cell phone
+	- 	Randomly selected members of the public are contacted by cellphone
 20. Which of the following data sources provides the expected population size for each year?
 	+	Mid-year population estimates
 	- 	The general household survey

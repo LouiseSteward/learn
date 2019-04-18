@@ -87,7 +87,7 @@ Please choose the *one*, most correct answer to each question or statement.
 16.	Which of the following is a “push factor” for urban migration?
 	- 	Job opportunities
 	- 	Better healthcare
-	- 	Desire to be “part of the action”?
+	- 	Desire to be “part of the action”
 	+	Loss of rural livelihoods
 17.	Which of the following is a typical characteristic of an urban slum?
 	+	Overcrowding

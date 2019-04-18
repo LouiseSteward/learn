@@ -23,30 +23,30 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	PDSA stands for Prepare, Design, See, Act and describes a method for making large scale changes
 	+	PDSA stands for Plan, Do, Study, Act and describes a method for testing changes on a small scale to see how well they work
 	- 	PDSA stands for People, Dress-code, Standards, Authority and describes a method for staff performance management
-	- 	PDSA stands for Plan, So, Study, Act and describes a way of ensuring that management changes are correctly implemented by lower level staff
+	- 	PDSA stands for Plan, Demonstrate, Study, Action and describes a way of ensuring that management changes are correctly implemented by lower level staff
 4. Which of the following is a good aim statement for a quality improvement project? 
 	+	We will reduce the rate of catheter infections from 20% to less than 5% in 6 months
 	- 	We will have no infections whatsoever in this ward in 6 months
 	- 	We will reduce the rate of catheter infections in 12 months
 	- 	We will be the best ward in the hospital by the end of the year
-5. Patients with wheelchairs are frequently late for their outpatient appointments in the chest clinic.  Which member of the quality improvement team is in the best position to suggest changes?
+5. Patients with wheelchairs are frequently late for their outpatient appointments in the chest clinic. Which member of the quality improvement team is in the best position to suggest changes?
 	- 	The chest specialist
 	- 	The respiratory nurse
 	- 	The hospital superintendent
 	+	The porter  
 6. The team wishes to reduce the waiting time of wheelchair patients in the chest clinic. Which of these is an example of a process measure?
-	+	Number of wheelchair patients assisted by porters calling in at the X ray department
-	- 	Number of chest x rays in patients in wheelchairs
+	+	Number of wheelchair patients assisted by porters calling in at the X-ray department
+	- 	Number of chest X-rays in patients in wheelchairs
 	- 	Average waiting time of wheelchair patients from registration to discharge from the clinic
 	- 	Delay in taking blood samples from the emergency centre to the lab
 7. Which of these is an example of an outcome measure?
-	- 	Number of wheelchair patients assisted by porters calling in at the X ray department
-	- 	Number of chest x rays in patients in wheelchairs
+	- 	Number of wheelchair patients assisted by porters calling in at the X-ray department
+	- 	Number of chest X-rays in patients in wheelchairs
 	+	Average waiting time of wheelchair patients from registration to discharge from the clinic
 	- 	Delay in taking blood samples from the emergency centre to the lab
 8. Which of these is an example of a balancing measure?
-	- 	Number of wheelchair patients assisted by porters calling in at the X ray department
-	- 	Number of chest x rays in patients in wheelchairs
+	- 	Number of wheelchair patients assisted by porters calling in at the X-ray department
+	- 	Number of chest X-rays in patients in wheelchairs
 	- 	Average waiting time of wheelchair patients from registration to discharge from the clinic
 	+	Delay in taking blood samples from the emergency centre to the lab
 9. A quality improvement team discusses several suggestions for reducing waiting time and then gives each suggestion a score for ease and impact. Which changes should they try first?

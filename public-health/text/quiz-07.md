@@ -40,7 +40,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	Price is not important if it is a good test
 	- 	People should be able to do the test themselves
 7.	What is one of the criteria for a good screening test?
-	- 	Everybody it identifies up must have the disease
+	- 	Everybody it identifies must have the disease
 	- 	It should be very cheap
 	-	It should be particularly sensitive in children and younger people
 	+	It should pick up nearly all the people who have the disease
