@@ -8,7 +8,7 @@ style: title-page page-1
 Congenital Disorders
 {:.titlepage-title}
 
-Counselling and caring for children with congenital disorders
+Counseling and caring for children with congenital disorders
 {:.titlepage-subtitle}
 
 Developed by the Perinatal Education Programme
