@@ -11443,8 +11443,8 @@ works:
           - label: "Quizzes"
             children:
               - file: "quiz-01"
-                id: "quiz-1-antenatal-care"
-                label: "Quiz 1: Antenatal care"
+                id: "quiz-1-monitoring-the-condition-of-the-mother-during-the-first-stage-of-labour"
+                label: "Quiz 1: Monitoring the condition of the mother during the first stage of labour"
               - file: "quiz-02"
                 id: "quiz-2-monitoring-the-condition-of-the-fetus-during-the-first-stage-of-labour"
                 label: "Quiz 2: Monitoring the condition of the fetus during the first stage of labour"
@@ -12330,8 +12330,8 @@ works:
           - label: "Quizzes"
             children:
               - file: "quiz-01"
-                id: "quiz-1-antenatal-care"
-                label: "Quiz 1: Antenatal care"
+                id: "quiz-1-monitoring-the-condition-of-the-mother-during-the-first-stage-of-labour"
+                label: "Quiz 1: Monitoring the condition of the mother during the first stage of labour"
               - file: "quiz-02"
                 id: "quiz-2-monitoring-the-condition-of-the-fetus-during-the-first-stage-of-labour"
                 label: "Quiz 2: Monitoring the condition of the fetus during the first stage of labour"
