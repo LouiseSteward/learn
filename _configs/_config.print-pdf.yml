@@ -37,7 +37,7 @@ exclude:
   - adult-hiv
   - breast-care
   - catalogue
-  # - child-healthcare
+  - child-healthcare
   - childhood-critical-care
   - childhood-hiv
   - childhood-tb
@@ -46,7 +46,7 @@ exclude:
   - facilitators-guide
   - fetal-heart-rate-handbook
   - infection-prevention-and-control
-  - intrapartum-care
+  # - intrapartum-care
   - maternal-care
   - maternal-mental-health
   - mother-and-baby-care-for-community-health-workers
