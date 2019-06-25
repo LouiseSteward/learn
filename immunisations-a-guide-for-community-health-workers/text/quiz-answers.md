@@ -21,8 +21,9 @@ Relearn the sections in brackets for questions you get wrong.
 8.  a (1-10)
 9.  b (1-11)
 10. b (1-15)
+{:.keep-together}
 
-Quiz 2: Common immunisations
+### Quiz 2: Common immunisations
 
 1.  c (2-2)
 2.  b (2-4)
@@ -34,8 +35,9 @@ Quiz 2: Common immunisations
 8.  c (2-21)
 9.  a (2-16)
 10. b (2-27)
+{:.keep-together}
 
-Quiz 3: Immunisation schedule
+### Quiz 3: Immunisation schedule
 
 1.  c (3-1)
 2.  b (3-2)
@@ -47,8 +49,9 @@ Quiz 3: Immunisation schedule
 8.  c (3-13)
 9.  b (3-17)
 10. b (3-23)
+{:.keep-together}
 
-Quiz 4: Immunisation risks
+### Quiz 4: Immunisation risks
 
 1.  c (4-1)
 2.  a (4-2)
@@ -60,3 +63,4 @@ Quiz 4: Immunisation risks
 8.  c (4-18)
 9.  a (4-19)
 10. b (4-21)
+{:.keep-together}
