@@ -20,12 +20,12 @@ title: Introduction
 Community Health Workers (CHWs) serve as a very important direct link between patients, communities and health services. As trusted on-the-ground support to community members, they therefore expand access to essential healthcare information as well as available treatment and prevention programmes.
 The Mothers and Baby Care for Community Health Workers course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging Community Health Workers in South Africa.
 The proven Perinatal Education Programme methodology of decentralised, small group, learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of Community Health Workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
-This group of topics from Mother and Baby Care for Community Health Workers includes:
+This group of topics from *Immunisations: A Guide for Community Health Workers* includes:
 
-1.  Care of mothers
-2.  Care of newborn babies
-3.  Exclusive breastfeeding
-4.  HIV in mother and baby
+1.  Introduction to immunisation
+2.  Common immunisations
+3.  The immunisation schedule
+4.  Immunisation risks
 
 The Community Health Work modules included in this course book have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape, funded by the Small Projects Foundation.
 
