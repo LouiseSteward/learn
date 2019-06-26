@@ -10343,7 +10343,6 @@ works:
               - file: "02"
                 id: "case-study-4"
                 label: "Case study 4"
-                web:
           - file: "03"
             id: "3-the-immunisation-schedule"
             label: "3 The immunisation schedule"
