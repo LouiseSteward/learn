@@ -9853,16 +9853,16 @@ works:
   - directory: "immunisations-a-guide-for-community-health-workers"
     title: "Immunisations: A Guide for Community Health Workers"
     subtitle: ""
-    creator: "" # E.g. the author
-    contributor: "y" # E.g. other contributors
+    creator: "David Woods" # E.g. the author
+    contributor: "" # E.g. other contributors
     subject: "Healthcare" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
     description: "" # E.g. the blurb
     publisher: "Bettercare" # E.g. the publisher, imprint or brand name
     publisher-url: ""
     date: "" # YYYY-MM-DD e.g. publication date
     modified: "" # YYYY-MM-DD e.g. date of last revision
-    type: "" # e.g. Novel, Poetry, Memoir
-    identifier: "" # e.g. ISBN or UUID
+    type: "Textbook" # e.g. Novel, Poetry, Memoir
+    identifier: "978-1-928313-16-8" # e.g. ISBN or UUID
     source: "" # e.g. parent ISBN or ISTC
     language: "en" # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
     relation: "" # e.g. other edition ISBN
@@ -10246,7 +10246,7 @@ works:
         contents-page: "0-3-contents" # Your contents-page file, if you have one.
         footer: "" # Text that appears in the footer of this book's pages on the website.
       epub:
-        date: "" # YYYY-MM-DD e.g. publication date or last revision
+        date: "2019-06-28" # YYYY-MM-DD e.g. publication date or last revision
         format: "Digital download" # e.g. Paperback, Digital download, Digital online
         identifier: "" # e.g. ISBN or UUID
         image: "cover.jpg"
