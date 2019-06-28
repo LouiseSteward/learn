@@ -14,7 +14,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -  The price of immunisations at public clinics
     +  The age at which children should have certain immunisations
 2.  When should the first immunisations be given?
-    -  As soon as the bay has been dried after birth
+    -  As soon as the baby has been dried after birth
     +  Before the newborn baby is discharged home
     -  When the baby is one week old
 3.  Which is one of the first immunisations given?
