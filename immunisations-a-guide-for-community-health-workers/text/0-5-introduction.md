@@ -18,8 +18,8 @@ title: Introduction
 {:.chapter-toc}
 
 Community Health Workers (CHWs) serve as a very important direct link between patients, communities and health services. As trusted on-the-ground support to community members, they therefore expand access to essential healthcare information as well as available treatment and prevention programmes.
-The Mothers and Baby Care for Community Health Workers course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging Community Health Workers in South Africa.
-The proven Perinatal Education Programme methodology of decentralised, small group, learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of Community Health Workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
+The *Immunisations: A Guide for Community Health Workers* course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging Community Health Workers in South Africa.
+The proven Perinatal Education Programme (PEP) methodology of decentralised, small group, learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of Community Health Workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
 This group of topics from *Immunisations: A Guide for Community Health Workers* includes:
 
 1.  Introduction to immunisation
@@ -38,7 +38,7 @@ Continuing education for health professionals traditionally consists of courses 
 PEP developed the self-help, decentralised learning method in response to these problems and address the needs of all professional healthcare workers, especially those in under-resourced regions. Working closely with PEP, all Bettercare learning programmes follow this basic, proven learning methodology.
 A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, Bettercare learning programmes make your job simpler and easier. We provide the learning programme, you run the course. You can implement Bettercare learning programmes in your institution right now.
 
-Each chapter of a Bettercare learning programme contains the most relevant and up-to-date information health professionals rely on to provide excellent and appropriate care to their patients. Learning material is presented in a question-and-answer format. Each chapter has a multiple-choice quiz consisting of 20 questions. Usersfore studying a chapter to identify gaps in knowledge  and to test their learning at the end of each chapter.
+Each chapter of a Bettercare learning programme contains the most relevant and up-to-date information health professionals rely on to provide excellent and appropriate care to their patients. Learning material is presented in a question-and-answer format. Each chapter has a multiple-choice quiz consisting of 10 questions. Users take the quiz before studying a chapter to identify gaps in knowledge and after, to test their learning at the end of each chapter.
 
 Participants study one chapter at a time on their own and then meet colleagues to discuss what they have learned. The formation of study groups encourages co-operative learning where colleagues share their knowledge and understanding. While the role of a facilitator can be useful, a formal teacher is not needed. The question-and-answer method makes learning effective and enjoyable.
 
@@ -64,7 +64,7 @@ The learning objectives are clearly stated at the start of each chapter. They he
 
 ### Pre- and post-quizzes
 
-There is a multiple-choice quizzes of 10 questions for each chapter at the end of the book. Participants are encouraged to take a pre-quiz before starting each chapter, to benchmark their current knowledge, and a post-quiz after each chapter, to assess what they have learned. Participants are provided with the correct answers so that they can mark their quizzes.  Self-assessment allows participants to monitor their own progress through the course.
+There is a multiple-choice quiz of 10 questions for each chapter at the end of the book. Participants are encouraged to take a pre-quiz before starting each chapter, to benchmark their current knowledge, and a post-quiz after each chapter, to assess what they have learned. Participants are provided with the correct answers so that they can mark their quizzes.  Self-assessment allows participants to monitor their own progress through the course.
 
 ### Question-and-answer format
 

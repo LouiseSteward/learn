@@ -46,7 +46,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -  Only if they are first given antiretroviral treatment (ART)
     -  No
 10. What is a cold chain?
-    -  A common complication of Rota virus immunisation
+    -  A common complication of Rotavirus immunisation
     +  A method to keep vaccines cool when they are taken out of the fridge
     -  A bangle to prevent pain after BCG immunisation
 

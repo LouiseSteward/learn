@@ -26,7 +26,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -  Diphtheria
     -  Pertussis (Whooping cough)
 5.  What is a common cause of diarrhoea in children?
-    +  Rota virus
+    +  Rotavirus
     -  Haemophilus
     -  Tuberculosis
 6.  Which immunisation protects against cervical cancer?

@@ -23,7 +23,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -	Diphtheria vaccine
 4.	Which vaccine is made from the protein of a bacteria?
     -	Hib (Haemophilus) vaccine
-    -	Rota virus vaccine
+    -	Rotavirus vaccine
     +	Tetanus vaccine 
 5.	How do immunisations protect against infections?
     +	They stimulate the immune system to produce antibodies
