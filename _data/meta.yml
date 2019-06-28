@@ -10245,23 +10245,6 @@ works:
               - file: "04"
                 id: "case-study-3"
                 label: "Case study 3"
-          - label: "Quizzes"
-            children:
-              - file: "quiz-01"
-                id: "quiz-1-introduction-to-immunisations"
-                label: "Quiz 1: Introduction to immunisations"
-              - file: "quiz-02"
-                id: "quiz-2-common-immunisations"
-                label: "Quiz 2: Common immunisations"
-              - file: "quiz-03"
-                id: "quiz-3-the-immunisation-schedule"
-                label: "Quiz 3: The immunisation schedule"
-              - file: "quiz-04"
-                id: "quiz-4-immunisation-risks"
-                label: "Quiz 4: Immunisation risks"
-              - file: "quiz-answers"
-                id: "answers"
-                label: "Answers"
         start-page: "0-3-contents" # At which file should users start reading?
         contents-page: "0-3-contents" # Your contents-page file, if you have one.
         footer: "" # Text that appears in the footer of this book's pages on the website.
