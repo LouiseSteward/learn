@@ -122,31 +122,31 @@ exclude:
 - /*/styles/epub*
 - /*/styles/app*
 # Books ---------------------------------
-- adult-hiv
-- breast-care
-- catalogue
-- child-healthcare
-- childhood-critical-care
-- childhood-hiv
-- childhood-tb
-- congenital-disorders
-- ebola-prevention-and-control
-- facilitators-guide
-- fetal-heart-rate-handbook
-- immunisations-a-guide-for-community-health-workers
-- infection-prevention-and-control
-- intrapartum-care
-- maternal-care
-- maternal-mental-health
-- mother-and-baby-care-for-community-health-workers
-- mother-and-baby-friendly-care
-- newborn-care
-- perinatal-hiv
-- primary-maternal-care
-- primary-newborn-care
-- public-health
-- saving-mothers-and-babies
-- womens-health-care
+# - adult-hiv
+# - breast-care
+# - catalogue
+# - child-healthcare
+# - childhood-critical-care
+# - childhood-hiv
+# - childhood-tb
+# - congenital-disorders
+# - ebola-prevention-and-control
+# - facilitators-guide
+# - fetal-heart-rate-handbook
+# - immunisations-a-guide-for-community-health-workers
+# - infection-prevention-and-control
+# - intrapartum-care
+# - maternal-care
+# - maternal-mental-health
+# - mother-and-baby-care-for-community-health-workers
+# - mother-and-baby-friendly-care
+# - newborn-care
+# - perinatal-hiv
+# - primary-maternal-care
+# - primary-newborn-care
+# - public-health
+# - saving-mothers-and-babies
+# - womens-health-care
 
 # Can be useful to stop Jekyll overwriting files in _site.
 # E.g. generate CSS once, then exclude above but keep here
