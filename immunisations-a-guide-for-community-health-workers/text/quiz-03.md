@@ -45,7 +45,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -  An immunisation which is given very quickly
     +  An immunisation that had been missed and not given at the correct age
     -  An immunisation that is only given to healthy children
-10  Where is the immunisation record kept?
+10. Where is the immunisation record kept?
     -  In the mother’s antenatal card
     +  In the child’s Road-to-Health booklet
     -  In the father’s identification book 
