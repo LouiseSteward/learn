@@ -80,7 +80,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	There is less theft
 	- 	The quality of the supplies is lower
 15. In South Africa:
-	- 	The National Department of Health decides the type and quantity of drugs each required by each facility requires and distributes this as a “kit”
+	- 	The National Department of Health decides the type and quantity of drugs required by each facility
 	- 	The Provincial Departments of Health decides the type and quantity of drugs required by each facility and distributes this as a “kit”
 	- 	The Central Procurement Agency is responsible for deciding the types and quantities of drugs for each type of facility
 	+	Facilities place orders at the provincial depot based on the previous year’s consumption
@@ -99,7 +99,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Too much has been ordered, so the item may expire and be wasted
 	- 	These are items that are “over and above” the items on the Essential Medicines list
 	- 	Too much has been ordered, but this is not important as it is better to be safe than sorry
-19. What is “safety stock”?
+19. What is “minimum stock”?
 	+	The level of stock that should trigger a re-order so that new supplies can arrive before it runs out
 	- 	Personal protective items such as gloves
 	- 	The items that should always be on hand, such as adrenalin

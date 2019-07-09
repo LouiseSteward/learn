@@ -69,7 +69,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	The International Classification of Functioning, Disability and Health (ICF)
 	- 	The International Care Framework (ICF)
 	- 	The Interprofessional Care Framework (ICF)
-13. Why will interprofessional care will become more important in the future?
+13. Why will interprofessional care become more important in the future?
 	+	There is a growing number of patients with multiple, chronic problems that are very difficult for one person to manage alone
 	- 	There is a growing risk from viral epidemics so it is important for staff to share skills
 	- 	There is a growing burden of disease, meaning that staff from different professions must become less specialised and be prepared to do each other’s work
@@ -105,7 +105,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	In most hospitals, it is quicker to use the elevator to get to upstairs wards
 	- 	The water quality in hospitals is usually worse than in the community 
 20. Which of the following would be the best way to cultivate positive emotions?
-	- 	Carefully analyse things that have gone wrong over the day and choose not to let them happen again
+	- 	Carefully analyse things that have gone wrong over the day and choose to avoid them next time
 	- 	Volunteer to represent colleagues’ interests at the management liaison committee
 	+	Avoid spending too much time with colleagues who complain
 	- 	Do additional overtime to pay for a cellphone upgrade

@@ -20,7 +20,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Lung cancer
 	- 	Breast cancer
 3.	How big a problem is air pollution?
-	- 	It is no longer a problem is industrialised countries like China
+	- 	It is no longer a problem in industrialised countries like China
 	+	Globally, there is an air pollution problem in large cities where it is an important cause of ill health
 	- 	It is not a problem in poor countries like India because coal is too expensive to be used
 	- 	South Africa has an air pollution problem in rural areas due to grass fires.
@@ -61,7 +61,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	Pancreatitis
 11.	What is environmental enteropathy?
 	+	A chronic gut condition caused by drinking contaminated water
-	- 	A form of acute dysentery presenting with blood stools
+	- 	A form of acute dysentery presenting with bloody stools
 	- 	Meningitis caused by bacteria in dirty water
 	- 	Drying of the environment caused by drought
 12.	An important cause of chemical pollution of water in South Africa is?

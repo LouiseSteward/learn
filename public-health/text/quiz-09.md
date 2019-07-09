@@ -20,7 +20,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Good quality, affordable healthcare is available to all households
 	- 	Government and private healthcare providers work in the same system
 3. Universal health coverage:
-	- 	Is available in most high income countries
+	- 	Is available in all high income countries
 	+	In most countries is seen as something to work towards rather than something that can be achieved in the short term
 	- 	The United States is a good example of a country that has achieved universal health coverage
 	- 	No low or middle income countries are close to universal health coverage

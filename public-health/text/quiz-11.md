@@ -50,7 +50,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	By disciplining staff who do not use it correctly
 	- 	By not changing the programme after it has been implemented 
 9. After information has been analysed, who should have access to the results of the analysis? 
-	- 	Senior managers only are the ones who make decisions about services
+	- 	Senior managers only as they are the ones who make decisions about services
 	- 	Facility staff only as they are the only ones in a position to improve care
 	+	Anybody working in the system should have access to information related to their area of work
 	- 	Anybody, including the general public, should have access to all health and healthcare information at all times 
@@ -74,7 +74,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	eHealth and mHealth mean the same thing and can be used interchangeably
 	- 	In South Africa, eHealth is used more widely than mHealth to communicate with patients because most people now have access to the internet
 	- 	eHealth relies mainly on SMS messaging while mHealth requires the use of “apps”
-14. What the best example of the “informal” use of eHealth by health professionals, particularly doctors?
+14. What is the best example of the “informal” use of eHealth by health professionals, particularly doctors?
 	- 	A doctor in a rural hospital sends an SMS to a specialist and uses their first name
 	- 	A doctor uses his smart phone to add a patient to a clinic list, using the hospital booking system
 	- 	A doctor asks a relative to send an SMS to a patient to ask why she did not attend clinic
