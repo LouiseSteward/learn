@@ -38,17 +38,17 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Number of wheelchair patients assisted by porters calling in at the X-ray department
 	- 	Number of chest X-rays in patients in wheelchairs
 	- 	Average waiting time of wheelchair patients from registration to discharge from the clinic
-	- 	Delay in taking blood samples from the emergency centre to the lab
+	- 	Delay in taking blood samples from the emergency centre to the lab by porters
 7. Which of these is an example of an outcome measure?
 	- 	Number of wheelchair patients assisted by porters calling in at the X-ray department
 	- 	Number of chest X-rays in patients in wheelchairs
 	+	Average waiting time of wheelchair patients from registration to discharge from the clinic
-	- 	Delay in taking blood samples from the emergency centre to the lab
+	- 	Delay in taking blood samples from the emergency centre to the lab by porters
 8. Which of these is an example of a balancing measure?
 	- 	Number of wheelchair patients assisted by porters calling in at the X-ray department
 	- 	Number of chest X-rays in patients in wheelchairs
 	- 	Average waiting time of wheelchair patients from registration to discharge from the clinic
-	+	Delay in taking blood samples from the emergency centre to the lab
+	+	Delay in taking blood samples from the emergency centre to the lab by porters
 9. A quality improvement team discusses several suggestions for reducing waiting time and then gives each suggestion a score for ease and impact. Which changes should they try first?
 	- 	Most difficult, highest impact
 	- 	Most difficult, lowest impact
@@ -64,17 +64,17 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	Too many sutures are ordered, they expire and must be thrown away
 	+	A dressing is wrongly applied and has to be done again
 	- 	A qualified nursing sister spends much of her time answering the telephone
-12. Which of these is an example of the 80-20 rule?
+12. Which of these is an example of the 80/20 rule?
 	- 	80% of the patients are over the age of 20
 	- 	For each 100 working hours, staff should be active for 80 and rest for 20 hours
 	- 	80% of changes take up 20% of the time 
 	+	There are 10 different intravenous cannulae in the department, but in 80% of patients the staff use either a 19FG or a 21FG cannula
-13. The first stage in the “5s” tool to a work area is:
+13. The first stage in the “5-S” tool to a work area is:
 	- 	Store – organising equipment and supplies so that the things needed most frequently are the closest to hand
 	- 	Shine – making sure that the work area is kept clean
 	+	Sort – identifying what items are already in the work area and getting rid of what is not needed
 	- 	Standardise – organising work areas in similar ways so that staff can work efficiently in other areas 
-14. The last and most difficult stage of the “5s” tool is:
+14. The last and most difficult stage of the “5-S” tool is:
 	+	Sustain
 	- 	Standardise
 	- 	Sort

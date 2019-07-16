@@ -106,6 +106,6 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	Two way radios in the emergency centre
 20. Debriefing after a major incident:
 	- 	Should be avoided as there is a risk of re-traumatising staff
-	+	Is important so that things that problems can be identified and discussed, and the major incident plan updated
+	+	Is important so that things that caused problems can be identified and discussed, and the major incident plan updated
 	- 	Is necessary to “name and shame” those who did not respond
 	- 	Should only involve the senior managers

@@ -35,3 +35,5 @@ Astrid Turner. Lecturer, School of Health Systems and Public Health, University 
 Colette Gunst. District Family Physician, Cape Winelands District and Senior Lecturer, Division of Family Medicine and Primary Care, Stellenbosch University.
 
 Guin Lourens. Manager of clinical training programme for community service and interaction, Stellenbosch University. Chair of Rural Nursing South Africa.
+
+The development of the Public Health course book was generously funded by the Medicor Foundation in Liechtenstein. 

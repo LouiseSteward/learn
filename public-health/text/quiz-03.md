@@ -64,7 +64,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	People choose present enjoyment rather than future benefits
 	- 	People tend to get fat because they do not work
 	- 	People who are hungry cannot make decisions so they do nothing
-12.	What is the link between work and health?
+12.	What is the link between work and good health?
 	- 	People who work have more infections because they meet more people
 	- 	Chronic back ache is commoner in people who work
 	- 	People who work have less time to watch TV and learn about healthy lifestyles

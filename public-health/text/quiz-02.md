@@ -66,7 +66,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	Recording clinic attendance
 12.	What is traditional surveillance?
 	- 	Surveillance using cameras to record patient numbers
-	- 	Surveillance that monitors symptoms and signs of illness
+	- 	Surveillance that monitors names illnesses
 	+	Surveillance that tracks diagnosed conditions
 	- 	Surveillance that depends on patients to report their conditions
 13.	Syndromic surveillance depends on many sources including:

@@ -34,7 +34,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	Some harm has come to a patient but there was no problem with the healthcare process 
 	- 	There is a complaint in the newspaper
 	+	A part of the healthcare process has gone wrong and some harm has come to a patient
-6. Why is it important that the healthcare team recognises adverse events and near misses?
+6. Why is it important that the healthcare team recognises adverse events?
 	- 	The person responsible must be identified and disciplined at the M and M meeting
 	- 	Managers must be prepared to deal with enquiries from the media
 	+	The underlying reasons for mistakes and misunderstandings can be identified by the whole team and avoided in the future
@@ -76,24 +76,24 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	The use of computer programmes to record project details
 14. Programme evaluation means:
 	- 	Seeing whether programme activities are being carried out as planned
-	- 	Making sure staff turn up on time
+	- 	Making sure staff are in uniform
 	+	Whether the expected results have been achieved
-	- 	The use of computer programmes to record project details
+	- 	The use of tablets to record project details
 15. In order to determine whether the activities of a programme or project are working as expected, it is necessary first to:
 	- 	Research the literature to see how well other programmes have worked
 	- 	Ensure that adequate funds will be available
 	- 	Ensure that you have the basic computer skills to run a programme
 	+	Decide how you expect the programme activities to achieve your aims by producing a “theory of change” 
-16. When the links between programme activities and the expected results have been thought about and written down, it is necessary to choose markers that can show the quality and quantity of activities and results. These markers are called:
+16. What are impacts?
+	- The overall goal of a project
+	- Obstacles to be tackled
+	- Equipment needed to complete the project
+	- Activities needed for the project
+17. When the links between programme activities and the expected results have been thought about and written down, it is necessary to choose markers that can show the quality and quantity of activities and results. These markers are called:
 	+	Indicators
 	- 	Inventories
 	- 	Audit cycles
 	-	Inspectors
-17. A team wishes to reduce the number of infants and young children with TB. It is decided that community care workers will visit homes of adult patients with TB, and refer contacts who are under 5 years old to the clinic. A good example of a monitoring indicator would be:
-	+	Numbers of homes visited by carers per week
-	- 	Severity of TB in children
-	- 	Numbers of malnourished children with TB
-	- 	Cases of TB in children under 5 per month
 18. A team wishes to reduce the number of infants and young children with TB. It is decided that community care workers will visit homes of adult patients with TB, and refer contacts who are under 5 years old to the clinic. A good example of an evaluation indicator would be:
 	- 	Numbers of homes visited per week
 	-	Severity of TB in children

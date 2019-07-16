@@ -69,7 +69,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	A hospital for women’s problems only
 	- 	A hospital with a ward for teenagers
 	- 	A teaching hospital
-13. In South Africa, family physicians usually work in:
+13. In South Africa, general practitioners usually work in:
 	- 	Specialised hospitals
 	+	District hospitals
 	- 	Regional hospitals
