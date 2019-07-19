@@ -85,7 +85,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	- 	Ensure that you have the basic computer skills to run a programme
 	+	Decide how you expect the programme activities to achieve your aims by producing a “theory of change” 
 16. What are impacts?
-	- The overall goal of a project
+	+ The overall goal of a project
 	- Obstacles to be tackled
 	- Equipment needed to complete the project
 	- Activities needed for the project
