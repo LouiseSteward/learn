@@ -42,8 +42,8 @@ Please choose the *one*, most correct answer to each question or statement.
 7. A hospital wishes to use an electronic system to capture its caseload. What is likely to happen if there is a poor user interface?
 	- 	The hospital will be able to capture data more accurately than by using paper records
 	- 	Staff will use their own mobile devices instead of hospital computers
-	+	More staff will become computer literate
-	- 	Data entry will be inaccurate and incomplete
+	-	More staff will become computer literate
+	+ 	Data entry will be inaccurate and incomplete
 8. How can a good user interface be achieved?
 	- 	By contracting out services to private IT companies
 	+	By information technology experts taking account of the experiences of the people who use the system  
