@@ -268,7 +268,7 @@ Avant de procéder à l’évaluation, présentez l’objectif de cet outil dans
 > 6. I have had difficulty in coping with things:  
 > ☐ Yes, most of the time I haven’t been coping at all  
 > ☐ Yes, sometimes I haven’t been coping as well as usual  
-> ☐ No, most of the time I have coping quite well  
+> ☐ No, most of the time I have been coping quite well  
 > ☐ No, I have been coping as well as ever
 > 7. I have been so unhappy I have had difficulty sleeping:  
 > ☐ Yes, most of the time  
