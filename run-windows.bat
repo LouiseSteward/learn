@@ -48,6 +48,7 @@ set /p process=Enter a number and hit return.
     if "%process%"=="7" goto convertimages
     if "%process%"=="8" goto refreshSearchIndex
     if "%process%"=="9" goto install
+    if "%process%"=="b" goto bqf
     if "%process%"=="x" goto:EOF
     goto choose
 
@@ -998,6 +999,23 @@ set /p process=Enter a number and hit return.
         echo Installing Node modules... This may take a few minutes.
         call npm install
 
+        :: Back to the beginning
+        echo Done.
+        echo.
+        goto begin
+
+    :: :: :: :: :: :: :: ::
+    :: CREATE BQF FILES  ::
+    :: :: :: :: :: :: :: ::
+    
+    :bqf
+        :: ask the user for the bookfolder
+        set /p bookfolder=Which book folder are we processing?
+        if "%bookfolder%"=="" set bookfolder=book
+        
+        :: run the py to create the files
+        call python md_to_bqf.py
+        
         :: Back to the beginning
         echo Done.
         echo.
