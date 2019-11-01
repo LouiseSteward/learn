@@ -7,7 +7,7 @@ style: frontmatter
 
 # Acknowledgements
 
-Authors: Sally Field and Dr Simone Honikman
+Authors: Sally Field and A/Prof Simone Honikman
 
 Editor: Prof David Woods
 
