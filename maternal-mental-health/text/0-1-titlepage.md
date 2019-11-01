@@ -11,7 +11,7 @@ Maternal Mental Health
 A guide for health and social workers
 {:.titlepage-subtitle}
 
-Written by Sally Field and Dr Simone Honikman
+Written by Sally Field and A/Prof Simone Honikman
 {:.titlepage-author}
 
 Edited by Prof David Woods
