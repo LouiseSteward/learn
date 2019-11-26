@@ -7,7 +7,7 @@ style: frontmatter
 
 # About the author and editors
 
-Dr Angela Dramowski is a paediatric infectious diseases specialist with a passion for improving infection prevention and control practices and an interest in the education of healthcare professionals. 
+Prof Angela Dramowski is a paediatric infectious diseases specialist with a passion for improving infection prevention and control practices and an interest in the education of healthcare professionals. 
 
 Prof David Woods is a retired neonatologist and the editor-in-chief of the renowned Perinatal Education Programme.  He is passionate about self-empowered distance learning for all health professionals. His work is funded by Eduhealthcare.
 

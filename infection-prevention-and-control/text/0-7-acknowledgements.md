@@ -9,7 +9,7 @@ style: frontmatter
 
 ## Author
 
-Dr Angela Dramowski, MBChB, FC Paed, Cert Paed ID, MMed Paed, DCH,  Academic Unit for Infection Prevention and Control, Stellenbosch University, South Africa
+Prof Angela Dramowski, MBChB, FC Paed, Cert Paed ID, MMed Paed, DCH,  Academic Unit for Infection Prevention and Control, Stellenbosch University, South Africa
 
 ## Editors
 
