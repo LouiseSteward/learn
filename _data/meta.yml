@@ -20343,7 +20343,8 @@ works:
           - "quiz-10"
           - "quiz-11"
           - "quiz-12"
-          - "quiz-answers"         
+          - "quiz-answers"
+  - directory: "perinatal-hiv"         
     title: "Perinatal HIV"
     subtitle: "Perinatal HIV: What health professionals need to know"
     creator: "Perinatal Education Programme" # E.g. the author
