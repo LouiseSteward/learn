@@ -19745,6 +19745,7 @@ works:
               - file: "06"
                 id: "case-study-1"
                 label: "Case studies"
+          - file: "07"
             id: "7-cultural-understanding-and-spiritual-care"
             label: "**7** Cultural understanding and spiritual care"
             children:
@@ -19769,6 +19770,7 @@ works:
               - file: "07"
                 id: "case-study-1"
                 label: "Case studies"
+          - file: "08"
             id: "8-pain-management"
             label: "**8** Pain management"
             children:
@@ -19991,6 +19993,7 @@ works:
               - file: "06"
                 id: "case-study-1"
                 label: "Case studies"
+          - file: "07"
             id: "7-cultural-understanding-and-spiritual-care"
             label: "**7** Cultural understanding and spiritual care"
             children:
@@ -20015,6 +20018,7 @@ works:
               - file: "07"
                 id: "case-study-1"
                 label: "Case studies"
+          - file: "08"
             id: "8-pain-management"
             label: "**8** Pain management"
             children:
@@ -20243,6 +20247,7 @@ works:
               - file: "06"
                 id: "case-study-1"
                 label: "Case studies"
+          - file: "07"
             id: "7-cultural-understanding-and-spiritual-care"
             label: "**7** Cultural understanding and spiritual care"
             children:
@@ -20267,6 +20272,7 @@ works:
               - file: "07"
                 id: "case-study-1"
                 label: "Case studies"
+          - file: "08"
             id: "8-pain-management"
             label: "**8** Pain management"
             children:
