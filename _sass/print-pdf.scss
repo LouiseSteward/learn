@@ -797,3 +797,10 @@ ol li .figure, ul li .figure {
         margin-bottom: ($line-height-default * $i);
     }
 }
+
+// Indented quote
+
+p.quote {
+    margin-left: $line-height-default;
+    text-align: left;
+}

@@ -661,3 +661,10 @@ blockquote.figure {
     column-span: all;
     max-width: 100%;
 }
+
+// Indented quotes
+
+p.quote {
+    margin-left: $line-height-default;
+    text-align: left;
+}
