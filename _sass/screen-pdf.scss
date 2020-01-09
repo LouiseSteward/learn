@@ -798,3 +798,24 @@ ol li .figure, ul li .figure {
         margin-bottom: ($line-height-default * $i);
     }
 }
+
+// Indented quote
+
+p.quote {
+    margin-left: $line-height-default;
+    text-align: left;
+}
+
+// Indented quotes
+
+blockquote.quote {
+    background-color: white;
+    border-radius: 0;
+    clear: both;
+    color: $color-text-main;
+    font-family: $font-text-main;
+    font-weight: normal;
+    margin: 0 0 $line-height-default $line-height-default;
+    padding-top: $line-height-default;
+    text-align: left;
+}
