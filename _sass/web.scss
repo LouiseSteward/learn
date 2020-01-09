@@ -661,3 +661,20 @@ blockquote.figure {
     column-span: all;
     max-width: 100%;
 }
+
+// Indented quotes
+
+blockquote.quote {
+    background-color: white;
+    border-radius: 0;
+    clear: both;
+    color: $color-text-main;
+    font-family: $font-text-main;
+    font-weight: normal;
+    margin: 0 0 $line-height-default $line-height-default;
+    padding: 0;
+    text-align: left;
+    p {
+        margin-bottom: $line-height-default;
+    }
+}
