@@ -19959,7 +19959,7 @@ works:
             children:
               - file: "quiz-01"
                 id: "quiz-1-the-principles-and-practice-of-palliative-care-for-children"
-                label: "Quiz 1: The principles and practice of palliative care for children
+                label: "Quiz 1: The principles and practice of palliative care for children"              
               - file: "quiz-02"
                 id: "quiz-2-ethics-and-decision-making"
                 label: "Quiz 2: Ethics and decision making"
@@ -20397,7 +20397,7 @@ works:
             children:
               - file: "quiz-01"
                 id: "quiz-1-the-principles-and-practice-of-palliative-care-for-children"
-                label: "Quiz 1: The principles and practice of palliative care for children
+                label: "Quiz 1: The principles and practice of palliative care for children"
               - file: "quiz-02"
                 id: "quiz-2-ethics-and-decision-making"
                 label: "Quiz 2: Ethics and decision making"
@@ -20841,7 +20841,7 @@ works:
             children:
               - file: "quiz-01"
                 id: "quiz-1-the-principles-and-practice-of-palliative-care-for-children"
-                label: "Quiz 1: The principles and practice of palliative care for children
+                label: "Quiz 1: The principles and practice of palliative care for children"
               - file: "quiz-02"
                 id: "quiz-2-ethics-and-decision-making"
                 label: "Quiz 2: Ethics and decision making"
