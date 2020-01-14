@@ -53,7 +53,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -  Every bit of information is given to the patient straight away irrespective of their state of mind
     -  You give all the information you can so that you can get the meeting over and then leave the patient to digest it
     -  The patient’s and family’s understanding of the situation is agreed upon and supported even if it is incorrect
-    -  Information is given at the level of the patient’s and family’s understanding for as long as they can listen
+    +  Information is given at the level of the patient’s and family’s understanding for as long as they can listen
 10. When breaking bad news, we employ the WPC approach. What does WPC stand for?
     -  Wait, Perform, Choice
     -  Worry, Perception, Clarify

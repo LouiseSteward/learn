@@ -108,5 +108,4 @@ Choose the *one,* most correct answer to each question or statement.
     +	Non-nutritive sucking
     -	Swaddling
     -	Sedating the baby
-    -	Giving analgesia,     -    - paracetamol
-
+    -	Giving analgesia, e.g. paracetamol
