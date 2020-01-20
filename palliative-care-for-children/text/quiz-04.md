@@ -55,20 +55,20 @@ Choose the *one,* most correct answer to each question or statement.
     -  You do not know what you are doing
     +  You believe the patient needs an alternative or more advanced level of care
 10.  In which of these circumstances would we consider referring the patient?
-    -  The child is not being cooperative and keeps crying
-    -  The family demands to be seen in a teaching hospital
-    -  The relationship between the patient and the team has broken down
-    +  You do not like the parents
+     -  The child is not being cooperative and keeps crying
+     -  The family demands to be seen in a teaching hospital
+     -  The relationship between the patient and the team has broken down
+     +  You do not like the parents
 11.  What is self-awareness?
-    +  Understanding your own strengths and weaknesses
-    -  Understanding your colleagues’ strengths
-    -  Understanding what motivates the whole healthcare team
-    -  Understanding that you know better than the other team members
+     +  Understanding your own strengths and weaknesses
+     -  Understanding your colleagues’ strengths
+     -  Understanding what motivates the whole healthcare team
+     -  Understanding that you know better than the other team members
 12.  Which statement is true about debriefing?
-    -  It is an opportunity for team members to blame each other openly
-    -  It is an opportunity to focus only on the medical issues of the case
-    +  It is an opportunity to learn and talk about difficult events or situations
-    -  It is an opportunity to change the team you work in
+     -  It is an opportunity for team members to blame each other openly
+     -  It is an opportunity to focus only on the medical issues of the case
+     +  It is an opportunity to learn and talk about difficult events or situations
+     -  It is an opportunity to change the team you work in
 13. A symptom of burnout is:
     -  Feeling content and at peace at work and at home
     +  The smallest thing irritates you and upsets you

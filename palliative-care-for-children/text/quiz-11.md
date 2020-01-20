@@ -49,7 +49,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -	The provincial policy
     -	The choice of the healthcare team
     -	The reason the child is dying
-9. When discussing the child’s death with the family:
+9.  When discussing the child’s death with the family:
     -	The doctor’s religion should decide what needs to be done
     -	The hospital rules must always be followed even if the family disagree
     -	All families need a lot of guidance and instruction

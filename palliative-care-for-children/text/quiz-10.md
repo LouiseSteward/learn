@@ -9,7 +9,7 @@ style: chapter test
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1. What are common signs of anxiety in a child?
+1.  What are common signs of anxiety in a child?
     -	A skin rash and itch
     -	Weight loss and vomiting
     +	Change in sleeping patterns and nightmares
@@ -54,7 +54,7 @@ Please choose the *one*, most correct answer to each question or statement.
     +	Severe wasting
     -	A form of severe depression
     -	A common type of cancer
-10.	 What is a cause of pruritis (itchy skin)?
+10.	What is a cause of pruritis (itchy skin)?
     -	Eating too many sweets
     -	Fever
     +	Dry skin
@@ -64,7 +64,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -	Topical anti-pruritic cream
     +	Opioid switching
     -	A skin moisturiser
-12.	 Children who are at risk of developing pressure sores include:
+12.	Children who are at risk of developing pressure sores include:
     -	Children who play a lot of sport
     -	Adolescents who do no exercise 
     -	Children with Down syndrome
@@ -79,7 +79,7 @@ Please choose the *one*, most correct answer to each question or statement.
     - Effective pain management
     - Massaging the pressure areas 
     - Referring the child to a wound specialist
-15.	 To control bacterial growth in septic wounds
+15.	To control bacterial growth in septic wounds
     -	Use dressings that contain adrenaline 1:1000
     -	Use Bactigras dressings
     +	Use silver sulphadiazine cream or silver dressings 
@@ -89,7 +89,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -	Not cleaning and dressing the wounds three times a day
     -	Overuse of antibiotics
     -	Dressings that are not absorbent
-17.	 Metronidazole gel applied to a fungating tumour is used to:
+17.	Metronidazole gel applied to a fungating tumour is used to:
     -	Control the exudate
     -	Control the necrosis
     +	Control the odour

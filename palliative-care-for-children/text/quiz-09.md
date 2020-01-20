@@ -59,7 +59,7 @@ Please choose the *one,* most correct answer to each question or statement.
     -	Using only medication to dry up secretions
     +	Roll the patient onto the side to facilitate drainage of secretions
     -	Giving extra fluids to make sections thinner
-11.	 Nausea and vomiting are triggered via receptors in:
+11.	Nausea and vomiting are triggered via receptors in:
     -	The gastrointestinal tract only
     +	The gastrointestinal tract, the brain and the vestibular apparatus
     -	The brain only
@@ -69,12 +69,12 @@ Please choose the *one,* most correct answer to each question or statement.
     -	A urinary tract infection
     +	Raised inter cranial pressure
     -	Pneumonia
-13.	 A strategy to help manage nausea and vomiting may include:
+13.	A strategy to help manage nausea and vomiting may include:
     -	Giving the child prune juice to drink
     -	Keeping the child nil per mouth for 24 hours
     +	Offering small meals and avoid exposing the child to strong odours
     -	Include spicy foods into the diet
-14.	 A prokinetic such as metoclopramide given for nausea and vomiting works on the:
+14.	A prokinetic such as metoclopramide given for nausea and vomiting works on the:
     -	Vomiting centre
     -	The chemo-receptor trigger zone
     -	Vestibular apparatus
@@ -84,12 +84,12 @@ Please choose the *one,* most correct answer to each question or statement.
     -	Maxalon
     -	Cyclizine
     -	Metoclopramide
-16.	 Cyclizine is an anti-emetic which works on the: 
+16.	Cyclizine is an anti-emetic which works on the: 
     -	Chemo-receptor trigger zone
     -	The gastrointestinal tract
     +	The vomiting centre in the brain
     -	The vestibular apparatus
-17.	 A common cause of constipation is due to:
+17.	A common cause of constipation is due to:
     +	The side effects of medication such as opioids
     -	The use of anti-emetics
     -	Over hydration
@@ -99,7 +99,7 @@ Please choose the *one,* most correct answer to each question or statement.
     -	Reducing fluids and fibre in the diet
     -	Giving an enema to clear the bowel
     +	Treating and correcting any underlying causes or reversible factors where possible
-19.	 To prevent constipation:
+19.	To prevent constipation:
     -	Use a different laxative daily
     +	Encourage regular daily bowel routines
     -	Cut down on protein in the child’s diet
