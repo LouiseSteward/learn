@@ -54,22 +54,22 @@ Choose the *one,* most correct answer to each question or statement.
     -	Not a reliable method of assessing pain
     -	Only suitable for adults
     -	Too expensive to use in many countries
-10.	 Pain rating scales are useful for: 
+10.	Pain rating scales are useful for: 
     -	Parents to decide the severity of the child’s pain
     -	Weighing children to calculate medicine dosages
     -	Deciding on the smallest dose of pain medicine for a child
     +	Guiding treatment and monitoring the response to the treatment and interventions
-11.	The FLACC scale is a pain rating scale that is used to assess pain in:
+11. The FLACC scale is a pain rating scale that is used to assess pain in:
     -	Adolescents
     -	Children between 5 and 6 years
     -	Children between 3 and 5 years
     +	Infants and children under 3 years
-12.	 Which pain rating scales can be used to assess pain in children over the age of 7 years?
+12.	Which pain rating scales can be used to assess pain in children over the age of 7 years?
     +	Numerical rating scale
     -	NIPS
     -	Revised faces pain scale
     -	Ten finger pain scale
-13.	 The main aim of pain management is to:
+13.	The main aim of pain management is to:
     -	Decrease the time the child spends away from school
     -	Make the child easier to manage in hospital
     -	Prevent the parents complaining to the hospital management
@@ -79,12 +79,12 @@ Choose the *one,* most correct answer to each question or statement.
     -	Pharmacological measures only
     -	Only distraction measures like reading story’s and blowing bubbles
     +	Both non-pharmacological and pharmacological measures
-15.	 According to the World Health Organization (WHO) the broad principles of analgesic use are to: 
+15.	According to the World Health Organization (WHO) the broad principles of analgesic use are to: 
     -	Give analgesia according to a fixed dose and schedule
     -	Give analgesia according to the wishes of the parents
     +	Give analgesia by the appropriate route, by the clock, by the individual child and by the ladder
     -	Give analgesia only when the caregiver thinks that the child is in pain
-16.	 On step three of the WHO pain ladder the following is used for severe pain?
+16.	On step three of the WHO pain ladder the following is used for severe pain?
     +	A strong opioid (morphine)
     -	A weak opioid (Valoron)
     -	A non-opioid (paracetamol)
