@@ -8,18 +8,18 @@ title: 13. Appendices
 ## Contents
 {:.non-printing}
 
-* [Appendix A](#appendix-a)
-* [Appendix B](#appendix-b)
-* [Appendix B1](#appendix-b1)
-* [Appendix B2](#appendix-b2)
-* [Appendix C](#appendix-c)
-* [Appendix D](#appendix-d)
-* [Appendix E](#appendix-e)
-* [Appendix F](#appendix-f)
-* [Appendix G](#appendix-g)
-* [Appendix H](#appendix-h)
-* [Appendix I](#appendix-i)
-* [Appendix J](#appendix-j)
+* [Appendix A](#appendix-a-the-international-childrens-palliative-care-network-icpcn-charter-of-rights-for-life-limited-and-life-threatened-children)
+* [Appendix B](#appendix-b-communication-role-plays)
+* [Appendix B1](#appendix-b1-communication-assessment-tool)
+* [Appendix B2](#appendix-b2-self-reflection-tool)
+* [Appendix C](#appendix-c-debriefing-model)
+* [Appendix D](#appendix-d-palliative-care-plan)
+* [Appendix E](#appendix-e-patchsa-advance-care-plan)
+* [Appendix F](#appendix-f-using-the-questt-approach-to-assess-the-child)
+* [Appendix G](#appendix-g-age-appropriate-pain-rating-scales)
+* [Appendix H](#appendix-h-drug-formulary)
+* [Appendix I](#appendix-i-instructions-for-inserting-and-caring-for-a-butterfly-needle-for-a-subcutaneous-infusion)
+* [Appendix J](#appendix-j-patchsa-terminal-care-plan-and-end-of-life-care-plan-checklist)
 {:.chapter-toc}
 
 ## Appendix A: The International Children’s Palliative Care Network (ICPCN) charter of rights for life-limited and life-threatened children
@@ -1135,7 +1135,7 @@ Use the following acronym to ask questions about the pain:
 > **SS:** *Severity, site:*
 > 
 > - How severe is the pain at the site?
-> - Score the intensity using pain rating scales (see [appendix G](#appendix-g)).
+> - Score the intensity using pain rating scales (see [appendix G](#appendix-g-age-appropriate-pain-rating-scales)).
 > 
 > **TT:** *Time course, treatment:*
 > 
@@ -1148,7 +1148,7 @@ Use the following acronym to ask questions about the pain:
 
 #### The ‘U’ in QUESTT: Use pain rating scales.
 
-See [appendix G](#appendix-g) for more information on age appropriate pain rating scales.
+See [appendix G](#appendix-g-age-appropriate-pain-rating-scales) for more information on age appropriate pain rating scales.
 
 - Pain rating scales are useful for establishing a baseline and for measuring response to treatment.
 - Different scales have been developed for different ages and levels of development in both non-verbal and verbal children.
