@@ -22,9 +22,7 @@ title: 13. Appendices
 * [Appendix J](#appendix-j)
 {:.chapter-toc}
 
-## Appendix A
-
-### The International Children’s Palliative Care Network (ICPCN) charter of rights for life-limited and life-threatened children
+## Appendix A: The International Children’s Palliative Care Network (ICPCN) charter of rights for life-limited and life-threatened children
 
 1. Every child should expect individualised, culturally and age appropriate palliative care as defined by the World Health Organization (WHO). The specific needs of adolescents and young people shall be addressed and planned for.
 2. Palliative care for the child and family shall begin at the time of diagnosis and continue alongside any curative treatments throughout the child’s illness, during death and in bereavement. The aim of palliative care shall be to relieve suffering and promote quality of life.
@@ -41,9 +39,7 @@ Adapted from the ACT Charter
 
 October 2008
 
-## Appendix B
-
-### Communication role plays
+## Appendix B: Communication role plays
 
 The objectives of a role play are to:
 
@@ -107,9 +103,7 @@ Devon is a 9-year-old who has suffered a severe head injury and may not survive.
 
 Devon’s parents and his sister are at his bedside in a busy ICU ward. His mother is comforting Tamara, who is crying softly. Devon’s condition has stabilised for the moment but the prognosis for a recovery remains poor. Role play how you would break this distressing news to his parents and to Tamara.
 
-## Appendix B1
-
-### Communication assessment tool
+## Appendix B1: Communication assessment tool
 
 Strong communication skills are important to develop the skills and competence needed in the workplace. Peer review is used for feedback. Honest and accurate feedback will help your peers to strengthen their communication skills and to identify gaps in their learning. Use the communication assessment tool to help guide the assessment of your peers’ communication skills.
 
@@ -183,9 +177,7 @@ Strong communication skills are important to develop the skills and competence n
 </tbody>
 </table>
 
-## Appendix B2
-
-### Self-reflection tool
+## Appendix B2: Self-reflection tool
 
 Identifying gaps in one’s own skills and knowledge is an important part of consolidating new learning. Use this tool to reflect on the role play experience.
 
@@ -323,9 +315,7 @@ Identifying gaps in one’s own skills and knowledge is an important part of con
  </tbody>
 </table>
 
-## Appendix C
-
-### Debriefing model
+## Appendix C: Debriefing model
 
 Phase 1 – Introduction
 
@@ -355,9 +345,7 @@ Phase 7 – Re-entry
 
 The participants may ask questions or make final statements. The debriefing team summarises what has been discussed. Final explanations, information, action directives, guidance and thoughts are presented to the group. Handouts may be distributed.
 
-## Appendix D
-
-### Palliative care plan
+## Appendix D: Palliative care plan
 
 <table class="wide">
 <tbody>
@@ -472,9 +460,7 @@ The participants may ask questions or make final statements. The debriefing team
  </tbody>
 </table>
 
-## Appendix E
-
-### PatchSA Advance care plan 
+## Appendix E: PatchSA Advance care plan 
 
 This tool is for discussing and communicating the wishes of a child or young person and their parents and/or family. Its aim is to explore what may happen as the child’s illness progresses, particularly towards the end-of-life, but at a point when there is time for decisions to be discussed and made. It Is particularly useful in an emergency when informed consent cannot be given by the patient or next of kin.
 
@@ -1118,9 +1104,7 @@ Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *Follow the Child: Planning and Having the Best End-of-Life Care for Your Child* by Sacha Langton-Gilks
 
-## Appendix F
-
-### Using the QUESTT approach to assess the child
+## Appendix F: Using the QUESTT approach to assess the child
 
 #### The ‘Q’ in QUESTT: Question the child and parent/caregiver.
 
@@ -1301,9 +1285,7 @@ See [appendix G](#appendix-g) for more information on age appropriate pain ratin
 - Revise the treatment plan.
 - Pain diaries are also helpful for constant re-evaluation in children with chronic pain.
 
-## Appendix G
-
-### Age appropriate pain rating scales
+## Appendix G: Age appropriate pain rating scales
 
 Age appropriate pain rating scales include the following:
 
@@ -1518,17 +1500,13 @@ Note
 Note
 : Ask the child what their favourite colour is before starting and remove that one from the group of colours, as you don’t want them to associate pain with this colour.
 
-## Appendix H
-
-### Drug formulary
+## Appendix H: Drug formulary
 
 A detailed Association for Paediatric Palliative Medicine’s (APPM) 2020 formulary with drug names, doses, side effects and contraindications can be accessed via the [PatchSA website](http://patchsa.org/patchsa_ppc_formulary/).
 
 The APPM formulary is the leading international resource and only authoritative guide on prescribing in paediatric palliative care. Many of these medicines are prescribed ‘off-licence’ and ‘on expert opinion’ as it is difficult to do studies in this vulnerable population. Caution needs to be exercised in children with renal or liver dysfunction and dose adjustments need to be made. Do note not all of the formulations mentioned in this resource are available in South Africa.
 
-## Appendix I
-
-Instructions for inserting and caring for a butterfly needle for a subcutaneous infusion
+## Appendix I: Instructions for inserting and caring for a butterfly needle for a subcutaneous infusion
 
 <table class="wide">
   <tr>
@@ -1577,9 +1555,7 @@ How to insert the butterfly needle:
 3. Attach to syringe driver tubing, place the syringe in the syringe driver and start infusion
 {:start="8"}
 
-## Appendix J
-
-### PatchSA terminal care plan and end-of-life care plan checklist
+## Appendix J: PatchSA terminal care plan and end-of-life care plan checklist
 
 <table class="wide">
   <col width="45%">
