@@ -48,9 +48,9 @@ The objectives of a role play are to:
 
 Role play uses real life situations, but provides opportunities for participants to practice in a simulated situation.
 
-#### Instructions for the communication role plays
+### Instructions for the communication role plays
 
-#### Role play 1 – Basic communication skills
+### Role play 1 – Basic communication skills
 
 1. Read through the scenarios together as a group.
 2. The group facilitator will hand out the communication assessment tool and self reflection tool and read through it with the group.
@@ -63,20 +63,20 @@ Role play uses real life situations, but provides opportunities for participants
 9. Once the role play has been completed, the role players must ‘de-role’. This is the process of separating who they are as a person from the role that they just played. There are several ways to carry out this important part of a role play. One of these is to have the role players say their own name and say that they are not the character name they have been role playing.
 10. Once the role players have ‘de-roled’ they will swop around and the same process will take place until all three participants have had a turn at being the assessor, healthcare professional and patient.
 
-##### Scenario:
+#### Scenario:
 
 Thandi is 5 years old. She has been receiving treatment for leukaemia for 3 months. Thandi is normally a very upbeat and smiley child but this week she is very withdrawn. As part of the treating team who has the best relationship with Thandi, you have been asked to go and chat with her.
 
-##### Role players:
+#### Role players:
 
 - Thandi
 - The healthcare professional (nurse, doctor or social worker)
 
-##### Roleplay the following situation:
+#### Roleplay the following situation:
 
 Thandi is sitting on her bed with her back towards the door. Her favourite things – colouring book, crayons and her teddy – are on the side-table behind her. Role play how you would approach Thandi and find out what is bothering her.
 
-#### Role play 2 – Breaking bad news
+### Role play 2 – Breaking bad news
 
 (Based on case study 4 in [Chapter 3](03.html))
 
@@ -88,18 +88,18 @@ When conducting the role play in this manner it is important to remember that:
 2. The group facilitator will conduct the feedback session as discussed in points seven and eight in role play 1. Once the role players and the group facilitator have given their feedback the group facilitator can ask the group members to give their feedback. Firstly, on what went well and then what they think could have been done better.
 3. It is very important that the role player’s ‘de-role’ as discussed in point nine in role play 1.
 
-##### Scenario:
+#### Scenario:
 
 Devon is a 9-year-old who has suffered a severe head injury and may not survive. He is currently admitted to the ICU on a ventilator. His parents and 16-year-old sister, Tamara, are at his bedside. The family have been very active on social media asking that people pray for Devon. This has resulted in thousands of people following his progress online and encouraging his family to expect a miraculous recovery.
 
-##### Role players:
+#### Role players:
 
 - Two healthcare professionals (doctor, nurse and/or social worker)
 - Devon’s mother
 - Devon’s father
 - Tamara
 
-##### Role play the following situation:
+#### Role play the following situation:
 
 Devon’s parents and his sister are at his bedside in a busy ICU ward. His mother is comforting Tamara, who is crying softly. Devon’s condition has stabilised for the moment but the prognosis for a recovery remains poor. Role play how you would break this distressing news to his parents and to Tamara.
 
@@ -1106,7 +1106,7 @@ Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## Appendix F: Using the QUESTT approach to assess the child
 
-#### The ‘Q’ in QUESTT: Question the child and parent/caregiver.
+### The ‘Q’ in QUESTT: Question the child and parent/caregiver.
 
 - By 18 months, most children have a word to describe pain for example, a ‘hurt’ or an ‘eina’.
 - Pain intensity can be described by children with a cognitive age of 4 years old.
@@ -1146,7 +1146,7 @@ Use the following acronym to ask questions about the pain:
 > - How long does the pain last?
 {:.box}
 
-#### The ‘U’ in QUESTT: Use pain rating scales.
+### The ‘U’ in QUESTT: Use pain rating scales.
 
 See [appendix G](#appendix-g-age-appropriate-pain-rating-scales) for more information on age appropriate pain rating scales.
 
@@ -1156,7 +1156,7 @@ See [appendix G](#appendix-g-age-appropriate-pain-rating-scales) for more inform
 - Find one or two that you are comfortable to use. There is no ideal rating scale.
 - Remember that children may deny pain for fear of consequences.
 
-#### The ‘E’ in QUESTT: Evaluate behaviour and physiological changes.
+### The ‘E’ in QUESTT: Evaluate behaviour and physiological changes.
 
 - Physiological responses to pain include increased pulse, raised BP, profuse (intense) sweating, pallor or flushing, decreased oxygen saturation, dilated pupils, increased tone, rapid shallow respiration and hyperglycaemia.
 - Adaptation can occur with ongoing pain and physiological manifestations may be absent in chronic pain.
@@ -1263,20 +1263,20 @@ See [appendix G](#appendix-g-age-appropriate-pain-rating-scales) for more inform
   </tr>
 </table>
 
-#### The ‘S’ in QUESTT: Secure parent or caregiver’s involvement.
+### The ‘S’ in QUESTT: Secure parent or caregiver’s involvement.
 
 - Listen to mothers, fathers and caregivers as they know their child the best.
 - Include them in the decision-making process.
 - They are more tuned to subtle changes in their child’s behaviour.
 - They know what works best to comfort their child.
 
-#### The ‘T’ in QUESTT: Take the cause of the pain into account.
+### The ‘T’ in QUESTT: Take the cause of the pain into account.
 
 - Consider the pathophysiology of the underlying problem i.e., the cause of the pain.
 - Identify whether the pain may be unrelated to the disease or condition, e.g. toothache.
 - Descriptions of the type of pain help to determine its cause and management.
 
-#### The ‘T’ in QUESTT: Take action and evaluate the results.
+### The ‘T’ in QUESTT: Take action and evaluate the results.
 
 - Assess pain.
 - Develop the treatment plan.
@@ -1294,7 +1294,7 @@ Age appropriate pain rating scales include the following:
 3. Children over 3 years of age: Wong Baker Faces pain scale
 4. Children over 7 years of age: Numeric, word pain scale and Eland colour body tool
 
-#### Neonates
+### Neonates
 
 Assessing a neonate’s facial expression is a useful way of identifying pain and distress. Typical facial signs of pain in neonates are the following:
 
@@ -1389,7 +1389,7 @@ Neonatal / infant pain scale (NIPS): Score \>3 = pain
   </tr>
 </table>
 
-#### Children 3 years of age and under
+### Children 3 years of age and under
 
 **FLACC scale**
 
@@ -1438,7 +1438,7 @@ Indications for use with:
   </tr>
 </table>
 
-#### Children over 3 years of age
+### Children over 3 years of age
 
 **Faces pain scale revised**
 
@@ -1456,7 +1456,7 @@ Ask the patient to show how bad the pain is with their hand.
 
 Ask the child to show how bad the pain is with their hand. This is the internationally recognised version of this tool. In South Africa this tool has been adapted and may vary from region to region for example, a child showing you their thumb can mean thumbs up and ‘I am okay’. Therefore, always check what is used in a particular environment and ask the child what he or she means.
 
-#### Children over 7 years of age
+### Children over 7 years of age
 
 **Numerical Rating Scale for children over 7 years of age**
 
