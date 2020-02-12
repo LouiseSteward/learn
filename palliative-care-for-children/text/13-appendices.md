@@ -567,29 +567,29 @@ Professionals involved in and agreeing to care plan
     <th>Role / position</th>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td></td>
-    <td></td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
 </table>
 
@@ -638,7 +638,7 @@ Other / specific reasons for ACP
 <table class="wide">
   <col width="100%">
   <tr>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
   </tr>
 </table>
 
@@ -653,19 +653,19 @@ Current clinical and psychosocial problems
     <th>Management plan</th>
   </tr>
   <tr>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
     <td></td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
     <td></td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
     <td></td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
     <td></td>
   </tr>
 </table>
@@ -676,7 +676,7 @@ Goals of care
 <table class="wide">
   <col width="100%">
   <tr>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
   </tr>
 </table>
 
@@ -911,14 +911,14 @@ Possible scenarios or complications
     <td colspan="2">Limitations</td>
   </tr>
   <tr>
-    <td colspan="2">&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
+    <td colspan="2">&#160;</td>
+    <td colspan="2">&#160;</td>
+    <td colspan="2">&#160;</td>
   </tr>
   <tr>
-    <td colspan="2">&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
+    <td colspan="2">&#160;</td>
+    <td colspan="2">&#160;</td>
+    <td colspan="2">&#160;</td>
   </tr>
 </table>
 
@@ -956,32 +956,32 @@ Medication management
     <td>Stop if</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
 </table>
 
@@ -1002,39 +1002,39 @@ Additional medicines / therapies that may be needed for palliative care and symp
     <th>Stop if</th>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
 </table>
 
@@ -1079,28 +1079,28 @@ Permission to share this information with others
     <th>Individual or institution</th>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>&#160;</td>
+    <td>&#160;</td>
   </tr>
 </table>
 
