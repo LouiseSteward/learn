@@ -1304,7 +1304,7 @@ Assessing a neonate’s facial expression is a useful way of identifying pain an
 4. Cheeks raised, nose broadened and bulging, deepened nasolabial fold
 5. Open and squarish mouth.
 
-![Figure 8-a]({{ images }}/8-a.svg)
+> ![Figure 8-a]({{ images }}/8-a.svg)
 {:.figure}
 
 Neonatal / infant pain scale (NIPS): Score \>3 = pain
@@ -1442,7 +1442,7 @@ Indications for use with:
 
 **Faces pain scale revised**
 
-![Figure 8-b]({{ images }}/8-b.svg)
+> ![Figure 8-b]({{ images }}/8-b.svg)
 {:.figure}
 
 Ask the child to point to the face which indicates how bad or severe their pain is.
@@ -1451,7 +1451,7 @@ Ask the child to point to the face which indicates how bad or severe their pain 
 
 Ask the patient to show how bad the pain is with their hand.
 
-![Figure 8-c]({{ images }}/8-c.svg)
+> ![Figure 8-c]({{ images }}/8-c.svg)
 {:.figure}
 
 Ask the child to show how bad the pain is with their hand. This is the internationally recognised version of this tool. In South Africa this tool has been adapted and may vary from region to region for example, a child showing you their thumb can mean thumbs up and ‘I am okay’. Therefore, always check what is used in a particular environment and ask the child what he or she means.
@@ -1478,7 +1478,7 @@ Ask a child to ‘draw’ his or her pain. This often gives insight into the int
 
 **Directions for use:**
 
-![Figure 8-d]({{ images }}/8-d.svg)
+> ![Figure 8-d]({{ images }}/8-d.svg)
 {:.figure}
 
 After discussing with the child several things that have hurt the child in the past:
@@ -1519,7 +1519,7 @@ The APPM formulary is the leading international resource and only authoritative 
   </tr>
 </table>
 
-![Figure 11-a]({{ images }}/11-a.svg)
+> ![Figure 11-a]({{ images }}/11-a.svg)
 {:.figure}
 
 What to look for when inspecting the site:
@@ -1538,7 +1538,7 @@ How to insert the butterfly needle:
 2. Put on gloves.
 3. Prefill butterfly needle and tubing with normal saline.
 
-![Figure 11-b]({{ images }}/11-b.svg)
+> ![Figure 11-b]({{ images }}/11-b.svg)
 {:.figure}
 
 1. Clean the site with Chlorhexidine 2%/alcohol swab (left to right, then up and down) for 15 seconds. Allow the skin to dry.
@@ -1547,7 +1547,7 @@ How to insert the butterfly needle:
 4. Grasp and hold the pebbled side wings of the butterfly needle with bevel down, insert at a 45 degree angle to skin, insert the entire length of the needle into the skin.
 {:start="4"}
 
-![Figure 11-c]({{ images }}/11-c.svg)
+> ![Figure 11-c]({{ images }}/11-c.svg)
 {:.figure}
 
 1. If blood appears in the tubing; discard the needle and start again with a new needle.
