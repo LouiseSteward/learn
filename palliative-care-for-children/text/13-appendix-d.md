@@ -5,6 +5,7 @@ title: 13. Appendix D. Palliative care plan
 {% include metadata %}
 
 # **Appendix D** Palliative care plan
+{:title="Palliative care plan"}
 
 <table class="wide">
 <tbody>
@@ -62,7 +63,7 @@ title: 13. Appendix D. Palliative care plan
  </tbody>
 </table>
 
-<table class="wide">
+<table class="wide keep-together">
  <thead>
   <tr>
     <th>Problem list</th>

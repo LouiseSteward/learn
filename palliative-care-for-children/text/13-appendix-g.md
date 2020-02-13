@@ -5,7 +5,9 @@ title: 13. Appendix G. Age appropriate pain rating scales
 {% include metadata %}
 
 # **Appendix G** Age appropriate pain rating scales
+{:title="Age appropriate pain rating scales"}
 
+<div class="wide" markdown="1">
 Age appropriate pain rating scales include the following:
 
 1. Neonates, infants: Neonatal pain rating scale (NIPS) or facial expression tool
@@ -22,12 +24,13 @@ Assessing a neonate’s facial expression is a useful way of identifying pain an
 3. Eyes slightly closed
 4. Cheeks raised, nose broadened and bulging, deepened nasolabial fold
 5. Open and squarish mouth.
+</div>
 
 > ![Figure 8-a]({{ images }}/8-a.svg)
 {:.figure}
 
 Neonatal / infant pain scale (NIPS): Score \>3 = pain
-{:.table-caption}
+{:.table-caption.wide.keep-with-next}
 
 <table class="wide">
   <tr class="table-subhead">
@@ -110,7 +113,7 @@ Neonatal / infant pain scale (NIPS): Score \>3 = pain
 
 ## Children 3 years of age and under
 
-**FLACC scale**
+### FLACC scale
 
 Indications for use with:
 
@@ -159,14 +162,14 @@ Indications for use with:
 
 ## Children over 3 years of age
 
-**Faces pain scale revised**
+### Faces pain scale revised
 
 > ![Figure 8-b]({{ images }}/8-b.svg)
 {:.figure}
 
 Ask the child to point to the face which indicates how bad or severe their pain is.
 
-**Five-finger score**
+### Five-finger score
 
 Ask the patient to show how bad the pain is with their hand.
 
@@ -177,25 +180,25 @@ Ask the child to show how bad the pain is with their hand. This is the internati
 
 ## Children over 7 years of age
 
-**Numerical Rating Scale for children over 7 years of age**
+### Numerical Rating Scale for children over 7 years of age
 
 On a scale from 0 – 10, describe how strong your pain is.
 
 | **No pain** | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | **Worst possible pain** |
 {:.wide}
 
-**Word pain scale**
+### Word pain scale
 
 | **No pain** | **Little pain** | **Medium pain** | **Severe pain** | **Worst pain** |
 {:.wide}
 
-**Drawing pain**
+### Drawing pain
 
 Ask a child to ‘draw’ his or her pain. This often gives insight into the intensity and nature of the pain but may also reflect its psychosocial consequences or the child’s fears.
 
-**Eland Body Tool**
+### Eland Body Tool
 
-**Directions for use:**
+#### Directions for use:
 
 > ![Figure 8-d]({{ images }}/8-d.svg)
 {:.figure}

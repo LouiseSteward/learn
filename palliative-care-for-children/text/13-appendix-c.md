@@ -5,6 +5,7 @@ title: 13. Appendix C. Debriefing model
 {% include metadata %}
 
 # **Appendix C** Debriefing model
+{:title="Debriefing model"}
 
 ## Phase 1 – Introduction
 

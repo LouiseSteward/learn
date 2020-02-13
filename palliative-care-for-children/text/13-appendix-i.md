@@ -5,6 +5,11 @@ title: 13. Appendix I. Instructions for inserting and caring for a butterfly nee
 {% include metadata %}
 
 # **Appendix I** Instructions for inserting and caring for a butterfly needle for a subcutaneous infusion
+{:title="Butterfly needle subcutaneous infusion"}
+
+
+> ![Figure 11-a]({{ images }}/11-a.svg)
+{:.figure.medium}
 
 <table class="wide">
   <tr>
@@ -16,9 +21,6 @@ title: 13. Appendix I. Instructions for inserting and caring for a butterfly nee
     <td>Swollen areas<br>Infected and inflamed areas<br>Areas where there is open skin<br>Near joints or where the bone is near the skin<br>In skin folds<br>Areas that are scarred</td>
   </tr>
 </table>
-
-> ![Figure 11-a]({{ images }}/11-a.svg)
-{:.figure}
 
 What to look for when inspecting the site:
 
@@ -35,21 +37,16 @@ How to insert the butterfly needle:
 1. Wash and sterilise hands.
 2. Put on gloves.
 3. Prefill butterfly needle and tubing with normal saline.
+4. Clean the site with Chlorhexidine 2%/alcohol swab (left to right, then up and down) for 15 seconds. Allow the skin to dry.
+5. Remove protective sheet from needle.
+6. Pinch a roll of tissue (approx. 2.5 cm) around the insertion site.
+7. Grasp and hold the pebbled side wings of the butterfly needle with bevel down, insert at a 45 degree angle to skin, insert the entire length of the needle into the skin.
+8. If blood appears in the tubing; discard the needle and start again with a new needle.
+9. Stick down the wings and the tubing securely. Loop the tubing to prevent it from dislodging.
+10. Attach to syringe driver tubing, place the syringe in the syringe driver and start infusion
 
 > ![Figure 11-b]({{ images }}/11-b.svg)
-{:.figure}
-
-1. Clean the site with Chlorhexidine 2%/alcohol swab (left to right, then up and down) for 15 seconds. Allow the skin to dry.
-2. Remove protective sheet from needle.
-3. Pinch a roll of tissue (approx. 2.5 cm) around the insertion site.
-4. Grasp and hold the pebbled side wings of the butterfly needle with bevel down, insert at a 45 degree angle to skin, insert the entire length of the needle into the skin.
-{:start="4"}
+{:.figure.column-width}
 
 > ![Figure 11-c]({{ images }}/11-c.svg)
-{:.figure}
-
-1. If blood appears in the tubing; discard the needle and start again with a new needle.
-2. Stick down the wings and the tubing securely. Loop the tubing to prevent it from dislodging.
-3. Attach to syringe driver tubing, place the syringe in the syringe driver and start infusion
-{:start="8"}
-
+{:.figure.medium}

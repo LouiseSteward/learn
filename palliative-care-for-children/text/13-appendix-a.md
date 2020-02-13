@@ -4,6 +4,7 @@ title: 13. Appendix A. The International Children’s Palliative Care Network (I
 {% include metadata %}
 
 # **Appendix A** The International Children’s Palliative Care Network (ICPCN) charter of rights for life-limited and life-threatened children
+{:title="ICPCN charter of rights"}
 
 1. Every child should expect individualised, culturally and age appropriate palliative care as defined by the World Health Organization (WHO). The specific needs of adolescents and young people shall be addressed and planned for.
 2. Palliative care for the child and family shall begin at the time of diagnosis and continue alongside any curative treatments throughout the child’s illness, during death and in bereavement. The aim of palliative care shall be to relieve suffering and promote quality of life.
@@ -17,5 +18,4 @@ title: 13. Appendix A. The International Children’s Palliative Care Network (I
 10. Every child and family member, including siblings, shall receive culturally appropriate, clinical, emotional, psychosocial and spiritual support in order to meet their particular needs. Bereavement support for the child’s family shall be available for as long as it is required.
 
 Adapted from the ACT Charter
-
-October 2008
+<br>October 2008

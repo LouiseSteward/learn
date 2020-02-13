@@ -5,6 +5,7 @@ title: 13. Appendix J. PatchSA terminal care plan and end-of-life care plan chec
 {% include metadata %}
 
 # **Appendix J** PatchSA terminal care plan and end-of-life care plan checklist
+{:title="PatchSA checklist"}
 
 <table class="wide">
   <col width="45%">

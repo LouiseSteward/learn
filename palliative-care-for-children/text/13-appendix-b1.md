@@ -4,9 +4,11 @@ title: 13. Appendix B1. Communication assessment tool
 
 {% include metadata %}
 
-# **Appendix B1** Communication assessment tool
+# **Appendix B1** <br>Communication assessment tool
+{:title="Communication assessment tools"}
 
-Strong communication skills are important to develop the skills and competence needed in the workplace. Peer review is used for feedback. Honest and accurate feedback will help your peers to strengthen their communication skills and to identify gaps in their learning. Use the communication assessment tool to help guide the assessment of your peers’ communication skills.
+Strong communication skills are important to develop the skills and competence needed in the workplace. Peer&nbsp;review is used for feedback. Honest and accurate feedback will help your peers to strengthen their communication skills and to identify gaps in their learning. Use the communication assessment tool to help guide the assessment of your peers’ communication skills.
+{:.keep-together.wide}
 
 <table class="wide">
   <col width="40%">
@@ -77,4 +79,4 @@ Strong communication skills are important to develop the skills and competence n
  </tr>
 </tbody>
 </table>
-
+{:.keep-together}

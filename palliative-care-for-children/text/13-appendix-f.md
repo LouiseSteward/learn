@@ -5,8 +5,10 @@ title: 13. Appendix F. Using the QUESTT approach to assess the child
 {% include metadata %}
 
 # **Appendix F** Using the QUESTT approach to assess the child
+{:title="Using the QUESTT approach"}
 
-## The ‘Q’ in QUESTT: Question the child and parent/caregiver.
+<div class="wide" markdown="1">
+### The ‘Q’ in QUESTT: Question the child and parent/caregiver.
 
 - By 18 months, most children have a word to describe pain for example, a ‘hurt’ or an ‘eina’.
 - Pain intensity can be described by children with a cognitive age of 4 years old.
@@ -15,38 +17,34 @@ title: 13. Appendix F. Using the QUESTT approach to assess the child
 - Parents may be more motivated to recognise pain in their child in order to help alleviate it.
 
 Use the following acronym to ask questions about the pain:
+</div>
 
 > **P:** *Precipitating, palliating, provoking factors*:
-> 
 > - What causes the pain?
 > - What makes the pain better?
 > - What makes the pain worse?
 > 
 > **Q:** *Quality, quantity:*
-> 
 > - What does the pain feel like?
 > - Is it sharp, stabbing, burning, and/or stinging?
 > 
 > **R:** *Radiation, related factors:*
-> 
 > - Where is the pain?
 > - Is it in one place or does the pain move? If so, where does it move to?
 > 
 > **SS:** *Severity, site:*
-> 
 > - How severe is the pain at the site?
 > - Score the intensity using pain rating scales (see [appendix G](#appendix-g-age-appropriate-pain-rating-scales)).
 > 
 > **TT:** *Time course, treatment:*
-> 
 > - When did it start?
 > - Is it there all the time?
 > - Is it mainly at night or in the day?
 > - Is the pain worse when you move?
 > - How long does the pain last?
-{:.box}
+{:.box.wide}
 
-## The ‘U’ in QUESTT: Use pain rating scales.
+### The ‘U’ in QUESTT: Use pain rating scales.
 
 See [appendix G](#appendix-g-age-appropriate-pain-rating-scales) for more information on age appropriate pain rating scales.
 
@@ -56,7 +54,7 @@ See [appendix G](#appendix-g-age-appropriate-pain-rating-scales) for more inform
 - Find one or two that you are comfortable to use. There is no ideal rating scale.
 - Remember that children may deny pain for fear of consequences.
 
-## The ‘E’ in QUESTT: Evaluate behaviour and physiological changes.
+### The ‘E’ in QUESTT: Evaluate behaviour and physiological changes.
 
 - Physiological responses to pain include increased pulse, raised BP, profuse (intense) sweating, pallor or flushing, decreased oxygen saturation, dilated pupils, increased tone, rapid shallow respiration and hyperglycaemia.
 - Adaptation can occur with ongoing pain and physiological manifestations may be absent in chronic pain.
@@ -163,20 +161,20 @@ See [appendix G](#appendix-g-age-appropriate-pain-rating-scales) for more inform
   </tr>
 </table>
 
-## The ‘S’ in QUESTT: Secure parent or caregiver’s involvement.
+### The ‘S’ in QUESTT: Secure parent or caregiver’s involvement.
 
 - Listen to mothers, fathers and caregivers as they know their child the best.
 - Include them in the decision-making process.
 - They are more tuned to subtle changes in their child’s behaviour.
 - They know what works best to comfort their child.
 
-## The ‘T’ in QUESTT: Take the cause of the pain into account.
+### The ‘T’ in QUESTT: Take the cause of the pain into account.
 
 - Consider the pathophysiology of the underlying problem i.e., the cause of the pain.
 - Identify whether the pain may be unrelated to the disease or condition, e.g. toothache.
 - Descriptions of the type of pain help to determine its cause and management.
 
-## The ‘T’ in QUESTT: Take action and evaluate the results.
+### The ‘T’ in QUESTT: Take action and evaluate the results.
 
 - Assess pain.
 - Develop the treatment plan.

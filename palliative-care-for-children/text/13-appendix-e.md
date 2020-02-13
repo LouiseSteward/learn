@@ -4,12 +4,23 @@ title: 13. Appendix E. PatchSA Advance care plan
 
 {% include metadata %}
 
-# **Appendix E** PatchSA Advance care plan 
+# **Appendix E** PatchSA Advance care plan
+{:title="PatchSA Advance care plan"}
 
 This tool is for discussing and communicating the wishes of a child or young person and their parents and/or family. Its aim is to explore what may happen as the child’s illness progresses, particularly towards the end-of-life, but at a point when there is time for decisions to be discussed and made. It Is particularly useful in an emergency when informed consent cannot be given by the patient or next of kin.
+{:.keep-together.wide}
+
+### Recommended reading and resources for holistic assessment and advance care planning
+{:.wide}
+<br>
+*Follow the Child: Planning and Having the Best End-of-Life Care for Your Child* by Sacha Langton-Gilks
+{:.wide}
+
+### Advance care plan
+{:.wide.page-break-before}
 
 Personal details
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="25%">
@@ -57,7 +68,7 @@ Personal details
 </table>
 
 Family members involved in and agreeing to care plan
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="40%">
@@ -85,7 +96,7 @@ Family members involved in and agreeing to care plan
 </table>
 
 Professionals involved in and agreeing to care plan
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="40%">
@@ -124,7 +135,7 @@ Professionals involved in and agreeing to care plan
 </table>
 
 Category of life-limiting condition
-{:.table-caption}
+{:.table-caption.wide.page-break-before}
 
 <table class="wide">
   <col width="10%">
@@ -163,7 +174,7 @@ Category of life-limiting condition
 </table>
 
 Other / specific reasons for ACP
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="100%">
@@ -173,7 +184,7 @@ Other / specific reasons for ACP
 </table>
 
 Current clinical and psychosocial problems
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="50%">
@@ -201,7 +212,7 @@ Current clinical and psychosocial problems
 </table>
 
 Goals of care
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="100%">
@@ -211,7 +222,7 @@ Goals of care
 </table>
 
 Intervention level
-{:.table-caption}
+{:.table-caption.wide.page-break-before}
 
 <table class="wide">
   <col width="10%">
@@ -240,7 +251,7 @@ Intervention level
 </table>                                       
 
 Cardio pulmonary arrest: resuscitation status
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="10%">
@@ -269,7 +280,7 @@ Cardio pulmonary arrest: resuscitation status
 </table>
 
 Intervention detail
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="30%">
@@ -353,7 +364,7 @@ Intervention detail
 </table>
 
 Place of care
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="50%">
@@ -373,7 +384,7 @@ Place of care
 </table>
 
 Spiritual and psychosocial care and support
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="50%">
@@ -407,7 +418,7 @@ Spiritual and psychosocial care and support
 </table>
 
 Possible scenarios or complications
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="25%">
@@ -453,7 +464,7 @@ Possible scenarios or complications
 </table>
 
 Medication management
-{:.table-caption}
+{:.table-caption.wide.page-break-before}
 
 <table class="wide">
   <col width="20%">
@@ -516,7 +527,7 @@ Medication management
 </table>
 
 Additional medicines / therapies that may be needed for palliative care and symptom management
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="20%">
@@ -569,7 +580,7 @@ Additional medicines / therapies that may be needed for palliative care and symp
 </table>
 
 Syringe driver medicines
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="50%">
@@ -596,10 +607,10 @@ Syringe driver medicines
   </tr>
 </table>
 
-Consent / agreements
+#### Consent / agreements
 
 Permission to share this information with others
-{:.table-caption}
+{:.table-caption.wide}
 
 <table class="wide">
   <col width="50%">
@@ -634,16 +645,13 @@ Permission to share this information with others
   </tr>
 </table>
 
-Signature of parent / legal guardian: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Signature of child (if applicable): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Statement of interpreter (where appropriate)
-
-*I have interpreted the information above to the child/young person/parent to the best of my ability and in a way in which I believe the person can understand.*
-
-Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Recommended reading and resources for holistic assessment and advance care planning:**
-
-*Follow the Child: Planning and Having the Best End-of-Life Care for Your Child* by Sacha Langton-Gilks
+<div class="wide" markdown="1">
+Signature of parent / legal guardian: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<br>
+<br>Signature of child (if applicable): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<br>
+<br>Statement of interpreter (where appropriate)
+<br>*I have interpreted the information above to the child/young person/parent to the best of my ability and in a way in which I believe the person can understand.*
+<br>
+<br>Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br><br>Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br><br>Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+</div>

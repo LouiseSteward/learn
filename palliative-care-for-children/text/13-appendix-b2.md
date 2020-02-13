@@ -5,8 +5,10 @@ title: 13. Appendix B2. Self-reflection tool
 {% include metadata %}
 
 # **Appendix B2** Self-reflection tool
+{:title="Self-reflection tool"}
 
 Identifying gaps in one’s own skills and knowledge is an important part of consolidating new learning. Use this tool to reflect on the role play experience.
+{:.keep-together.wide}
 
 <table class="wide">
   <col width="40%">
@@ -141,3 +143,4 @@ Identifying gaps in one’s own skills and knowledge is an important part of con
  </tr>
  </tbody>
 </table>
+{:.keep-together}
