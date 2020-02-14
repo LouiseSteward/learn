@@ -15,9 +15,10 @@ title: 13. Appendix F. Using the QUESTT approach to assess the child
 - The gold standard for reporting pain is self-reporting as it is subjective and individual to the child.
 - Parents understand and know their child therefore they will be able to recognise subtle behavioural changes.
 - Parents may be more motivated to recognise pain in their child in order to help alleviate it.
+</div>
 
 Use the following acronym to ask questions about the pain:
-</div>
+{:.keep-with-next.wide}
 
 > **P:** *Precipitating, palliating, provoking factors*:
 > - What causes the pain?
@@ -173,6 +174,7 @@ See [appendix G](#appendix-g-age-appropriate-pain-rating-scales) for more inform
 - Consider the pathophysiology of the underlying problem i.e., the cause of the pain.
 - Identify whether the pain may be unrelated to the disease or condition, e.g. toothache.
 - Descriptions of the type of pain help to determine its cause and management.
+{:.allow-break}
 
 ### The ‘T’ in QUESTT: Take action and evaluate the results.
 

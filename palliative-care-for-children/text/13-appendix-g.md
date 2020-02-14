@@ -14,6 +14,7 @@ Age appropriate pain rating scales include the following:
 2. Nonverbal children or children under 3 years: FLACC scale
 3. Children over 3 years of age: Wong Baker Faces pain scale
 4. Children over 7 years of age: Numeric, word pain scale and Eland colour body tool
+</div>
 
 ## Neonates
 
@@ -24,10 +25,9 @@ Assessing a neonate’s facial expression is a useful way of identifying pain an
 3. Eyes slightly closed
 4. Cheeks raised, nose broadened and bulging, deepened nasolabial fold
 5. Open and squarish mouth.
-</div>
 
 > ![Figure 8-a]({{ images }}/8-a.svg)
-{:.figure}
+{:.figure.column-width}
 
 Neonatal / infant pain scale (NIPS): Score \>3 = pain
 {:.table-caption.wide.keep-with-next}
@@ -111,6 +111,7 @@ Neonatal / infant pain scale (NIPS): Score \>3 = pain
   </tr>
 </table>
 
+<div class="wide" markdown="1">
 ## Children 3 years of age and under
 
 ### FLACC scale
@@ -120,6 +121,7 @@ Indications for use with:
 - infants and children to 3 years of age
 - children up to 7 years of age who are unable to validate the presence of, or quantify the severity of pain
 - any other non-verbal patient
+</div>
 
 <table class="wide">
   <tr>
@@ -160,29 +162,36 @@ Indications for use with:
   </tr>
 </table>
 
+<div class="wide allow-break" markdown="1">
 ## Children over 3 years of age
 
 ### Faces pain scale revised
+<br>
+</div>
 
 > ![Figure 8-b]({{ images }}/8-b.svg)
-{:.figure}
+{:.figure.fixed.small}
 
-Ask the child to point to the face which indicates how bad or severe their pain is.
+<div class="wide" markdown="1">
+<br>Ask the child to point to the face which indicates how bad or severe their pain is.
+</div>
 
 ### Five-finger score
 
 Ask the patient to show how bad the pain is with their hand.
 
 > ![Figure 8-c]({{ images }}/8-c.svg)
-{:.figure}
+{:.figure.fixed}
 
 Ask the child to show how bad the pain is with their hand. This is the internationally recognised version of this tool. In South Africa this tool has been adapted and may vary from region to region for example, a child showing you their thumb can mean thumbs up and ‘I am okay’. Therefore, always check what is used in a particular environment and ask the child what he or she means.
 
+<div class="wide" markdown="1">
 ## Children over 7 years of age
 
 ### Numerical Rating Scale for children over 7 years of age
 
 On a scale from 0 – 10, describe how strong your pain is.
+</div>
 
 | **No pain** | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | **Worst possible pain** |
 {:.wide}
