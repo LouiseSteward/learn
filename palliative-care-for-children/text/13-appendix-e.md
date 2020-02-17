@@ -646,7 +646,7 @@ Permission to share this information with others
 </table>
 
 <div class="wide" markdown="1">
-Signature of parent / legal guardian: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Signature of parent / legal guardian: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 <br>Signature of child (if applicable): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
