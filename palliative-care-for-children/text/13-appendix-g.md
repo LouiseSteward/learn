@@ -26,7 +26,7 @@ Assessing a neonate’s facial expression is a useful way of identifying pain an
 4. Cheeks raised, nose broadened and bulging, deepened nasolabial fold
 5. Open and squarish mouth.
 
-> ![Figure 8-a]({{ images }}/8-a.svg)
+> ![Figure A]({{ images }}/appendix-g-figure-a.svg)
 {:.figure.column-width}
 
 Neonatal / infant pain scale (NIPS): Score \>3 = pain
@@ -169,7 +169,7 @@ Indications for use with:
 <br>
 </div>
 
-> ![Figure 8-b]({{ images }}/8-b.svg)
+> ![Figure B]({{ images }}/appendix-g-figure-b.svg)
 {:.figure.fixed.small}
 
 <div class="wide" markdown="1">
@@ -180,7 +180,7 @@ Indications for use with:
 
 Ask the patient to show how bad the pain is with their hand.
 
-> ![Figure 8-c]({{ images }}/8-c.svg)
+> ![Figure C]({{ images }}/appendix-g-figure-c.svg)
 {:.figure.fixed}
 
 Ask the child to show how bad the pain is with their hand. This is the internationally recognised version of this tool. In South Africa this tool has been adapted and may vary from region to region for example, a child showing you their thumb can mean thumbs up and ‘I am okay’. Therefore, always check what is used in a particular environment and ask the child what he or she means.
@@ -209,7 +209,7 @@ Ask a child to ‘draw’ his or her pain. This often gives insight into the int
 
 #### Directions for use:
 
-> ![Figure 8-d]({{ images }}/8-d.svg)
+> ![Figure D]({{ images }}/appendix-g-figure-d.svg)
 {:.figure}
 
 After discussing with the child several things that have hurt the child in the past:

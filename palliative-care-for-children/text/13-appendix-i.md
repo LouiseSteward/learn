@@ -8,7 +8,7 @@ title: 13. Appendix I. Instructions for inserting and caring for a butterfly nee
 {:title="Butterfly needle subcutaneous infusion"}
 
 
-> ![Figure 11-a]({{ images }}/11-a.svg)
+> ![Figure A]({{ images }}/appendix-i-figure-a.svg)
 {:.figure.medium}
 
 <table class="wide">
@@ -45,8 +45,8 @@ How to insert the butterfly needle:
 9. Stick down the wings and the tubing securely. Loop the tubing to prevent it from dislodging.
 10. Attach to syringe driver tubing, place the syringe in the syringe driver and start infusion
 
-> ![Figure 11-b]({{ images }}/11-b.svg)
+> ![Figure B]({{ images }}/appendix-i-figure-b.svg)
 {:.figure.column-width}
 
-> ![Figure 11-c]({{ images }}/11-c.svg)
+> ![Figure C]({{ images }}/appendix-i-figure-c.svg)
 {:.figure.medium}
