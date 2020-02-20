@@ -141,7 +141,7 @@ $verso-bottom-left-corner: normal;
 $verso-bottom-right-corner: normal;
 
 // Recto (right-hand-page)
-$recto-top: string(h2-text, last);
+$recto-top: string(h2-title, last);
 $recto-top-left: normal;
 $recto-top-right: counter(page);
 $recto-top-left-corner: normal;
@@ -165,7 +165,7 @@ $verso-bottom-left-corner-frontmatter: normal;
 $verso-bottom-right-corner-frontmatter: normal;
 
 // Recto (right-hand-page) for .frontmatter pages (`style: frontmatter`)
-$recto-top-frontmatter: string(h2-text, last);
+$recto-top-frontmatter: string(h2-title, last);
 $recto-top-left-frontmatter: normal;
 $recto-top-right-frontmatter: counter(page, $frontmatter-reference-style);
 $recto-top-left-corner-frontmatter: normal;
@@ -796,4 +796,25 @@ ol li .figure, ul li .figure {
     .space-below-#{$i} {
         margin-bottom: ($line-height-default * $i);
     }
+}
+
+// Indented quote
+
+p.quote {
+    margin-left: $line-height-default;
+    text-align: left;
+}
+
+// Indented quotes
+
+blockquote.quote {
+    background-color: white;
+    border-radius: 0;
+    clear: both;
+    color: $color-text-main;
+    font-family: $font-text-main;
+    font-weight: normal;
+    margin: 0 0 $line-height-default $line-height-default;
+    padding-top: $line-height-default;
+    text-align: left;
 }
