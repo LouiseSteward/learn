@@ -81,7 +81,7 @@ Please choose the *one*, most correct answer to each question or statement.
      +  Irreversible but non-progressive, such as severe cerebral palsy
 15.  What does perinatal palliative care focus on?
      -  Decision making to terminate the pregnancy if a life-limiting diagnosis is made during a routine antenatal ultrasound
-     +  Guiding and supporting families in decision making and planning in the event of a life-limiting diagnosis being made during pregnancy or soon after -rth.
+     +  Guiding and supporting families in decision making and planning in the event of a life-limiting diagnosis being made during pregnancy or soon after birth.
      -  Good medical care for a newborn infant born with severe physical abnormalities
      -  Getting the mother home after the delivery of her infant
 16.  Where can palliative care be provided?

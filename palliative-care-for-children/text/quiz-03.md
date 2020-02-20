@@ -98,7 +98,7 @@ Please choose the *one*, most correct answer to each question or statement.
     +  Yes, they are helpful with most children
     -  They are only helpful in pre-school children
     -  They are helpful with girls but not boys
-    -  No as they will frighten children
+    -  No, as they will frighten children
 19. What is the River of Life exercise?
     -  It is a method of strengthening muscles used by physiotherapists
     -  It helps small children learn to swim

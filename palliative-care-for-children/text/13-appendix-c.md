@@ -17,7 +17,7 @@ This phase helps the participants to begin talking. Request only brief overviews
 
 ## Phase 3 – Thoughts
 
-The thought phase is a transition from the cognitive domain toward the affective domain. It is easier to speak of one’s thoughts than to focus immediately on the most painful aspects of the event. The typical question addressed in this phase is; ‘What was your first thought or your most prominent thought once you realised you were thinking? Again, we will go around the room to give everybody a chance to speak if they wish. If you do not wish to contribute something, you may remain silent. This will be the last time we go around the group.’
+The thought phase is a transition from the cognitive domain toward the affective domain. It is easier to speak of one’s thoughts than to focus immediately on the most painful aspects of the event. The typical question addressed in this phase is; ‘What was your first thought or your most prominent thought? Again, we will go around the room to give everybody a chance to speak if they wish. If you do not wish to contribute something, you may remain silent. This will be the last time we go around the group.’
 
 ## Phase 4 – Reactions
 

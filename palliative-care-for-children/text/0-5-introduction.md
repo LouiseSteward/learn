@@ -21,8 +21,7 @@ title: Introduction
 
 Continuing education for health professionals traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health professionals’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
 
-PEP developed the self-help, decentralised learning method in response to these problems and address the needs of all professional healthcare workers, especially those in under-resourced regions. Working closely with PEP, all Bettercare learning programmes follow this basic, proven learning methodology.
-A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, Bettercare learning programmes make your job simpler and easier. We provide the learning programme, you run the course. You can implement Bettercare learning programmes in your institution right now.
+PEP developed the self-help, decentralised learning method in response to these problems and to address the needs of all professional healthcare workers, especially those in under-resourced regions. Working closely with PEP, all Bettercare learning programmes follow this basic, proven learning methodology. A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, Bettercare learning programmes make your job simpler and easier. We provide the learning programme, you run the course. You can implement Bettercare learning programmes in your institution right now.
 
 Each chapter of a Bettercare learning programme contains the most relevant and up-to-date information health professionals rely on to provide excellent and appropriate care to their patients. Learning material is presented in a question-and-answer format. Each chapter has a multiple-choice quiz consisting of 10 questions. Users take the quiz before studying a chapter to identify gaps in knowledge and after, to test their learning at the end of each chapter.
 
@@ -40,7 +39,7 @@ By registering on the Learning Station site, students can also complete the mult
 
 This methodology allows users control over their studies without feeling as though they are being watched. Users can submit their results only when feel they have mastered a section, empowering them with learning skills and encouraging self-motivation. The Bettercare Learning Station privacy policy includes the clause that only information which users have agreed to make available may be used to generate reports.
 
-You can access the learning station here: [www.bettercare.co.za/learn](http://www.bettercare.co.za/learn)
+You can access the Learning Station here: [www.bettercare.co.za/learn](http://www.bettercare.co.za/learn)
 
 ## Format of the courses
 
