@@ -14,7 +14,7 @@ Please choose the *one*, most correct answer to each question or statement.
     - Laws made by the state or other authorities
     + An individual’s own principles regarding what is right or wrong based on personal beliefs
     - Orders given by the police or a magistrate
-2. What is ethics?
+2. What are ethics?
     + Rules provided by an external source that guides conduct within a workplace or profession.
     - An internal sense of what is right or wrong
     - The same as morals
@@ -29,7 +29,7 @@ Please choose the *one*, most correct answer to each question or statement.
     - An instruction given by a judge to the palliative care team
     + A situation where a difficult choice has to be made between two possible courses of action to decide which is better for the child and family
     - A situation where an ethics team must be involved
-5. When making a morally acceptable decision:
+5. When making a morally acceptable, 'good' decision:
     - Only important role-players such as the nurses and doctors need to be involved
     - A priest should be invited to decide on the best choice of care
     + The decision needs to take into account the feelings of all of those involved
@@ -106,6 +106,6 @@ Please choose the *one*, most correct answer to each question or statement.
     - Euthanasia is being practiced.
 20. What are life-sustaining treatments?
     - Bandages, cotton wool, tourniquets and scissors
-    - Analgesics, anti-convulsants and multivitamins
+    - Analgesics, anticonvulsants and multivitamins
     + Ventilation, dialysis and antibiotics
     - Defibrillators and intra-osseous needles

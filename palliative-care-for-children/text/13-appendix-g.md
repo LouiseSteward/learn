@@ -29,7 +29,7 @@ Assessing a neonate’s facial expression is a useful way of identifying pain an
 > ![Figure A]({{ images }}/appendix-g-figure-a.svg)
 {:.figure.column-width}
 
-Neonatal / infant pain scale (NIPS): Score \>3 = pain
+Neonatal/infant pain scale (NIPS): Score \>3 = pain
 {:.table-caption.wide.keep-with-next}
 
 <table class="wide">
@@ -119,7 +119,7 @@ Neonatal / infant pain scale (NIPS): Score \>3 = pain
 Indications for use with:
 
 - infants and children to 3 years of age
-- children up to 7 years of age who are unable to validate the presence of, or quantify the severity of pain
+- children up to 7 years of age who are unable to validate the presence of, or quantify the severity of, pain
 - any other non-verbal patient
 </div>
 
@@ -133,7 +133,7 @@ Indications for use with:
   <tr>
     <td class="table-subhead">Face</td>
     <td>No particular expression or smile</td>
-    <td>Occasional grimace or frown, withdrawn disinterested</td>
+    <td>Occasional grimace or frown, withdrawn, disinterested</td>
     <td>Frequent to constant frown, clenched jaw, quivering chin</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ Indications for use with:
   <tr>
     <td class="table-subhead">Consolability</td>
     <td>Content, relaxed, no need to console</td>
-    <td>Reassured by occasional touching, hugging or ‘talking to’, distractible</td>
+    <td>Reassured by occasional touching, hugging or talking to, distractible</td>
     <td>Difficult to console or comfort</td>
   </tr>
 </table>
@@ -216,7 +216,7 @@ After discussing with the child several things that have hurt the child in the p
 
 1. Present three crayons or markers to the child.
 2. Ask the following questions, and after the child has answered, mark the appropriate square on the tool (e.g. severe pain, worst hurt), and put that colour away from the others. For convenience, the word ‘hurt’ is used here, but whatever term the child uses should be substituted. The phrase or word chosen will depend on the child's experience and what the child is able to understand. Some children may be able to imagine much worse pain than they have ever had, while other children can only understand what they have experienced. Of course, some children may have experienced the worst pain they can imagine. Ask the child these questions:
-   1. Of these colours, which colour is most like the worst hurt you have ever had, (using whatever example the child has given) or the worst hurt anybody could ever have?
+   1. Of these colours, which colour is most like the worst hurt you have ever had (using whatever example the child has given) or the worst hurt anybody could ever have?
    2. Which colour is almost as much hurt as the worst hurt (or, use example given above, if any), but not quite as bad?
    3. Which colour is like something that hurts just a little?
    4. Which colour is like no hurt at all?

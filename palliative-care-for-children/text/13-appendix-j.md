@@ -87,7 +87,7 @@ title: 13. Appendix J. PatchSA terminal care plan and end-of-life care plan chec
     <td></td>
   </tr>
   <tr>
-    <td>Inappropriate interventions stopped:<br>Intravenous therapy<br>OGT/NGT and gastrostomy<br>Catheter<br>O2<br>Blood testing<br></td>
+    <td>Inappropriate interventions stopped:<br>Intravenous therapy<br>OGT/NGT and gastrostomy<br>Catheter<br>O<sub>2</sub><br>Blood testing<br></td>
     <td><br>Yes / No<br>Yes / No<br>Yes / No<br>Yes / No<br>Yes / No<br></td>
     <td></td>
   </tr>

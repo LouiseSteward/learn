@@ -105,8 +105,8 @@ Please choose the *one*, most correct answer to each question or statement.
     -	Septicaemia
     -	Feelings of euphoria
 20.	When treating a malodorous wound, a healthcare worker needs to be very aware of:
-    -	Their own body language and facial expressions
+    +	Their own body language and facial expressions
     -	The time it takes to do the dressings
     -	Becoming infected herself
-    +	The costs involved when changing dressings often
+    -	The costs involved when changing dressings often
  
