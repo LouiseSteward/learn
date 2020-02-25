@@ -99,13 +99,13 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Patients should have a CD4 count done.
 	-	All patients should have a chest X-ray.
 	+	Blood results should be checked and tests repeated if necessary.
-19.	When is a patient not ready to start antiretroviral treatment?
-	+	The patient is unreliable and does not attend clinic regularly.
-	-	The patient is too old.
-	-	The patient is too sick.
-	-	The patient will not disclose her HIV status to her employer.
-20.	What baseline safety blood tests are needed?
-	-	ALT (alanine amino transferase) if AZT is used
-	+	ALT (alanine amino transferase) if nevirapine is used
-	-	Full blood count if 3TC is used
-	-	Full blood count if lopinavir/ritonavir is used
+19.	When should serum creatinine be measured as a baseline test?
+    +	In patients who will receive TDF.
+    –	In patients who will receive AZT.
+    –	In patients who will receive nevirapine.
+    –	In patients who will receive 3TC.
+20.	What baseline test is needed in patients who will receive AZT?
+    –	Serum urea and electrolytes
+    +	Haemoglobin or full blood count
+    –	Liver functions especially alanine amino transferase
+    –	Fasting serum cholesterol and triglycerides

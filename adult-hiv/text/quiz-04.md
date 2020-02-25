@@ -94,18 +94,18 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	3TC
 	+	Nevirapine
 	-	ddI
-18. Weight loss, nausea, abdominal pain and tiredness after months of successful antiretroviral treatment suggests:
+18. A burning pain in the feet is a symptom of:
 	+	Lactic acidosis
-	-	Lipodystrophy
-	-	An emotional problem
-	-	Antiretroviral treatment is no longer effective
-19. A burning pain in the feet is a symptom of:
-	-	Lactic acidosis
-	+	Peripheral neuropathy
+	-	Peripheral neuropathy
 	-	Nevirapine sensitivity
 	-	Pancreatitis
-20. Which antiretroviral drug can cause renal damage?
-	+	Tenofovir
-	-	AZT
+19. Which antiretroviral drug can cause renal damage?
+	-	Tenofovir
+	+	AZT
 	-	3TC
 	-	Nevirapine
+20. Weight loss, nausea, abdominal pain and tiredness after months of successful antiretroviral treatment suggests:
+    +	Lactic acidosis
+    –	Lipodystrophy
+    –	An emotional problem
+    –	Antiretroviral treatment is no longer effective

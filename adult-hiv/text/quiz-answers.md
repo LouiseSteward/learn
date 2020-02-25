@@ -74,9 +74,9 @@ Relearn the sections in brackets for questions you get wrong.
 15.	b	(3-34)
 16.	c	(3-35)
 17.	a	(3-37)
-18.	d	(3-49)
-19.	a	(3-41)
-20.	b	(3-42)
+18.	d	(3-34)
+19.	a	(3-40)
+20.	b	(3-40)
 
 ## Quiz 4: Antiretroviral drugs
 
@@ -95,11 +95,11 @@ Relearn the sections in brackets for questions you get wrong.
 13.	d	(4-37)
 14.	b	(4-39)
 15.	a	(4-47)
-16.	b	(4-49)
-17.	c	(4-51)
-18.	a	(4-54)
-19.	b	(4-55)
-20.	a	(4-56)
+16.	b	(4-51)
+17.	c	(4-53)
+18.	a	(4-57)
+19.	b	(4-58)
+20.	a	(4-60)
 
 ## Quiz 5: Management of patients on anti­retroviral treatment
 
@@ -111,17 +111,17 @@ Relearn the sections in brackets for questions you get wrong.
 6.	b	(5-11)
 7.	d	(5-12)
 8.	a	(5-12)
-9.	b	(5-27)
+9.	d	(5-18)
 10.	d	(5-28)
 11.	d	(5-29)
 12.	a	(5-35)
 13.	a	(5-40)
 14.	c	(5-43)
 15.	c	(5-53)
-16.	a	(5-59)
+16.	a	(5-58)
 17.	c	(5-63)
 18.	b	(5-69)
-19.	c	(5-74)
+19.	d	(5-73)
 20.	d	(5-74)
 
 ## Quiz 6: HIV-associated infections
