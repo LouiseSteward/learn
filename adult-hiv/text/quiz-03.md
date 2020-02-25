@@ -9,47 +9,47 @@ style: chapter test
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	When should antiretroviral treatment start?
+1.	When should antiretroviral treatment (ART) start?
 	-	When HIV infection is first diagnosed
 	+	When either the clinical signs or CD4 count suggest that the immune function is failing
 	-	When the patient becomes seriously ill with tuberculosis
 	-	When the patient is terminally ill
-2.	At what stage of the HIV infection is antiretroviral treatment indicated?
+2.	At what stage of the HIV infection is antiretroviral treatment (ART) indicated?
 	-	Stage 1 only
 	-	Stage 2 only
 	-	Stage 3 or 4 only
 	+	At any stage
-3.	Antiretroviral treatment is indicated when the CD4 count falls below:
+3.	Antiretroviral treatment (ART) is indicated when the CD4 count falls below:
 	-	Is at any level
 	+	Falls below 500 cells/µl
 	-	Falls below 100 cells/µl
 	-	Falls below 50 cells/µl
-4.	Why should psychosocial factors be considered when deciding whether to start antiretroviral treatment?
+4.	Why should psychosocial factors be considered when deciding whether to start antiretroviral treatment (ART)?
 	+	Because they determine whether treatment is likely to be successful or not.
 	-	Because poor people cannot be relied upon to take regular treatment.
-	-	Because it is the democratic right of all HIV positive people to have antiretroviral treatment.
+	-	Because it is the democratic right of all HIV positive people to have antiretroviral treatment (ART).
 	-	Because assessing psychosocial factors is unreliable and too difficult.
-5.	Which group of patients with HIV infection should be fast tracked onto antiretroviral treatment?
+5.	Which group of patients with HIV infection should be fast tracked onto antiretroviral treatment (ART)?
 	-	There is no need to fast track any patient.
 	-	All women should be given treatment without delay.
-	-	Patients over the age of 45 years should be started on antiretroviral treatment urgently.
+	-	Patients over the age of 45 years should be started on antiretroviral treatment (ART) urgently.
 	+	Pregnant women should be fast tracked.
-6. What may happen if antiretroviral treatment is started too early?
+6. What may happen if antiretroviral treatment (ART) is started too early?
 	-	Male patients may become sexually impotent.
 	+	Poor adherence and drug resistance are more likely to become a problem.
 	-	The patient has an increased risk of developing tuberculosis.
 	-	The HIV infection may progress rapidly.
-7.	How long does it take to prepare a patient for antiretroviral treatment?
+7.	How long does it take to prepare a patient for antiretroviral treatment (ART)?
 	-	Two to four days
 	-	One week
 	+	Two to four weeks
 	-	Three months
-8.	Which of the following factors must be considered before starting antiretroviral treatment in the state health service?
+8.	Which of the following factors must be considered before starting antiretroviral treatment (ART) in the state health service?
 	-	The patient should be able to afford the cost of treatment.
 	+	The patient should not have untreated depression.
 	-	The patient should be older than 21 years.
 	-	The patient must disclose their HIV status to their community.
-9.	What is one of the aims of preparing a patient for antiretroviral treatment?
+9.	What is one of the aims of preparing a patient for antiretroviral treatment (ART)?
 	-	They should agree to stop smoking.
 	-	They should agree to stop having sexual relations unless married.
 	+	The importance of excellent adherence must be understood and accepted.
@@ -59,12 +59,12 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Make sure that tuberculosis has been excluded.
 	-	Prophylactic treatment with INH should be started.
 	-	Blood should be taken for a viral load.
-11.	What physical examination is needed when a patient is assessed for antiretroviral treatment?
+11.	What physical examination is needed when a patient is assessed for antiretroviral treatment (ART)?
 	+	A full general examination
 	-	A limited examination only looking for signs of HIV infection
 	-	An examination specifically looking for signs of tuberculosis
 	-	A physical examination is not needed if the patient is well
-12.	Who should prepare a patient for antiretroviral treatment?
+12.	Who should prepare a patient for antiretroviral treatment (ART)?
 	-	A doctor
 	-	A specially trained nurse
 	-	A lay (non-professional) counsellor
@@ -79,7 +79,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	By TV and radio
 	-	Patients should be given books to read
 	-	They should speak to other patients at the clinic.
-15.	Taking co-trimoxazole prophylaxis while preparing for the start of antiretroviral treatment:
+15.	Taking co-trimoxazole prophylaxis while preparing for the start of antiretroviral treatment (ART):
 	-	Prevents tuberculosis
 	+	Is useful in assessing whether the person can take medication regularly
 	-	Improves the CD4 count

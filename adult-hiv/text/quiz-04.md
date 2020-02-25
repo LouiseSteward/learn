@@ -9,12 +9,12 @@ style: chapter test
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	Which is one of the main current goals of antiretroviral treatment?
+1.	Which is one of the main current goals of antiretroviral treatment (ART)?
 	+	To suppress the viral load
 	- 	To cure HIV infection
 	- 	To allow the patient to have a pain-free death
 	- 	To prevent repeated infection with HIV
-2. How many classes of antiretroviral drugs are usually used in South Africa?
+2. How many classes of antiretroviral drugs (ARVs) are usually used in South Africa?
 	-	Two
 	+	Four
 	- 	Five
@@ -24,7 +24,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Nevirapine
 	-	Efavirenz
 	-	Lopinavir/ritonavir
-4. Antiretroviral drugs for treatment should always be used:
+4. Antiretroviral drugs (ARVs) for treatment should always be used:
 	-	Alone
 	-	In pairs
 	+	In combinations of three or more
@@ -39,7 +39,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Lopinavir/ritonavir
 	-	ddI
 	-	Rifampicin
-7. Most first line antiretroviral drugs are taken:
+7. Most first line antiretroviral drugs (ARVs) are taken:
 	+	Once a day
 	-	Twice a day
 	-	Three times a day
@@ -69,7 +69,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Lopinavir/ritonavir
 	+	Nevirapine
 	-	d4T
-13. Which antiretroviral drug should not be taken during the first trimester of pregnancy?
+13. Which antiretroviral drug (ARV) should not be taken during the first trimester of pregnancy?
 	-	AZT
 	-	Nevirapine
 	-	Lopinavir/ritonavir
@@ -78,9 +78,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	AZT
 	+	Aluvia
 	-	Efavirenz
-	-	All antiretroviral drugs
+	-	All antiretroviral drugs (ARVs)
 15. Minor side effects such as nausea, loose stools and tiredness are common with:
-	+	Most antiretroviral drugs during the first weeks of treatment
+	+	Most antiretroviral drugs (ARVs) during the first weeks of treatment
 	-	Nucs after the first 6 weeks of treatment
 	-	3TC if it is taken with meals
 	-	Efavirenz if it is taken on an empty stomach
@@ -99,13 +99,13 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Peripheral neuropathy
 	-	Nevirapine sensitivity
 	-	Pancreatitis
-19. Which antiretroviral drug can cause renal damage?
+19. Which antiretroviral drug (ARV) can cause renal damage?
 	-	Tenofovir
 	+	AZT
 	-	3TC
 	-	Nevirapine
-20. Weight loss, nausea, abdominal pain and tiredness after months of successful antiretroviral treatment suggests:
+20. Weight loss, nausea, abdominal pain and tiredness after months of successful antiretroviral treatment (ART) suggests:
     +	Lactic acidosis
     –	Lipodystrophy
     –	An emotional problem
-    –	Antiretroviral treatment is no longer effective
+    –	Antiretroviral treatment (ART) is no longer effective

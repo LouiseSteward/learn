@@ -30,7 +30,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Smoke as this helps to prevent chest infections
 	-	Avoid fruit
 5.	People with HIV infection:
-	-	Rarely respond to antiretroviral treatment
+	-	Rarely respond to antiretroviral treatment (ART)
 	-	Should avoid regular exercise as this increases weight loss
 	-	Can be cured by herbal medicines
 	+	Benefit from a healthy lifestyle
@@ -46,7 +46,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Only health professionals should help to manage HIV-infected people.
 8.	What is an HIV support group?
 	-	A group of nurses who care for HIV patients
-	-	A group of politicians who argue for more antiretroviral drugs
+	-	A group of politicians who argue for more antiretroviral drugs (ARVs)
 	+	A group of HIV patients who support each other
 	-	A group of community members who collect money for their local HIV clinic
 9.	What are volunteer health workers?
@@ -79,7 +79,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Measure the haemoglobin concentration.
 	+	Measure the CD4 count.
 	-	Measure the viral load.
-15.	When should the CD4 count be measured in well people about to start antiretroviral treatment?
+15.	When should the CD4 count be measured in well people about to start antiretroviral treatment (ART)?
     –	After a week of treatment
     –	After a  month of treatment
     –	After 3 months of treatment
