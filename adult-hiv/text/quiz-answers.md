@@ -74,7 +74,7 @@ Relearn the sections in brackets for questions you get wrong.
 15.	b	(3-34)
 16.	c	(3-35)
 17.	a	(3-37)
-18.	d	(3-34)
+18.	d	(3-39)
 19.	a	(3-40)
 20.	b	(3-40)
 
