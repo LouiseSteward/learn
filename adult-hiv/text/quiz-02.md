@@ -80,9 +80,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Measure the CD4 count.
 	-	Measure the viral load.
 15.	When should the CD4 count be measured in well people about to start antiretroviral treatment (ART)?
-    –	After a week of treatment
-    –	After a  month of treatment
-    –	After 3 months of treatment
+    -	After a week of treatment
+    -	After a  month of treatment
+    -	After 3 months of treatment
     +	Before starting treatment
 16.	What is palliative care?
 	+	Care of patients with an incurable disease

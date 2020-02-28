@@ -101,11 +101,11 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Blood results should be checked and tests repeated if necessary.
 19.	When should serum creatinine be measured as a baseline test?
     +	In patients who will receive TDF.
-    –	In patients who will receive AZT.
-    –	In patients who will receive nevirapine.
-    –	In patients who will receive 3TC.
+    -	In patients who will receive AZT.
+    -	In patients who will receive nevirapine.
+    -	In patients who will receive 3TC.
 20.	What baseline test is needed in patients who will receive AZT?
-    –	Serum urea and electrolytes
+    -	Serum urea and electrolytes
     +	Haemoglobin or full blood count
-    –	Liver functions especially alanine amino transferase
-    –	Fasting serum cholesterol and triglycerides
+    -	Liver functions especially alanine amino transferase
+    -	Fasting serum cholesterol and triglycerides
