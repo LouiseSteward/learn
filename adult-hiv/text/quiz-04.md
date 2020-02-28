@@ -106,6 +106,6 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Nevirapine
 20. Weight loss, nausea, abdominal pain and tiredness after months of successful antiretroviral treatment (ART) suggests:
     +	Lactic acidosis
-    –	Lipodystrophy
-    –	An emotional problem
-    –	Antiretroviral treatment (ART) is no longer effective
+    -	Lipodystrophy
+    -	An emotional problem
+    -	Antiretroviral treatment (ART) is no longer effective

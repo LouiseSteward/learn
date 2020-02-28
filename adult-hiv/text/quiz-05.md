@@ -50,9 +50,9 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Fasting serum cholesterol and triglyceride
 	-	Serum ALT (alanine aminotransferase)
 9.	What viral load is regarded as undetectable?
-    –	Less than 1000 copies/ml
-    –	Lessthan 500 copies/ml
-    –	Less than 100 copies/ml
+    -	Less than 1000 copies/ml
+    -	Lessthan 500 copies/ml
+    -	Less than 100 copies/ml
     +	Less than 50 copies/ml
 10.	For how long can treatment be successful?
 	-	Usually for a year
