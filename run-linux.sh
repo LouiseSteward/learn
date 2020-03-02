@@ -28,6 +28,7 @@ Electric Book options
 7  Convert source images to output formats
 8  Refresh search index
 9  Install or update dependencies
+b  Create BQF files from quiz markdown files
 x  Exit
 
 Enter a number and hit enter. "
@@ -873,6 +874,25 @@ You may need to reload the web page once this server is running."
         npm install
 		# Head back to the Electric Book options
 		process=0
+
+	####################
+	# CREATE BQF FILES #
+	####################
+	elif [ "$process" == "b" ]
+		then
+			# ask the user for the bookfolder
+			echo -n "Which book folder are we processing? "
+			read bookfolder
+			if [ "$bookfolder" = "" ]
+				then
+					bookfolder="book"
+			fi
+			# export the bookfolder var so that we can use it in the py
+			export bookfolder
+			# run the py to create the files
+			python md_to_bqf.py
+			# Head back to the Electric Book options
+			process=0
 	########
 	# EXIT #
 	########
