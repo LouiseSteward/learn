@@ -36,6 +36,7 @@ echo 6  Export to Word
 echo 7  Convert source images to output formats
 echo 8  Refresh search index
 echo 9  Install or update dependencies
+echo b Create BQF files from quiz markdown files
 echo x  Exit
 echo.
 set /p process=Enter a number and hit return. 
@@ -48,6 +49,7 @@ set /p process=Enter a number and hit return.
     if "%process%"=="7" goto convertimages
     if "%process%"=="8" goto refreshSearchIndex
     if "%process%"=="9" goto install
+    if "%process%"=="b" goto bqf
     if "%process%"=="x" goto:EOF
     goto choose
 
@@ -998,6 +1000,23 @@ set /p process=Enter a number and hit return.
         echo Installing Node modules... This may take a few minutes.
         call npm install
 
+        :: Back to the beginning
+        echo Done.
+        echo.
+        goto begin
+
+    :: :: :: :: :: :: :: ::
+    :: CREATE BQF FILES  ::
+    :: :: :: :: :: :: :: ::
+    
+    :bqf
+        :: ask the user for the bookfolder
+        set /p bookfolder=Which book folder are we processing?
+        if "%bookfolder%"=="" set bookfolder=book
+        
+        :: run the py to create the files
+        python md_to_bqf.py
+        
         :: Back to the beginning
         echo Done.
         echo.

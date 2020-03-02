@@ -15,10 +15,10 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Clinical stage 3 or 4
 	-	All children irrespective of clinical stage.
 2.	Which children should be fast tracked onto antiretroviral treatment?
-		A child with MDR-TB clinical disease
-		A 16 month old child with stage 1 disease
-		A child with a CD4 count of 250 cells/μl
-		A 6 year old child with stage 2 disease
+	+	A child with MDR-TB clinical disease
+	-	A 16 month old child with stage 1 disease
+	-	A child with a CD4 count of 250 cells/μl
+	-	A 6 year old child with stage 2 disease
 3.	Which one of the following is essential before starting antiretroviral treatment?
 	-	The mother should have at least seven years schooling.
 	+	There must be at least one responsible adult to help administer medication.
