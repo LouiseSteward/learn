@@ -14,7 +14,7 @@ title: 13. Appendix A. The International Children’s Palliative Care Network (I
 6. Every child or young person shall have access to education and wherever possible be provided with opportunities to play, access leisure opportunities, interact with siblings and friends and participate in normal childhood activities.
 7. The child and the family shall be given the opportunity to consult with a paediatric specialist with particular knowledge of the child’s condition where possible, and shall remain under the care of a paediatrician or doctor with paediatric knowledge and experience.
 8. The child and the family shall be entitled to a named and accessible key-worker whose task it is to build, coordinate and maintain appropriate support systems which should include a multidisciplinary care team and appropriate community resources.
-9. The child’s home shall remain the centre of care whenever possible. Treatment outside of this home shall be in a child-centred environment by staff and volunteers, trained in palliative care of children.
+9. The child’s home shall remain the centre of care whenever possible. Treatment outside of this home shall be in a child-centred environment by staff and volunteers trained in palliative care of children.
 10. Every child and family member, including siblings, shall receive culturally appropriate, clinical, emotional, psychosocial and spiritual support in order to meet their particular needs. Bereavement support for the child’s family shall be available for as long as it is required.
 
 Adapted from the ACT Charter

@@ -29,7 +29,7 @@ Choose the *one*, most correct answer to each question or statement.
     +  Time, good communication skills, empathy and a non-judgemental attitude
     -  A checklist to be completed
     -  The doctor to make the final decisions about the interventions to be implemented
-5.  A common barrier to a good assessment includes:
+5.  A common barrier to a good assessment is:
     -  Lack of financial resources
     -  No transport available to take child to the assessment
     - Too many family members being present at the assessment
@@ -99,7 +99,7 @@ Choose the *one*, most correct answer to each question or statement.
     - Paying for care before admission to hospital
     - Choosing whether to go to a public or private clinic for treatment
     - A cheap way of getting health insurance
-19. The advance care plan is drawn up?
+19. When is the advance care plan drawn up?
     -  At the time of diagnosis
     -  When the child and family have given up hope
     +  When there are indications that the disease is getting worse despite treatments or that the end-of-life phase has been entered

@@ -9,7 +9,7 @@ title: 13. Appendix B. Communication role plays
 
 The objectives of a role play are to:
 
-1. Enable you to learn and practice effective communication skills that allow you to facilitate therapeutic relationships and decision making with a child and family.
+1. Enable you to learn and practice effective communication skills that allow you to facilitate therapeutic relationships and decision making with a child and family
 2. Facilitate difficult conversations and break bad news to children and the family in a safe environment without upsetting patients.
 
 Role play uses real life situations, but provides opportunities for participants to practice in a simulated situation.
@@ -31,12 +31,12 @@ Role play uses real life situations, but provides opportunities for participants
 
 #### Scenario:
 
-Thandi is 5 years old. She has been receiv&shy;ing treatment for leukaemia for 3 months. Thandi is normally a very upbeat and smiley child but this week she is very with&shy;drawn. As part of the treating team who has the best relationship with Thandi, you have been asked to go and chat with her.
+Thandi is 5-years-old. She has been receiv&shy;ing treatment for leukaemia for 3 months. Thandi is normally a very upbeat and smiley child but this week she is very with&shy;drawn. As part of the treating team who has the best relationship with Thandi, you have been asked to go and chat with her.
 
 #### Role players:
 
 - Thandi
-- The healthcare professional (nurse, doctor or social worker)
+- The healthcare professional (nurse, doctor or social worker).
 
 #### Roleplay the following situation:
 
@@ -64,7 +64,7 @@ Devon is a 9-year-old who has suffered a severe head injury and may not survive.
 - Two healthcare professionals (doctor, nurse and/or social worker)
 - Devon’s mother
 - Devon’s father
-- Tamara
+- Tamara.
 
 #### Role play the following situation:
 

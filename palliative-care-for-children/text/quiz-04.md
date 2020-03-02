@@ -42,8 +42,8 @@ Choose the *one,* most correct answer to each question or statement.
 7.  How can you improve community support to effectively provide care for sick children?
     -  Open a soup kitchen
     -  Offer prizes for community art projects
-    +  Start vegetable gardens
-    -  Include the child’s school and classmates in providing ongoing support and continuing education
+    -  Start vegetable gardens
+    +  Include the child’s school and classmates in providing ongoing support and continuing education
 8.  What may result from a conflict between the care team and the parents?
     -  The parents are unaware that you do not know something
     -  The child, but not the parents, receive all the clinical information
@@ -57,8 +57,8 @@ Choose the *one,* most correct answer to each question or statement.
 10.  In which of these circumstances would we consider referring the patient?
      -  The child is not being cooperative and keeps crying
      -  The family demands to be seen in a teaching hospital
-     -  The relationship between the patient and the team has broken down
-     +  You do not like the parents
+     +  The relationship between the patient and the team has broken down
+     -  You do not like the parents
 11.  What is self-awareness?
      +  Understanding your own strengths and weaknesses
      -  Understanding your colleagues’ strengths

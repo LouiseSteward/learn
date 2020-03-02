@@ -94,7 +94,7 @@ Please choose the *one*, most correct answer to each question or statement.
     +	Refer the child to a professional, such as a psychologist
     -	Prescribe sedatives to help them sleep
     -	Advise the child not to discuss the loss as this will only increase their sadness
-18.	The parents of an eight-year-old ask for your help, because the child does not want to attend the funeral of the three-year-old siblin    - How would you advise them in this matter?
+18.	The parents of an eight-year-old ask for your help, because the child does not want to attend the funeral of the three-year-old sibling. How would you advise them in this matter?
     -	Tell them to ‘force’ the child to attend
     -	Suggest they rather convince the child to attend, but not give any details about what will happen at the funeral
     +	If children do not want to participate in the rituals it is important to give them the opportunity for an alternative goodbye such as visiting a place with special memories

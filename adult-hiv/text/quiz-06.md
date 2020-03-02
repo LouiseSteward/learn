@@ -103,7 +103,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Start the anti-TB treatment first.
 	-	Treat the HIV infection first for 6 months before starting the anti-TB treatment.
 	-	There is no problem with treating the HIV infection and tuberculosis at the same time.
-	-	Start the antiretroviral and anti-TB treatments together but also give the patient large doses of steroids for the first 3 months.
+	-	Start the antiretroviral (ARV) and anti-TB treatments together but also give the patient large doses of steroids for the first 3 months.
 20.	Drugs used to treat HIV and tuberculosis may both cause:
 	-	Haemolytic anaemia
 	-	Cancer

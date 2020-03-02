@@ -84,7 +84,7 @@ Choose the *one,* most correct answer to each question or statement.
     -	Give analgesia according to the wishes of the parents
     +	Give analgesia by the appropriate route, by the clock, by the individual child and by the ladder
     -	Give analgesia only when the caregiver thinks that the child is in pain
-16.	On step three of the WHO pain ladder the following is used for severe pain?
+16.	On step three of the WHO pain ladder which of the following is used for severe pain?
     +	A strong opioid (morphine)
     -	A weak opioid (Valoron)
     -	A non-opioid (paracetamol)
@@ -97,7 +97,7 @@ Choose the *one,* most correct answer to each question or statement.
 18.	What is the correct dose when starting morphine?
     -	0.1 mg/kg hourly
     -	0.1 mg/kg 2 hourly
-    +	0.2 mg/kg/ 4hourly
+    +	0.2 mg/kg 4 hourly
     -	0.2 mg/kg 8 hourly
 19.	Why is it important to treat procedural pain in children?
     +	It is a major cause of anxiety and fear in the child and may have long term effects on how they cope and tolerate pain in the future

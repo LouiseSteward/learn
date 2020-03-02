@@ -7,10 +7,10 @@ title: 13. Appendix E. PatchSA Advance care plan
 # **Appendix E** PatchSA Advance care plan
 {:title="PatchSA Advance care plan"}
 
-This tool is for discussing and communicating the wishes of a child or young person and their parents and/or family. Its aim is to explore what may happen as the child’s illness progresses, particularly towards the end-of-life, but at a point when there is time for decisions to be discussed and made. It Is particularly useful in an emergency when informed consent cannot be given by the patient or next of kin.
+This tool is for discussing and communicating the wishes of a child or young person and their parents and/or family. Its aim is to explore what may happen as the child’s illness progresses, particularly towards the end-of-life, but at a point when there is time for decisions to be discussed and made. It is particularly useful in an emergency when informed consent cannot be given by the patient or next of kin.
 {:.keep-together.wide}
 
-### Recommended reading and resources for holistic assessment and advance care planning
+### Recommended reading and resources for holistic assessment and advance care planning:
 {:.wide}
 <br>
 *Follow the Child: Planning and Having the Best End-of-Life Care for Your Child* by Sacha Langton-Gilks
@@ -105,7 +105,7 @@ Professionals involved in and agreeing to care plan
   <tr>
     <th>Name</th>
     <th>Institution</th>
-    <th>Role / position</th>
+    <th>Role/position</th>
   </tr>
   <tr>
     <td>&#160;</td>
@@ -168,12 +168,12 @@ Category of life-limiting condition
   </tr>
   <tr>
     <td></td>
-    <td>Irreversible / inoperable congenital disorder (e.g. complex congenital heart disease)</td>
+    <td>Irreversible/inoperable congenital disorder (e.g. complex congenital heart disease)</td>
     <td></td>
   </tr>
 </table>
 
-Other / specific reasons for ACP
+Other/specific reasons for ACP
 {:.table-caption.wide}
 
 <table class="wide">
@@ -236,7 +236,7 @@ Intervention level
   <tr>
     <td></td>
     <td>1</td>
-    <td>Comfort care only, avoid painful procedures / investigations unless information gained helps to achieve goal of comfort</td>
+    <td>Comfort care only, avoid painful procedures/investigations unless information gained helps to achieve goal of comfort</td>
   </tr>
   <tr>
     <td></td>
@@ -250,7 +250,7 @@ Intervention level
   </tr>
 </table>                                       
 
-Cardio pulmonary arrest: resuscitation status
+Cardiopulmonary arrest: resuscitation status
 {:.table-caption.wide}
 
 <table class="wide">
@@ -307,7 +307,7 @@ Intervention detail
     <td></td>
   </tr>
   <tr>
-    <td>Drugs / cardioversion</td>
+    <td>Drugs/cardioversion</td>
     <td></td>
     <td></td>
   </tr>
@@ -357,7 +357,7 @@ Intervention detail
     <td></td>
   </tr>
   <tr>
-    <td>Pain control / comfort</td>
+    <td>Pain control/comfort</td>
     <td></td>
     <td></td>
   </tr>
@@ -370,11 +370,11 @@ Place of care
   <col width="50%">
   <col width="50%">
   <tr>
-    <td>Problems / complications</td>
+    <td>Problems/complications</td>
     <td></td>
   </tr>
   <tr>
-    <td>End-of-life / terminal stage</td>
+    <td>End-of-life/terminal stage</td>
     <td></td>
   </tr>
   <tr>
@@ -397,7 +397,7 @@ Spiritual and psychosocial care and support
     <td></td>
   </tr>
   <tr>
-    <td>Faith / belief system</td>
+    <td>Faith/belief system</td>
     <td></td>
   </tr>
   <tr>
@@ -526,7 +526,7 @@ Medication management
   </tr>
 </table>
 
-Additional medicines / therapies that may be needed for palliative care and symptom management
+Additional medicines/therapies that may be needed for palliative care and symptom management
 {:.table-caption.wide}
 
 <table class="wide">
@@ -607,7 +607,7 @@ Syringe driver medicines
   </tr>
 </table>
 
-#### Consent / agreements
+#### Consent/agreements
 
 Permission to share this information with others
 {:.table-caption.wide}
@@ -646,7 +646,7 @@ Permission to share this information with others
 </table>
 
 <div class="wide" markdown="1">
-Signature of parent / legal guardian: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Signature of parent/legal guardian: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
 <br>Signature of child (if applicable): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ <br>Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <br>
