@@ -36,6 +36,7 @@ echo 6  Export to Word
 echo 7  Convert source images to output formats
 echo 8  Refresh search index
 echo 9  Install or update dependencies
+echo b Create BQF files from quiz markdown files
 echo x  Exit
 echo.
 set /p process=Enter a number and hit return. 
@@ -1014,7 +1015,7 @@ set /p process=Enter a number and hit return.
         if "%bookfolder%"=="" set bookfolder=book
         
         :: run the py to create the files
-        call python md_to_bqf.py
+        python md_to_bqf.py
         
         :: Back to the beginning
         echo Done.
