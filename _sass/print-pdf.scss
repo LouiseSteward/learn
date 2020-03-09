@@ -435,6 +435,14 @@ h1 {
     }
 }
 
+ul, ol {
+    ul {
+        li {
+            list-style-type: circle;
+        }
+    }
+}
+
 // Key concept boxes
 // We use the blockquote element for key-concept boxes
 blockquote {
