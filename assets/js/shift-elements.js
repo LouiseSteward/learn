@@ -1,5 +1,5 @@
-/*jslint browser*/
-/*globals window */
+/*jslint browser, for */
+/*globals window, console */
 
 // Shits an element up or down the DOM.
 // Design to run in PDF outputs only.
