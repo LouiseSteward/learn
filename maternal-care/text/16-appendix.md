@@ -169,7 +169,7 @@ The level of care needed is shown as follows:
   <td rowspan='2'><p>Mother-to-child transmission of HIV.</p>
    <p>With AIDS the mother’s clinical condition may deteriorate.</p></td>
   <td><p>Commence patient on FDC if no contra-indications.</p>
-   <p>If contra-indications refer to an antiretroviral (ARV) clinic.</p></td>
+   <p>If contra-indications refer to an antiretroviral (ARV) treatment clinic.</p></td>
   <td>1</td>
  </tr>
  <tr>
@@ -317,7 +317,7 @@ The level of care needed is shown as follows:
  <tr>
   <td><p>HIV positive and on FDC</p></td>
   <td><p>High risk for serious liver damage</p></td>
-  <td><p>Stop FDC and refer to an ARV clinic</p></td>
+  <td><p>Stop FDC and refer to an ARV treatment clinic</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
