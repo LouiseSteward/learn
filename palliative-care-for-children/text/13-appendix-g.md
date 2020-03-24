@@ -12,8 +12,8 @@ Age appropriate pain rating scales include the following:
 
 1. Neonates, infants: Neonatal pain rating scale (NIPS) or facial expression tool
 2. Nonverbal children or children under 3 years: FLACC scale
-3. Children over 3 years of age: Wong Baker Faces pain scale
-4. Children over 7 years of age: Numeric, word pain scale and Eland colour body tool
+3. Children over 3 years of age: Wong Baker faces pain scale
+4. Children over 7 years of age: Numeric, word pain scale and PatchSA colour tool
 </div>
 
 ## Neonates
@@ -205,28 +205,27 @@ On a scale from 0 – 10, describe how strong your pain is.
 
 Ask a child to ‘draw’ his or her pain. This often gives insight into the intensity and nature of the pain but may also reflect its psychosocial consequences or the child’s fears.
 
-### Eland Body Tool
+### PatchSA Colour Tool
 
-#### Directions for use:
+#### Instructions for using the PatchSA Colour Tool:
 
-> ![Figure D]({{ images }}/appendix-g-figure-d.svg)
+> ![Figure D: Based on the Eland Colour Tool (Eland & Anderson, 1977) the PatchSA Colour Tool can be used to locate and assess the intensity of pain in children.]({{ images }}/appendix-g-figure-d.svg)
+>
+> Figure D: Based on the Eland Colour Tool (Eland & Anderson, 1977) the PatchSA Colour Tool can be used to locate and assess the intensity of pain in children.
 {:.figure}
 
-After discussing with the child several things that have hurt the child in the past:
+After discussing with the child several things that have hurt or caused the child pain in the past: 
 
-1. Present three crayons or markers to the child.
-2. Ask the following questions, and after the child has answered, mark the appropriate square on the tool (e.g. severe pain, worst hurt), and put that colour away from the others. For convenience, the word ‘hurt’ is used here, but whatever term the child uses should be substituted. The phrase or word chosen will depend on the child's experience and what the child is able to understand. Some children may be able to imagine much worse pain than they have ever had, while other children can only understand what they have experienced. Of course, some children may have experienced the worst pain they can imagine. Ask the child these questions:
-   1. Of these colours, which colour is most like the worst hurt you have ever had (using whatever example the child has given) or the worst hurt anybody could ever have?
-   2. Which colour is almost as much hurt as the worst hurt (or, use example given above, if any), but not quite as bad?
-   3. Which colour is like something that hurts just a little?
-   4. Which colour is like no hurt at all?
-
-3. Show the four colours (marked boxes, crayons, or markers) to the child in the order he has chosen them, from the colour chosen for the worst hurt to the colour chosen for no hurt.
-4. Ask the child to colour the body outlines where he hurts, using the colours he has chosen to show how much it hurts.
-5. When the child finishes, ask the child if this is a picture of how he hurts now or how he hurt earlier. Be specific about what earlier means by relating the time to an event, for example, at lunch or in the playroom.
-
-Note
-: Reprinted with permission of J.M. Eland from [McCaffery and Beebe, 1989.](http://www.painresearch.utah.edu/cancerpain/reference.html#MCCA89)*
+1.	Present the child with four crayons or markers of different colours. 
+2.	Using the term that the family and child use to describe hurt or pain (the word 'pain' is used in these instructions), ask the following questions and, after the child has answered, mark the appropriate square on the tool. 
+    -	Of these colours, which colour is most like the worst pain you have ever had, or the worst pain anybody could ever have?
+    -	Which colour is almost as much pain as the worst pain, but not quite as bad?
+    -	Which colour is like a little pain?
+    -	Which colour is like no pain at all?
+3.	Show the four colours to the child in order, from the colour chosen for the worst pain to the colour chosen for no pain. 
+4.	Ask the child to colour within the body outlines in the places where it hurts on their own body, using the colours chosen to show how much it hurts. 
+5.	When finished, ask if this is a picture of how it hurts now or how it hurt earlier. Be specific about what earlier means by relating the time to an event, for example, at lunch or in the playroom.
+{:.allow-break}
 
 Note
 : Ask the child what their favourite colour is before starting and remove that one from the group of colours, as you don’t want them to associate pain with this colour.
