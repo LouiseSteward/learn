@@ -212,12 +212,12 @@ Ask a child to ‘draw’ his or her pain. This often gives insight into the int
 > ![Figure D]({{ images }}/appendix-g-figure-d.svg)
 {:.figure}
 
-Based on the Eland Colour Tool (Eland & Anderson, 1977) the PatchSA Colour Tool can be used to locate and assess the intensity of pain in children.
+*Based on the Eland Colour Tool (Eland & Anderson, 1977) the PatchSA Colour Tool can be used to locate and assess the intensity of pain in children.*
 
 After discussing with the child several things that have hurt or caused the child pain in the past: 
 
 1.	Present the child with four crayons or markers of different colours. 
-2.	Using the term that the family and child use to describe hurt or pain (the word 'pain' is used in these instructions), ask the following questions and after the child has answered, mark the appropriate square on the tool. 
+2.	Using the term that the family and child use to describe hurt or pain (the word 'pain' is used in these instructions), ask the following questions and, after the child has answered, mark the appropriate square on the tool. 
   1.	Of these colours, which colour is most like the worst pain you have ever had, or the worst pain anybody could ever have?
   2.	Which colour is almost as much pain as the worst pain, but not quite as bad?
   3.	Which colour is like a little pain?
