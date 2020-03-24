@@ -218,13 +218,14 @@ After discussing with the child several things that have hurt or caused the chil
 
 1.	Present the child with four crayons or markers of different colours. 
 2.	Using the term that the family and child use to describe hurt or pain (the word 'pain' is used in these instructions), ask the following questions and, after the child has answered, mark the appropriate square on the tool. 
-  1.	Of these colours, which colour is most like the worst pain you have ever had, or the worst pain anybody could ever have?
-  2.	Which colour is almost as much pain as the worst pain, but not quite as bad?
-  3.	Which colour is like a little pain?
-  4.	Which colour is like no pain at all?
+    -	Of these colours, which colour is most like the worst pain you have ever had, or the worst pain anybody could ever have?
+    -	Which colour is almost as much pain as the worst pain, but not quite as bad?
+    -	Which colour is like a little pain?
+    -	Which colour is like no pain at all?
 3.	Show the four colours to the child in order, from the colour chosen for the worst pain to the colour chosen for no pain. 
 4.	Ask the child to colour within the body outlines in the places where it hurts on their own body, using the colours chosen to show how much it hurts. 
 5.	When finished, ask if this is a picture of how it hurts now or how it hurt earlier. Be specific about what earlier means by relating the time to an event, for example, at lunch or in the playroom.
+{:.allow-break}
 
 Note
 : Ask the child what their favourite colour is before starting and remove that one from the group of colours, as you don’t want them to associate pain with this colour.
