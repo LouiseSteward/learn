@@ -209,10 +209,10 @@ Ask a child to ‘draw’ his or her pain. This often gives insight into the int
 
 #### Instructions for using the PatchSA Colour Tool:
 
-> ![Figure D]({{ images }}/appendix-g-figure-d.svg)
+> ![Figure D: Based on the Eland Colour Tool (Eland & Anderson, 1977) the PatchSA Colour Tool can be used to locate and assess the intensity of pain in children.]({{ images }}/appendix-g-figure-d.svg)
+>
+> Figure D: Based on the Eland Colour Tool (Eland & Anderson, 1977) the PatchSA Colour Tool can be used to locate and assess the intensity of pain in children.
 {:.figure}
-
-*Based on the Eland Colour Tool (Eland & Anderson, 1977) the PatchSA Colour Tool can be used to locate and assess the intensity of pain in children.*
 
 After discussing with the child several things that have hurt or caused the child pain in the past: 
 
