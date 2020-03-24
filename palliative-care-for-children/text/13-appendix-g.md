@@ -12,8 +12,8 @@ Age appropriate pain rating scales include the following:
 
 1. Neonates, infants: Neonatal pain rating scale (NIPS) or facial expression tool
 2. Nonverbal children or children under 3 years: FLACC scale
-3. Children over 3 years of age: Wong Baker Faces pain scale
-4. Children over 7 years of age: Numeric, word pain scale and Eland colour body tool
+3. Children over 3 years of age: Wong Baker faces pain scale
+4. Children over 7 years of age: Numeric, word pain scale and PatchSA colour tool
 </div>
 
 ## Neonates
