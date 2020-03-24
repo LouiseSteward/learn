@@ -17,4 +17,7 @@ Written by the PatchSA Training Team
 Edited by Prof David Woods
 {:.titlepage-author}
 
+In memory of Samuel John Frederick Platt<br>– 9 April 2015 to 22 July 2016 –<br>A little boy who spent his entire life in ICU and never went home
+{:.dedication}
+
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}

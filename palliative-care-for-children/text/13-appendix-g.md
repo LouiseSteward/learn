@@ -118,9 +118,9 @@ Neonatal/infant pain scale (NIPS): Score \>3 = pain
 
 Indications for use with:
 
-- infants and children to 3 years of age
-- children up to 7 years of age who are unable to validate the presence of, or quantify the severity of, pain
-- any other non-verbal patient
+- Infants and children to 3 years of age
+- Children up to 7 years of age who are unable to validate the presence of, or quantify the severity of, pain
+- Any other non-verbal patient
 </div>
 
 <table class="wide">
