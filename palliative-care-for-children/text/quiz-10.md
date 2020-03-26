@@ -1,6 +1,7 @@
 ---
 title: Quiz 10. Management of neurological, nutritional and skin symptoms
 style: chapter test
+quiz-id: 462
 ---
 
 {% include metadata %} 

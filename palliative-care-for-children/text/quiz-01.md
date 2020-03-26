@@ -1,6 +1,7 @@
 ---
 title: Quiz 1. The principles and practice of palliative care for children
 style: chapter test
+quiz-id: 465
 ---
 
 {% include metadata %}
