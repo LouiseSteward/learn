@@ -9,27 +9,27 @@ style: chapter test
 
 Choose the *one,* most correct answer to each question or statement.
 
-1.  Psychosocial care and support within children’s palliative care is mainly concerned about:
+1. Psychosocial care and support within children’s palliative care is mainly concerned about:
     -  Providing housing and transport for families
     +  The psychological, social, emotional and spiritual wellbeing of the patient and their family members
     -  Ensuring the child attends school so they don’t fail at the end of the year
     -  Ensuring families talk to one another and don’t have disagreements over the child’s treatment
-2.  Supporting the psychological needs of young infants means:
+2. Supporting the psychological needs of young infants means:
     -  Giving them regular baths and making sure their nappies are changed regularly
     -  Rocking them to sleep so they feel safe
     +  Providing them with comforting physical contact from a trusted adult
     -  Making sure doctors and nurses don’t hurt them
-3.  What issues can result from ‘magical thinking’ for a very sick child aged 3 to 6 years?
+3. What issues can result from ‘magical thinking’ for a very sick child aged 3 to 6 years?
     -  Children may believe that they have magic powers and can participate in dangerous behaviours and still be safe
     +  Children may believe that it was something bad they said, thought or did that has caused their illness
     -  Children may believe that they are able to make all their wishes come true through the power of magic
     -  Children may believe that their illness is caused by someone casting a magic spell on them
-4.  Which psychosocial characteristic below best describes a school-going child aged 6 to 12 years?
+4. Which psychosocial characteristic below best describes a school-going child aged 6 to 12 years?
     +  They start comparing themselves with their peers and either feel proud or inferior
     -  They need to be close to their parents or carers and fear separation
     -  They have a desire to explore their world and insist on doing things for themselves
     -  They think deeply about the meaning of life and who they are
-5.  What are the main psychosocial tasks of an adolescent?
+5. What are the main psychosocial tasks of an adolescent?
     -  To feel secure
     -  To learn to play
     -  To gain self confidence
