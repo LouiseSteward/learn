@@ -1,6 +1,7 @@
 ---
 title: Quiz 5. Holistic assessment and palliative care planning
 style: chapter test
+quiz-id: 469
 ---
 
 {% include metadata %}
@@ -9,47 +10,47 @@ style: chapter test
 
 Choose the *one*, most correct answer to each question or statement.
 
-1.  Holistic assessment means gathering:
+1. Holistic assessment means gathering:
     -  The family history
     -  Information of the physical and emotional aspects of a person only
     -  All the laboratory results
     +  Information about a patients physical, social, emotional and spiritual needs
-2.  Holistic assessment is important because it:
+2. Holistic assessment is important because it:
     +  Identifies the interventions that are required to plan the delivery of care to the child and family
     -  Is a legal requirement
     -  Forms part of the nursing care plan for home visits
     -  Only needs to be performed when a child is admitted to hospital
-3.  What is the aim of holistic assessment?
+3. What is the aim of holistic assessment?
     +  To develop a problem list of all of the child’s needs and develop a care plan specifically for that child and family
     -  To decide whether the family are capable of looking after the child
     -  To make a decision as to what information needs to be shared with the family about the child’s schooling needs while in hospital
     -  To help the doctor plan what medication the child requires to make a full recovery
-4.  What does a good assessment require?
+4. What does a good assessment require?
     -  A home visit
     +  Time, good communication skills, empathy and a non-judgemental attitude
     -  A checklist to be completed
     -  The doctor to make the final decisions about the interventions to be implemented
-5.  A common barrier to a good assessment is:
+5. A common barrier to a good assessment is:
     -  Lack of financial resources
     -  No transport available to take child to the assessment
     - Too many family members being present at the assessment
     + A lack of time and lack of privacy
-6.  Holistic assessment is:
+6. Holistic assessment is:
     -  Only done once as it is expensive
     -  Only done by a social worker to get the input of the family plan
     +  An ongoing process that uses a team approach
     -  Only involves the child and not the family
-7.  What is important to establish first when assessing a child?
+7. What is important to establish first when assessing a child?
     +  What is normal in the child’s daily life
     -  What is abnormal in the child’s life today
     -  How much the child weighs
     -  The child’s past medical history
-8.  The steps in the assessment process are to:
+8. The steps in the assessment process are to:
     -  Gather data and start the interventions needed
     -  Plan the interventions according to the child’s immediate history
     +  Gather the data, process the information using a team approach and come up with a plan of care
     -  Gather data and decide whether to share the findings with the parents
-9.  What are assessment tools?
+9. What are assessment tools?
     +  Instruments or questionnaires that are used to gather data for an individual patient
     -  Questionnaires that have yes or no answers only
     -  Only used to assess pain levels
