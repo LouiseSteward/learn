@@ -1,7 +1,6 @@
 ---
 title: Quiz 6. Psychosocial care and support
 style: chapter test
-quiz-id: 470
 ---
 
 {% include metadata %}

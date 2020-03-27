@@ -1,7 +1,6 @@
 ---
 title: Quiz 7. Cultural understanding and spiritual care
 style: chapter test
-quiz-id: 471
 ---
 
 {% include metadata %} 

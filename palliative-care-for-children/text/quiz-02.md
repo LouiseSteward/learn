@@ -1,7 +1,6 @@
 ---
 title: Quiz 2. Ethics and decision making
 style: chapter test
-quiz-id: 466
 ---
 
 {% include metadata %}

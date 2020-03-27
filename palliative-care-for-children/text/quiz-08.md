@@ -1,7 +1,6 @@
 ---
 title: Quiz 8. Pain management
 style: chapter test
-quiz-id: 472
 ---
 
 {% include metadata %} 
