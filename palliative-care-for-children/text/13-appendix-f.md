@@ -35,7 +35,7 @@ Use the following acronym to ask questions about the pain:
 > 
 > **SS:** *Severity, site:*
 > - How severe is the pain at the site?
-> - Score the intensity using pain rating scales (see [appendix G](#appendix-g-age-appropriate-pain-rating-scales)).
+> - Score the intensity using pain rating scales (see [appendix G](13-appendix-g.html)).
 > 
 > **TT:** *Time course, treatment:*
 > - When did it start?
@@ -47,7 +47,7 @@ Use the following acronym to ask questions about the pain:
 
 ### The ‘U’ in QUESTT: Use pain rating scales.
 
-See [appendix G](#appendix-g-age-appropriate-pain-rating-scales) for more information on age appropriate pain rating scales.
+See [appendix G](13-appendix-g.html) for more information on age appropriate pain rating scales.
 
 - Pain rating scales are useful for establishing a baseline and for measuring response to treatment.
 - Different scales have been developed for different ages and levels of development in both non-verbal and verbal children.

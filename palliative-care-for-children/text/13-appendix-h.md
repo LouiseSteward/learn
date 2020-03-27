@@ -12,5 +12,5 @@ A detailed Association for Paediatric Palliative Medicine’s (APPM) 2020 formul
 
 The APPM formulary is the leading international resource and only authoritative guide on prescribing in paediatric palliative care. Many of these medicines are prescribed ‘off-licence’ and ‘on expert opinion’ as it is difficult to do studies in this vulnerable population. Caution needs to be exercised in children with renal or liver dysfunction and dose adjustments need to be made. Do note not all of the formulations mentioned in this resource are available in South Africa.
 
-You can access the APPM formulary here: http://patchsa.org/patchsa_ppc_formulary/
+You can access the APPM formulary here: [http://patchsa.org/patchsa_ppc_formulary/](http://patchsa.org/patchsa_ppc_formulary/)
 </div>
