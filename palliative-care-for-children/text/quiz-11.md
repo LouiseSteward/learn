@@ -1,7 +1,6 @@
 ---
 title: Quiz 11. End-of-life care
 style: chapter test
-quiz-id: 463
 ---
 
 {% include metadata %} 

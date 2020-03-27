@@ -1,7 +1,6 @@
 ---
 title: Quiz 5. Holistic assessment and palliative care planning
 style: chapter test
-quiz-id: 469
 ---
 
 {% include metadata %}

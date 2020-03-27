@@ -1,7 +1,6 @@
 ---
 title: Quiz 9. Management of respiratory and gastrointestinal symptoms
 style: chapter test
-quiz-id: 461
 ---
 
 {% include metadata %} 
