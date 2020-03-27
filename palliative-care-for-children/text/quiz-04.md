@@ -1,11 +1,11 @@
 ---
-title: Quiz 4. Teamwork, management conflict and self-care
+title: Quiz 4. Teamwork, managing conflict and self-care
 style: chapter test
 ---
 
 {% include metadata %}
 
-# Quiz 4: Teamwork, management conflict and self-care
+# Quiz 4: Teamwork, managing conflict and self-care
 
 Choose the *one,* most correct answer to each question or statement.
 
