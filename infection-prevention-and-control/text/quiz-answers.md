@@ -230,7 +230,7 @@ Relearn the sections in brackets for questions you get wrong.
 10.	a	(10-21)
 11.	d	(10-22)
 12.	a	(10-24)
-13.	c	(10-26)
+13.	c	(10-25)
 14.	b	(10-29)
 15.	a	(10-31)
 16.	c	(10-32)
