@@ -10,3 +10,7 @@ layout: null
 
 // Custom Bettercare scripts
 {% include_relative show-hide.js %}
+
+{% if site.data.settings.web.search.type == "google-cse" and site.output == "web" %}
+    {% include_relative google-cse.js %}
+{% endif %}
