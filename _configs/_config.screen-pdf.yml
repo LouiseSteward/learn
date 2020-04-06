@@ -34,31 +34,32 @@ exclude:
   - /*/images/epub
   - /*/images/app
   # Books ---------------------------------
-  - adult-hiv
-  - breast-care
-  - catalogue
-  - child-healthcare
-  - childhood-critical-care
-  - childhood-hiv
-  - childhood-tb
-  # - congenital-disorders
-  - ebola-prevention-and-control
-  - facilitators-guide
-  - fetal-heart-rate-handbook
-  - infection-prevention-and-control
-  - intrapartum-care
-  - maternal-care
-  - maternal-mental-health
-  - mother-and-baby-care-for-community-health-workers
-  - mother-and-baby-friendly-care
-  - newborn-care
-  - perinatal-hiv
-  - primary-maternal-care
-  - primary-newborn-care
-  - public-health
-  - samples
-  - saving-mothers-and-babies
-  - womens-health-care
+#   - adult-hiv
+#   - breast-care
+#   - catalogue
+#   - child-healthcare
+#   - childhood-critical-care
+#   - childhood-hiv
+#   - childhood-tb
+#   - congenital-disorders
+#   - ebola-prevention-and-control
+#   - facilitators-guide
+#   - fetal-heart-rate-handbook
+#   - infection-prevention-and-control
+#   - intrapartum-care
+#   - maternal-care
+#   - maternal-mental-health
+#   - mother-and-baby-care-for-community-health-workers
+#   - mother-and-baby-friendly-care
+#   - mother-and-teen-mental-health-for-community-health-workers
+#   - newborn-care
+#   - perinatal-hiv
+#   - primary-maternal-care
+#   - primary-newborn-care
+#   - public-health
+#   - samples
+#   - saving-mothers-and-babies
+#   - womens-health-care
 
 # Populate the keep_files list for temporary faster builds
 # or to keep previously generated files for other formats.
