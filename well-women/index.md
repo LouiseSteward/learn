@@ -4,4 +4,4 @@
 layout: min
 ---
 
-{% include redirect target="text" %}
+{% include redirect target="../womens-health-care" %}
