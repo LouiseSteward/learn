@@ -2,7 +2,7 @@
 # Author: Louise Steward
 # Date: Oct 2019
 # Description: Automatically convert the quiz markdown files into corresponding
-# bqf files. Should not be run as a standalone script, rather it is called as
+# bqf files. Should not be run as a standalone script - rather it is called as
 # an option from the output script, since the bookfolder variable is coming
 # from the output script.
 # -----------------------------------------------------------------------------
