@@ -39,3 +39,9 @@ variants:
   # - Crimson-Roman.otf
   # - Crimson-Italic.otf
 # ----------------------------------------------------------
+
+# Web settings
+web:
+  search:
+    type: "google-cse"
+    google-cse-id: "002912243131862380913:nxzwtqgyulc"

@@ -121,6 +121,14 @@ exclude:
 - /*/styles/screen-pdf*
 - /*/styles/epub*
 - /*/styles/app*
+# Files that are included elsewhere already
+- /assets/js/nav.js
+- /assets/js/get-query-variable.js
+- /assets/js/google-cse.js
+- /assets/js/mark.min.js
+- /assets/js/mark-search-terms.js
+- /assets/js/videos.js
+- /assets/js/show-hide.js
 # Books ---------------------------------
 # - adult-hiv
 # - breast-care

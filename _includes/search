@@ -4,9 +4,28 @@ Include this file in HTML with {% include search %}.
 Searches all books in the project.
 {% endcomment %}
 
-{% include metadata %}
+{% comment %}If metadata has already been included (e.g. in nav.html),
+don't include it again to avoid unnecessary looping.{% endcomment %}
+{% unless metadata-loaded == true  %}
+	{% include metadata %}
+{% endunless %}
 
 <form class="search" action="{{ path-to-root-directory }}search.html" method="get">
   <label for="search-box"></label>
   <input type="text" id="search-box" class="search-box" name="query" placeholder="Search">
 </form>
+
+{% unless include.type == "box-only" %}
+
+{% if site.output == "web" and site.data.settings.web.search.type == "google-cse" %}
+
+<div class="search-placeholder">Searching&nbsp;…</div>
+<gcse:searchresults-only></gcse:searchresults-only>
+
+{% else %}
+
+<div class="search-results" id="search-results"></div>
+
+{% endif %}
+
+{% endunless %}
