@@ -166,6 +166,10 @@ $web-base-typography: true !default;
     // Also see -figures partial
 
     // Standalone images
+    img {
+        max-width: 100%;
+    }
+
     // (Markdown default puts images on their own line 
     // into paragraphs like this.)
     p img:only-child {
