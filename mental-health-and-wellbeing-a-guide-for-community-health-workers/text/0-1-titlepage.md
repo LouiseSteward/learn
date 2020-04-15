@@ -11,7 +11,10 @@ Mental Health and Wellbeing
 A Guide for Community Health Workers
 {:.titlepage-subtitle}
 
-Written by Prof David Woods
+Written by Roseanne Turner
+{:.titlepage-author}
+
+Edited by Prof David Woods
 {:.titlepage-author}
 
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}
