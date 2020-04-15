@@ -1,7 +1,7 @@
 ---
-title: Cover
-style: cover
+# This file redirects the user elsewhere.
+# By default, to the index page in the text folder.
+layout: min
 ---
 
-[![Cover]({{ images }}/cover.jpg){:.cover}](0-3-contents.html)
-{:.cover}
+{% include redirect target="text" %}

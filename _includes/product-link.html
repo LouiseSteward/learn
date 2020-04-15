@@ -1,0 +1,11 @@
+{% capture product-link %}
+
+{% include metadata %}
+
+{% for product in site.data.products %}
+    {% if product.slug == book-directory %}
+        <a class="button product-link" target="_blank" href="{{ product.url }}">Get the course book</a>
+    {% endif %}
+{% endfor %}
+
+{% endcapture %}{{ product-link | strip_newlines }}

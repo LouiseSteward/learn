@@ -19,17 +19,24 @@
 
             {% comment %}Add the search box{% endcomment %}
             <div class="search">
-                {% include search %}
+                {% include search type="box-only" %}
             </div><!--.search-->
+
+            {% comment %} Link to product {% endcomment %}
+            {% if is-book-subdirectory == true %}
+            <div class="product-link">
+                {% include product-link.html %}
+            </div>
+            {% endif %}
 
             {% comment %}Create the nav list{% endcomment %}
             <div class="nav-list">
 
                 {% comment %} Custom addition for Bettercare
                 to go back to main website {% endcomment %}
-                <ol>
+                <ol class="nav-organisation">
                     <li>
-                        <a href="https://bettercare.co.za">Bettercare</a>
+                        <a href="https://bettercare.co.za">Go to Bettercare</a>
                     </li>
                 </ol>
 
@@ -119,7 +126,7 @@
 
             {% comment %}Add the search box{% endcomment %}
             <div class="search">
-                {% include search %}
+                {% include search type="box-only" %}
             </div><!--.search-->
 
             <div class="nav-list">

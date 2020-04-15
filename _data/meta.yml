@@ -18,9 +18,9 @@ project:
   image: "publisher-logo.jpg"
   # For web navigation, the label for links to  the project homepage
   # For English sites, you can leave this as "Home".
-  home-label: "All programmes"
+  home-label: "See all programmes"
   # For web navigation, the label for the navigation menu
-  nav-label: "≡"
+  nav-label: "Menu"
   # Footer text for the project
   footer: "[Bettercare](http://bettercare.co.za)"
   # For web search, the "placeholder" text while the search is running

@@ -3,6 +3,11 @@ $web-nav-bar: true !default;
 
     // Navigation
 
+    .nav-button {
+        border: 1px solid $color-background;
+        z-index: 1;
+    }
+
     [href="#nav"] {
         font-family: $font-text-secondary;
         font-size: inherit;
@@ -59,6 +64,7 @@ $web-nav-bar: true !default;
         background-color: $nav-bar-background-color;
         border-top: 1px solid $nav-bar-border-color;
         padding-right: 17px; // Hides scroll bar
+        z-index: 2;
 
         .js-nav-open & {
             overflow-y: auto; // Must let this div scroll; we'll hide the scrollbar elsewhere
