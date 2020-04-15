@@ -5,8 +5,11 @@ style: title-page page-1
 
 {% include metadata %}
 
-Mother and Teen Mental Health for Community Health Workers
+Mental Health and Wellbeing
 {:.titlepage-title}
+
+A Guide for Community Health Workers
+{:.titlepage-subtitle}
 
 Written by Prof David Woods
 {:.titlepage-author}

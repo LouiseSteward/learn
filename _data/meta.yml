@@ -17615,9 +17615,9 @@ works:
           - "0-3-contents"
           - "01"
           - "02"
-  - directory: "mother-and-teen-mental-health-for-community-health-workers"
-    title: "Mother and Teen Mental Health for Community Health Workers"
-    subtitle: ""
+  - directory: "mental-health-and-wellbeing-a-guide-for-community-health-workers"
+    title: "Mental Health and Wellbeing"
+    subtitle: "A Guide for Community Health Workers"
     creator: "David Woods" # E.g. the author
     contributor: "" # E.g. other contributors
     subject: "Healthcare" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
