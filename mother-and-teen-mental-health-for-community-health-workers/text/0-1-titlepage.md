@@ -5,16 +5,10 @@ style: title-page page-1
 
 {% include metadata %}
 
-
+Mother and Teen Mental Health for Community Health Workers
 {:.titlepage-title}
 
-
-{:.titlepage-subtitle}
-
-Written by 
-{:.titlepage-author}
-
-Edited by 
+Written by Prof David Woods
 {:.titlepage-author}
 
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}
