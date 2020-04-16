@@ -209,8 +209,8 @@ The adult must first stay calm and not make the situation worse:
 
 - Ignore the bad behaviour until everyone has calmed down.
 - Stay close to the adolescent while making sure everyone is safe.
-- When everyone is calm, try to find out what caused the strong feelings*.*
-- Try to name the emotion by looking for non-verbal signs, and check whether you are correct. For example: ‘*You look very angry*’ or *‘I imagine you had a difficult day at school’ or ‘Do you want to tell me what happened?’*.
+- When everyone is calm, try to find out what caused the strong feelings.
+- Try to name the emotion by looking for non-verbal signs, and check whether you are correct. For example: ‘You look very angry’ or ‘I imagine you had a difficult day at school’ or ‘Do you want to tell me what happened?’.
 - Remind the adolescent that emotions and feelings are normal. Adolescents have bigger emotions than adults. They need to learn to manage, not suppress emotions.
 - Make sure the adolescent understands that all feelings are normal. Everyone feels angry at times, but it is never okay to hurt or harm people or animals or to break things, however justified our anger.
 - Teach them to use their emotional energy in a positive way, for example, exercise, working, chopping wood, drumming, dance, music or art.
@@ -384,7 +384,7 @@ Brainstorming means thinking of lots of ideas without judging if they will work 
 1. The first step is to find out how the person usually manages problems.
 2. Write down all the ideas without judging any as good or bad.
 3. Get ideas from the person and also add our own ideas.
-4. When adding our ideas check what the person thinks, before adding to the list. We can ask *‘Do you think you could do …’* or *‘What about doing …’.*
+4. When adding our ideas check what the person thinks, before adding to the list. We can ask ‘Do you think you could do …’ or ‘What about doing …’.
 
 ### 4-40 How do we help find a realistic solution?
 

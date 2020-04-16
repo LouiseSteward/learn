@@ -168,7 +168,7 @@ Babies who have a positive early start to life are able to use this as a base fo
 
 Babies are helpless and need someone to care for them so they can survive. When their needs are not met, they quickly become frightened. Babies who have been exposed to toxic stress before birth or soon after birth are even more fearful. Feelings, like being alone, hungry, thirsty, cold, wet, tired or hearing cross voices, can make infants feel very frightened.
 
-Babies cry when they need attention. They need an adult to show they care by coming quickly when they cry and by not being angry or rough with them. Babies need love and kindness. When babies feel *attached* and safe they can relax, grow and develop normally.
+Babies cry when they need attention. They need an adult to show they care by coming quickly when they cry and by not being angry or rough with them. Babies need love and kindness. When babies feel attached and safe they can relax, grow and develop normally.
 
 > Babies need love and kindness to grow and develop normally.
 
