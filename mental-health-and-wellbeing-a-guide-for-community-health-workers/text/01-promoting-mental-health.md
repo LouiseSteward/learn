@@ -7,7 +7,7 @@ quiz-id:
 
 # **1** Promoting mental health
 
-Take the chapter quiz before and after you have read this chapter.
+Take the chapter quiz before and after you read this chapter.
 
 {% include quiz.html %}
 
