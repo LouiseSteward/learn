@@ -194,11 +194,11 @@ You may notice that the baby is withdrawn, which they show by turning away or cl
 
 ### 3-20 What do the words ‘adolescent’ and ‘adult’ mean?
 
-Adolescence starts at puberty when sex hormones make many changes happen in the child’s body and brain. It ends in early adulthood when the brain is fully developed. We use the words **adolescent** and **adolescence** in this book to talk about young girls and boys between about 10 and 24 years of age.
+Adolescence starts at puberty when sex hormones make many changes happen in the child’s body and brain. It ends in early adulthood when the brain is fully developed. We use the words adolescent and adolescence in this book to talk about young girls and boys between about 10 and 24 years of age.
 
-An adult is a person who is fully grown and developed. We use the word **adult** to talk about the older person who is responsible for the adolescent’s well-being. The adult is the person who makes sure the adolescent is cared for and protected physically and emotionally. This could be the mother, father, grandparents, other family members, foster parents, a teacher or care worker.
+An adult is a person who is fully grown and developed. We use the word adult to talk about the older person who is responsible for the adolescent’s well-being. The adult is the person who makes sure the adolescent is cared for and protected physically and emotionally. This could be the mother, father, grandparents, other family members, foster parents, a teacher or care worker.
 
-*The body changes that happen during adolescence are described in the [**Child and Adolescent Care for Community Health Workers**](child-and-adolescent-care-for-community-health-workers/text/0-3-contents.html) book of the Bettercare series.*
+*The body changes that happen during adolescence are described in the [Child and Adolescent Care for Community Health Workers](child-and-adolescent-care-for-community-health-workers/text/0-3-contents.html) book of the Bettercare series.*
 
 ### 3-21 What big changes happen in the brain of adolescents?
 

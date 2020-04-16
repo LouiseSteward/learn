@@ -123,7 +123,7 @@ People with HIV or TB also experience stigma. In many communities, adolescent gi
 
 ### 1-15 What causes stigma?
 
-Stigma happens when people don’t understand why some people are different from them. Not understanding can make people feel frightened. People then make up stories and myths to help them feel safe. Some of the **untrue beliefs** that people have about mental health conditions include:
+Stigma happens when people don’t understand why some people are different from them. Not understanding can make people feel frightened. People then make up stories and myths to help them feel safe. Some of the untrue beliefs that people have about mental health conditions include:
 
 - People with mental health conditions are violent or have no self-control.
 - Having poor mental health is the person’s own fault.
@@ -219,9 +219,9 @@ There is a strong link between lack of sleep and mental health conditions. Adole
 - Tiredness makes us forget important things more easily.
 - Tiredness can also make it hard to get along with friends and family.
 - People lacking sleep usually eat badly and easily become angry and behave badly.
-- Lack of sleep is **a very common** cause of poor school performance in adolescents.
+- Lack of sleep is a very common cause of poor school performance in adolescents.
 
-> Lack of sleep is **a very common** cause of bad behaviour and poor school performance in adolescents.
+> Lack of sleep is a very common cause of bad behaviour and poor school performance in adolescents.
 
 ### 1-24 How can modern technology prevent healthy sleep?
 

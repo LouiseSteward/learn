@@ -212,7 +212,7 @@ The adult must first stay calm and not make the situation worse:
 - When everyone is calm, try to find out what caused the strong feelings*.*
 - Try to name the emotion by looking for non-verbal signs, and check whether you are correct. For example: ‘*You look very angry*’ or *‘I imagine you had a difficult day at school’ or ‘Do you want to tell me what happened?’*.
 - Remind the adolescent that emotions and feelings are normal. Adolescents have bigger emotions than adults. They need to learn to manage, not suppress emotions.
-- Make sure the adolescent understands that all feelings are normal. Everyone feels angry at times, but it is **never** okay to hurt or harm people or animals or to break things, however justified our anger.
+- Make sure the adolescent understands that all feelings are normal. Everyone feels angry at times, but it is never okay to hurt or harm people or animals or to break things, however justified our anger.
 - Teach them to use their emotional energy in a positive way, for example, exercise, working, chopping wood, drumming, dance, music or art.
 - Always check if they are tired or hungry. Help them understand that physical needs make emotions more difficult to manage.
 
