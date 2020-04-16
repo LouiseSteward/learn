@@ -9,7 +9,7 @@ style: chapter test
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	What is mental health? 
+1.	What is mental health?
     -	Not having any severe headaches
     -	Being intelligent and well educated
     -	Not worrying about anything
