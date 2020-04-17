@@ -250,7 +250,7 @@ One of the biggest challenges with care work is having to keep confidence. Confi
 
 We are allowed to break confidentiality is someone tells us about plans to harm themselves or others. We need to warn the person about this rule. But if we share stories at peer meetings, we must not break confidence. This means we can share information with colleagues about what happened, but we need to tell the story in a way that doesn’t give away who the people in our story are.
 
-*This is discussed in detail in the book* Compassionate Care *on empathic communication and care in the Bettercare series.*
+*This is discussed in detail in the forthcoming book* Compassionate Care *on empathic communication and care in the Bettercare series.*
 
 > Confidentiality is important if we are to win the trust of the people we care for.
 
@@ -300,7 +300,7 @@ There are many simple things we can do to help people who are struggling. For ex
 
 Active listening means we listen to try and understand not just what the person is saying, but also the non-verbal emotions and body language.
 
-*Active listening is explained in detail in* Compassionate Care, *a book on empathic communication and care in the Bettercare series.*
+*Active listening is explained in detail in* Compassionate Care, *a forthcoming book on empathic communication and care in the Bettercare series.*
 
 > Active listening not only assesses what someone says, but takes note of their non-verbal emotions and body language.
 
