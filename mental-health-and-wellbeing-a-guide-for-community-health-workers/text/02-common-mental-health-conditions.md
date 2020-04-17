@@ -15,6 +15,12 @@ Take the chapter quiz before and after you read this chapter.
 {:.non-printing}
 
 * [Objectives](#objectives)
+* [Introduction to mental health conditions](#introduction-to-mental-health-conditions)
+* [Depression](#depression)
+* [Anxiety](#anxiety)
+* [Recognising common mental health conditions](#recognising-common-mental-health-conditions)
+* [Other mental health problems](#other-mental-health-problems)
+* [Suicide](#suicide)
 * [Case studies](#case-study-1)
 {:.chapter-toc}
 
@@ -27,6 +33,8 @@ When you have completed this chapter, you should be able to:
 3. Know about alcohol and substance use disorders.
 4. Understand why mental health is important for HIV management.
 5. Understand more about suicide.
+
+## Introduction to mental health conditions
 
 ### 2-1 What are negative emotions?
 
@@ -82,6 +90,8 @@ There are many risk factors for mental health conditions. Some people are more v
 - Physical sickness
 - Big life changes such as pregnancy, divorce or death in the family.
 
+## Depression
+
 ### 2-8 What is depression?
 
 When a person is depressed, they have a low mood and feel down, have little interest or enjoyment in life and have low energy, which stops them acting normally. If these feelings last for two weeks or more, the person has a mental health condition called depression (depressive disorder).
@@ -114,6 +124,8 @@ It can be very difficult to notice if people have depression because we can’t 
 - Their body moves very slowly or looks very heavy or tired.
 - Their voice is very soft or slow.
 - They avoid eye contact.
+
+## Anxiety
 
 ### 2-11 What is anxiety?
 
@@ -153,6 +165,8 @@ This is a form of severe anxiety that lasts from a few minutes to a few hours. T
 ### 2-14 Are anxiety and depression separate mental health conditions?
 
 Yes, and no. Some people have only anxiety, or they only have depression. Other people have both anxiety and depression at the same time.
+
+## Recognising common mental health conditions
 
 ### 2-15 What is different about people with common mental health conditions?
 
@@ -211,6 +225,8 @@ There are different ways adults can notice that adolescents may have a mental he
 
 > Adolescents with mental health conditions often start behaving badly and doing poorly at school.
 
+## Other mental health problems
+
 ### 2-22 What are alcohol and substance abuse disorders?
 
 Some people use alcohol or other substances to cope with stress, anxiety or depression, even though this will mostly make their problem worse. Other people develop mental health conditions because they use excess alcohol and abuse substances to manage their emotions.
@@ -247,6 +263,8 @@ An eating disorder is a mental health condition where a person eats too much, re
 With psychotic disorders such as schizophrenia, the person is out of touch with reality and may see or hear things that are not there. Schizophrenia often starts during adolescence. These mental conditions are less common than anxiety and depression, but are very serious and need immediate referral for treatment.
 
 > People with a psychotic disorder are out of touch with reality and see and hear things that are not there.
+
+## Suicide
 
 ### 2-28 What is suicide?
 
