@@ -107,7 +107,7 @@ One of the most dangerous times of our life is the few hours when our mother is 
 
 ### Mother and Baby Care for Community Health Workers
 
-Community Health Workers (CHWs) serve as a direct link between patients, communities and health services. As trusted on-the-ground support to community members, they expand access to essential healthcare information as well as available treatment and prevention programmes. *Mother and Baby Care for Community Health Workers* includes modules that have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape.
+Community health workers (CHWs) serve as a direct link between patients, communities and health services. As trusted on-the-ground support to community members, they expand access to essential healthcare information as well as available treatment and prevention programmes. *Mother and Baby Care for Community Health Workers* includes modules that have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape.
 
 ### Mother and Baby Friendly Care
 

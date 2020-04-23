@@ -17,9 +17,9 @@ title: Introduction
 *   [Registration](#registration)
 {:.chapter-toc}
 
-Community Health Workers (CHWs) serve as a very important direct link between patients, communities and health services. As trusted on-the-ground support to community members, they therefore expand access to essential healthcare information as well as available treatment and prevention programmes.
-The *Child and Adolescent Care for Community Health Workers* course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging Community Health Workers in South Africa.
-The proven Perinatal Education Programme (PEP) methodology of decentralised, small group learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of Community Health Workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
+Community health workers (CHWs) serve as a very important direct link between patients, communities and health services. As trusted on-the-ground support to community members, they therefore expand access to essential healthcare information as well as available treatment and prevention programmes.
+The *Child and Adolescent Care for Community Health Workers* course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging community health workers in South Africa.
+The proven Perinatal Education Programme (PEP) methodology of decentralised, small group learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of community health workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
 This group of topics from *Child and Adolescent Care for Community Health Workers* includes:
 
 1.  Growth and nutrition

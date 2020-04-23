@@ -5,8 +5,11 @@ style: title-page page-1
 
 {% include metadata %}
 
-Immunisations: A Guide for Community Health Workers
+Immunisations
 {:.titlepage-title}
+
+A guide for community health workers
+{:.titlepage-subtitle}
 
 Written by Prof David Woods
 {:.titlepage-author}
