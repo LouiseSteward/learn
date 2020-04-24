@@ -84,7 +84,7 @@ The level of care needed is shown as follows:
  <tr>
   <td><p>Allergies</p></td>
   <td><p>Penicillin allergy with an anaphylactic reaction is always dangerous, but rarely occurs.</p></td>
-  <td><p>Allergies must always be clearly documented on the folder and antenatal card.</p></td>
+  <td><p>Allergies must always be clearly documented on the folder and antenatal record.</p></td>
   <td><p>1</p></td>
  </tr>
  <tr>
