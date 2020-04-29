@@ -18,7 +18,7 @@ title: Introduction
 {:.chapter-toc}
 
 Community health workers (CHWs) serve as a very important direct link between patients, communities and health services. As trusted on-the-ground support to community members, they therefore expand access to essential healthcare information as well as available treatment and prevention programmes.
-The Mothers and Baby Care for Community Health Workers course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging community health workers in South Africa.
+The Mother and Baby Care for Community Health Workers course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging community health workers in South Africa.
 The proven Perinatal Education Programme methodology of decentralised, small group, learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of community health workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
 This group of topics from Mother and Baby Care for Community Health Workers includes:
 
