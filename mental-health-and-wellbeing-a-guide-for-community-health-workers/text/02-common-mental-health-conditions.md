@@ -26,11 +26,11 @@ Take the chapter quiz before and after you read this chapter.
 
 ## Objectives
 
-When you have completed this chapter, you should be able to:
+When you have completed this chapter you should be able to:
 
 1. Know more about common mental health conditions.
 2. Understand the symptoms and signs of anxiety and depression.
-3. Know about alcohol and substance use disorders.
+3. Know about alcohol and substance abuse disorders.
 4. Understand why mental health is important for HIV management.
 5. Understand more about suicide.
 
@@ -58,7 +58,7 @@ Examples of less common mental health conditions are eating disorders, addictive
 
 ### 2-4 Why are mental health conditions a problem?
 
-Mental health conditions make it difficult for people to get on with other people and to think clearly. Mental health conditions can also stop children and adolescents from learning and developing. The mind and body are connected, so mental health conditions affect both emotional resilience (toughness) and being able to cope with stress, and physical toughness such as immunity to disease. This means people with mental health conditions are more vulnerable to substance abuse, addictions and also diseases like TB, cancer, hypertension, diabetes, heart disease and HIV.
+Mental health conditions make it difficult for people to get on with other people and to think clearly. Mental health conditions can also stop children and adolescents from learning and developing. The mind and body are connected, so mental health conditions affect both emotional resilience (toughness), being able to cope with stress and physical toughness such as immunity to disease. This means people with mental health conditions are more vulnerable to substance abuse, addictions and also diseases like TB, cancer, hypertension, diabetes, heart disease and HIV.
 
 If mental health conditions are not noticed and treated early, those affected will struggle for most of their lives. They are also more likely to live in poverty and will find it difficult to move out of poverty.
 
@@ -158,7 +158,7 @@ These feelings and signs can be normal if there is something frightening happeni
 
 ### 2-13 What is a panic attack?
 
-This is a form of severe anxiety that lasts from a few minutes to a few hours. The person feels very frightened without any good reason. Often they think that sometime terrible is going to happen to them or that they are going to die. They feel faint, sweat, tremble (shake) breathe fast and have a very fast heart rate. They may also have chest pain and think that they are having a heart attack. Panic attacks usually occur in people who suffer from anxiety.
+This is a form of severe anxiety that lasts from a few minutes to a few hours. The person feels very frightened without any good reason. Often they think that something terrible is going to happen to them or that they are going to die. They feel faint, sweat, tremble (shake) breathe fast and have a very fast heart rate. They may also have chest pain and think that they are having a heart attack. Panic attacks usually occur in people who suffer from anxiety.
 
 > With panic attacks people feel very frightened for a short time with no good reason.
 
@@ -344,7 +344,7 @@ No, it is important to take note when adolescents say they want to harm themselv
 
 ### 3. How can you do this without making things worse?
 
-If you are careful and respectful, nothing you say will make this situation worse. It is important to stay calm, not to judge Phumelele, and to try to find out why she is so upset. Once she has calmed down, ask her if she meant what she said.
+If you are careful and respectful, nothing you say will make this situation worse. It is important to stay calm, not to judge Phumelele and to try to find out why she is so upset. Once she has calmed down, ask her if she meant what she said.
 
 ### 4. What common mental health condition may have caused Phumelele to think of suicide?
 

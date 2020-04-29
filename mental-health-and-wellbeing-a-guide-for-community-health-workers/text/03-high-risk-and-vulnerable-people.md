@@ -26,7 +26,7 @@ Take the chapter quiz before and after you read this chapter.
 
 ## Objectives
 
-When you have finished this chapter you should be able to:
+When you have completed this chapter you should be able to:
 
 1. Understand common mental health conditions in pregnant women and new mothers.
 2. Understand infant mental health.
@@ -38,7 +38,7 @@ When you have finished this chapter you should be able to:
 
 ### 3-1 Can anyone develop a mental health condition?
 
-Yes. Anyone can develop a mental health condition. However, some groups of people have a higher risk of mental health conditions.
+Yes. Anyone can develop a mental health condition. However, some groups of people have a higher risk of developing mental health conditions.
 
 ### 3-2 Which groups of people have a higher risk of mental health conditions?
 
@@ -69,7 +69,7 @@ These mothers all have a much higher risk of common mental health conditions.
 
 ### 3-4 What common mental health conditions affect mothers?
 
-Mothers can develop the same mental health conditions as anyone else. In South Africa, one in three pregnant women will have depression or anxiety. These mental health conditions are more common during pregnancy and up to a year after the baby is born. It is important to notice mental health conditions as early as possible so they can be treated before they cause more problems for the mother and the baby.
+Mothers can develop the same mental health conditions as anyone else. In South Africa, 1 in 3 pregnant women will have depression or anxiety. These mental health conditions are more common during pregnancy and up to a year after the baby is born. It is important to notice mental health conditions as early as possible so they can be treated before they cause more problems for the mother and the baby.
 
 > Mental health conditions, especially depression and anxiety, are more common during pregnancy and after childbirth.
 
@@ -138,7 +138,7 @@ Infant means a very young child. In this book, we use the word infant to include
 
 ### 3-12 What is infant mental health?
 
-Infant mental health is a positive state of well-being in which the baby feels safe and able to trust the world around them. This allows babies to:
+Infant mental health is a positive state of wellbeing in which the baby feels safe and able to trust the world around them. This allows babies to:
 
 - Make close and secure relationships with the mother and others
 - Learn from and explore their world
@@ -196,7 +196,7 @@ You may notice that the baby is withdrawn, which they show by turning away or cl
 
 Adolescence starts at puberty when sex hormones make many changes happen in the child’s body and brain. It ends in early adulthood when the brain is fully developed. We use the words adolescent and adolescence in this book to talk about young girls and boys between about 10 and 24 years of age.
 
-An adult is a person who is fully grown and developed. We use the word adult to talk about the older person who is responsible for the adolescent’s well-being. The adult is the person who makes sure the adolescent is cared for and protected physically and emotionally. This could be the mother, father, grandparents, other family members, foster parents, a teacher or care worker.
+An adult is a person who is fully grown and developed. We use the word adult to talk about the older person who is responsible for the adolescent’s wellbeing. The adult is the person who makes sure the adolescent is cared for and protected physically and emotionally. This could be the mother, father, grandparents, other family members, foster parents, a teacher or care worker.
 
 *The body changes that happen during adolescence are described in the [Child and Adolescent Care for Community Health Workers](https://bettercare.co.za/learn/child-and-adolescent-care-for-community-health-workers/text/0-3-contents.html) book of the Bettercare series.*
 
@@ -210,14 +210,14 @@ Adolescence is a very important stage of development when the child changes into
 
 ### 3-22 Why do adolescents have a bigger chance of having problems with mental health?
 
-Adolescence is a time of big change to both their brains and bodies. This changes can be frightening and very stressful if the adolescent feels unsupported:
+Adolescence is a time of big change to both their brains and bodies. These changes can be frightening and very stressful if the adolescent feels unsupported:
 
 - Puberty is frightening if adolescents do not understand why their feelings, behaviour and bodies are changing so quickly.
 - This is the life stage where children move away emotionally from their parents and start to connect with people outside their home. Friends become very important to them.
 - Adolescents will often ‘show off’ and try to impress others as they try to fit in and make friends.
 - Adolescents fear failure and are easily shamed. They are deeply affected by rejection, stigma and bullying.
 - Body changes can make adolescents very aware of how they look. They are easily embarrassed and will often compare themselves to others.
-- The sex organs are growing and developing. This makes adolescents think a lot about sex. However, they are not yet physically or emotionally ready for sex.
+- The sex organs are growing and developing. This makes adolescents think about sex a lot. However, they are not yet physically or emotionally ready for sex.
 - Adolescents can be very confused by their strong emotions and sexual thoughts, and may worry about their sexuality, especially if they don’t have someone they trust to talk to.
 - Social media, television and advertising can be harmful because some adolescents develop unrealistic ideas and expectations about life. This can make them feel like a failure.
 - Alcohol and other substances can change the way the brain grows and develops, and this will also change the way the adolescent thinks and behaves.
@@ -245,7 +245,7 @@ The mental conditions that adolescents develop most frequently are depression, a
 
 > Common mental health conditions in adolescents are depression, anxiety, eating disorders and alcohol or substance abuse.
 
-*Depression and anxiety are described in detail in [Chapter 2](02-common-mental-health-conditions.html).*
+*Depression and anxiety are described in detail in [chapter 2](02-common-mental-health-conditions.html).*
 
 ### 3-25 Why do adolescents abuse alcohol and other harmful substances?
 
@@ -305,13 +305,13 @@ Care workers need to give themselves the same care as they give to others.
 
 ## Case study 1
 
-Thabo is 3 months old. His mother, Nomvula, is a 16-year-old who dropped out of school when she became pregnant. Thabo’s father has a new girlfriend. Thabo is well dressed and looks clean, but he is not gaining weight. When someone says this to Nomvula, she starts to cry, and says she wishes Thabo had never been born. She says she wants to stop breast feeding and put him on the bottle.
+Thabo is 3 months old. His mother, Nomvula, is a 16-year-old who dropped out of school when she became pregnant. Thabo’s father has a new girlfriend. Thabo is well dressed and looks clean, but he is not gaining weight. When someone says this to Nomvula, she starts to cry, and says she wishes Thabo had never been born. She says she wants to stop breastfeeding and put him on the bottle.
 
 ### 1. Is there anything in this story that warns you that this mother may have a mental health condition?
 
 Yes, the mother is adolescent and has a young baby. She has a very high risk of a mental health condition. She has dropped out of school, and will have lost many of her friends. Her boyfriend has left her.
 
-The baby, Thabo is also at high risk. He is not gaining weight and his mother seems to be struggling with breast feeding and wants to change him to the bottle.
+The baby, Thabo, is also at high risk. He is not gaining weight and his mother seems to be struggling with breastfeeding and wants to change him to the bottle.
 
 ### 2. Should you shout at Nomvula and tell her to grow up?
 
@@ -319,7 +319,7 @@ No! This adolescent must be struggling with all the responsibility of being a mo
 
 ## Case study 2
 
-You have worked with Maluke for a few years. When she started in your team, she was always so kind and patient with even the most difficult people. Recently you have heard her shouting at children in the after school programme. This morning you saw her hitting one of the young boys in the group, who she said was being cheeky.
+You have worked with Maluke for a few years. When she started in your team, she was always so kind and patient with even the most difficult people. Recently you have heard her shouting at children in the after-school programme. This morning you saw her hitting one of the young boys in the group, who she said was being cheeky.
 
 ### 1. What do you think about the way Maluke is behaving?
 
