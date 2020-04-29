@@ -1,18 +1,13 @@
-{% if include.series == "chw" %}
+# Introduction
+{: .no_toc}
 
-The modules included in this course book have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape, funded by the Small Projects Foundation.
+## Contents
+{: .no_toc .non-printing}
 
-Community health workers (CHWs) serve as a very important direct link between patients, communities and health services. As trusted on-the-ground support to community members, they therefore expand access to essential healthcare information as well as available treatment and prevention programmes.
+- Table of contents
+{:toc .chapter-toc}
 
-This course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging community health workers in South Africa.
-
-The proven Perinatal Education Programme (PEP) methodology of decentralised, small group learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of community health workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
-
-*Editor: Prof David Woods*
-
-{% endif %}
-
-## About the Bettercare series
+## About Bettercare
 
 Bettercare is a South African independent, registered Non-Profit and Public Benefit Organisation. Our aim is to create accessible educational resources that improve the quality of healthcare in even the most challenging circumstances.
 
@@ -48,145 +43,186 @@ This methodology allows users control over their studies without feeling as thou
 
 You can access the learning station here: https://bettercare.co.za/learn/
 
-## Books in the Bettercare series
+## Books in the series
 
-### Adult HIV
-
-*Adult HIV* covers an introduction to HIV infection, management of HIV-infected adults at primary-care clinics, preparing patients for antiretroviral (ARV) treatment, ARV drugs, starting and maintaining patients on ARV treatment and an approach to the prevention of opportunistic infections. *Adult HIV* was developed by doctors and nurses with wide experience in the care of adults with HIV, in collaboration with the Desmond Tutu HIV Foundation.
-
-
-### Breast Care
-
-*Breast Care* was written for nurses and doctors who manage the health needs of women. It covers breast examination, the assessment and management of benign breast conditions, the diagnosis and management of breast cancer and palliative care. The book is used for training by The Breast Course for Nurses, an NGO established to improve the care of women with breast problems.
+{% if include.series == "chw" %}
 
 ### Child and Adolescent Care for Community Health Workers
+{: .no_toc}
 
 *Child and Adolescent Care for Community Health Workers* addresses the important topics of growth and nutrition, HIV and tuberculosis in children, and adolescent care. Community health workers are helped to screen for normal growth and promote a good diet. They also support good medication adherence. Common problems during adolescence are discussed. Community health workers bring care to the home and form a vital link between the community and local clinics.
 {:.tighten-10}
 
+### Immunisations: A guide for community health workers
+{: .no_toc}
+
+*Immunisations: A guide for community health workers* introduces the principles and benefits of immunisation, commonly used vaccines in the immunisation schedule, storage of vaccines, and risks of immunisation. Community health workers play a major role in ensuring that all children are fully immunised.
+
+### Mother and Baby Care for Community Health Workers
+{: .no_toc}
+
+Community health workers serve as a direct link between patients, communities and health services. As trusted on-the-ground support to community members, they expand access to essential healthcare information as well as available treatment and prevention programmes. *Mother and Baby Care for Community Health Workers* includes modules that have been successfully used as part of the Skills to Care learning programme of the Small Projects Foundation in the Eastern Cape.
+
+{% else %}
+
+### Adult HIV
+{: .no_toc}
+
+*Adult HIV* covers an introduction to HIV infection, management of HIV-infected adults at primary-care clinics, preparing patients for antiretroviral (ARV) treatment, ARV drugs, starting and maintaining patients on ARV treatment and an approach to the prevention of opportunistic infections. *Adult HIV* was developed by doctors and nurses with wide experience in the care of adults with HIV, in collaboration with the Desmond Tutu HIV Foundation.
+
+### Breast Care
+{: .no_toc}
+
+*Breast Care* was written for nurses and doctors who manage the health needs of women. It covers breast examination, the assessment and management of benign breast conditions, the diagnosis and management of breast cancer and palliative care. The book is used for training by The Breast Course for Nurses, an NGO established to improve the care of women with breast problems.
+
 ### Child Healthcare
+{: .no_toc}
 
 *Child Healthcare* addresses all the common and important clinical problems in children, including immunisation, history and examination, growth and nutrition, acute and chronic infections, parasites, skin conditions, and difficulties in the home and society. *Child Healthcare* was developed by a number of experienced paediatricians and paediatric nurses for use in primary-care settings.
 
 ### Childhood HIV
+{: .no_toc}
 
 *Childhood HIV* enables nurses and doctors to care for children with HIV infection. It addresses an introduction to HIV in children, the clinical and immunological diagnosis of HIV infection, management of children with antiretroviral treatment, antiretroviral drugs, opportunistic infections and palliative care.
 
 ### Childhood TB
+{: .no_toc}
 
 *Childhood TB* was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV and TB co-infection. *Childhood TB* was developed in collaboration with the Desmond Tutu Tuberculosis Centre.
 
 ### Congenital Disorders (previously Birth Defects)
+{: .no_toc}
+
 *Congenital Disorders* was written for healthcare workers who look after individuals with congenital disorders, their families, and women who are at increased risk of giving birth to an infant with a congenital disorder. Special attention is given to modes of inheritance, medical genetic counselling, and congenital disorders due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is used in the Medical Genetics Education Programme which trains healthcare workers in genetic counselling in South Africa. It is also endorsed by Genetic Alliance SA, a support organisation for families affected by congenital disorders.
 
-
 ### Ebola Prevention and Control
+{: .no_toc}
  
 *Ebola Prevention and Control* was written for all healthcare workers and administrators managing, preventing and controlling viral haemorrhagic diseases. Chapters cover virology and epidemiology, patient management, support systems and documentation and communication and community engagement. There is a strong emphasis on the protection of healthcare workers in the field of viral infections, particularly in resource-limited settings.
 
 ### Fetal Heart Rate Handbook
+{: .no_toc}
 
 One of the most dangerous times of our life is the few hours when our mother is in labour. Monitoring the fetal heart rate is the best method of assessing fetal wellbeing in primary care facilities. However appropriate technology to monitor the fetal heart rate in labour is often not available in many labour wards though it is vital to prevent brain damage. *The Fetal Heart Rate Handbook* teaches the basics of oxygen transfer from mother to fetus and how to monitor the fetus in labour with a fetal stethoscope or preferably with a Doppler ultrasound fetal heart rate monitor to recognise inadequate oxygenation.
 
 ### How to lead a study group: A guide for facilitators
+{: .no_toc}
 
 *How to lead a study group: A guide for facilitators* provides clear guidelines to local facilitators who want to set up a study group and assist colleagues to manage their own continuing education and professional growth. Topics include an introduction to working in groups, how to start, plan and manage a group, and how to order course books or access the Bettercare learning station. Managing an end-of-course examination is also discussed. A group leader can function as the facilitator as formal teachers are not&nbsp;needed.
 {:.loosen-5}
 
-### Immunisations: A guide for community health workers
-
-*Immunisations: A guide for community health workers* introduces the principles and benefits of immunisation, commonly used vaccines in the immunisation schedule, storage of vaccines, and risks of immunisation. Community health workers play a major role in ensuring that all children are fully immunised.
-
 ### Infection Prevention and Control
+{: .no_toc}
 
 *Infection Prevention and Control* was written for nurses, doctors, and health administrators working in the field of infection prevention and control, particularly in resource-limited settings. It includes chapters on infection prevention and control programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship. The book is supported by the Academic Unit for Infection Prevention and Control (UIPC) at Tygerberg Academic Hospital.
 
 ### Intrapartum Care
+{: .no_toc}
 
 *Intrapartum Care* was developed for doctors and advanced midwives during labour and deliver in level 2 hospitals. It&nbsp;contains theory and skills chapters adapted from the labour chapters of *Maternal Care*. Particular attention is given to the care of the mother, the management of labour and monitoring the wellbeing of the fetus. *Intrapartum Care* was written to support and complement the national protocol of intrapartum care and the essential steps to manage obstetric emergencies (ESMOE) in South Africa.
 
 ### Maternal Care
+{: .no_toc}
 
 *Maternal Care* addresses all the common and important problems that occur during pregnancy, labour, delivery and the puerperium. It covers the antenatal and postnatal care of healthy women with normal pregnancies, monitoring and managing the progress of labour, specific medical problems during pregnancy, labour and the puerperium, family planning and regionalised perinatal care. Skills chapters teach clinical examination in pregnancy and labour, routine screening tests, the use of an antenatal card and partogram, measuring blood pressure, detecting proteinuria and performing and repairing an episiotomy. *Maternal Care* is aimed at health workers in level 1 hospitals or clinics.
 
 ### Maternal Mental Health
+{: .no_toc}
 
 *Maternal Mental Health* was written for doctors, nurses and social workers caring for women before and after birth. It includes an introduction to maternal mental health and illness, making referrals for maternal mental illness, helping mothers with mental health problems and special issues in maternal mental health such as postpartum depression. It includes a resource section for assessing, referring and supporting mothers in the perinatal period. The book is supported by The Perinatal Mental Health Project of the Department of Psychiatry and Mental Health at the University of Cape Town.
 
-### Mother and Baby Care for Community Health Workers
-
-Community health workers serve as a direct link between patients, communities and health services. As trusted on-the-ground support to community members, they expand access to essential healthcare information as well as available treatment and prevention programmes. *Mother and Baby Care for Community Health Workers* includes modules that have been successfully used as part of the Skills to Care learning programme of the Small Projects Foundation in the Eastern Cape.
-
 ### Mother and Baby Friendly Care
+{: .no_toc}
 
 *Mother and Baby Friendly Care* describes gentler, kinder, evidence-based ways of caring for women during pregnancy, labour and delivery. It also presents improved methods of providing infant care with an emphasis on kangaroo mother care and exclusive breastfeeding.
 
 ### Newborn Care
+{: .no_toc}
 
 *Newborn Care* was written for health workers providing special care for newborn infants in level 2 hospitals. It covers resuscitation at birth, assessing infant size and gestational age, routine care and feeding of both normal and high-risk infants, the prevention, diagnosis and management of hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, as well as communication with parents. Clinical skills chapters address resuscitation, size measurement, history, examination and clinical notes, nasogastric feeds, intravenous infusions, use of incubators, measuring blood glucose concentration, insertion of an umbilical vein catheter, phototherapy, apnoea monitors and oxygen therapy.
 
 ### Palliative Care for Children
+{: .no_toc}
 
 *Palliative Care for Children* was developed in association with Palliative Treatment for Children in South Africa (PatchSA) to meet the health care needs of children with life threatening and life limiting conditions. Clinical assessment, planning and management are discussed as are the ethical, psychosocial, cultural and spiritual aspects of care. Emphasis is given to compassionate pain management and family support.
 
 ### Perinatal HIV
+{: .no_toc}
 
 *Perinatal HIV* enables midwives, nurses and doctors to care for pregnant women and their infants in communities where HIV infection is common. Special emphasis has been placed on the prevention of mother-to-infant transmission of HIV. It covers the basics of HIV infection and screening, antenatal and intrapartum care of women with HIV infection, care of HIV-exposed newborn infants, and parent counselling.
 {:.loosen-5}
 
 ### Primary Maternal Care
+{: .no_toc}
 
 *Primary Maternal Care* addresses the needs of health workers who provide antenatal and postnatal care, but do not conduct deliveries. It is adapted from theory and clinical skills chapters from *Maternal Care*. This book is ideal for midwives and doctors providing primary maternal care in level 1 district hospitals and clinics, and complements the national protocol of antenatal care and basic antenatal care (BANC) approach in South Africa.
 
 ### Primary Newborn Care
+{: .no_toc}
 
 *Primary Newborn Care* was written specifically for nurses and doctors who provide primary care for newborn infants in level 1 clinics and hospitals. *Primary Newborn Care* addresses the care of infants at birth, care of normal infants, care of low-birth-weight infants, neonatal emergencies, and common minor problems in newborn infants.
 
 ### Public Health
+{: .no_toc}
 
 *Public Health* focuses on the huge need to improve the performance of health facilities and services. Common problems and their causes are identified, workable solutions are given, and methods for monitoring outcome and impact described. Important topics include sources of information, communication, access to health care, measuring and evaluating health problems, environment, nutrition, governance, responding to health risks, finance and procurement, information systems and workforce management.
 
 ### Saving Mothers and Babies
+{: .no_toc}
 
 *Saving Mothers and Babies* was developed in response to the high maternal and perinatal mortality rates found in most developing countries. Learning material used in this book is based on the results of the annual confidential enquiries into maternal deaths and the Saving Mothers and Saving Babies reports published in South Africa. It addresses the basic principles of mortality audit, maternal mortality, perinatal mortality, managing mortality meetings and ways of reducing maternal and perinatal mortality rates. This book should be used together with the Perinatal Problem Identification Programme (PPIP).
 
-### Women's Health Care (previously Well Women)
+### Women's Health Care (previously *Well Women*)
+{: .no_toc}
 
 *Women's Health Care* was written for primary health workers who manage the everyday health needs of women. It covers reproductive health, family planning and infertility, common genital infections, vaginal bleeding, pain and discomfort and the abuse of women.
+
+{% endif %}
 
 ## Format of the courses
 
 ### Objectives
+{: .no_toc}
 
 The learning objectives are clearly stated at the start of each chapter. They help the participant to identify and understand the important lessons to be learned.
 
 ### Pre- and post-quizzes
+{: .no_toc}
 
 There is a multiple-choice quiz of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-quiz before starting each chapter, to benchmark their current knowledge, and a post-quiz after each chapter, to assess what they have learned. Participants are provided with the correct answers so that they can mark their quizzes.  Self-assessment allows participants to monitor their own progress through the course.
 
 ### Question-and-answer format
+{: .no_toc}
 
 Theoretical knowledge is presented in a question-and-answer format, which encourages the learner to actively participate in the learning process. In this way, the participant is led step by step through the definitions, causes, diagnosis, prevention, dangers and management of a particular problem.
 
 Participants should cover the answer for a few minutes with a piece of paper while thinking about the correct reply to each question. This method helps learning.
 
-Simplified flow diagrams are also used, where necessary, to indicate the correct approach to diagnosing or managing a particular problem.
 Each question is identified with the number of the chapter, followed by the number of the question, e.g. 5-23.
+
+{% if include.series != "chw" %}
+
+Simplified flow diagrams are also used, where necessary, to indicate the correct approach to diagnosing or managing a particular problem.
 
 > Important practical lessons are emphasised like this.
 
 Note
 :   Additional, non-essential information is provided for interest and given in notes like this. These facts are not used in the case studies or included in the multiple-choice quizzes.
 
+{% endif %}
+
 ### Case studies
+{: .no_toc}
 
 Each chapter closes with a few case studies which encourage the participant to consolidate and apply what was learned in the chapter. These studies give the participant an opportunity to see the problem as it usually presents itself in the clinic or hospital and integrate their new theoretical knowledge into practice. The participant should attempt to answer each question in the case study before reading the correct answer.
 
 ### Practical skills
+{: .no_toc}
 
 Some Bettercare books include workshops on practical skills that need to be practised, preferably in groups. These skills workshops list essential equipment and present step-by-step instructions on how to perform each task, often with pictures. If participants are not familiar with a practical skill, they should ask an appropriate medical or nursing colleague to demonstrate the clinical skill to them. In this way, senior personnel are encouraged to share their skills with their colleagues. Some of the skills are demonstrated in video clips on the Learning Station.
 
 ### Bettercare quizzes and examinations
+{: .no_toc}
 
 Self-evaluation is the most important part of learning. For every chapter, participants take a short self-quiz before and after studying each chapter. This way participants can see their knowledge improve and can address specific weaknesses.
 {:.tighten-15}
@@ -195,45 +231,57 @@ Quizzes are included in all our printed books and ebooks. Participants can take 
 
 Bettercare also offers a final examination for each course. Participants need to achieve at least 80% in the final examination to receive a digital certificate stating that they have successfully completed the learning course.
 
-
 ## Contributors
 
 The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, general paediatricians and other medical specialists. The development and review of all course material is overseen our Editor-in-Chief, emeritus Professor David Woods, a previous head of neonatal medicine at the University of Cape Town who consulted to UNICEF and the WHO.
 
 ### Perinatal Education Trust
+{: .no_toc}
 
 The Perinatal Education Trust (PET) is a non-profit organisation which aims to improve the care of pregnant women and their newborn infants, especially in poor, rural communities. The Perinatal Education Trust produces and distributes all Perinatal Education Programme (PEP) material.
 
 PEP presents a unique form of self-help training for health professionals which places the responsibility for continuing education on the participants themselves. It is cheap, appropriate, practical and does not require a teacher. Since 1989 over 100 000 health workers have used PEP course books in South Africa.
 
 ### Breast Course for Nurses
+{: .no_toc}
 
 The Breast Course for Nurses (BCN) combines distance education with a residential course. The emphasis is on learning rather than teaching. The Breast Course for Nurses can be adapted to suit the needs of the healthcare providers being trained.
 
 ### Academic Unit for Infection Prevention and Control at Stellenbosch University
+{: .no_toc}
 
 The Academic Unit for Infection Prevention and Control (UIPC) is based at Tygerberg Academic Hospital and the Stellenbosch University Faculty of Medicine and Health Sciences (FHMS). It resides under the Division of Community Health and is also a member of the Centre for Infectious Diseases.
 
 The UIPC focuses on integrated research, training and service provision. The unit offers a range of tailor-made courses in Infection Prevention and Control (IPC) as well as decontamination and sterilisation for Sterile Service Departments (SSDs). In addition, courses are offered for specialities such as operating theatres, renal dialysis units, intensive care units and infectious disease management and control.
 
 ### Eduhealthcare
+{: .no_toc}
 
 Eduhealthcare was a non-profit organisation based in South Africa. It aimed to improve health and wellbeing, especially in poor communities, through affordable education for healthcare workers. To this end it provided financial support for the development and publishing of the Bettercare series. In 2019 Eduhealthcare was closed and its operations transferred to the Perinatal Education Trust.
 
+### Small Projects Foundation
+{: .no_toc}
+
+Small Projects Foundation is a conscientious non-governmental organisation that has contributed to community empowerment and development in the Eastern Cape and across South Africa. Established in January 1988, it is a community development and training trust that operates under the governance of a non-remunerated Board of Trustees. It specialises in the areas of project management, social marketing, development facilitation, training, innovative development, research and evaluation.
+
 ### The Desmond Tutu HIV Foundation
+{: .no_toc}
 
 The Desmond Tutu HIV Foundation at the University of Cape Town is a centre of excellence in HIV medicine, building capacity through training and enhancing knowledge through research.
 
 ### The Desmond Tutu Tuberculosis Centre
+{: .no_toc}
 
 The Desmond Tutu Tuberculosis Centre at Stellenbosch University strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV and TB co-infection, and preventing the spread of TB and HIV in southern Africa.
 
 ### Perinatal Mental Health Project
+{: .no_toc}
 
 The Perinatal Mental Health Project of the Department of Psychiatry and Mental Health at the University of Cape Town aims at improving the mental health of women both during pregnancy and in the months afterwards. The project targets women who are at risk of depression and&nbsp;anxiety.
 {:.loosen-5}
 
 ### The Infection Control Africa Network
+{: .no_toc}
 
 The Infection Control Africa Network (ICAN) promotes and facilitates the establishment of infection control programmes. This includes promotion of surveillance for and reduction of healthcare-associated infections, and antimicrobial stewardship activities through education. ICAN works with infection prevention structures in Africa and other international health-related associations.
 
@@ -246,6 +294,7 @@ Bettercare learning programmes are regularly updated to keep up with development
 ## Contact information
 
 ### Bettercare
+{: .no_toc}
 
 *   Phone: 076 657 0353
 *   Fax: 086 219 8093
@@ -255,6 +304,7 @@ Bettercare learning programmes are regularly updated to keep up with development
 {:.keep-together}
 
 ### Perinatal Education Programme
+{: .no_toc}
 
 *   Editor-in-Chief: Professor David Woods 
 *   Website: [www.pepcourse.co.za](http://pepcourse.co.za)
@@ -263,10 +313,12 @@ Bettercare learning programmes are regularly updated to keep up with development
 *   Post: Perinatal Education Programme, 70 Dorries Drive, Simon’s Town, 7975
 
 ### Exams
+{: .no_toc}
 
 *   [exams@bettercare.co.za](mailto:exams@bettercare.co.za)
 
 ### Support
+{: .no_toc}
 
 Please contact us if you would like to know which learning programmes are available in print, ebook or online format. A list is available on www.bettercare.co.za/learning-programmes.
 
