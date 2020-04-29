@@ -10484,7 +10484,7 @@ works:
           - "quiz-answers"          
   - directory: "infection-prevention-and-control"
     title: "Infection Prevention and Control"
-    subtitle: "Infection Prevention and Control: A guide for healthcare professionals in low-resource settings"
+    subtitle: "Infection Prevention and Control: A guide for healthcare workers in low-resource settings"
     creator: "Bettercare" # E.g. the author
     contributor: "" # E.g. other contributors
     subject: "Healthcare" # E.g. BISAC terms (https://www.bisg.org/bisac/bisac-subject-codes) or BIC (http://editeur.dyndns.org/bic_categories)
