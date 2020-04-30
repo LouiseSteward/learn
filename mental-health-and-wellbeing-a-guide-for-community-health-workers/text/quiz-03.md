@@ -31,7 +31,7 @@ Please choose the *one*, most correct answer to each question or statement.
     -	Depressed mothers eat too much during pregnancy so they have very fat babies
     -	Anxious mothers often have babies who get jaundiced
     +	Babies may be neglected by depressed mothers
-    -	Anxious mothers often refuse to breast feed and will only bottle feed their babies
+    -	Anxious mothers often refuse to breastfeed and will only bottle feed their babies
 
 5.	Why do babies need love and kindness?
     +	To grow and develop normally

@@ -25,11 +25,11 @@ Take the chapter quiz before and after you read this chapter.
 
 ## Objectives
 
-Once you have finished this chapter you should:
+When you have completed this chapter you should be able to:
 
 1. Have an understanding of mental health and why it is important.
 2. Understand the difference between positive stress and toxic stress.
-3. Understand why humans need to feel connected to each other.
+3. Understand why humans need to feel connected to one another.
 4. Understand why stigma and social exclusion are harmful.
 5. Understand how mental and physical health affect each other.
 6. Understand how healthy habits promote mental health.
@@ -60,11 +60,11 @@ Stress is the way the mind and body respond and manage change or demands in our 
 
 ### 1-5 What causes stress?
 
-Stress happens when the body feels at risk because some need is not met. This could be because we are hungry or tired or when we feel frightened. Our bodies can become stressed without us even noticing, when we don’t feel safe, don’t get enough healthy food or quality sleep, or if we don’t have fresh air, clean water, or are not able to move. We can also become stressed when we feel unnoticed and alone.
+Stress happens when the body feels at risk because some need is not met. This could be because we are hungry or tired or when we feel frightened. Our bodies can become stressed without us even noticing, when we don’t feel safe, don’t get enough healthy food or quality sleep, or if we don’t have fresh air, clean water or are not able to move. We can also become stressed when we feel unnoticed and alone.
 
 ### 1-6 Why do being alone and not feeling seen cause stress?
 
-Humans normally live in groups and have difficulty surviving alone. We need to be able to connect with other people. Humans are not the biggest, fastest or scariest animals on earth, yet humans are the most successful because we are able to connect, support each other and work together.
+Humans normally live in groups and have difficulty surviving alone. We need to be able to connect with other people. Humans are not the biggest, fastest or scariest animals on earth, yet humans are the most successful because we are able to connect, support one another and work together.
 
 Pregnant women, babies, as well as sick, old and dying people get mental health problems more easily than other people and need extra kindness and support. We all need to know we have been ‘seen’ before we can feel safe and relax.
 
@@ -82,7 +82,7 @@ When something is very bad, it is called toxic. Stress is toxic when it is serio
 
 ### 1-9 What causes toxic stress?
 
-Some of the causes of toxic stress are:
+Some of the causes of toxic stress, especially for young children and adolescents, are:
 
 - Extreme poverty and food scarcity
 - Physical, emotional or sexual abuse
@@ -105,7 +105,7 @@ No. Mental health conditions such as anxiety and depression are not the same as 
 
 ### 1-12 Why are mental health conditions often not noticed?
 
-Many people do not understand about mental health. They may not even realise they have a mental health condition or know that this can be treated. When people feel depressed or worried for a long time, they start to think this is normal for them, and often don’t think to ask for help. Fear of stigma also stops people asking for help.
+Many people do not know about mental health. They may not even realise they have a mental health condition or know that this can be treated. When people feel depressed or worried for a long time, they start to think this is normal for them, and often don’t think to ask for help. Fear of stigma also stops people from asking for help.
 
 ## Stigma
 
@@ -189,7 +189,7 @@ People usually know they need to eat properly and get enough sleep and exercise 
 Habits are especially important for adolescents because:
 
 - Adolescent brains are becoming more fixed. Their usual ways of thinking and patterns of behaviour are becoming stronger and automatic.
-- If adolescents learn positive habits of thinking and behaving, this will probably stay with them and help throughout life.
+- If adolescents learn positive habits of thinking and behaving, this will probably stay with them and help throughout their life.
 - Habits can be changed later in life, but it is much easier to make changes at this age.
 - Adults must help adolescents develop healthy habits of managing emotion, behaving and communicating.
 - Adolescents who have adult support, enough sleep, healthy food and exercise are better able to cope with the challenges of this age, and much less likely to develop mental health conditions.
@@ -209,17 +209,16 @@ The best way to get an adolescent to cooperate is to be a good role model. Adole
 
 ### 1-23 Why is sleep so important?
 
-There is a strong link between lack of sleep and mental health conditions. Adolescents need more sleep than when they were younger because of all the changes happening in their bodies and brain. They usually do not get enough sleep, and this is often the cause of many behaviour problems:
+There is a strong link between lack of sleep and mental health conditions. Adolescents need more sleep than when they were younger because of all the changes happening in their bodies and brain. Most adolescents need between 8 and 10 hours of sleep a night as sleep is important to support growth and brain development. Adolescents usually do not get enough sleep, and this is often the cause of many behaviour problems:
 
-- Most adolescents need between 8 and 10 hours of sleep a night.
-- Sleep is important to support growth and brain development.
-- There are many reasons why adolescents do not get enough sleep. Hormones change sleep patterns, so the body only feels tired later in the day or evening. They still have to start school early, which can mean less sleep.
 - Tiredness makes people get upset more easily.
 - Tiredness makes it difficult to concentrate or solve problems properly.
 - Tiredness makes us forget important things more easily.
 - Tiredness can also make it hard to get along with friends and family.
 - People lacking sleep usually eat badly and easily become angry and behave badly.
 - Lack of sleep is a very common cause of poor school performance in adolescents.
+
+There are many reasons why adolescents do not get enough sleep. Hormones change sleep patterns, so the body only feels tired later in the day or evening. They still have to start school early, which can mean less sleep.
 
 > Lack of sleep is a very common cause of bad behaviour and poor school performance in adolescents.
 
@@ -237,14 +236,12 @@ The best way to do this is for the adults to have healthy sleep habits themselve
 
 - Encourage the adolescent to use their bed only for sleeping and not for homework.
 - Let them go to bed only when tired.
-- Avoid or limit technology use, such as TV or cell phones, at night.
+- Avoid or limit technology use, such as TV or cellphones, at night.
 
 ### 1-26 Why are regular meals and healthy eating also important?
 
-Adolescents are growing quickly and need healthy food and regular healthy snacks to stay healthy. Adolescents who eat unhealthy food have double the risk of mental health conditions:
+Adolescents are growing quickly and need healthy food and regular healthy snacks to stay healthy. Healthy eating can be a problem when money and food are scarce. Fresh fruit and vegetables are healthier than food like chips, biscuits and sweets (‘junk food’), which are usually full of sugar and chemicals. Adolescents who eat unhealthy food have double the risk of developing mental health conditions:
 
-- Healthy eating can be a problem when money and food are scarce.
-- Fresh fruit and vegetables are healthier than food like chips, biscuits and sweets (‘junk food’), which are usually full of sugar and chemicals.
 - Adolescents like junk food because it gives them a quick energy boost and good feelings. They can easily become addicted to junk food.
 - Too much junk food and sugar can make adolescents fat (obese) which can make them feel bad about their body. Junk food also makes attention deficit and hyperactivity (ADHD) and mood and sleep problems worse.
 - Unhealthy eating habits often lead to lifelong (chronic) bad health.
