@@ -51,9 +51,9 @@ exclude:
   # - intrapartum-care
   # - maternal-care
   # - maternal-mental-health
+  # - mental-health-and-wellbeing-a-guide-for-community-health-workers
   # - mother-and-baby-care-for-community-health-workers
   # - mother-and-baby-friendly-care
-  # - mental-health-and-wellbeing-a-guide-for-community-health-workers
   # - newborn-care
   # - perinatal-hiv
   # - primary-maternal-care
@@ -83,6 +83,7 @@ keep_files:
   # - intrapartum-care
   # - maternal-care
   # - maternal-mental-health
+  # - mental-health-and-wellbeing-a-guide-for-community-health-workers
   # - mother-and-baby-care-for-community-health-workers
   # - mother-and-baby-friendly-care
   # - newborn-care
