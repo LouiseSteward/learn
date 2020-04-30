@@ -43,7 +43,7 @@ This methodology allows users control over their studies without feeling as thou
 
 You can access the learning station here: https://bettercare.co.za/learn/
 
-## Learning programmes in the series
+## Learning programmes
 
 {% if include.series == "chw" %}
 
