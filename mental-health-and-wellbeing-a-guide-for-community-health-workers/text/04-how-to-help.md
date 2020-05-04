@@ -65,7 +65,7 @@ Every situation, every age group and each person will have slightly different ne
 
 1. We first need to notice the person and see their struggle.
 2. Then we help them feel relaxed, safe and calm.
-3. We encourage and help to build healthy relationships, so the person can feel connected to others.
+3. We encourage and help them to build healthy relationships, so the person can feel connected to others.
 4. Finally, we use reason to help the person understand their situation, and support them to find their own solutions.
 
 This whole process can be quick, but mostly it will take a number of meetings to help someone who has a common mental health condition.
@@ -150,7 +150,7 @@ In the same ways, fathers should also be encouraged to improve contact with thei
 
 ### 4-15 Why do infants cry?
 
-Babies can’t say how they are feeling or let adults know when something is wrong. The only thing tiny babies can do to get attention is to cry. Hearing their baby cry can feel very frightening for new mothers, if they do not understand what is wrong. Mothers quickly learn to understand their baby’s different cries. They can soon tell if baby is tired or hungry, needs a clean nappy, is too hot or cold, or is uncomfortable because of wind or feeling sick. Babies also cry when they feel over-stimulated.
+Babies can’t say how they are feeling or let adults know when something is wrong. The only thing tiny babies can do to get attention is to cry. Hearing their baby cry can feel very frightening for new mothers, if they do not understand what is wrong. Mothers quickly learn to understand their baby’s different cries. They can soon tell if the baby is tired or hungry, needs a clean nappy, is too hot or cold, or is uncomfortable because of wind or feeling sick. Babies also cry when they feel over-stimulated.
 
 It’s not important if the mother doesn’t understand exactly what the cry means. The most important thing is that she tries to help the baby, and keeps herself calm. Some older people say that crying babies are naughty. This is not true, as tiny infants cannot be naughty. Babies cry when something is wrong, and it is never okay to just leave them alone to cry. Not getting help makes babies very stressed and can affect brain development.
 
@@ -185,7 +185,7 @@ Adults can help adolescents by showing they care and by trying to understand:
 - Show adolescents they are important and do not judge them.
 - Never make an adolescent who asks for help feel ashamed about asking.
 - Try to prevent situations that look dangerous before they get out of control.
-- Be positive, notice effort, and support, and encourage adolescents when they do well.
+- Be positive, notice effort, and support and encourage adolescents when they do well.
 - Praise, affirmation and reward works very well in this age group.
 - Help adolescents to plan ahead.
 - Give clear instructions so they are more likely to succeed and feel encouraged.
@@ -230,7 +230,7 @@ It is important that the adult shows they are interested and care about the adol
 - Ask the three Whooley questions.
 - If worried, be honest and tell the adolescent about your concern, taking care not to frighten them. The sooner mental health conditions are managed in this age group, the easier they are to treat.
 - Adolescents want to be treated as adults, but at the same time they need adult support and guidance. Always ask permission before taking action on their behalf.
-- If we are worried, we should always ask our supervisor, clinic or school staff for advice
+- If we are worried, we should always ask our supervisor, clinic or school staff for advice.
 
 ## Helping ourselves as care workers
 
@@ -379,7 +379,7 @@ Many people feel disempowered and helpless because they try to manage situations
 
 ### 4-39 How do we help brainstorm for a solution?
 
-Brainstorming means thinking of lots of ideas without judging if they will work or not. Brainstorming helps people to be creative and also allows them to voice anger. For example, one solution may be to hunt down a rapist and stab him. While this obviously is not a solution, it would be helpful for someone to say this and have others acknowledged their anger and write it down. Later you can talk about why this would be a bad choice. To brainstorm:
+Brainstorming means thinking of lots of ideas without judging if they will work or not. Brainstorming helps people to be creative and also allows them to voice anger. For example, one idea may be to hunt down a rapist and stab him. While this obviously is not a solution, it would be helpful for someone to say this and have others acknowledge their anger and write it down. Later you can talk about why this would be a bad choice. To brainstorm:
 
 1. The first step is to find out how the person usually manages problems.
 2. Write down all the ideas without judging any as good or bad.
@@ -390,7 +390,7 @@ Brainstorming means thinking of lots of ideas without judging if they will work 
 
 At the end of the brainstorming there is usually a long list of possible ways to manage the problem. The next step is to talk about each suggestion and decide if it is good or bad, and if the person has the necessary resources. So go through everything on the list and judge its value. Try to think about all the positive and negative parts of each idea:
 
-- Keep going until you find an idea that could work, mark this as possibility and go to next idea.
+- Keep going until you find an idea that could work, mark this as a possibility and go to the next idea.
 - You may find two or more ideas that can be joined together to create a solution.
 - Find out if the person has the necessary resources to try the idea.
 - Think about all the possibilities.
@@ -402,11 +402,11 @@ Even easy solutions can be overwhelming if one has a mental health condition, so
 - Help the person break down the solution into small, easy steps.
 - Work out when, how and what is needed to complete these steps.
 - The person must have a clear idea of exactly what needs to be done.
-- Ask them to repeat the plan back to you and get them to promise to try and do their best
+- Ask them to repeat the plan back to you and get them to promise to try and do their best.
 
-### 4-42 What are the best ways to follow-up?
+### 4-42 What are the best ways to follow up?
 
-Those with mental health conditions need to be supported to carry out their plan. It might feel easy when you are discussing it, but much harder when the person is alone. Agree to make contact so you can follow-up and also motivate the person:
+Those with mental health conditions need to be supported to carry out their plan. It might feel easy when you are discussing it, but much harder when the person is alone. Agree to make contact so you can follow up and also motivate the person:
 
 - Agree on a day when you can phone.
 - Make some time to meet again so you can see if the plan worked.
