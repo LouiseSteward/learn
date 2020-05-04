@@ -8,7 +8,7 @@ style: title-page page-1
 Mother and Baby Friendly Care
 {:.titlepage-title}
 
-Best practice for healthcare professionals
+Best practice for health professionals
 {:.titlepage-subtitle}
 
 Developed by the Perinatal Education Programme
