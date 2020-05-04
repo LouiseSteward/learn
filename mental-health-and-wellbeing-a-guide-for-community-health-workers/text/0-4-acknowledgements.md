@@ -17,5 +17,5 @@ SPF is a conscientious non-governmental organisation that has contributed to com
 
 **Kistefos AS** provided a generous grant to **Small Projects Foundation** to fund the development and production of this booklet.
 
-*Author: Roseanne Turner*
+<br>*Author: Roseanne Turner*
 <br>*Editor: Prof David Woods*
