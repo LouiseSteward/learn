@@ -4,7 +4,7 @@ title: About this book
 
 # About this book
 
-*Mental Health and Wellbeing: A guide for community health workers* includes these Community Health Work modules:
+*Mental Health and Wellbeing: A guide for community health workers* includes these modules:
 
 1.  Promoting mental health
 2.  Common mental health conditions
