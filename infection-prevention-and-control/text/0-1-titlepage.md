@@ -8,7 +8,7 @@ style: title-page page-1
 Infection Prevention and Control
 {:.titlepage-title}
 
-A guide for healthcare workers in low-resource settings
+A guide for healthcare professionals in low-resource settings
 {:.titlepage-subtitle}
 
 Written by Angela Dramowski

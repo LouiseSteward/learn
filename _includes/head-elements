@@ -21,7 +21,3 @@ Use Liquid logic tags to include only in certain outputs, e.g.
   gtag('config', 'UA-5570316-41');
 </script>
 {% endif %}
-
-{% if site.output == "web" %}
-<script src="https://corona.ebw.co/sacoronavirus-link.min.js"></script>
-{% endif %}
