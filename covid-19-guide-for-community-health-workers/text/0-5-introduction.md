@@ -2,6 +2,4 @@
 title: Introduction
 ---
 
-{% include metadata %}
-
-# Introduction
+{% include series-intro series="chw" %}
