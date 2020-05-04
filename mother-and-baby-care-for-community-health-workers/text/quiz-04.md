@@ -45,7 +45,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Bottle feed with milk formula
 	+	Exclusively breastfeed
 	-	Give both formula and breast milk
-10.	How can Community Health Workers support HIV positive pregnant women?
+10.	How can community health workers support HIV positive pregnant women?
 	-	Advise them not to tell their partners that they are HIV positive
 	-	Suggest that they ask for a Caesarean section when they deliver
 	+	Encourage them to take their antiretroviral medicine (ARVs) correctly every day
