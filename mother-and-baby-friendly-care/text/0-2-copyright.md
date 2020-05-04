@@ -5,7 +5,7 @@ style: copyright-page
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug and disinfectant dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug's documentation before administering it.
 
-*Mother and Baby Friendly Care: Best practice for healthcare professionals*
+*Mother and Baby Friendly Care: Best practice for health professionals*
 
 First published in 2008 by [Bettercare](http://bettercare.co.za). Updated April 2009, February 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
