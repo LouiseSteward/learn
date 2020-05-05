@@ -11,7 +11,7 @@ style: frontmatter
 
 We acknowledge all the participants of the Perinatal Education Programme who have made suggestions and offered constructive criticism over the years. It is only through constant feedback from colleagues and participants that the content of the Perinatal Education Programme courses can be improved.
 
-Contributors to *Maternal Care*: Prof H van C de Groot, Dr D Greenfield, Ms H Louw, Ms M Petersen, Dr N Rhoda, Prof G Theron, Prof D Woods
+Contributors to *Maternal Care*: Dr CA Cluver, Prof H van C de Groot, Prof GS Gebhardt, Dr D Greenfield, Prof DR Hall, Ms H Louw, Ms M Petersen, Dr N Rhoda, Dr HA Swart, Prof G Theron, Prof D Woods
 
 Bettercare would like to acknowledge Dr Kenneth Beviss-Challinor for his contribution towards the proofreading of this book.
 
