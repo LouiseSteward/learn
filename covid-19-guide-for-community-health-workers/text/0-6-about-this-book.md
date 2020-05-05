@@ -17,6 +17,6 @@ Community health workers (CHWs) serve as a very important direct link between pa
 
 This course book provides appropriate, cost-effective, and sustainable targeted learning for the large numbers of emerging community health workers in South Africa.
 
-The proven Perinatal Education Programme (PEP) methodology of decentralised, small group learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of community health workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to the Community Health Worker development programmes.
+The proven Perinatal Education Programme (PEP) methodology of decentralised, small group learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of community health workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to community health worker development programmes.
 
 <br>*Editor: Prof David Woods*
