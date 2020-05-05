@@ -4,7 +4,7 @@ title: About this book
 
 # About this book
 
-*COVID-19 Guide for Community Health Workers* includes these Community Health Work modules:
+*COVID-19 Guide for Community Health Workers* includes these modules:
 
 1.  Introduction to COVID-19
 2.  Diagnosing and managing COVID-19
