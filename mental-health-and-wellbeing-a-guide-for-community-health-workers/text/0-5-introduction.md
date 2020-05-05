@@ -3,4 +3,4 @@ title: Introduction
 style: chapter
 ---
 
-{% include series-intro %}
+{% include series-intro series="chw" %}

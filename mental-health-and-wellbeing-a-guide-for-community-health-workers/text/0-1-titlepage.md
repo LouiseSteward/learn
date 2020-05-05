@@ -8,7 +8,7 @@ style: title-page page-1
 Mental Health and Wellbeing
 {:.titlepage-title}
 
-A Guide for Community Health Workers
+A guide for community health workers
 {:.titlepage-subtitle}
 
 Written by Roseanne Turner
