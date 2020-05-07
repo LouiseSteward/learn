@@ -1,6 +1,6 @@
 ---
 title: 3. High risk and vulnerable people
-quiz-id: 
+quiz-id: 480
 ---
 
 {% include metadata %}

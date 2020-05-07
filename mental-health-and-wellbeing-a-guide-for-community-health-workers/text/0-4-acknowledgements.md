@@ -7,7 +7,7 @@ style: frontmatter
 
 # Acknowledgements
 
-*Mental Health and Wellbeing: a guide for community health workers* has been developed specifically for community health workers by Bettercare. We acknowledge the mhGAP Training Material developed by the World Health Organisation, the Perinatal Mental Health Project, and the online resource developed by [Beacon House](http://beadonhouse.org.uk/useful-resources).
+*Mental Health and Wellbeing: a guide for community health workers* has been developed specifically for community health workers by Bettercare. We acknowledge the mhGAP Training Material developed by the World Health Organisation, the Perinatal Mental Health Project, and the online resource developed by [Beacon House](http://beaconhouse.org.uk/useful-resources).
 
 We acknowledge all the participants of the **Skills to Care Learning Programme** who have made suggestions and offered constructive criticism during the development of this course book. It is only through constant feedback from colleagues and participants that the content of the course book can be improved.
 
