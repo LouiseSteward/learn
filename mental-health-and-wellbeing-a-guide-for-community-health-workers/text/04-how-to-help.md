@@ -1,6 +1,6 @@
 ---
 title: 4. How to help people with mental health conditions
-quiz-id: 
+quiz-id: 482
 ---
 
 {% include metadata %}
