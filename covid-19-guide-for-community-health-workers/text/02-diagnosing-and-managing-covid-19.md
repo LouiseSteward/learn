@@ -1,22 +1,35 @@
-# Chapter 2
+---
+title: Diagnosing and managing COVID-19
+quiz-id: 
+---
 
-# Diagnosing and managing COVID-19
+{% include metadata %}
+
+# **2.** Diagnosing and managing COVID-19
 
 Take the chapter quiz before and after you have read this chapter.
+
+{% include quiz.html %}
+
+## Contents
+{:.non-printing}
+
+* [Objectives](#objectives)
+* [Clinical features of COVID-19](#clinical-features-of-covid-19)
+* [Management of people with COVID-19](#management-of-people-with-covid-19)
+* [Confirming the diagnosis of COVID-19](#confirming-the-diagnosis-of-covid-19)
+* [Case study 1](#case-study-1)
+* [Case study 2](#case-study-2)
 
 ## Objectives
 
 Once you have finished this chapter you should be able to:
 
-1\. List the symptoms of COVID-19.
-
-2\. Manage a person with mild COVID-19.
-
-3\. Recognise the signs of pneumonia.
-
-4\. Explain how to confirm the clinical diagnosis of COVID-19.
-
-5\. Understand how to identify people who have recovered from coronavirus infection.
+1. List the symptoms of COVID-19.
+2. Manage a person with mild COVID-19.
+3. Recognise the signs of pneumonia.
+4. Explain how to confirm the clinical diagnosis of COVID-19.
+5. Understand how to identify people who have recovered from coronavirus infection.
 
 ## Clinical features of COVID-19
 
@@ -28,25 +41,16 @@ No, as many infected people remain well and have no symptoms of illness.
 
 Sometimes people with coronavirus infection remain well. However, others become ill with COVID-19 and experience one or more of the following symptoms:
 
--   Temperature of 38°C or more or feeling feverish
-
--   Cough
-
--   Sore throat
-
--   Marked tiredness (lethargy) and general weakness
-
--   Muscle aches (flu-like symptoms)
-
--   Shortness of breath or difficulty breathing
-
--   Headache
-
--   Abdominal pain, nausea, vomiting and especially diarrhoea
-
--   Loss of smell and taste
-
--   Red eyes (conjunctivitis)
+- Temperature of 38°C or more or feeling feverish
+- Cough
+- Sore throat
+- Marked tiredness (lethargy) and general weakness
+- Muscle aches (flu-like symptoms)
+- Shortness of breath or difficulty breathing
+- Headache
+- Abdominal pain, nausea, vomiting and especially diarrhoea
+- Loss of smell and taste
+- Red eyes (conjunctivitis)
 
 Not all symptoms are always present and different symptoms may appear at different stages of the infection. Remember that many people with coronavirus infection may not have any clinical symptoms (asymptomatic infection).
 
@@ -62,17 +66,12 @@ Many other viruses can also cause a cough, sore throat, and fever. These symptom
 
 Most people with mild COVID-19 can be managed at home. The important steps are:
 
--   Isolate the person so they do not infect others. They must stay at home.
-
--   Give paracetamol (Panado) to bring down a fever (high temperature) and make the person feel a bit better. The adult dose of paracetamol is 2 tablets or capsules every 6 hours.
-
--   Make sure the person is getting enough to drink. They may not want to eat.
-
--   The person should self-monitor by taking their temperature twice a day, if they have a thermometer, and record how they feel.
-
--   If the person feels short of breath or has any breathing difficulty, or if they have a high fever that does not improve with paracetamol, they must immediately contact their healthcare provider. The 24-hour toll free number for the COVID-19 helpline is 0800 029 999 or 0800 111 32.
-
--   Most people will want to stay in bed. They should feel better in 5 to 7 days.
+- Isolate the person so they do not infect others. They must stay at home.
+- Give paracetamol (Panado) to bring down a fever (high temperature) and make the person feel a bit better. The adult dose of paracetamol is 2 tablets or capsules every 6 hours.
+- Make sure the person is getting enough to drink. They may not want to eat.
+- The person should self-monitor by taking their temperature twice a day, if they have a thermometer, and record how they feel.
+- If the person feels short of breath or has any breathing difficulty, or if they have a high fever that does not improve with paracetamol, they must immediately contact their healthcare provider. The 24-hour toll free number for the COVID-19 helpline is 0800&nbsp;029&nbsp;999 or 0800&nbsp;111&nbsp;32.
+- Most people will want to stay in bed. They should feel better in 5 to 7 days.
 
 ### 2-5 How can you isolate a person at home?
 
@@ -138,21 +137,17 @@ When most people have antibodies, due to infection or immunisation, the spread o
 
 Community health workers play an especially important role in helping to find people with COVID-19 and prevent the spread of coronavirus in the community. There are number of important tasks that need to be done:
 
--   Screening members of the community for COVID-19
+- Screening members of the community for COVID-19
+- Identifying those that need to be tested for coronavirus
+- Collecting samples for testing
+- Tracing people who have been in contact with someone who has, or is suspected of having, coronavirus infection
+- Helping to educate the public while carrying out these tasks
 
--   Identifying those that need to be tested for coronavirus
-
--   Collecting samples for testing
-
--   Tracing people who have been in contact with someone who has, or is suspected of having, coronavirus infection
-
--   Helping to educate the public while carrying out these tasks
-
-Screening, testing and tracing are discussed in chapter 3.
+Screening, testing and tracing are discussed in [chapter 3](03-how-to-prevent-the-spread-of-covid-19.html).
 
 ## Case study 1
 
-Sidwell is feeling unwell with a dry cough and a sore throat. His wife takes his temperature, which is 39°C degrees. A few days before, he arrived home from a business trip to Europe. Their family doctor takes a swab for testing and the result is positive, confirming the diagnosis of COVID-19.
+Sidwell is feeling unwell with a dry cough and a sore throat. His wife takes his temperature, which is 39°C. A few days before, he arrived home from a business trip to Europe. Their family doctor takes a swab for testing and the result is positive, confirming the diagnosis of COVID-19.
 
 ### 1. Do his symptoms suggest COVID-19?
 

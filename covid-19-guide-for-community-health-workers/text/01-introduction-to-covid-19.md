@@ -1,21 +1,35 @@
-# Chapter 1
+---
+title: Introduction to COVID-19
+quiz-id: 
+---
 
-# Introduction to COVID-19
+{% include metadata %}
+
+# **1.** Introduction to COVID-19
 
 Take the chapter quiz before and after you have read this chapter.
+
+{% include quiz.html %}
+
+## Contents
+{:.non-printing}
+
+* [Objectives](#objectives)
+* [COVID-19 and coronavirus](#covid-19-and-coronavirus)
+* [The spread of coronavirus](#the-spread-of-coronavirus)
+* [The risk of COVID-19](#the-risk-of-covid-19)
+* [Case study 1](#case-study-1)
+* [Case study 2](#case-study-2)
+{:.chapter-toc}
 
 ## Objectives
 
 Once you have finished this chapter you should be able to:
 
 1.  Understand what COVID-19 is.
-
 2.  Name the cause of COVID-19.
-
 3.  Explain how COVID-19 is spread.
-
 4.  Describe who is at greatest risk of COVID-19.
-
 5.  Understand the meaning of pandemic.
 
 ## COVID-19 and coronavirus
@@ -42,13 +56,10 @@ When COVID-19 first appeared in China it was an epidemic as it only spread local
 
 One of the things which makes this virus so dangerous is that it spreads very quickly between people. There are three important ways that coronavirus can be spread:
 
--   **Spread from respiratory droplets:** Tiny droplets of saliva or nasal secretion that spray out of a person’s mouth or nose when they cough, sneeze, shout, laugh, sing or even speak may contain coronavirus. If another person is standing close by, these tiny droplets may be breathed in or land in the eyes and cause infection with coronavirus. The closer people are to each other, the greater the risk of infection. Smaller droplets may float in the air, but larger droplets quickly settle onto nearby surfaces such as tabletops and chairs. It is the larger droplets that are responsible for most coronavirus spread. The importance of airborne spread indoors by the smaller droplets is uncertain.
-
--   **Spread by direct contact:** If you shake hands with someone who has coronavirus infection and has coughed into their hand you may transfer coronavirus onto your own hand. If you then touch your nose, mouth, or eyes you can also become infected. Shaking hands, hugging, or kissing someone who is infected may also pass on the coronavirus.
-
--   **Spread by indirect contact:** If a person coughs or sneezes into their hand and then touches a surface such as a tap, door handle or phone, coronavirus may be transferred to that surface. If someone else touches that surface and then touches their face coronavirus can be transferred and infect them. Coronavirus may survive on a solid surface for 24 hours or longer if not removed by cleaning or disinfection. Therefore, people may not even see the person who infects them.
-
--   Coronavirus is not spread by mosquitoes, flies, insects, rats, or pets.
+- **Spread from respiratory droplets:** Tiny droplets of saliva or nasal secretion that spray out of a person’s mouth or nose when they cough, sneeze, shout, laugh, sing or even speak may contain coronavirus. If another person is standing close by, these tiny droplets may be breathed in or land in the eyes and cause infection with coronavirus. The closer people are to each other, the greater the risk of infection. Smaller droplets may float in the air, but larger droplets quickly settle onto nearby surfaces such as tabletops and chairs. It is the larger droplets that are responsible for most coronavirus spread. The importance of airborne spread indoors by the smaller droplets is uncertain.
+- **Spread by direct contact:** If you shake hands with someone who has coronavirus infection and has coughed into their hand you may transfer coronavirus onto your own hand. If you then touch your nose, mouth, or eyes you can also become infected. Shaking hands, hugging, or kissing someone who is infected may also pass on the coronavirus.
+- **Spread by indirect contact:** If a person coughs or sneezes into their hand and then touches a surface such as a tap, door handle or phone, coronavirus may be transferred to that surface. If someone else touches that surface and then touches their face coronavirus can be transferred and infect them. Coronavirus may survive on a solid surface for 24 hours or longer if not removed by cleaning or disinfection. Therefore, people may not even see the person who infects them.
+- Coronavirus is not spread by mosquitoes, flies, insects, rats, or pets.
 
 ### 1-6 Can people who look well also spread coronavirus?
 
@@ -84,17 +95,12 @@ Pregnant women can become sick with COVID-19 but coronavirus does not spread to 
 
 People at increased risk for serious illness are:
 
--   Older people, especially those over 70 years of age. The older they are the greater the risk as the immune system weakens in the elderly.
-
--   People with chronic lung conditions such as emphysema or tuberculosis.
-
--   People with other medical conditions (co-morbidity) such as heart disease, cancer, high blood pressure and diabetes.
-
--   People with untreated HIV infection and those who do not adhere to antiretroviral treatment (ART). People living with HIV who take their ART correctly and have an undetectable viral load may not be at increased risk.
-
--   Healthcare workers and support staff who care for many infected patients and are exposed to a lot of coronavirus.
-
--   Men are at higher risk of severe COVID-19 than women. It is not known why.
+- Older people, especially those over 70 years of age. The older they are the greater the risk as the immune system weakens in the elderly.
+- People with chronic lung conditions such as emphysema or tuberculosis.
+- People with other medical conditions (co-morbidity) such as heart disease, cancer, high blood pressure and diabetes.
+- People with untreated HIV infection and those who do not adhere to antiretroviral treatment (ART). People living with HIV who take their ART correctly and have an undetectable viral load may not be at increased risk.
+- Healthcare workers and support staff who care for many infected patients and are exposed to a lot of coronavirus.
+- Men are at higher risk of severe COVID-19 than women. It is not known why.
 
 ### 1-14 How many deaths will COVID-19 cause?
 

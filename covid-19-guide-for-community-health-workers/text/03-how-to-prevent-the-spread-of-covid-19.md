@@ -1,22 +1,35 @@
-# Chapter 3
+---
+title: How to prevent the spread of COVID-19
+quiz-id: 
+---
 
-# How to prevent the spread of COVID-19
+{% include metadata %}
+
+# **3.** How to prevent the spread of COVID-19
 
 Take the chapter quiz before and after you have read this chapter.
+
+{% include quiz.html %}
+
+## Contents
+{:.non-printing}
+
+* [Objectives](#objectives)
+* [Preventing the spread of COVID-19](#preventing-the-spread-of-covid-19)
+* [Screening, testing and contact tracing](#screening-testing-and-contact-tracing)
+* [Community lockdown](#community-lockdown)
+* [Case study 1](#case-study-1)
+* [Case study 2](#case-study-2)
 
 ## Objectives
 
 Once you have finished this chapter you should be able to:
 
-1\. Describe how people can prevent the spread of COVID-19.
-
-2\. Explain why wearing a cloth mask in public is important.
-
-3\. Describe what government can do to prevent the spread of COVID-19.
-
-4\. Understand how community screening, testing and tracing are done.
-
-5\. Describe community lockdown.
+1. Describe how people can prevent the spread of COVID-19.
+2. Explain why wearing a cloth mask in public is important.
+3. Describe what government can do to prevent the spread of COVID-19.
+4. Understand how community screening, testing and tracing are done.
+5. Describe community lockdown.
 
 ## Preventing the spread of COVID-19
 
@@ -28,25 +41,16 @@ Unfortunately, there is no vaccine yet. This means a huge effort must be made to
 
 There are several things everyone can do to slow down the spread of coronavirus:
 
-• Stay at home
-
-• Wash hands frequently and thoroughly with soap and running water
-
-• Use an alcohol-based hand rub or hand spray
-
-• Cover your mouth with a flexed elbow or tissue when coughing or sneezing
-
-• Do not touch your face with unwashed hands
-
-• Clean frequently touched surfaces, such as door handles, phones and computer keyboards, often
-
-• Keep 1 to 2 metres away from other people (social distancing)
-
-• Wear a non-medical cloth face mask in public places
-
-• Help to spread correct information about COVID-19
-
-• Support one another and help to reduce stigma
+- Stay at home
+- Wash hands frequently and thoroughly with soap and running water
+- Use an alcohol-based hand rub or hand spray
+- Cover your mouth with a flexed elbow or tissue when coughing or sneezing
+- Do not touch your face with unwashed hands
+- Clean frequently touched surfaces, such as door handles, phones and computer keyboards, often
+- Keep 1 to 2 metres away from other people (social distancing)
+- Wear a non-medical cloth face mask in public places
+- Help to spread correct information about COVID-19
+- Support one another and help to reduce stigma
 
 ### 3-3 What is thorough handwashing?
 
@@ -64,13 +68,13 @@ This helps prevent the spread of small droplets which may carry coronavirus. Alw
 
 It is the responsibility of everyone to protect others around them as well as to protect themselves. Good handwashing after coughing and handling respiratory secretions (used tissues) is another important way to avoid coronavirus infection.
 
-*Keep your droplets to yourself*.
+> Keep your droplets to yourself.
 
 ### 3-6 Why should you not touch your face?
 
 Do not touch your face with unwashed hands. If you touch a surface that is contaminated with coronavirus and then you touch your nose or mouth, or rub your eyes, with a hand that has not been washed, you may become infected. If you must rub your nose it is safer to use the back of your hand or your arm.
 
-*Try to learn not to touch your face.*
+> Try to learn not to touch your face.
 
 ### 3-7 How can frequently touched surfaces be cleaned?
 
@@ -80,13 +84,13 @@ Most frequently touched surfaces such as counter tops, tables, taps and door han
 
 Social (physical) distancing means getting no closer than 1 metre, and preferably no closer than 2 metres, away from another person, especially if they are coughing. Do not shake hands, touch, hug or kiss other people. Social distancing is important when doing essential shopping or standing in queues. Avoid crowds or social gatherings, especially if they are indoors with poor ventilation. This is an effective way to prevent the spread of coronavirus.
 
-*Keep people apart.*
+> Keep people apart.
 
 ### 3-9 How effective is staying at home?
 
 Restricting the movement of healthy people and families by getting them to stay at home is probably the most effective way of protecting them from coronavirus infection. Staying at home stops the coronavirus from spreading through communities as it prevents people from getting coronavirus from other people.
 
-*If in doubt, don’t go out.*
+> If in doubt, don’t go out.
 
 ### 3-10 What is self-isolation?
 
@@ -106,7 +110,7 @@ Cloth masks should be washed daily with soap and hot water, allowed to dry in th
 
 Until the pandemic is over everyone should wear cloth masks in public.
 
-*My mask protects you and your mask protects me.*
+> My mask protects you and your mask protects me.
 
 The public should not use medical masks or N95 respirators (masks) as these are in short supply and must be reserved for health workers.
 
@@ -118,33 +122,24 @@ No. Like hands, gloves may get contaminated from infected surfaces and can then 
 
 It is essential that everyone learns about COVID-19 and how coronavirus is spread. Only then will they understand and practice how to protect themselves, their family and their community. The whole population must become involved in the battle against COVID-19. A better understanding of COVID-19 helps to reduce stigma toward people who are ill with or have recovered from COVID-19.
 
-*Information is power.*
+> Information is power.
 
 ### 3-15 What can national governments do to slow the spread of COVID-19?
 
 There are several steps that many governments are taking:
 
-• Screening and testing to prevent potentially infected people entering the country
+- Screening and testing to prevent potentially infected people entering the country
+- Screening and testing anyone with suspected coronavirus infection
+- Community screening for COVID-19 and community testing for coronavirus infection
+- Tracing people who have been in contact with someone who has COVID-19 (contact tracing)
+- Isolating people with suspected or confirmed coronavirus infection (quarantining)
+- Isolating people who have had close contact with someone with confirmed COVID-19 (self-isolation)
+- National regulations to prevent the public mixing with other people (community lockdown)
+- Providing information via the media on how to avoid infection
+- Promoting or giving the public non-medical cloth face masks to use in crowded spaces
+- Supporting the unemployed financially and providing food parcels to the poor
 
-• Screening and testing anyone with suspected coronavirus infection
-
-• Community screening for COVID-19 and community testing for coronavirus infection
-
-• Tracing people who have been in contact with someone who has COVID-19 (contact tracing)
-
-• Isolating people with suspected or confirmed coronavirus infection (quarantining)
-
-• Isolating people who have had close contact with someone with confirmed COVID-19 (self-isolation)
-
-• National regulations to prevent the public mixing with other people (community lockdown)
-
-• Providing information via the media on how to avoid infection
-
-• Promoting or giving the public non-medical cloth face masks to use in crowded spaces
-
-• Supporting the unemployed financially and providing food parcels to the poor
-
-These efforts are all aimed at *flattening the curve.*
+These efforts are all aimed at *flattening the curve*.
 
 ### 3-16 What does it mean to flatten the curve?
 
@@ -194,15 +189,11 @@ With community lockdown there is a greater chance that public health tracing tea
 
 When people feel frightened, it is normal for them to want to meet and talk to family and friends. This makes being alone or away from family difficult. Being isolated is not natural and causes stress in many people. They may feel sad, scared, angry or very lonely. It is important to keep in contact with family or friends by email or phone. Some important things that people can do to help themselves during lockdown include:
 
--   Do not obsess over television or radio news reports all day and make sure that you only get scientifically correct information.
-
--   Establish a routine, get up and get dressed in the morning, have a good diet, get enough sleep, and do what exercise you can.
-
--   Be creative to fill your time and support others.
-
--   Reduce anxiety by practicing mindfulness and breathing exercises.
-
--   Phone for professional help if you become very anxious or depressed.
+- Do not obsess over television or radio news reports all day and make sure that you only get scientifically correct information.
+- Establish a routine, get up and get dressed in the morning, have a good diet, get enough sleep, and do what exercise you can.
+- Be creative to fill your time and support others.
+- Reduce anxiety by practicing mindfulness and breathing exercises.
+- Phone for professional help if you become very anxious or depressed.
 
 Funerals are especially important in all societies. Banning or limiting attendance at funerals is necessary but it can be particularly upsetting. As the body is infectious to others, the coffin may be sealed so the body cannot be viewed by the family.
 
