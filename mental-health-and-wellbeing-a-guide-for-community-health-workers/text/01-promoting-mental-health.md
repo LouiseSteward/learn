@@ -75,7 +75,8 @@ Pregnant women, babies, as well as sick, old and dying people get mental health 
 
 ### 1-7 Why is it so important for babies and young children to feel safe?
 
-We all need to feel safe and loved. Babies and young children are especially vulnerable and cannot survive without adult care. They need to feel connected, safe and loved so their brains and minds can develop in ways that allow them to think clearly and get along with other people.
+We all need to feel safe and loved. Babies and young children are especially vulnerable and cannot survive without adult care. They need to feel connected, safe and loved so their brains and minds can develop in ways that allow them to think clearly and get along with other&nbsp;people.
+{:.loosen-10}
 
 ### 1-8 What is toxic stress?
 
@@ -108,7 +109,8 @@ No. Mental health conditions such as anxiety and depression are not the same as 
 
 ### 1-12 Why are mental health conditions often not noticed?
 
-Many people do not know about mental health. They may not even realise they have a mental health condition or know that this can be treated. When people feel depressed or worried for a long time, they start to think this is normal for them, and often don’t think to ask for help. Fear of stigma also stops people from asking for help.
+Many people do not know about mental health. They may not even realise they have a mental health condition or know that this can be treated. When people feel depressed or worried for a long time, they start to think this is normal for them, and often don’t think to ask for help. Fear of stigma also stops people from asking for&nbsp;help.
+{:.loosen-5}
 
 ## Stigma
 
@@ -210,7 +212,7 @@ The best way to get an adolescent to cooperate is to be a good role model. Adole
 - Adults must try to be open, trusting and respectful of the adolescent while also providing them with different ways of seeing life.
 - It works better when adults talk to adolescents about their concerns around any behaviour and link these concerns to their values and beliefs. Simply trying to control or force adolescents to think and behave in specific ways is usually not helpful.
 - It’s sometimes useful to speak to adolescents while they are doing something else, for example, while cooking, walking or after watching a TV programme.
-- Adults should try to talk openly, honestly and in a balanced way about topics that are important to adolescents like friendship, sex, love and relationships. Adults can warn them about the signs of unhealthy relationships, such as possessiveness, greed, jealousy and excessive control and manipulation, without frightening them.
+- Adults should try to talk openly, honestly and in a balanced way about topics that are important to adolescents like friendship, sex, love and relationships. Adults can warn them about the signs of unhealthy relationships, such as possessiveness, greed, jealousy and excessive control and manipulation, without frightening&nbsp;them.
 
 ### 1-23 Why is sleep so important?
 

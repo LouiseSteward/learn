@@ -188,7 +188,7 @@ Mothers with a mental health condition can find it very difficult to talk to and
 
 ### 3-19 What are the signs of poor mental health in infants?
 
-You may notice that the baby is withdrawn, which they show by turning away or closing their eyes. The baby may also not be thriving, and could either not put on weight or may even lose weight. Other signs are not making eye contact, smiling late, being very quiet or crying a&nbsp;lot.
+You may notice that the baby is withdrawn, which they show by turning away or closing their eyes. The baby may also not be thriving, and could either not put on weight or may even lose weight. Other signs are not making eye contact, smiling late, being very quiet or crying&nbsp;a&nbsp;lot.
 {:.loosen-10}
 
 > Being withdrawn, not making eye contact and failing to thrive are signs of poor mental health in infants.
