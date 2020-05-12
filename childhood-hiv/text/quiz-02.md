@@ -76,8 +76,8 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Rapid test
 14.	How many HIV PCR tests are needed to confirm that an infant is infected with HIV?
 	-	One
-	-	Two
-	+	Three
+	+	Two
+	-	Three
 	-	Four
 15.	Which test can confirm that a six-week-old infant has HIV infection?
 	+	PCR test
