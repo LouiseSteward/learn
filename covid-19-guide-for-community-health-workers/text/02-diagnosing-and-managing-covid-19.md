@@ -5,7 +5,7 @@ quiz-id:
 
 {% include metadata %}
 
-# **2.** Diagnosing and managing COVID-19
+# **2** Diagnosing and managing COVID-19
 
 Take the chapter quiz before and after you have read this chapter.
 
@@ -18,8 +18,8 @@ Take the chapter quiz before and after you have read this chapter.
 * [Clinical features of COVID-19](#clinical-features-of-covid-19)
 * [Management of people with COVID-19](#management-of-people-with-covid-19)
 * [Confirming the diagnosis of COVID-19](#confirming-the-diagnosis-of-covid-19)
-* [Case study 1](#case-study-1)
-* [Case study 2](#case-study-2)
+* [Case studies](#case-study-1)
+{:.chapter-toc}
 
 ## Objectives
 

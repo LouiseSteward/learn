@@ -5,7 +5,7 @@ quiz-id:
 
 {% include metadata %}
 
-# **4.** Protecting yourself from COVID-19
+# **4** Protecting yourself from COVID-19
 
 Take the chapter quiz before and after you have read this chapter.
 
@@ -19,8 +19,8 @@ Take the chapter quiz before and after you have read this chapter.
 * [Personal protective equipment](#personal-protective-equipment)
 * [Wearing a cloth mask in public](#wearing-a-cloth-mask-in-public)
 * [Emotional challenges for healthcare workers](#emotional-challenges-for-healthcare-workers)
-* [Case study 1](#case-study-1)
-* [Case study 2](#case-study-2)
+* [Case studies](#case-study-1)
+{:.chapter-toc}
 
 ## Objectives
 

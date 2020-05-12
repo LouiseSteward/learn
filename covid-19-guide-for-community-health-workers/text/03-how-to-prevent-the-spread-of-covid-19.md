@@ -5,7 +5,7 @@ quiz-id:
 
 {% include metadata %}
 
-# **3.** How to prevent the spread of COVID-19
+# **3** How to prevent the spread of COVID-19
 
 Take the chapter quiz before and after you have read this chapter.
 
@@ -18,8 +18,8 @@ Take the chapter quiz before and after you have read this chapter.
 * [Preventing the spread of COVID-19](#preventing-the-spread-of-covid-19)
 * [Screening, testing and contact tracing](#screening-testing-and-contact-tracing)
 * [Community lockdown](#community-lockdown)
-* [Case study 1](#case-study-1)
-* [Case study 2](#case-study-2)
+* [Case studies](#case-study-1)
+{:.chapter-toc}
 
 ## Objectives
 

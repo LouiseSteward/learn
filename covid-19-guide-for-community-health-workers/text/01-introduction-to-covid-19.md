@@ -5,7 +5,7 @@ quiz-id:
 
 {% include metadata %}
 
-# **1.** Introduction to COVID-19
+# **1** Introduction to COVID-19
 
 Take the chapter quiz before and after you have read this chapter.
 
@@ -18,8 +18,7 @@ Take the chapter quiz before and after you have read this chapter.
 * [COVID-19 and coronavirus](#covid-19-and-coronavirus)
 * [The spread of coronavirus](#the-spread-of-coronavirus)
 * [The risk of COVID-19](#the-risk-of-covid-19)
-* [Case study 1](#case-study-1)
-* [Case study 2](#case-study-2)
+* [Case studies](#case-study-1)
 {:.chapter-toc}
 
 ## Objectives
