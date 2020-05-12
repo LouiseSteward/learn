@@ -17,6 +17,8 @@ A generous grant from the Discovery Fund enabled the development and publishing 
 
 *Prof David Woods, Editor*
 
+<br><br>![Discovery logo]({{ images }}/discovery-logo.svg)
+
 {% if site.output == "web" %}
 
 In memory of Samuel John Frederick Platt<br>– 9 April 2015 to 22 July 2016 –<br>A little boy who spent his entire life in ICU and never went home
