@@ -49,12 +49,12 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	AZT, 3TC, lopinavir/ritonavir
 	-	ABC, 3TC, nevirapine
 	-	AZT, 3TC, nevirapine
-9.	What is the standard first-line combination used in children between one month and three years in South Africa?
+9.	What is the standard first-line combination used in children weighing between 3 and 20 kg in South Africa?
 	+	AZT, 3TC, and nevirapine
 	-	AZT, ddI and lopinavir/ritonavir
 	-	AZT, ddI and nevirapine
 	-	ABC, 3TC and lopinavir/ritonavir
-10. What is the standard first-line combination used in children older than three years in South Africa?
+10. What is the standard first-line combination used in children weighing between 20 and 35 kg in South Africa?
 	+	ABC, 3TC and efavirenz
 	-	AZT, ddI and lopinavir/ritonavir
 	-	AZT, ddI and nevirapine
