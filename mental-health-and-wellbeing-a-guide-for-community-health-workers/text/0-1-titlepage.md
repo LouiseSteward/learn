@@ -5,10 +5,16 @@ style: title-page page-1
 
 {% include metadata %}
 
-COVID-19 Guide for Community Health Workers
+Mental Health and Wellbeing
 {:.titlepage-title}
 
-Written by Dave Woods, Angela Dramowski and Roseanne Turner
+A guide for community health workers
+{:.titlepage-subtitle}
+
+Written by Roseanne Turner
+{:.titlepage-author}
+
+Edited by Prof David Woods
 {:.titlepage-author}
 
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}

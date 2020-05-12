@@ -5,13 +5,13 @@ style: copyright-page
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug and disinfectant dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug's documentation before administering it.
 
-*COVID-19 Guide for Community Health Workers*
+*Mental Health and Wellbeing: A guide for community health workers*
 
 First published in 2020 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Text © Dave Woods, Angela Dramowski and Roseanne Turner 2020
+Text © the contributors 2020
 
-ISBN (paperback): 978-1-928313-19-9  
+ISBN (paperback): 978-1-928313-18-2  
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
