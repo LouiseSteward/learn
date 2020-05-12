@@ -23,3 +23,5 @@ In memory of Samuel John Frederick Platt<br>– 9 April 2015 to 22 July 2016 –
 {:.dedication}
 
 {% endif %}
+
+<br><br>![Discovery logo]({{ images }}/discovery-logo.svg)
