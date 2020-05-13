@@ -32,9 +32,9 @@ Relearn the sections in brackets for questions you get wrong.
 5.  a (2-4)
 6.  b (2-10)
 7.  c (2-10)
-8.  a (2-12)
-9.  c (2-13)
-10. a (2-17)
+8.  a (2-14)
+9.  c (2-15)
+10. a (2-19)
 {:.keep-together}
 
 ### Quiz 3: How to prevent the spread of COVID-19

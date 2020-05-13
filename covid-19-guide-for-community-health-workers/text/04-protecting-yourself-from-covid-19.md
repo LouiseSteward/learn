@@ -41,11 +41,11 @@ Yes. Anyone who is in close in contact with someone who has COVID-19 or is suspe
 
 They should:
 
-- Practise handwashing and social distancing both at home and at work
-- Make sure everyone wears a cloth face mask when near other people
-- Use personal protective equipment (PPE) correctly
-- Follow all hospital or clinic protocols correctly
-- Not touch their face with their hands or gloves
+- Practise handwashing and social distancing both at home and at work.
+- Make sure everyone wears a cloth face mask when near other people.
+- Use personal protective equipment (PPE) correctly.
+- Follow all hospital or clinic protocols correctly.
+- Not touch their face with their hands or gloves.
 - Support each other during this stressful time.
 
 ## Personal protective equipment
@@ -63,7 +63,7 @@ Basic personal protective equipment (PPE) for close patient contact, such as tak
 - Medical mask
 - Eye protection such as goggles or a face shield.
 
-For health workers performing aerosol-generating procedures, a well-fitting N95 respirator should be used.
+For health workers performing aerosol-generating procedures, any procedure that causes the patient to produce droplets, a well-fitting N95 respirator should be used.
 
 Donning (putting on) and doffing (taking off) full PPE is a skill that needs practice and must be done properly to avoid being contaminated with coronavirus.
 
@@ -77,7 +77,7 @@ When taking a nose or throat swab, wear a plastic apron and gown, medical mask, 
 
 ### 4-5 Can personal protective equipment be re-used?
 
-Medical masks can be used for 8 hours during a work shift but should be discarded and replaced if they become moist or get soiled. Gloves should be changed between patients. An apron, gown and medical mask can usually be used for an 8-hour shift if taking swabs. Usually PPE is not re-used. However, if PPE is very scarce, reuse is still preferable to having no PPE when supplies are extremely limited.
+Medical masks can be used for 8 hours during a work shift but should be discarded and replaced if they become moist or get soiled. Gloves must be changed between patients. An apron, gown and medical mask can usually be used for an 8-hour shift if taking swabs. Usually PPE is not re-used. However, if PPE is very scarce, reuse is still preferable to having no PPE when supplies are extremely limited.
 
 ### 4-6 How should you handle your uniform or work clothes?
 
@@ -85,7 +85,7 @@ If possible, remove your work clothes at the workplace and place them in a plast
 
 ### 4-7 What should be used to clean and disinfect surfaces and equipment?
 
-Clean the surfaces around the patient or where you are working at least twice daily with soap and water followed by two teaspoons (10ml) of bleach in 1 litre of water or a cup (250 ml) of Jik in 1 litre of water. Disinfect equipment such as stethoscopes with a 70% alcohol sanitiser after each use.
+Clean the surfaces around the patient or where you are working at least twice daily with soap and water followed by two teaspoons (10 ml) of bleach in 1 litre of water or a cup (250 ml) of Jik in 1 litre of water. Disinfect equipment such as stethoscopes with a 70% alcohol sanitiser after each use.
 
 ## Wearing a cloth mask in public
 
@@ -93,29 +93,29 @@ Clean the surfaces around the patient or where you are working at least twice da
 
 It is always important to protect yourself and your family when out in public. A cloth face mask helps prevent the spread of droplets that may contain coronavirus. However, face masks must be used correctly. It is helpful if this information is shared with friends, family, and colleagues:
 
-- A good mask is made of 3 layers of non-stretch cotton material
-- It should cover from above the nose to below the chin and back to the ears
-- Two straps to tie behind the head is better than straps or elastic bands behind the ears
-- Wash your hands before putting on the clean mask
-- Do not touch your face or the cloth part of the mask
-- Hold the mask by the straps and pull the mask over your face making sure your nose and mouth are covered
-- Tie the straps with one set above your ears and the other set around your neck
-- Touch only the straps when removing the mask
-- Place the mask in a container until you wash it
-- Wash your hands well
-- Do not re-use the mask without washing it
-- It is best to have two or more masks (at least one to wear and one to wash)
+- A good mask is made of three layers of non-stretch cotton material.
+- It should cover from above the nose to below the chin and back to the ears.
+- Two straps to tie behind the head is better than straps or elastic bands behind the ears.
+- Wash your hands before putting on the clean mask.
+- Do not touch your face or the cloth part of the mask.
+- Hold the mask by the straps and pull the mask over your face making sure your nose and mouth are covered.
+- Tie the straps with one set above your ears and the other set around your neck.
+- Touch only the straps when removing the mask.
+- Place the mask in a container until you wash it.
+- Wash your hands well.
+- Do not re-use the mask without washing it.
+- It is best to have two or more masks (at least one to wear and one to wash).
 - Never share masks.
 
 ### 4-9 How should a cloth mask be cleaned?
 
 Cleaning a cloth mask correctly is important:
 
-- Hold the mask by the straps
-- Wash with soap and hot water
-- Allow to dry well, preferably in the sun
-- Iron the dry mask
-- Wash your hands
+- Hold the mask by the straps.
+- Wash with soap and hot water.
+- Allow to dry well, preferably in the sun.
+- Iron the dry mask.
+- Wash your hands.
 
 ## Emotional challenges for healthcare workers
 
@@ -147,24 +147,24 @@ It is important to speak to a trusted family member, friend, colleague, or super
 
 There are several simple things that can be done to help manage stress:
 
-- Get the correct information about COVID-19 and ignore sensational or fake news
-- Take time out to be mindful, pray or just relax for a few minutes
-- Take a few deep breaths
-- Give yourself time to think about and process what has happened
-- Do something you enjoy like cooking, gardening, reading, doing puzzles, watching online movies, or dancing to distract yourself
-- Try to stick to a regular daily routine
-- Eat regular, healthy meals
-- Keep well hydrated
-- Get enough rest and sleep
-- Spend time outside every day
-- Keep fit by doing some form of exercise, such as following an exercise class online or on television
-- Use your phone to keep in contact with friends
-- Help others who might also be stressed
-- Understand that everyone is struggling – their struggles may be different, but you are not the only one who is feeling confused or frightened
-- Give yourself the same kindness you would give a close friend
+- Get the correct information about COVID-19 and ignore sensational or fake news.
+- Take time out to be mindful, pray or just relax for a few minutes.
+- Take a few deep breaths.
+- Give yourself time to think about and process what has happened.
+- Do something you enjoy like cooking, gardening, reading, doing puzzles, watching online movies, or dancing to distract yourself.
+- Try to stick to a regular daily routine.
+- Eat regular, healthy meals.
+- Keep well hydrated.
+- Get enough rest and sleep.
+- Spend time outside every day.
+- Keep fit by doing some form of exercise, such as following an exercise class online or on television.
+- Use your phone to keep in contact with friends.
+- Help others who might also be stressed.
+- Understand that everyone is struggling – their struggles may be different, but you are not the only one who is feeling confused or frightened.
+- Give yourself the same kindness you would give a close friend.
 - Explain to children what is happening at their level of understanding, as your children may be frightened, behave badly, or be fearful about your increased risk.
 
-It is important to look after your own mental health so that you will be strong to help others.
+It is important to look after your own mental health for your own wellbeing and so that you will be strong to help others.
 
 ## Case study 1
 
@@ -180,7 +180,7 @@ She should wipe down the chair with soapy water and then disinfect it with a ble
 
 ### 3. A few friends suggest that they should make cloth masks for patients to wear when she is counselling them. What advice would you give them?
 
-A simple cloth face mask can be made from 3 layers of cotton material such as an old sheet or pillowcase. The mask must be wide enough to cover both the nose and the chin. Either material straps or elastic bands can be used to fasten the mask around the face.
+A simple cloth face mask can be made from three layers of cotton material such as an old sheet or pillowcase. The mask must be wide enough to cover both the nose and the chin. Either material straps or elastic bands can be used to fasten the mask around the face.
 
 ### 4. How should a mask be used?
 

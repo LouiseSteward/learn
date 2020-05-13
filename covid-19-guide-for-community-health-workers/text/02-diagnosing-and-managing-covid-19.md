@@ -50,7 +50,7 @@ Sometimes people with coronavirus infection remain well. However, others become 
 - Headache
 - Abdominal pain, nausea, vomiting and especially diarrhoea
 - Loss of smell and taste
-- Red eyes (conjunctivitis)
+- Red eyes (conjunctivitis).
 
 Not all symptoms are always present and different symptoms may appear at different stages of the infection. Remember that many people with coronavirus infection may not have any clinical symptoms (asymptomatic infection).
 
@@ -141,7 +141,7 @@ Community health workers play an especially important role in helping to find pe
 - Identifying those that need to be tested for coronavirus
 - Collecting samples for testing
 - Tracing people who have been in contact with someone who has, or is suspected of having, coronavirus infection
-- Helping to educate the public while carrying out these tasks
+- Helping to educate the public while carrying out these tasks.
 
 Screening, testing and tracing are discussed in [chapter 3](03-how-to-prevent-the-spread-of-covid-19.html).
 

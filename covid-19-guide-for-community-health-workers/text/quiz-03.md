@@ -23,7 +23,7 @@ Please choose the one, most correct answer to each question or statement.
     - Cover your mouth with your handkerchief
 4.	What is social distancing?
     - Do not speak to your friends
-    + Do not get closer than 1 metre from other people
+    + Do not get closer than 1 metre to other people
     - Do not walk your dog in your garden
 5.	Who should be self-isolated in the pandemic?
     + Anyone with suspected COVID-19
@@ -42,7 +42,7 @@ Please choose the one, most correct answer to each question or statement.
     + Identifying people who may have COVID-19
     - Counting how many people live in one house
 9.	What is contact tracing?
-    - Recording everyone’s cell phone numbers
+    - Recording everyone’s cellphone numbers
     - Finding children who have been lost
     + Finding people who have been in contact with someone who has COVID-19
 10.	What is community lockdown?
