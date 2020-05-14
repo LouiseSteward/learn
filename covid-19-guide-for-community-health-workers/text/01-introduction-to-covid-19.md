@@ -96,7 +96,7 @@ People at increased risk for serious illness are:
 
 - Older people, especially those over 70 years of age. The older they are the greater the risk as the immune system weakens in the elderly.
 - People with chronic lung conditions such as emphysema or tuberculosis.
-- People with other medical conditions (co-morbidity) such as heart disease, cancer, high blood pressure and diabetes.
+- People with other medical conditions (co-morbidities) such as heart disease, cancer, high blood pressure and diabetes.
 - People with untreated HIV infection and those who do not adhere to antiretroviral treatment (ART). People living with HIV who take their ART correctly and have an undetectable viral load may not be at increased risk.
 - Healthcare workers and support staff who care for many infected patients and are exposed to a lot of coronavirus.
 - Men are at higher risk of severe COVID-19 than women. It is not known why.
@@ -105,7 +105,7 @@ People at increased risk for serious illness are:
 
 The number of people in a country who die of COVID-19 depends on several things, including the average age of the population, the availability and quality of health care, and how many people have chronic diseases. Information from developed countries suggests about 3% of people who are ill with COVID-19 will die even with hospital treatment. In poor communities with a weak health service, 5% or more may die.
 
-Many people with coronavirus infection remain well (they are asymptomatic) and do not die. Therefore, the mortality rate for all people infected with coronavirus (symptomatic plus asymptomatic) is expected to be less than 3%.
+Many people with coronavirus infection remain well (they are asymptomatic) and do not die. Many people with coronavirus infection are therefore not tested and not included in the official totals. Therefore, the mortality rate for all people infected with coronavirus (symptomatic plus asymptomatic) is expected to be less than 3%.
 
 ### 1-15 Can people infected with coronavirus avoid getting ill with COVID-19?
 
@@ -141,7 +141,7 @@ Coronavirus can also be spread by direct contact. If he had coughed into his han
 
 ## Case study 2
 
-A week before a schoolgirl aged 10 years attends a friend’s birthday party where one of the parents is later diagnosed with COVID-19. Her elderly grandfather, who has diabetes, lives with the family. Her mother is worried that the whole family may get infected.
+A week before, a schoolgirl aged 10 years attends a friend’s birthday party where one of the parents is later diagnosed with COVID-19. Her elderly grandfather, who has diabetes, lives with the family. Her mother is worried that the whole family may get infected.
 
 ### 1. Is the schoolgirl likely to become ill with COVID-19?
 
@@ -153,7 +153,7 @@ Yes, as he is elderly and has diabetes. Both are risk factors for severe COVID-1
 
 ### 3. When would you expect him to become ill?
 
-As the average incubation period for COVID-19 is 5 days she could become infectious 5 days after the party. It would then take another 5 days before her grandfather became ill. So she could expect him to become ill in the next few days. However the incubation period could be between 2 and 14 days
+As the average incubation period for COVID-19 is 5 days she could become infectious 5 days after the party. It would then take another 5 days before her grandfather became ill. So she could expect him to become ill in the next few days. However the incubation period could be between 2 and 14 days.
 
 ### 4. How many people are usually infected by someone with coronavirus infection?
 

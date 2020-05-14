@@ -19,11 +19,11 @@ Please choose the one, most correct answer to each question or statement.
     + Keep social distancing
 3.	What is personal protective equipment?
     - Boots and cap
-    - Bullet-proof vest and face viser
+    - Bullet-proof vest and face visor
     + Medical mask, apron and goggles
 4.	When should a N95 respirator be used?
     - When speaking to people in the community
-    + When doing an aerosol–generating procedure
+    + When doing an aerosol-generating procedure
     - When taking a nasal swab for testing
 5.	What should be used to disinfect clean surfaces like table tops?
     + Diluted bleach

@@ -41,16 +41,16 @@ Unfortunately, there is no vaccine yet. This means a huge effort must be made to
 
 There are several things everyone can do to slow down the spread of coronavirus:
 
-- Stay at home
-- Wash hands frequently and thoroughly with soap and running water
-- Use an alcohol-based hand rub or hand spray
-- Cover your mouth with a flexed elbow or tissue when coughing or sneezing
-- Do not touch your face with unwashed hands
-- Clean frequently touched surfaces, such as door handles, phones and computer keyboards, often
-- Keep 1 to 2 metres away from other people (social distancing)
-- Wear a non-medical cloth face mask in public places
-- Help to spread correct information about COVID-19
-- Support one another and help to reduce stigma
+- Stay at home.
+- Wash hands frequently and thoroughly with soap and running water.
+- Use an alcohol-based hand rub or hand spray.
+- Cover your mouth with a flexed elbow or tissue when coughing or sneezing.
+- Do not touch your face with unwashed hands.
+- Clean frequently touched surfaces, such as door handles, phones and computer keyboards, often.
+- Keep 1 to 2 metres away from other people (social distancing).
+- Wear a non-medical cloth face mask in public places.
+- Help to spread correct information about COVID-19.
+- Support one another and help to reduce stigma.
 
 ### 3-3 What is thorough handwashing?
 
@@ -78,11 +78,11 @@ Do not touch your face with unwashed hands. If you touch a surface that is conta
 
 ### 3-7 How can frequently touched surfaces be cleaned?
 
-Most frequently touched surfaces such as counter tops, tables, taps and door handles can be cleaned with a soapy cloth followed by disinfection with 70% alcohol spray or wiping down with a diluted 1% bleach solution (1 in 100). One part Jik to 4 parts water can also be used at home. Spectacles and cell phones can be wiped down with alcohol-based sanitiser.
+Most frequently touched surfaces such as counter tops, tables, taps and door handles can be cleaned with a soapy cloth followed by disinfection with 70% alcohol spray or wiping down with a diluted 1% bleach solution (1 in 100). One part Jik to 4 parts water can also be used at home. Spectacles and cellphones can be wiped down with alcohol-based sanitiser.
 
 ### 3-8 What is social distancing?
 
-Social (physical) distancing means getting no closer than 1 metre, and preferably no closer than 2 metres, away from another person, especially if they are coughing. Do not shake hands, touch, hug or kiss other people. Social distancing is important when doing essential shopping or standing in queues. Avoid crowds or social gatherings, especially if they are indoors with poor ventilation. This is an effective way to prevent the spread of coronavirus.
+Social (physical) distancing means getting no closer than 1 metre, and preferably no closer than 2 metres, to another person, especially if they are coughing. Do not shake hands, touch, hug or kiss other people. Social distancing is important when doing essential shopping or standing in queues. Avoid crowds or social gatherings, especially if they are indoors with poor ventilation. This is an effective way to prevent the spread of coronavirus.
 
 > Keep people apart.
 
@@ -94,7 +94,7 @@ Restricting the movement of healthy people and families by getting them to stay 
 
 ### 3-10 What is self-isolation?
 
-Self-isolation refers to keeping any person with coronavirus infection, or suspected coronavirus infection, alone in their home or room. This will reduce the chance that they will pass on the infection to family members or social contacts. People who are self-isolating must stay at home and away from other people for 14 days. Self-isolation at home or in an isolation facility is an essential step to slow down the spread of the pandemic.
+Self-isolation refers to keeping any person with coronavirus infection, or suspected coronavirus infection, alone in their home or room. This will reduce the chance that they will pass on the infection to family members or social contacts. People who are self-isolating must stay at home and away from other people for 14 days. Self-isolation in a room at home or in an isolation facility is an essential step to slow down the spread of the pandemic.
 
 ### 3-11 What is quarantining?
 
@@ -137,13 +137,13 @@ There are several steps that many governments are taking:
 - National regulations to prevent the public mixing with other people (community lockdown)
 - Providing information via the media on how to avoid infection
 - Promoting or giving the public non-medical cloth face masks to use in crowded spaces
-- Supporting the unemployed financially and providing food parcels to the poor
+- Supporting the unemployed financially and providing food parcels to the poor.
 
 These efforts are all aimed at *flattening the curve*.
 
 ### 3-16 What does it mean to flatten the curve?
 
-Without intervention, COVID-19 spreads rapidly through a community, with the number of infected people doubling every 2 to 3 days. Each person with coronavirus usually infects 3 others. This results in a steep increase in the number of infected people, which places an enormous strain on health services, especially hospital wards and intensive care units. The aim is to reduce the speed at which new people become infected and so decrease the daily number of new infections, which is called flattening the curve. The best methods to flatten the curve are community screening, contact tracing and community testing, together with public lockdown to reduce opportunities for coronavirus transmission.
+Without intervention, COVID-19 spreads rapidly through a community, with the number of infected people doubling every 2 to 3 days. Each person with coronavirus usually infects three others. This results in a steep increase in the number of infected people, which places an enormous strain on health services, especially hospital wards and intensive care units. The aim is to reduce the speed at which new people become infected and so decrease the daily number of new infections, which is called flattening the curve. The best methods to flatten the curve are community screening, contact tracing and community testing, together with public lockdown to reduce opportunities for coronavirus transmission.
 
 ## Screening, testing and contact tracing
 
@@ -167,7 +167,7 @@ Community screening may be extended to many communities (population screening) o
 
 ### 3-20 What is the value of community testing?
 
-If people are tested with swabs for coronavirus, it is possible to find out how many people are infected with coronavirus. Many of them will be well (asymptomatic). Testing helps to assess the accuracy of screening. It also gives the true number of infected individuals. The mortality rate of all infected people (both symptomatic and asymptomatic people) can then be calculated. The frequency of COVID-19 (people who are ill) is much less than the frequency of coronavirus infection (people who are well plus people who are ill). The number of people infected with coronavirus gives a good idea of the risk of the public becoming infected. This help in deciding when to lift lockdown.
+If people are tested with swabs for coronavirus, it is possible to find out how many people are infected with coronavirus. Many of them will be well (asymptomatic). Testing helps to assess the accuracy of screening. It also gives the true number of infected individuals. The mortality rate of all infected people (both symptomatic and asymptomatic people) can then be calculated. The frequency of COVID-19 (people who are ill) is much less than the frequency of coronavirus infection (people who are well plus people who are ill). The number of people infected with coronavirus gives a good idea of the risk of the public becoming infected. This helps in deciding when to lift lockdown.
 
 ### 3-21 What is contact tracing?
 
@@ -203,7 +203,7 @@ Community lockdown with contact tracing is often the only way to prevent the rap
 
 While community lockdown is possible in communities with a regular income it is especially difficult in a poor community with many people living together in informal housing. Income is often earned on a day-to-day basis, so staying at home means no income and no food. Water in homes for washing hands is often not available. The need to get fresh air, sunshine and exercise may be overwhelming. Poor people often need to buy food every day which involves moving around and standing in crowded queues regularly.
 
-With the threat of urban lockdown many people flee to rural areas. This leads to further spread of COVID-19. If it is not possible to implement community lockdowns, the socioeconomic consequences can be severe.
+With the threat of urban lockdown many people flee to rural areas. This leads to further spread of COVID-19. It is important to implement a community lockdown to slow down the spread of coronavirus, but the socioeconomic consequences can be severe.
 
 ## Case study 1
 
@@ -215,7 +215,7 @@ Everyone should wear a cloth (cotton) mask when in a public space, especially in
 
 ### 2. What type of mask should the public wear?
 
-A non-medical cloth face mask. These are easy to make out of 3 layers of cotton material, such as an old sheet. The public should not wear medical masks or N95 respirators as these are in short supply and must be reserved for health workers.
+A non-medical cloth face mask. These are easy to make out of three layers of cotton material, such as an old sheet. The public should not wear medical masks or N95 respirators as these are in short supply and must be reserved for health workers.
 
 ### 3. Is hand washing important if Thapelo does not have water in his home?
 
@@ -227,7 +227,7 @@ No. Either cough into your elbow or into a tissue to prevent spraying coronaviru
 
 ## Case study 2
 
-During lockdown, a schoolteacher is speaking to her learners using Skype on her cell phone. She says that staying at home and social distancing are important to protect yourself. One learner asks about screening, testing and contact tracing as his home has been visited by a community health team.
+During lockdown, a schoolteacher is speaking to her learners using Skype on her cellphone. She says that staying at home and social distancing are important to protect yourself. One learner asks about screening, testing and contact tracing as his home has been visited by a community health team.
 
 ### 1. Is staying at home during lockdown important if it is so difficult?
 
