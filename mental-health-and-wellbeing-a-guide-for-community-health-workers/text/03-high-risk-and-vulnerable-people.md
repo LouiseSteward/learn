@@ -201,7 +201,7 @@ Adolescence starts at puberty when sex hormones make many changes happen in the 
 
 An adult is a person who is fully grown and developed. We use the word adult to talk about the older person who is responsible for the adolescent’s wellbeing. The adult is the person who makes sure the adolescent is cared for and protected physically and emotionally. This could be the mother, father, grandparents, other family members, foster parents, a teacher or care worker.
 
-*The body changes that happen during adolescence are described in the [Child and Adolescent Care for Community Health Workers](https://bettercare.co.za/learn/child-and-adolescent-care-for-community-health-workers/text/0-3-contents.html) book of the Bettercare series.*
+*The body changes that happen during adolescence are described in the* [Child and Adolescent Care for Community Health Workers](https://bettercare.co.za/learn/child-and-adolescent-care-for-community-health-workers/text/0-3-contents.html) *book of the Bettercare series.*
 
 ### 3-21 What big changes happen in the brain of adolescents?
 
