@@ -55,7 +55,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	AZT, ddI and NVP
 	+	ABC, 3TC and lopinavir/ritonavir
 10. What is the standard first-line combination used in children weighing between 20 and 35 kg in South Africa?
-	+	ABC, 3TC and dolutegravir
+	+	ABC, 3TC and DTG
 	-	AZT, ddI and lopinavir/ritonavir
 	-	AZT, ddI and NVP
 	-	ABC, 3TC and lopinavir/ritonavir
