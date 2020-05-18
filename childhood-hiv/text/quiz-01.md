@@ -80,7 +80,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	15%
 	-	20%
 15.	Which regimen of antiretroviral treatment given to the mother is most effective in reducing mother-to-child transmission of HIV?
-	-	Nevirapine and DTG
+	-	NVP and DTG
 	+	TDF, 3TC plus EFV
 	-	3TC alone
 	-	Lopinavir/ritonavir alone
