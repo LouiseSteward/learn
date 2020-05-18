@@ -49,7 +49,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	+	Two weeks
 	-	Three weeks
 	-	Four weeks
-9.	What special blood test should be done at the 3 month follow-up visit if the child is receiving zidovudine?
+9.	What special blood test should be done at the 3 month follow-up visit if the child is receiving AZT?
 	+	Full blood count and differential count
 	-	A lipid profile
 	-	Serum lactate concentration
@@ -95,7 +95,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Ethambutol
 	-	Pyrazinamide
 18.	Which antiretroviral drug may interact with INH to cause peripheral neuropathy?
-	-	Efavirenz and NVP
+	-	EFV and NVP
 	+	d4T
 	-	AZT
 	-	Lopinavir/ritonavir

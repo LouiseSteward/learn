@@ -69,7 +69,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The dose is determined by the child’s age.
 	-	The dose is determined by the severity of the illness.
 	+	The dose is determined by the child’s weight.
-13.	Efavirenz is taken:
+13.	EFV is taken:
 	+	Once a day
 	-	Twice a day
 	-	Three times a day
@@ -78,7 +78,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	AZT suspension only
 	-	NVP tablets only
 	+	Most antiretroviral drugs
-	-	Efavirenz capsules only
+	-	EFV capsules only
 15.	NVP may cause:
 	-	Lactic acidosis
 	+	A severe skin rash
