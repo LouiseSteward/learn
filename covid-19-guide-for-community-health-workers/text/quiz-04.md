@@ -9,11 +9,11 @@ style: chapter test
 
 Please choose the one, most correct answer to each question or statement.
 
-1.	Which healthcare workers are at high risk of coronavirus infection?
+1.	Which health workers are at high risk of coronavirus infection?
     + Those in close contact with COVID-19 patients
     - Those tracing the families of COVID-19 patients
     - Those filling in the forms of COVID-19 patients
-2.	How can healthcare workers protect themselves from COVID-19?
+2.	How can health workers protect themselves from COVID-19?
     - Wash their mouth out with warm water
     - Change their clothes twice a day
     + Keep social distancing
@@ -22,9 +22,9 @@ Please choose the one, most correct answer to each question or statement.
     - Bullet-proof vest and face visor
     + Medical mask, apron and goggles
 4.	When should a N95 respirator be used?
-    - When speaking to people in the community
-    + When doing an aerosol-generating procedure
-    - When taking a nasal swab for testing
+    - When a community health worker speaks to people in the community
+    + When a nurse takes a nasal swab for testing
+    - When a doctor goes shopping
 5.	What should be used to disinfect clean surfaces like table tops?
     + Diluted bleach
     - Iodine

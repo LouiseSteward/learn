@@ -29,7 +29,6 @@ Once you have finished this chapter you should be able to:
 2.  Name the cause of COVID-19.
 3.  Explain how COVID-19 is spread.
 4.  Describe who is at greatest risk of COVID-19.
-5.  Understand the meaning of pandemic.
 
 ## COVID-19 and coronavirus
 
@@ -70,7 +69,7 @@ The incubation period of COVID-19 is the time between being infected with corona
 
 ### 1-8 How many people does one person usually infect with coronavirus?
 
-If no protective measures are taken, one infected person will spread coronavirus to three other people. This means coronavirus is three times more infectious than the influenza (flu) virus. However, coronavirus is far less infectious than some other viral diseases, such as measles.
+If no protective measures are taken, one infected person will spread coronavirus to an average of three other people. This means coronavirus is three times more infectious than the influenza (flu) virus. However, coronavirus is far less infectious than some other viral diseases, such as measles.
 
 ### 1-9 How many people infected with coronavirus become ill?
 
@@ -86,7 +85,7 @@ Children and teenagers also get infected with coronavirus but most do not become
 
 ### 1-12 What happens if pregnant women get COVID-19?
 
-Pregnant women can become sick with COVID-19 but coronavirus does not spread to their unborn baby in the womb and coronavirus is not present in their breast milk. Infection can however spread to the baby after birth from the mother’s respiratory droplets or by direct contact. Therefore, mothers must wear a mask and wash their hands carefully before breastfeeding their baby, for at least 14 days after the start of their symptoms.
+Pregnant women can become sick with COVID-19 but coronavirus usually does not spread to their unborn baby in the womb and coronavirus is not present in their breast milk. Infection can however spread to the baby after birth from the mother’s respiratory droplets or by direct contact. Therefore, mothers must wear a mask and wash their hands carefully before breastfeeding their baby, for at least 14 days after the start of their symptoms.
 
 ## The risk of COVID-19
 
@@ -98,14 +97,14 @@ People at increased risk for serious illness are:
 - People with chronic lung conditions such as emphysema or tuberculosis.
 - People with other medical conditions (co-morbidities) such as heart disease, cancer, high blood pressure and diabetes.
 - People with untreated HIV infection and those who do not adhere to antiretroviral treatment (ART). People living with HIV who take their ART correctly and have an undetectable viral load may not be at increased risk.
-- Healthcare workers and support staff who care for many infected patients and are exposed to a lot of coronavirus.
+- Health workers and support staff who care for many infected patients and are exposed to a lot of coronavirus.
 - Men are at higher risk of severe COVID-19 than women. It is not known why.
 
 ### 1-14 How many deaths will COVID-19 cause?
 
 The number of people in a country who die of COVID-19 depends on several things, including the average age of the population, the availability and quality of health care, and how many people have chronic diseases. Information from developed countries suggests about 3% of people who are ill with COVID-19 will die even with hospital treatment. In poor communities with a weak health service, 5% or more may die.
 
-Many people with coronavirus infection remain well (they are asymptomatic) and do not die. Many people with coronavirus infection are therefore not tested and not included in the official totals. Therefore, the mortality rate for all people infected with coronavirus (symptomatic plus asymptomatic) is expected to be less than 3%.
+Many people with coronavirus infection remain well (they are asymptomatic) and more than 97% will recover. Many people with coronavirus infection are therefore not tested and not included in the official totals. Therefore, the mortality rate for all people infected with coronavirus (symptomatic plus asymptomatic) is expected to be less than 3%.
 
 ### 1-15 Can people infected with coronavirus avoid getting ill with COVID-19?
 
@@ -145,7 +144,7 @@ A week before, a schoolgirl aged 10 years attends a friend’s birthday party wh
 
 ### 1. Is the schoolgirl likely to become ill with COVID-19?
 
-Probably not, as children infected with coronavirus usually do not become ill.
+Yes, she is likely to become infected but may not develop symptoms or may only have mild symptoms of COVID-19.
 
 ### 2. Should she be worried about her grandfather?
 

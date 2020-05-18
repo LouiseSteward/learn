@@ -4,14 +4,14 @@ title: About this book
 
 # About this book
 
-*COVID-19 Guide for Community Health Workers* includes these modules:
+*COVID-19 Guide for Community Health Workers* includes these chapters:
 
 1.  Introduction to COVID-19
 2.  Diagnosing and managing COVID-19
 3.  How to prevent the spread of COVID-19
 4.  Protecting yourself from COVID-19
 
-These modules have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape, funded by the Small Projects Foundation.
+These chapters have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape, funded by the Small Projects Foundation.
 
 Community health workers (CHWs) serve as a very important direct link between patients, communities and health services. As trusted on-the-ground support to community members, they therefore expand access to essential healthcare information as well as available treatment and prevention programmes.
 

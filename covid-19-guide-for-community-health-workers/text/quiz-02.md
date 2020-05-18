@@ -9,7 +9,7 @@ style: chapter test
 
 Please choose the one, most correct answer to each question or statement.
 
-1.	What is common symptom of COVID-19?
+1.	Which of these is a common symptom of COVID-19?
     + Cough
     - Rash
     - Sticky eyes
@@ -45,7 +45,7 @@ Please choose the one, most correct answer to each question or statement.
     - Finding a normal temperature
     - Finding no coronavirus in the blood
     + Finding antibodies to coronavirus in the blood
-10.	How can community healthcare workers help to prevent the spread of COVID-19?
+10.	How can community health workers help to prevent the spread of COVID-19?
     + Screen people by asking them questions
     - Take people’s blood pressure
     - Count people’s heart rate

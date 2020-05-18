@@ -18,7 +18,7 @@ Take the chapter quiz before and after you have read this chapter.
 * [How to protect yourself](#how-to-protect-yourself)
 * [Personal protective equipment](#personal-protective-equipment)
 * [Wearing a cloth mask in public](#wearing-a-cloth-mask-in-public)
-* [Emotional challenges for healthcare workers](#emotional-challenges-for-healthcare-workers)
+* [Emotional challenges for health workers](#emotional-challenges-for-health-workers)
 * [Case studies](#case-study-1)
 {:.chapter-toc}
 
@@ -26,18 +26,18 @@ Take the chapter quiz before and after you have read this chapter.
 
 Once you have finished this chapter you should be able to:
 
-1.  Explain how healthcare workers can protect themselves against COVID-19.
+1.  Explain how health workers can protect themselves against COVID-19.
 2.  Describe personal protective equipment.
 3.  Use and wash a non-medical cloth face mask correctly.
 4.  Recognise and manage work-related stress.
 
 ## How to protect yourself
 
-### 4-1 Are healthcare workers at increased risk of coronavirus infection?
+### 4-1 Are health workers at increased risk of coronavirus infection?
 
 Yes. Anyone who is in close in contact with someone who has COVID-19 or is suspected of having coronavirus infection is at increased risk. They therefore need to take extra care.
 
-### 4-2 What can healthcare workers do to protect themselves?
+### 4-2 What can health workers do to protect themselves?
 
 They should:
 
@@ -52,7 +52,7 @@ They should:
 
 ### 4-3 What is personal protective equipment?
 
-Personal protective equipment (PPE) is the equipment needed to protect healthcare workers from becoming infected with coronavirus. It is especially important that healthcare workers protect themselves when looking after COVID-19 patients and people who are suspected of having coronavirus infection. The most appropriate and effective PPE should be used in each circumstance.
+Personal protective equipment (PPE) is the equipment needed to protect health workers from becoming infected with coronavirus. It is especially important that health workers protect themselves when looking after COVID-19 patients and people who are suspected of having coronavirus infection. The most appropriate and effective PPE should be used in each circumstance.
 
 Community health workers doing COVID-19 screening in the community should keep a personal distance of at least 1 metre and wear a medical mask.
 
@@ -67,17 +67,15 @@ For health workers performing aerosol-generating procedures, any procedure that 
 
 Donning (putting on) and doffing (taking off) full PPE is a skill that needs practice and must be done properly to avoid being contaminated with coronavirus.
 
-Personal protective equipment must be made available for all healthcare workers caring for COVID-19 patients.
+Personal protective equipment must be made available for all health workers caring for COVID-19 patients.
 
-### 4-4 What personal protective equipment should be used when speaking to people or taking nose or throat swabs?
+### 4-4 What personal protective equipment should be used when speaking to people?
 
 When speaking to people or handing out educational material do not stand closer than 1 metre. A medical mask is all that is needed. Wash your hands well and often.
 
-When taking a nose or throat swab, wear a plastic apron and gown, medical mask, and eye protection because the person may cough or sneeze. Non-sterile gloves may be used. There is no need to use a N95 respirator.
-
 ### 4-5 Can personal protective equipment be re-used?
 
-Medical masks can be used for 8 hours during a work shift but should be discarded and replaced if they become moist or get soiled. Gloves must be changed between patients. An apron, gown and medical mask can usually be used for an 8-hour shift if taking swabs. Usually PPE is not re-used. However, if PPE is very scarce, reuse is still preferable to having no PPE when supplies are extremely limited.
+Gloves and aprons must be changed between patients. Medical masks can be worn for 8 hours if not contaminated, wet or torn. Usually PPE is not re-used. However, if PPE is very scarce, reuse is still preferable to having no PPE when supplies are extremely limited.
 
 ### 4-6 How should you handle your uniform or work clothes?
 
@@ -85,7 +83,7 @@ If possible, remove your work clothes at the workplace and place them in a plast
 
 ### 4-7 What should be used to clean and disinfect surfaces and equipment?
 
-Clean the surfaces around the patient or where you are working at least twice daily with soap and water followed by two teaspoons (10 ml) of bleach in 1 litre of water or a cup (250 ml) of Jik in 1 litre of water. Disinfect equipment such as stethoscopes with a 70% alcohol sanitiser after each use.
+Clean the surfaces around the patient or where you are working at least twice daily with soap and water followed by a 0.1% bleach solution (25 ml liquid bleach in 1 litre of water) or a cup (250 ml) of Jik in 1 litre of water. Disinfect equipment such as stethoscopes with a 70% alcohol sanitiser after each use.
 
 ## Wearing a cloth mask in public
 
@@ -117,13 +115,13 @@ Cleaning a cloth mask correctly is important:
 - Iron the dry mask.
 - Wash your hands.
 
-## Emotional challenges for healthcare workers
+## Emotional challenges for health workers
 
-### 4-10 What are the emotional challenges of being a healthcare worker in the time of COVID-19?
+### 4-10 What are the emotional challenges of being a health worker in the time of COVID-19?
 
-Healthcare workers are at the frontline of protecting the public and caring for people infected with coronavirus. This is stressful as they are at risk of becoming infected and spreading coronavirus to their family. Caring for sick and frightened patients is also difficult. Some people will die, leaving family and friends sad. Colleagues may also get sick and die.
+Health workers are at the frontline of protecting the public and caring for people infected with coronavirus. This is stressful as they are at risk of becoming infected and spreading coronavirus to their family. Caring for sick and frightened patients is also difficult. Some people will die, leaving family and friends sad. Colleagues may also get sick and die.
 
-As the coronavirus spreads, there will be overcrowding in health facilities. Many healthcare workers may also be away in isolation because they have come into contact with infected people or are infected themselves. This results in staff shortages. The demands of training and supporting inexperienced staff or volunteers may be an additional burden.
+As the coronavirus spreads, there will be overcrowding in health facilities. Many health workers may also be away in isolation because they have come into contact with infected people or are infected themselves. This results in staff shortages. The demands of training and supporting inexperienced staff or volunteers may be an additional burden.
 
 The stigma of working with COVID-19 patients is also a problem.
 
@@ -141,7 +139,7 @@ It is important to recognise and acknowledge when you are stressed. Common sympt
 
 Being stressed is normal under these circumstances. You are not alone. Many others are also stressed. Some symptoms of stress and panic can feel similar to the symptoms of COVID-19, such as headache, shortness of breath, feeling feverish and sweating. This can feel very frightening.
 
-### 4-12 What can be done to help and support stressed healthcare workers?
+### 4-12 What can be done to help and support stressed health workers?
 
 It is important to speak to a trusted family member, friend, colleague, or supervisor. Ask for help if you are not managing. Tell them how you are feeling. Do not be shy to ask for support.
 
@@ -168,7 +166,7 @@ It is important to look after your own mental health for your own wellbeing and 
 
 ## Case study 1
 
-Lindiwe is a healthcare worker who meets patients with COVID-19 every day. Most days she just sits with them to give support and listen to their stories as visits from friends are not allowed. She is anxious to learn more about how to protect herself from infection.
+Lindiwe is a health worker who meets patients with COVID-19 every day. Most days she just sits with them to give support and listen to their stories as visits from friends are not allowed. She is anxious to learn more about how to protect herself from infection.
 
 ### 1. What would she need when listening to patients?
 
@@ -192,11 +190,11 @@ Cloth masks should be washed with soap and hot water. If possible, let the mask 
 
 ## Case study 2
 
-A young healthcare worker is becoming extremely stressed after a week of screening people in an informal settlement. She tells a friend that she wants to resign.
+A young health worker is becoming extremely stressed after a week of screening people in an informal settlement. She tells a friend that she wants to resign.
 
 ### 1. Is this an unusual response?
 
-No. Healthcare workers find it especially stressful to see frightened and angry people who do not want to be screened. Many people are frightened of the stigma and risk to themselves and their families if they are positive.
+No. Health workers find it especially stressful to see frightened and angry people who do not want to be screened. Many people are frightened of the stigma and risk to themselves and their families if they are positive.
 
 ### 2. What symptoms of stress may she be experiencing?
 
