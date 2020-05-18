@@ -82,7 +82,7 @@ Please choose the *one*, most correct answer to each question or statement.
 15.	Drug resistance may occur when:
 	-	INH prophylaxis for TB interferes with the antiretroviral drugs.
 	-	3 drugs are used instead of 4.	
-	+	Nevirapine is used as prophylaxis during delivery.
+	+	NVP is used as prophylaxis during delivery.
 	-	Steroids are given at the same time as antiretroviral treatment.
 16.	What should be done if the first-line treatment fails in spite of excellent compliance?
 	-	Increase the dose of the drugs.
@@ -95,14 +95,14 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Ethambutol
 	-	Pyrazinamide
 18.	Which antiretroviral drug may interact with INH to cause peripheral neuropathy?
-	-	Efavirenz and nevirapine
+	-	Efavirenz and NVP
 	+	d4T
 	-	AZT
 	-	Lopinavir/ritonavir
 19.	What is the immune reconstitution inflammatory syndrome (IRIS)?
 	-	One of the criteria for stage 4 HIV infection
 	-	A common indication for starting antiretroviral treatment
-	-	A serious side effect of nevirapine
+	-	A serious side effect of NVP
 	+	A possible reason for an unexpected deterioration after starting antiretroviral treatment
 20.	What immunisation is typically associated with the immune reconstitution inflammatory syndrome (IRIS) in children?
 	-	Polio
