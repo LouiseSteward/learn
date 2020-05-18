@@ -31,7 +31,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	ABC
 5.	Aluvia is a trade name for:
 	-	Ritonavir
-	-	Tenofovir
+	-	TDF
 	+	A combination of lopinavir and ritonavir
 	-	A combination of nelfinavir and ritonavir
 6.	Can antiretroviral treatment cure children who are infected with HIV?
