@@ -33,7 +33,7 @@ Please choose the *one*, most correct answer to each question or statement.
     + Yes
     - No
     - Only if they are children
-7.  What is the incubation period of COVID-19?
+7.  What is the average incubation period of COVID-19?
     + 5 days
     - 7 days
     - 10 days
@@ -41,11 +41,11 @@ Please choose the *one*, most correct answer to each question or statement.
     + About 20%
     - About 50%
     - All of them
-9.  Which people are at increased risk of getting COVID-19?
+9.  Which people are at increased risk of severe disease getting COVID-19?
     - Babies
     - Adolescents
     + Old people
 10. How many people with COVID-19 are expected to die?
-    - 1%
     + 3%
     - 10%
+    - 20%

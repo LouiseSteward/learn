@@ -25,7 +25,7 @@ Take the chapter quiz before and after you have read this chapter.
 
 Once you have finished this chapter you should be able to:
 
-1. Describe how people can prevent the spread of COVID-19.
+1. Describe how the public can prevent the spread of COVID-19.
 2. Explain why wearing a cloth mask in public is important.
 3. Describe what government can do to prevent the spread of COVID-19.
 4. Understand how community screening, testing and tracing are done.
@@ -78,7 +78,7 @@ Do not touch your face with unwashed hands. If you touch a surface that is conta
 
 ### 3-7 How can frequently touched surfaces be cleaned?
 
-Most frequently touched surfaces such as counter tops, tables, taps and door handles can be cleaned with a soapy cloth followed by disinfection with 70% alcohol spray or wiping down with a diluted 1% bleach solution (1 in 100). One part Jik to 4 parts water can also be used at home. Spectacles and cellphones can be wiped down with alcohol-based sanitiser.
+Most frequently touched surfaces such as counter tops, tables, taps and door handles can be cleaned with a soapy cloth followed by disinfection with 70% alcohol spray or wiping down with a diluted 0.1% bleach solution. One part Jik to 4 parts water can also be used at home. Spectacles and cellphones can be wiped down with alcohol-based sanitiser.
 
 ### 3-8 What is social distancing?
 
@@ -132,8 +132,8 @@ There are several steps that many governments are taking:
 - Screening and testing anyone with suspected coronavirus infection
 - Community screening for COVID-19 and community testing for coronavirus infection
 - Tracing people who have been in contact with someone who has COVID-19 (contact tracing)
-- Isolating people with suspected or confirmed coronavirus infection (quarantining)
-- Isolating people who have had close contact with someone with confirmed COVID-19 (self-isolation)
+- Isolating people who have been infected with coronavirus (self-isolation)
+- Quarantining people who have had close contact with someone with confirmed COVID-19 (quarantining)
 - National regulations to prevent the public mixing with other people (community lockdown)
 - Providing information via the media on how to avoid infection
 - Promoting or giving the public non-medical cloth face masks to use in crowded spaces

@@ -20,7 +20,7 @@ Relearn the sections in brackets for questions you get wrong.
 7.  a (1-7)
 8.  a (1-10)
 9.  c (1-13)
-10. b (1-14)
+10. a (1-14)
 {:.keep-together}
 
 ### Quiz 2: Diagnosing COVID-19
