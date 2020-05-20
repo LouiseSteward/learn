@@ -1,6 +1,6 @@
 ---
 title: Diagnosing and managing COVID-19
-quiz-id: 
+quiz-id: 491
 ---
 
 {% include metadata %}
