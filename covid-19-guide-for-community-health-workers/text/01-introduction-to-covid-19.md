@@ -52,7 +52,8 @@ When COVID-19 first appeared in China it was an epidemic as it only spread local
 
 ### 1-5 How does coronavirus spread between people?
 
-One of the things which makes this virus so dangerous is that it spreads very quickly between people. There are three important ways that coronavirus can be spread:
+One of the things which makes this virus so dangerous is that it spreads very quickly between people. There are three important ways that coronavirus can be&nbsp;spread:
+{:.loosen-5}
 
 - **Spread from respiratory droplets:** Tiny droplets of saliva or nasal secretion that spray out of a person’s mouth or nose when they cough, sneeze, shout, laugh, sing or even speak may contain coronavirus. If another person is standing close by, these tiny droplets may be breathed in or land in the eyes and cause infection with coronavirus. The closer people are to each other, the greater the risk of infection. Smaller droplets may float in the air, but larger droplets quickly settle onto nearby surfaces such as tabletops and chairs. It is the larger droplets that are responsible for most coronavirus spread. The importance of airborne spread indoors by the smaller droplets is uncertain.
 - **Spread by direct contact:** If you shake hands with someone who has coronavirus infection and has coughed into their hand you may transfer coronavirus onto your own hand. If you then touch your nose, mouth, or eyes you can also become infected. Shaking hands, hugging, or kissing someone who is infected may also pass on the coronavirus.
@@ -104,7 +105,8 @@ People at increased risk for serious illness are:
 
 The number of people in a country who die of COVID-19 depends on several things, including the average age of the population, the availability and quality of health care, and how many people have chronic diseases. Information from developed countries suggests about 3% of people who are ill with COVID-19 will die even with hospital treatment. In poor communities with a weak health service, 5% or more may die.
 
-Many people with coronavirus infection remain well (they are asymptomatic) and more than 97% will recover. Many people with coronavirus infection are therefore not tested and not included in the official totals. Therefore, the mortality rate for all people infected with coronavirus (symptomatic plus asymptomatic) is expected to be less than 3%.
+Many people with coronavirus infection remain well (they are asymptomatic) and more than 97% will recover. Many people with coronavirus infection are therefore not tested and not included in the official totals. Therefore, the mortality rate for all people infected with coronavirus (symptomatic plus asymptomatic) is expected to be less than&nbsp;3%.
+{:.loosen-10}
 
 ### 1-15 Can people infected with coronavirus avoid getting ill with COVID-19?
 
