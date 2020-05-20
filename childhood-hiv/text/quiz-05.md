@@ -9,16 +9,16 @@ style: chapter test
 
 Please choose the *one*, most correct answer to each question or statement.
 
-1.	How long will HIV infected children need to stay on antiretroviral treatment?
-    -   6 weeks
-    -   6 months
-    -   A year
-    +   Lifelong
-2.	At which clinical stage should antiretroviral treatment be started in children older than 5 years?
+1.	At which clinical stage should antiretroviral treatment be started in children older than 5 years?
 	-	Clinical stage 1
 	-	Clinical stage 2
 	-	Clinical stage 3 or 4
 	+	All children irrespective of clinical stage.
+2.  Which children should be fast tracked onto antiretroviral treatment? 
+    -   A child with MDR-TB clinical disease 
+	-   A 16 month old child with stage 1 disease 
+	-   A child with a CD4 count of 250 cells/μl 
+	+   A 6 year old child with stage 2 disease
 3.	Which one of the following is essential before starting antiretroviral treatment?
 	-	The mother should have at least seven years schooling.
 	+	There must be at least one responsible adult to help administer medication.
