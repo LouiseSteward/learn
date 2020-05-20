@@ -1,6 +1,6 @@
 ---
 title: Diagnosing and managing COVID-19
-quiz-id: 
+quiz-id: 491
 ---
 
 {% include metadata %}
@@ -41,7 +41,7 @@ No, as many infected people remain well and have no symptoms of illness.
 
 Sometimes people with coronavirus infection remain well. However, others become ill with COVID-19 and experience one or more of the following symptoms:
 
-- Temperature of 38°C or more or feeling feverish
+- Temperature of 38℃ or more or feeling feverish
 - Cough
 - Sore throat
 - Marked tiredness (lethargy) and general weakness
@@ -147,7 +147,7 @@ Screening, testing and tracing are discussed in [chapter 3](03-how-to-prevent-th
 
 ## Case study 1
 
-Sidwell is feeling unwell with a dry cough and a sore throat. His wife takes his temperature, which is 39°C. A few days before, he arrived home from a business trip to Europe. Their family doctor takes a swab for testing and the result is positive, confirming the diagnosis of COVID-19.
+Sidwell is feeling unwell with a dry cough and a sore throat. His wife takes his temperature, which is 39℃. A few days before, he arrived home from a business trip to Europe. Their family doctor takes a swab for testing and the result is positive, confirming the diagnosis of COVID-19.
 
 ### 1. Do his symptoms suggest COVID-19?
 

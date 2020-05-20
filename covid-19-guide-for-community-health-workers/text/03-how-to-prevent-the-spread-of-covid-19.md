@@ -1,6 +1,6 @@
 ---
 title: How to prevent the spread of COVID-19
-quiz-id: 
+quiz-id: 493
 ---
 
 {% include metadata %}
@@ -151,7 +151,7 @@ Without intervention, COVID-19 spreads rapidly through a community, with the num
 
 Screening is usually done door to door in communities at high risk of COVID-19. Screening teams will also be sent to sites where new cases of COVID-19 are being reported.
 
-Community health workers conduct screening by recording the person’s identity details and recent movements, taking a history of cough, fever, sore throat or shortness of breath, and possibly measuring the person’s temperature. A body temperature of 38°C or more is abnormal. Those suspected of having COVID-19 are sent for testing. Not all people who are screened are also tested.
+Community health workers conduct screening by recording the person’s identity details and recent movements, taking a history of cough, fever, sore throat or shortness of breath, and possibly measuring the person’s temperature. A body temperature of 38℃ or more is abnormal. Those suspected of having COVID-19 are sent for testing. Not all people who are screened are also tested.
 
 ### 3-18 What is testing?
 
@@ -217,7 +217,7 @@ Everyone should wear a cloth (cotton) mask when in a public space, especially in
 
 A non-medical cloth face mask. These are easy to make out of three layers of cotton material, such as an old sheet. The public should not wear medical masks or N95 respirators as these are in short supply and must be reserved for health workers.
 
-### 3. Is hand washing important if Thapelo does not have water in his home?
+### 3. Is handwashing important if Thapelo does not have water in his home?
 
 Washing hands well with soap and running water helps prevent the spread of coronavirus. This is particularly important after taking off your mask and when you return home after being in a public place. Perhaps Thapelo could get a drum of water for their house. If not, they could buy 70% alcohol hand spray to use if water is not available. The family should learn not to touch their faces.
 

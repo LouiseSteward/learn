@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 2: Diagnosing and managing COVID-19
 
-Please choose the one, most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	Which of these is a common symptom of COVID-19?
     + Cough
