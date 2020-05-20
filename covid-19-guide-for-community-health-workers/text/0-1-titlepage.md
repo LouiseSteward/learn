@@ -8,7 +8,7 @@ style: title-page page-1
 COVID-19 Guide for Community Health Workers
 {:.titlepage-title}
 
-Written by Dave Woods, Angela Dramowski and Roseanne Turner
+Written by Prof Dave Woods, Prof Angela Dramowski and Roseanne Turner
 {:.titlepage-author}
 
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}
