@@ -28,9 +28,9 @@ Relearn the sections in brackets for questions you get wrong.
 15.	b (1-38)
 16.	d (1-47)
 17.	c (1-52)
-18.	d (1-63)
-19.	c (1-66)
-20.	b (1-69)
+18.	d (1-64)
+19.	c (1-67)
+20.	b (1-70)
 
 ### Quiz 2: Assessment of fetal growth and condition during pregnancy
 

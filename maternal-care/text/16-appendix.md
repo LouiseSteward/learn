@@ -729,12 +729,12 @@ The level of care needed is shown as follows:
   <td>1</td>
  </tr>
  <tr>
-  <td><p>> 75th and < 95th centile</p>
+  <td><p>> 75th and < 95th centile (equal to more thn the 75th centile)</p>
    <p>Repeat after 2 weeks</p></td>
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td><p>> 95th centile</p></td>
+  <td><p>> 95th centile (equal to more than the 95th centile)</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
