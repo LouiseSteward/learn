@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 3: How to prevent the spread of COVID-19
 
-Please choose the one, most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	What can the public do to prevent the spread of COVID-19?
     + Stay at home

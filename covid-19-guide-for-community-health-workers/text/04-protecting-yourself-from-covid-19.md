@@ -79,11 +79,11 @@ Gloves and aprons must be changed between patients. Medical masks can be worn fo
 
 ### 4-6 How should you handle your uniform or work clothes?
 
-If possible, remove your work clothes at the workplace and place them in a plastic bag. If removed at home, place them in a washing basket immediately. Wash your hands well after removing your clothes. Wash the clothes in hot water if possible (60°C). Remember to also clean your glasses and to wipe down your cellphone and any pens with an alcohol-based sanitiser.
+If possible, remove your work clothes at the workplace and place them in a plastic bag. If removed at home, place them in a washing basket immediately. Wash your hands well after removing your clothes. Wash the clothes in hot water if possible (60℃). Remember to also clean your glasses and to wipe down your cellphone and any pens with an alcohol-based sanitiser.
 
 ### 4-7 What should be used to clean and disinfect surfaces and equipment?
 
-Clean the surfaces around the patient or where you are working at least twice daily with soap and water followed by a 0.1% bleach solution (25 ml liquid bleach in 1 litre of water) or a cup (250 ml) of Jik in 1 litre of water. Disinfect equipment such as stethoscopes with a 70% alcohol sanitiser after each use.
+Clean the surfaces around the patient or where you are working at least twice daily with soap and water followed by a 0.1% bleach solution (25&nbsp;ml liquid bleach in 1 litre of water) or a cup (250&nbsp;ml) of Jik in 1 litre of water. Disinfect equipment such as stethoscopes with a 70% alcohol sanitiser after each use.
 
 ## Wearing a cloth mask in public
 

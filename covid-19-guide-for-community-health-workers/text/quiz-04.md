@@ -7,7 +7,7 @@ style: chapter test
 
 # Quiz 4: Protecting yourself from COVID-19
 
-Please choose the one, most correct answer to each question or statement.
+Please choose the *one*, most correct answer to each question or statement.
 
 1.	Which health workers are at high risk of coronavirus infection?
     + Those in close contact with COVID-19 patients
