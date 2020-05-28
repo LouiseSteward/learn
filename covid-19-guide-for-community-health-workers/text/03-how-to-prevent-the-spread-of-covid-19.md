@@ -28,8 +28,9 @@ Once you have finished this chapter you should be able to:
 1. Describe how the public can prevent the spread of COVID-19.
 2. Explain why wearing a cloth mask in public is important.
 3. Describe what government can do to prevent the spread of COVID-19.
-4. Understand how community screening, testing and tracing are done.
+4. Understand how community screening, testing and tracing are&nbsp;done.
 5. Describe community lockdown.
+{:.loosen-5}
 
 ## Preventing the spread of COVID-19
 
@@ -65,6 +66,7 @@ A 70% alcohol-based hand rub or hand spray (hand sanitiser) can be used, particu
 ### 3-5 Why should you cover your mouth when you cough?
 
 This helps prevent the spread of small droplets which may carry coronavirus. Always cover your mouth and nose with your bent elbow or a paper tissue when you cough or sneeze (respiratory hygiene). Place the used tissue in a bin immediately. Do not leave used tissues lying around for someone else to pick up. Never spit in public.
+{:.tighten-10}
 
 It is the responsibility of everyone to protect others around them as well as to protect themselves. Good handwashing after coughing and handling respiratory secretions (used tissues) is another important way to avoid coronavirus infection.
 
@@ -103,6 +105,7 @@ Quarantine means keeping someone who has been in contact with a person with coro
 ### 3-12 Is it helpful to wear a non-medical cloth face mask when going out in public?
 
 Wearing a simple cloth (cotton) mask in public will help protect others as it reduces the spread of droplets when one coughs. It may also protect people from breathing in droplets that contain coronavirus. Wearing a cloth mask may help you remember not to touch your face. Many people feel reassured by wearing a cloth face mask.
+{:.tighten-10}
 
 When in close contact with others, such as in a taxi, food store or at a funeral, a simple cloth mask reduces the risk of an infected person shedding virus into the air. Unfortunately, a mask does not give 100% protection. Only touch the ties and not the material when putting the mask on or taking it off. Wash your hands after removing a mask. Do not share masks.
 
@@ -144,6 +147,7 @@ These efforts are all aimed at *flattening the curve*.
 ### 3-16 What does it mean to flatten the curve?
 
 Without intervention, COVID-19 spreads rapidly through a community, with the number of infected people doubling every 2 to 3 days. Each person with coronavirus usually infects three others. This results in a steep increase in the number of infected people, which places an enormous strain on health services, especially hospital wards and intensive care units. The aim is to reduce the speed at which new people become infected and so decrease the daily number of new infections, which is called flattening the curve. The best methods to flatten the curve are community screening, contact tracing and community testing, together with public lockdown to reduce opportunities for coronavirus transmission.
+{:.tighten-10}
 
 ## Screening, testing and contact tracing
 
@@ -168,12 +172,15 @@ Community screening may be extended to many communities (population screening) o
 ### 3-20 What is the value of community testing?
 
 If people are tested with swabs for coronavirus, it is possible to find out how many people are infected with coronavirus. Many of them will be well (asymptomatic). Testing helps to assess the accuracy of screening. It also gives the true number of infected individuals. The mortality rate of all infected people (both symptomatic and asymptomatic people) can then be calculated. The frequency of COVID-19 (people who are ill) is much less than the frequency of coronavirus infection (people who are well plus people who are ill). The number of people infected with coronavirus gives a good idea of the risk of the public becoming infected. This helps in deciding when to lift lockdown.
+{:.tighten-10}
 
 ### 3-21 What is contact tracing?
 
 Contact tracing is looking for all the people who have recently been in contact with someone who is infected with coronavirus. All people who have been in physical contact with the patient in the previous few days should be identified, traced and screened for COVID-19. Due to fear and stigma, some people may be afraid of giving the names of their contacts.
+{:.tighten-10}
 
 Contact tracing requires the time and effort of many people but is important to find people who are at high risk of incubating coronavirus or of having COVID-19. This is a vitally important part of slowing down the spread of infection. Contacts of people who have tested positive for COVID-19 should be kept at home or sent to a quarantine facility if there is any delay in getting the screening results.
+{:.tighten-10}
 
 ## Community lockdown
 
@@ -196,12 +203,15 @@ When people feel frightened, it is normal for them to want to meet and talk to f
 - Phone for professional help if you become very anxious or depressed.
 
 Funerals are especially important in all societies. Banning or limiting attendance at funerals is necessary but it can be particularly upsetting. As the body is infectious to others, the coffin may be sealed so the body cannot be viewed by the family.
+{:.loosen-10}
 
 Community lockdown with contact tracing is often the only way to prevent the rapid nationwide spread of COVID-19. Once the pandemic is under control, a gradual lifting of the lockdown can be started.
+{:.loosen-10}
 
 ### 3-24 What are the challenges of community lockdown in poor communities?
 
 While community lockdown is possible in communities with a regular income it is especially difficult in a poor community with many people living together in informal housing. Income is often earned on a day-to-day basis, so staying at home means no income and no food. Water in homes for washing hands is often not available. The need to get fresh air, sunshine and exercise may be overwhelming. Poor people often need to buy food every day which involves moving around and standing in crowded queues regularly.
+{:.tighten-12}
 
 With the threat of urban lockdown many people flee to rural areas. This leads to further spread of COVID-19. It is important to implement a community lockdown to slow down the spread of coronavirus, but the socioeconomic consequences can be severe.
 

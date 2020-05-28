@@ -19,4 +19,4 @@ This course book provides appropriate, cost-effective, and sustainable targeted 
 
 The proven Perinatal Education Programme (PEP) methodology of decentralised, small group learning, facilitated by a professional nurse, is ideal to meet the training needs of diverse groups of community health workers, particularly those in under-resourced, remote or rural communities. Bettercare is working alongside health workers to bring this highly successful, easily applied training model to community health worker development programmes.
 
-<br>*Author: Prof Dave Woods*
+<br>*Prof Dave Woods, author*

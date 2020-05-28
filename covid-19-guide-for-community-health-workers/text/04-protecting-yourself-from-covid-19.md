@@ -30,6 +30,7 @@ Once you have finished this chapter you should be able to:
 2.  Describe personal protective equipment.
 3.  Use and wash a non-medical cloth face mask correctly.
 4.  Recognise and manage work-related stress.
+{:.loosen-10}
 
 ## How to protect yourself
 
@@ -80,6 +81,7 @@ Gloves and aprons must be changed between patients. Medical masks can be worn fo
 ### 4-6 How should you handle your uniform or work clothes?
 
 If possible, remove your work clothes at the workplace and place them in a plastic bag. If removed at home, place them in a washing basket immediately. Wash your hands well after removing your clothes. Wash the clothes in hot water if possible (60℃). Remember to also clean your glasses and to wipe down your cellphone and any pens with an alcohol-based sanitiser.
+{:.tighten-10}
 
 ### 4-7 What should be used to clean and disinfect surfaces and equipment?
 
@@ -90,6 +92,7 @@ Clean the surfaces around the patient or where you are working at least twice da
 ### 4-8 Is it helpful to wear a non-medical cloth mask in public when not working?
 
 It is always important to protect yourself and your family when out in public. A cloth face mask helps prevent the spread of droplets that may contain coronavirus. However, face masks must be used correctly. It is helpful if this information is shared with friends, family, and colleagues:
+{:.tighten-10}
 
 - A good mask is made of three layers of non-stretch cotton material.
 - It should cover from above the nose to below the chin and back to the ears.

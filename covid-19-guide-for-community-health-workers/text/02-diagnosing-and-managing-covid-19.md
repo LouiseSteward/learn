@@ -53,6 +53,7 @@ Sometimes people with coronavirus infection remain well. However, others become 
 - Red eyes (conjunctivitis).
 
 Not all symptoms are always present and different symptoms may appear at different stages of the infection. Remember that many people with coronavirus infection may not have any clinical symptoms (asymptomatic infection).
+{:.tighten-10}
 
 ### 2-3 What is the common presentation of mild COVID-19?
 
@@ -65,6 +66,7 @@ Many other viruses can also cause a cough, sore throat, and fever. These symptom
 ### 2-4 What is the management of people with mild COVID-19?
 
 Most people with mild COVID-19 can be managed at home. The important steps are:
+{:.tighten-10}
 
 - Isolate the person so they do not infect others. They must stay at home.
 - Give paracetamol (Panado) to bring down a fever (high temperature) and make the person feel a bit better. The adult dose of paracetamol is 2 tablets or capsules every 6 hours.
@@ -90,6 +92,7 @@ People admitted to hospital with COVID-19 will not be allowed visitors as this w
 ### 2-8 What is the management of the other people in the house?
 
 They must self-isolate in the house and self-monitor as they are at high risk of also developing coronavirus infection and COVID-19. They may not go to work or go to the shops. If they need to see a doctor, they need to phone the helpline first.
+{:.tighten-10}
 
 ### 2-9 Is it safe for children to live with someone who has COVID-19?
 
@@ -110,6 +113,7 @@ Because they need extra oxygen which can usually only be given in a hospital or 
 ### 2-13 Can COVID-19 pneumonia be treated with antibiotics?
 
 No, as antibiotics are not effective against a virus. However, doctors often add antibiotic treatment to patients with severe COVID-19 because the possibility of a bacterial infection cannot be ruled out.
+{:.tighten-10}
 
 ## Confirming the diagnosis of COVID-19
 
@@ -146,8 +150,10 @@ Community health workers play an especially important role in helping to find pe
 Screening, testing and tracing are discussed in [chapter 3](03-how-to-prevent-the-spread-of-covid-19.html).
 
 ## Case study 1
+{:.keep-with-next}
 
 Sidwell is feeling unwell with a dry cough and a sore throat. His wife takes his temperature, which is 39℃. A few days before, he arrived home from a business trip to Europe. Their family doctor takes a swab for testing and the result is positive, confirming the diagnosis of COVID-19.
+{:.keep-together}
 
 ### 1. Do his symptoms suggest COVID-19?
 
