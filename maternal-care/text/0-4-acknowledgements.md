@@ -15,6 +15,5 @@ Contributors to *Maternal Care*: Prof G Theron, Prof H van C de Groot, Dr D Gree
 
 Bettercare would like to acknowledge Dr Kenneth Beviss-Challinor for his contribution towards the proofreading of this book.
 
-Editor-in-Chief of the Perinatal Education Programme: Prof D Woods
-
-Editor of *Maternal Care*: Prof G Theron
+<br>*Editor-in-Chief of the Perinatal Education Programme: Prof D Woods*
+<br>*Editor of* Maternal Care*: Prof G Theron*
