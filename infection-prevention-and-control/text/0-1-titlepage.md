@@ -8,13 +8,13 @@ style: title-page page-1
 Infection Prevention and Control
 {:.titlepage-title}
 
-A guide for healthcare professionals in low-resource settings
+A guide for healthcare workers in low-resource settings
 {:.titlepage-subtitle}
 
-Written by Angela Dramowski
+Written by Prof Angela Dramowski
 {:.titlepage-author}
 
-Edited by David Woods and Shaheen Mehtar
+Edited by Prof David Woods and Prof Shaheen Mehtar
 {:.titlepage-author}
 
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}
