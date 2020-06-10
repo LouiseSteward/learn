@@ -42,6 +42,7 @@ exclude:
   # - childhood-hiv
   # - childhood-tb
   # - congenital-disorders
+  # - covid-19-guide-for-community-health-workers
   # - ebola-prevention-and-control
   # - facilitators-guide
   # - fetal-heart-rate-handbook
@@ -49,6 +50,7 @@ exclude:
   # - intrapartum-care
   # - maternal-care
   # - maternal-mental-health
+  # - mental-health-and-wellbeing-a-guide-for-community-health-workers
   # - mother-and-baby-care-for-community-health-workers
   # - mother-and-baby-friendly-care
   # - newborn-care
@@ -72,6 +74,7 @@ keep_files:
   # - childhood-hiv
   # - childhood-tb
   # - congenital-disorders
+  # - covid-19-guide-for-community-health-workers
   # - ebola-prevention-and-control
   # - facilitators-guide
   # - fetal-heart-rate-handbook
@@ -79,6 +82,7 @@ keep_files:
   # - intrapartum-care
   # - maternal-care
   # - maternal-mental-health
+  # - mental-health-and-wellbeing-a-guide-for-community-health-workers
   # - mother-and-baby-care-for-community-health-workers
   # - mother-and-baby-friendly-care
   # - newborn-care
