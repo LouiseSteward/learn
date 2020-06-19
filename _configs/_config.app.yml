@@ -11,7 +11,7 @@ collections:
 # Remove baseurl
 baseurl: ""
 exclude:
-# Build tools
+# Build tools to exclude ----------------
 - run-linux.sh
 - run-mac.command
 - run-windows.bat
@@ -26,13 +26,86 @@ exclude:
 - package.json
 - package-lock.json
 - CNAME
-# Things we don't need for an app
-- assets/profiles
+# Files for formats we're not building here
+- /assets/profiles
+- /*/package.opf
 - /*/images/print-pdf
 - /*/images/screen-pdf
-- /*/images/web
 - /*/images/epub
+- /*/images/web
 - /*/styles/print-pdf*
 - /*/styles/screen-pdf*
-- /*/styles/web*
 - /*/styles/epub*
+- /*/styles/web*
+# Files that are included elsewhere already
+- /assets/js/nav.js
+- /assets/js/get-query-variable.js
+- /assets/js/google-cse.js
+- /assets/js/mark.min.js
+- /assets/js/mark-search-terms.js
+- /assets/js/videos.js
+- /assets/js/show-hide.js
+# Books ---------------------------------
+# - adult-hiv
+# - breast-care
+# - catalogue
+# - child-healthcare
+# - childhood-critical-care
+# - childhood-hiv
+# - childhood-tb
+# - congenital-disorders
+# - covid-19-guide-for-community-health-workers
+# - ebola-prevention-and-control
+# - facilitators-guide
+# - fetal-heart-rate-handbook
+# - immunisations-a-guide-for-community-health-workers
+# - infection-prevention-and-control
+# - intrapartum-care
+# - maternal-care
+# - maternal-mental-health
+# - mental-health-and-wellbeing-a-guide-for-community-health-workers
+# - mother-and-baby-care-for-community-health-workers
+# - mother-and-baby-friendly-care
+# - newborn-care
+# - palliative-care-for-children
+# - perinatal-hiv
+# - primary-maternal-care
+# - primary-newborn-care
+# - public-health
+# - saving-mothers-and-babies
+# - womens-health-care
+
+# Can be useful to stop Jekyll overwriting files in _site.
+# E.g. generate CSS once, then exclude above but keep here
+# to make content regeneration faster.
+# The file path is relative to the site.output directory.
+keep_files:
+# - adult-hiv
+# - breast-care
+# - catalogue
+# - child-healthcare
+# - childhood-critical-care
+# - childhood-hiv
+# - childhood-tb
+# - congenital-disorders
+# - covid-19-guide-for-community-health-workers
+# - ebola-prevention-and-control
+# - facilitators-guide
+# - fetal-heart-rate-handbook
+# - immunisations-a-guide-for-community-health-workers
+# - infection-prevention-and-control
+# - intrapartum-care
+# - maternal-care
+# - maternal-mental-health
+# - mental-health-and-wellbeing-a-guide-for-community-health-workers
+# - mother-and-baby-care-for-community-health-workers
+# - mother-and-baby-friendly-care
+# - newborn-care
+# - palliative-care-for-children
+# - perinatal-hiv
+# - primary-maternal-care
+# - primary-newborn-care
+# - public-health
+# - samples
+# - saving-mothers-and-babies
+# - womens-health-care
