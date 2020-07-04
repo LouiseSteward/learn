@@ -13,9 +13,9 @@ project:
   # The name of the project of books in this folder.
   name: "Bettercare Learning Programmes"
   # A one-liner about this project. Useful for Open Graph metadata.
-  description: "Bettercare learning programmes make it easy to train healthcare staff or teach students."
+  description: "Bettercare learning programmes make it easy to train healthcare staff and teach students."
   # An image in /assets that stands for the project
-  image: "publisher-logo.jpg"
+  image: "bettercare-banner--1500x500.jpg"
   # For web navigation, the label for links to  the project homepage
   # For English sites, you can leave this as "Home".
   home-label: "See all programmes"
