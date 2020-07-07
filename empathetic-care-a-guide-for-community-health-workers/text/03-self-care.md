@@ -1,22 +1,36 @@
-# 3
+---
+title: Self-care
+quiz-id:
+---
 
-# Self-care
+{% include metadata %}
+
+# **3** Self-care
 
 Take the chapter quiz before and after you read this chapter.
+
+{% include quiz.html %}
+
+## Contents
+{:.non-printing}
+
+* [Objectives](#objectives)
+* [Self-care](#self-care)
+* [Setting boundaries](#setting-boundaries)
+* [Mindfulness](#mindfulness)
+* [Self-compassion](#self-compassion)
+* [Case studies](#case-study-1)
+{:.chapter-toc}
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-1\. Define self-care, self-compassion and mindfulness.
-
-2\. Explain why self-care and self-compassion are important.
-
-3\. Describe how we should take care of our physical and emotional needs.
-
-4\. Define personal, work and confidentiality boundaries.
-
-5\. Understand how to practice mindfulness.
+1. Define self-care, self-compassion and mindfulness.
+2. Explain why self-care and self-compassion are important.
+3. Describe how we should take care of our physical and emotional needs.
+4. Define personal, work and confidentiality boundaries.
+5. Understand how to practice mindfulness.
 
 ## Self-care
 
@@ -24,15 +38,13 @@ When you have completed this chapter you should be able to:
 
 Self-care means:
 
--   Giving yourself the same kindness and care you would give anyone else
-
--   Recognising that our health and well-being are important
-
--   Making sure we have what we need to stay physically and mentally healthy and well.
+- Giving yourself the same kindness and care you would give anyone else
+- Recognising that our health and well-being are important
+- Making sure we have what we need to stay physically and mentally healthy and well.
 
 Taking care of ourselves is called self-care, and being kind to ourselves is called self-compassion. Both self-care and self-compassion are very important parts of making sure we are strong enough to be kind and take care of others.
 
-\[Box\] Self-care is making sure we are physically and emotionally strong.
+> Self-care is making sure we are physically and emotionally strong.
 
 ### 3-2 Why are self-care and self-compassion important?
 
@@ -40,7 +52,7 @@ Care work can be very stressful because we hear about other people’s problems 
 
 When we spend our time helping others, we forget that we experience the same stress and worries as other people in the community. We may think we have to be strong for other people and should not waste time looking after ourselves. This is not true, because in order to help others, we have to make sure we take extra care of ourselves.
 
-\[Box\] We need to take care of ourselves so that we are able to take care of others.
+> We need to take care of ourselves so that we are able to take care of others.
 
 ### 3-3 Is it selfish to take care of ourselves?
 
@@ -50,17 +62,13 @@ No. It’s not selfish at all. It’s the best thing we can do to help others. W
 
 When we give care to others, we need to make sure we are strong and healthy. We do this by taking care of our own physical needs. When we take care of our body we make sure we:
 
--   Spend some time outside each day.
+- Spend some time outside each day.
+- Exercise and move in ways which help us relax and feel happy.
+- Make sure we get enough rest and sleep.
+- Eat regular, healthy meals.
+- Keep well hydrated.
 
--   Exercise and move in ways which help us relax and feel happy.
-
--   Make sure we get enough rest and sleep.
-
--   Eat regular, healthy meals.
-
--   Keep well hydrated.
-
-\[Box\] We need enough relaxation, exercise, healthy meals and sleep to remain physically strong.
+> We need enough relaxation, exercise, healthy meals and sleep to remain physically strong.
 
 ### 3-5 Why do we need to be mentally well when we care for others?
 
@@ -70,7 +78,7 @@ Mental health conditions affect our mood, thinking and behaviour. When we are me
 
 Care workers are no different from the people we help. Everyone needs to feel safe, seen and connected, and to know their basic needs will be met. Some of the ways we can take care of our mental health is to recognise that we are at risk of developing mental health problems and make sure we give ourselves the care and kindness we need to be able to help others. We also need to have clear boundaries and a good support system.
 
-\[Box\] Self-care and self-compassion are essential to remain emotionally strong.
+> Self-care and self-compassion are essential to remain emotionally strong.
 
 ## Setting boundaries
 
@@ -86,7 +94,7 @@ Personal boundaries are the rules or values we have about what is allowed and wh
 
 Work boundaries are clear guidelines about the work we can do (scope of practice) and when we need to refer to other people. We also have boundaries about work hours. Clear boundaries help us to feel safe at work. Everyone feels safer when boundaries are clear and when we work towards keeping these boundaries. Boundaries let us know what to expect. When we are clear about our boundaries, it is an act of self-care.
 
-\[Box\] Personal and work boundaries are needed to feel safe.
+> Personal and work boundaries are needed to feel safe.
 
 ### 3-10 What other boundaries are important at work?
 
@@ -96,17 +104,15 @@ There are many work boundaries. Two main boundaries are about maintaining confid
 
 Confidentiality tells people it is safe to talk to us because we will not tell others what they have told us. This is a very important part of making others feel safe. When we hear people talking about others and sharing stories that don’t belong to them, we stop trusting them, as it shows us that they don’t have clear boundaries. In the same way, we need to be able to share things which are troubling us, while also trusting that those we talk to will not gossip about what they hear.
 
-\[Box\] People will only trust us if they know we keep confidentiality boundaries.
+> People will only trust us if they know we keep confidentiality boundaries.
 
 ### 3-12 Why should we not accept gifts and favours?
 
 Children, adolescents and the people we take care of need to know they can get help even when they have nothing to give in return. It is important that we give care and kindness to everyone, not only to those we like or those who give us things. There is no need for people to buy our help. We must never accept gifts for giving care. When we take gifts or favours from people, it is similar to taking a bribe. This makes it more difficult to refuse to give them what they want. Even thank you gifts can be confused as a way of ensuring that we will provide care when it is needed again.
 
-\[Box\] Accepting gifts or favours is similar to accepting a bribe.
+> Accepting gifts or favours is similar to accepting a bribe.
 
 ## Mindfulness
-
-### 
 
 ### 3-13 Why is feeling connected important for care providers?
 
@@ -116,13 +122,13 @@ Humans need each other to survive. When we work in stressful areas, it is especi
 
 Self-compassion is about giving ourselves the same understanding and kindness we would give a close friend. If we spoke to our friends the way we speak to ourselves, we would have no friends left. We are worthy of our own kindness more than anyone else in the world. When we know how to be kind to ourselves, then we begin to understand how to be kind to others. Being mindful and self-aware is an important part of self-compassion.
 
-\[Box\] Self-compassion is applying kindness and understanding to yourself.
+> Self-compassion is applying kindness and understanding to yourself.
 
 ### 3-15 What is mindfulness?
 
 Mindfulness is the same as self-awareness. Mindfulness means we become fully aware of what is happening in our body in the present moment. Most of the time, we don’t really notice our body until something goes wrong. We may not notice our hands until we hurt a finger and then we notice just how much that finger does. When we train in mindfulness, we try to notice the feelings in our body. This is an important part of feeling empathy.
 
-\[Box\] Mindfulness is being fully aware of what we are experience at that moment.
+> Mindfulness is being fully aware of what we are experience at that moment.
 
 ### 3-16 Why are humans not more mindful and self-aware?
 
@@ -132,16 +138,17 @@ Humans get into the bad habit of thinking too much, and this distracts us from w
 
 It can take years of practice before we are able to be mindful all the time. We start by practicing for a few minutes a day and slowly make the practice time longer. Mindfulness is a habit we need to build. There are many ways of practicing mindfulness and we do not need any equipment to start. We just need to focus on our breath and try to notice when we get distracted, so we can bring our focus back. Mindfulness is about noticing when we get distracted and being able to bring our attention back. Slowly we will be able to become more and more aware of what is happening in our body. This will help us to be empathic and compassionate.
 
-\[Box\] Start by practicing mindfulness for a few minutes each day and slowly make the practice time longer to build a habit of mindfulness.
+> Start by practicing mindfulness for a few minutes each day and slowly make the practice time longer to build a habit of mindfulness.
 
 ### 3-18 What can we focus our attention on to learn mindfulness?
 
 There are many, many ways to practice mindfulness. We can try to focus on our breath, or any sensations and movement of our body, or we can focus on a sound such as the ticking of a clock. Mindfulness is noticing when we become distracted and then bringing our attention back with kindness.
 
-3-19 How can one focus on the breath?  
+### 3-19 How can one focus on the breath?  
+
 To do this practice, sit on a chair and make yourself comfortable. Keep your back straight and feet flat on the floor. Breathe out slowly and completely through your nose. Hold it for as long as is comfortable. Breathe in slowly and fully through your nose. Hold it. Keep going for a few more breaths. See if you can notice what parts of your chest move when you breathe. Does your tummy move? Can you feel the air moving in and out of your nostrils? If you get distracted, bring you attention back to your breath, with kindness.
 
-\[Box\] Focusing on the breath is a good way to start learning to be mindful.
+> Focusing on the breath is a good way to start learning to be mindful.
 
 ### 3-20 How can one focus on body sensations and movement?
 
@@ -161,7 +168,7 @@ The best way to take care of our emotional needs is to be kind to ourselves. As 
 
 No. It is not correct to think that judging, blaming and punishing ourselves makes us work harder, or that being kind will make us lazy. Questioning ourselves all the time makes us anxious, depressed and less able to work properly. Many studies show that when people are kind to themselves, they are more willing to try new things, have better mental health and can be more empathic.
 
-\[Box\] Self-compassion makes us more empathic and effective in our work.
+> Self-compassion makes us more empathic and effective in our work.
 
 ### 3-24 Is self-compassion the same as self-pity?
 
@@ -179,7 +186,7 @@ We live in a very competitive world. Many people think they must be better than 
 
 All the time. We must make it a priority and get into the habit of taking care of ourselves. We need to look after our physical needs and attend to our emotional needs, especially when we feel stressed.
 
-\[Box\] We need to practise self-care and self-compassion all the time.
+> We need to practise self-care and self-compassion all the time.
 
 ### 3-28 How can peer support groups help?
 

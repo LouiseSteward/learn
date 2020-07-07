@@ -1,26 +1,39 @@
-# 4
+---
+title: Using empathy and kindness to help others
+quiz-id:
+---
 
-# Using empathy and kindness to help others
+{% include metadata %}
+
+# **4** Using empathy and kindness to help others
 
 Take the chapter quiz before and after you read this chapter.
+
+{% include quiz.html %}
+
+## Contents
+{:.non-printing}
+
+* [Objectives](#objectives)
+* [The importance of keeping calm](#the-importance-of-keeping-calm)
+* [Keeping ourselves calm](#keeping-ourselves-calm)
+* [Helping others to keep calm](#helping-others-to-keep-calm)
+* [Helping others to feel connected](#helping-others-to-feel-connected)
+* [Managing peer group meetings](#managing-peer-group-meetings)
+* [Case studies](#case-study-1)
+{:.chapter-toc}
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-1\. Explain why keeping calm is important when helping others.
-
-2\. Use S.T.O.P to calm ourselves.
-
-3\. Help others to keep calm and feel safe.
-
-4\. Use grounding to help people move away from a very emotional state.
-
-5\. Use practical ways to help isolated people to feel connected.
-
-6\. Explain why peer group meetings are helpful in supporting colleagues.
-
-7\. Manage a peer group meeting.
+1. Explain why keeping calm is important when helping others.
+2. Use S.T.O.P to calm ourselves.
+3. Help others to keep calm and feel safe.
+4. Use grounding to help people move away from a very emotional state.
+5. Use practical ways to help isolated people to feel connected.
+6. Explain why peer group meetings are helpful in supporting colleagues.
+7. Manage a peer group meeting.
 
 ## The importance of keeping calm
 
@@ -28,7 +41,7 @@ When you have completed this chapter you should be able to:
 
 Care workers, parents, teachers and mentors. Those who work with children, adolescents and vulnerable people, need to be calm and kind so they can help others to also feel calm and safe. This can be difficult, but is a big part of providing empathetic care and helping others.
 
-\[Box\] Being calm and kind is an important part of empathetic care.
+> Being calm and kind is an important part of empathetic care.
 
 ### 4-2 What is the right motivation to help others?
 
@@ -38,7 +51,7 @@ We must want to help others, or it will not be possible to be kind or empathic. 
 
 Care workers spend a lot of time with people who need help, as well as with those who feel weak, uncertain or afraid. When we show respect and we are calm, we help others to feel safe and relaxed. This helps the person and also makes our work much easier. When we are not calm and aware, we more easily “catch” feelings from those who are behaving badly or who are angry or anxious. Vulnerable people “catch” the emotions of others quickly (feeling empathy). If we are rude or unkind, we make things worse. If we are calm, we will calm them, and we will all be able to think more clearly.
 
-\[Box\] Being calm when others are frightened or restless is the best way to help them.
+> Being calm when others are frightened or restless is the best way to help them.
 
 ### 4-4 How does being calm help with thinking?
 
@@ -54,15 +67,12 @@ Care workers need to be more calm than other people. This can be difficult becau
 
 S.T.O.P. is a reminder to calm down and a way to practice mindfulness at work:
 
--   S = Stop what you are doing and pause for a minute.
+- S = Stop what you are doing and pause for a minute.
+- T = Take three slow deep breathes.
+- O = Observe or notice what is happening in your body.
+- P = Proceed and go ahead with what you need to do. You will find you are much calmer and able to work better.
 
--   T = Take three slow deep breathes.
-
--   0 = Observe or notice what is happening in your body.
-
--   P = Proceed and go ahead with what you need to do. You will find you are much calmer and able to work better.
-
-\[Box\] We should practise the four steps of S.T.O.P. to become calm and mindful.
+> We should practise the four steps of S.T.O.P. to become calm and mindful.
 
 ## Helping others to keep calm
 
@@ -74,7 +84,7 @@ When people feel welcome and respected, we start to feel safer and more at ease.
 
 Babies and young children should not feel frightened for long as this is harmful for their growing brains. Young children can’t be naughty and when babies and young children are crying and frightened, they must be comforted with kindness. Check for physical causes first. Speak in a slow, gentle and calm voice. Gentle sounds and singing helps, especially if the mother sang the same tunes during pregnancy. Use slow, rhythmic movement like rocking or patting. Older children start to feel calmer if they are encouraged to clap, hum, laugh or stamp their feet in a slow rhythm until the strong emotion has passed.
 
-\[Box\] A slow, gentle voice and rhythmic movements can be used to calm a baby or young child.
+> A slow, gentle voice and rhythmic movements can be used to calm a baby or young child.
 
 ### 4-9 How does this help?
 
@@ -94,10 +104,11 @@ Adolescents can try to manage stress by dancing to loud music, going for a run, 
 
 Yes. We can try grounding. Grounding means we help people move out of the emotion and back to their body, using the senses. We must be calm and stay close. Tell the adolescent to look around and name five things they can see. When they have done this, ask them to name four things they can hear, three things they can smell, two things they can feel and one thing they can taste. We can use this same exercise to calm ourselves and others who are very anxious.
 
-\[Box\] Grounding is a useful method to help people move away from a very emotional state.
+> Grounding is a useful method to help people move away from a very emotional state.
 
-4-13 How does grounding work?*  
-*When people are feeling very anxious, or when they are thinking about a frightening experience, they may get stuck into a pattern of thinking. This pattern of thinking is usually remembering the past, or worrying about the future. Grounding helps distract us from these thoughts and brings our thinking back to where we are now. Being able to come back to the present helps us to calm down, as our senses show we are in a safe space.
+### 4-13 How does grounding work?
+
+When people are feeling very anxious, or when they are thinking about a frightening experience, they may get stuck into a pattern of thinking. This pattern of thinking is usually remembering the past, or worrying about the future. Grounding helps distract us from these thoughts and brings our thinking back to where we are now. Being able to come back to the present helps us to calm down, as our senses show we are in a safe space.
 
 ## Helping others to feel connected
 
@@ -105,7 +116,7 @@ Yes. We can try grounding. Grounding means we help people move out of the emotio
 
 It is stressful for everyone, but especially young and old people, to be separated from those they care about. This can cause emotional problems during times of separation, being in hospital, or during COVID-19 lockdown. When we cannot be physically close, hearing kind voices and seeing friendly faces are very important to people who feel alone and frightened. We can try our best to help isolated people by showing them we care and have not forgotten about them. Encourage the person to laugh when you talk, or take some long, slow in and out breaths together so that the body knows it is time to relax. We can show we remember them in small meaningful ways, for example, by sending them a treat or making and delivering their favourite food.
 
-\[Box\] A kind voice and friendly face help people who are isolated from their loved ones.
+> A kind voice and friendly face help people who are isolated from their loved ones.
 
 ### 4-15 What practical ideas can help people feel connected? 
 
@@ -117,7 +128,7 @@ Photographs and special things which remind isolated people they are not alone a
 
 Connecting with other people who experience the same stress as they do gives an important sense of belonging. Peers are people who share a common interest or face the same challenges. Peer support groups are safe spaces where peers meet to support each other. They are a very effective way to help manage stress. It doesn’t change the stress, but it helps people to experience it differently, and to realise that they are not alone. Feeling that we belong quickly makes us feel safe and able to relax. This is one reason why family is important. New mothers, teenage mothers, children, adolescents and care provider peer groups all help in the same way. When we are relaxed and feel safe. We need to feel calm and relaxed before we are able to learn from each other. When we hear people talking about fears and struggles that are similar to our own, we also start to feel more confident and positive about work and our own lives.
 
-\[Box\] Peer groups create a safe space where people can share common experiences and learn from each other.
+> Peer groups create a safe space where people can share common experiences and learn from each other.
 
 ### 4-17 Why do peer groups need empathic communication skills?
 
@@ -131,7 +142,7 @@ A peer group leader is not a teacher. The group leader is someone who facilitate
 
 The peer group leader does not have to be a supervisor or manager, but rather someone who is trusted by the members of the group, and who is able to organise and remind members about meetings. The group leader must be calm, respectful, and able to listen empathically.
 
-\[Box\] A good peer group leader stays calm and respectful and able to listen to others.
+> A good peer group leader stays calm and respectful and able to listen to others.
 
 ### 4-20 What makes it easier for the group leader to stay calm?
 
@@ -141,7 +152,7 @@ It can be difficult for the group leader to stay calm, but this is needed so the
 
 Meetings should be regular and take place in the same venue. The group leader needs to make sure this happens. We all feel safer when we know what to expect. Try not to have surprises, and try to make sure meetings start and end on time.
 
-\[Box\] A group leader should arrange a suitable time and venue for meetings.
+> A group leader should arrange a suitable time and venue for meetings.
 
 ### 4-22 Why is the first group meeting important even if not much is done?
 
@@ -155,13 +166,13 @@ Always start on time. It can be useful to start the group with a relaxation acti
 
 Small groups of between three and six people give everyone a chance to talk and listen to each other. Once everyone has had a turn in the small group, get a few people from each small group to give feedback to the whole group. Doing this will keep the large group connected. Feedback to the whole group gives the small groups time to reflect on what was said, and allows everyone get a sense of what was discussed in the smaller groups. It’s not important to share all the stories or break confidence as only the important messages need to be shared. Reflection also us time to think and gives a deeper understanding of our shared struggles.
 
-\[Box\] Small groups work better than large groups as they allow everyone to participate.
+> Small groups work better than large groups as they allow everyone to participate.
 
 ### 4-25 What is the best way to end a meeting?
 
 Human minds have a negative bias. This means we remember bad things more often than we remember good things. Someone can tell us about nine things they really like about us, and one thing they don’t like. We will remember the one negative thing and quickly forget all the good things. We can change this by getting into a habit of thinking about the positive things in our lives. People will leave the group feeling keen to return if we end the meeting by asking some people to share something they are grateful for. It is also helpful to make as many plans as possible for the next meeting.
 
-\[Box\] It is very helpful to end a meeting with gratitude.
+> It is very helpful to end a meeting with gratitude.
 
 ### 4-26 What does it mean to share gratitude?
 

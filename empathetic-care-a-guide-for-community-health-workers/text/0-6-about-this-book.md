@@ -6,10 +6,10 @@ title: About this book
 
 *Empathetic Care: A guide for community health workers* includes these chapters:
 
-1.  Introduction to empathy
-2.  Thinking empathy
+1.  Introduction to kindness, empathy and compassion
+2.  Thinking empathy and empathic communication
 3.  Self-care
-4.  Using empathetic care
+4.  Using empathy and kindness to help others
 
 These chapters have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape, funded by the Small Projects Foundation.
 
