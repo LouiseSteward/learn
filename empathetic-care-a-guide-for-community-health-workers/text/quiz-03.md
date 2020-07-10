@@ -43,7 +43,7 @@ Please choose the *one*, most correct answer to each question or statement.
     + Knowing what we are thinking and doing at every moment.
 9.  Will self-compassion make us weak?
     - Yes, as you should rather be thinking about others.
-    - Only if you practice too often.
+    - Only if you practise too often.
     + It will not make you weak but it will help you develop resilience.
 10. When should we practise self-care?
     + All the time.

@@ -38,7 +38,7 @@ Please choose the *one*, most correct answer to each question or statement.
     + Make notes later as you will remember the important facts.
     - It is best to ask someone else to take notes while you are listening to the story.
 8.  When should we use a closed question?
-    + When we want a “yes” or “no” answer.
+    + When we want a 'yes' or 'no' answer.
     - When we do not think they will be able to give an answer.
     - When the person is forced to answer our question.
 9.  Why are open questions important?
