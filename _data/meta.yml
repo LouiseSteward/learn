@@ -9015,9 +9015,6 @@ works:
             label: "**1.** Introduction to kindness, empathy and compassion"
             children:
               - file: "01-introduction-to-kindness-empathy-compassion"
-                id: "contents"
-                label: "Contents"
-              - file: "01-introduction-to-kindness-empathy-compassion"
                 id: "objectives"
                 label: "Objectives"
               - file: "01-introduction-to-kindness-empathy-compassion"
@@ -9038,9 +9035,6 @@ works:
           - file: "02-thinking-empathy-and-empathic-communication"
             label: "**2.** Thinking empathy and empathic communication"
             children:
-              - file: "02-thinking-empathy-and-empathic-communication"
-                id: "contents"
-                label: "Contents"
               - file: "02-thinking-empathy-and-empathic-communication"
                 id: "objectives"
                 label: "Objectives"
@@ -9063,9 +9057,6 @@ works:
             label: "**3.** Self-care"
             children:
               - file: "03-self-care"
-                id: "contents"
-                label: "Contents"
-              - file: "03-self-care"
                 id: "objectives"
                 label: "Objectives"
               - file: "03-self-care"
@@ -9086,9 +9077,6 @@ works:
           - file: "04-using-empathy-and-kindness"
             label: "**4.** Using empathy and kindness to help others"
             children:
-              - file: "04-using-empathy-and-kindness"
-                id: "contents"
-                label: "Contents"
               - file: "04-using-empathy-and-kindness"
                 id: "objectives"
                 label: "Objectives"
