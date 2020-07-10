@@ -9033,8 +9033,8 @@ works:
                 id: "responding-to-the-suffering-of-others"
                 label: "Responding to the suffering of others"
               - file: "01-introduction-to-kindness-empathy-compassion"
-                id: "case-study-1"
-                label: "Case study 1"
+                id: "case-study"
+                label: "Case study"
           - file: "02-thinking-empathy-and-empathic-communication"
             label: "**2.** Thinking empathy and empathic communication"
             children:
@@ -9057,8 +9057,8 @@ works:
                 id: "asking-questions"
                 label: "Asking questions"
               - file: "02-thinking-empathy-and-empathic-communication"
-                id: "case-study-1"
-                label: "Case study 1"
+                id: "case-study"
+                label: "Case study"
           - file: "03-self-care"
             label: "**3.** Self-care"
             children:
@@ -9081,8 +9081,8 @@ works:
                 id: "self-compassion"
                 label: "Self-compassion"
               - file: "03-self-care"
-                id: "case-study-1"
-                label: "Case study 1"
+                id: "case-study"
+                label: "Case study"
           - file: "04-using-empathy-and-kindness"
             label: "**4.** Using empathy and kindness to help others"
             children:
@@ -9108,8 +9108,8 @@ works:
                 id: "managing-peer-group-meetings"
                 label: "Managing peer group meetings"
               - file: "04-using-empathy-and-kindness"
-                id: "case-study-1"
-                label: "Case study 1"
+                id: "case-study"
+                label: "Case study"
           - label: "Quizzes"
             children:
               - label: "Quiz 1: Introduction to kindness, empathy and compassion"
@@ -9208,8 +9208,8 @@ works:
                 id: "responding-to-the-suffering-of-others"
                 label: "Responding to the suffering of others"
               - file: "01-introduction-to-kindness-empathy-compassion"
-                id: "case-study-1"
-                label: "Case study 1"
+                id: "case-study"
+                label: "Case study"
           - file: "02-thinking-empathy-and-empathic-communication"
             label: "**2.** Thinking empathy and empathic communication"
             children:
@@ -9232,8 +9232,8 @@ works:
                 id: "asking-questions"
                 label: "Asking questions"
               - file: "02-thinking-empathy-and-empathic-communication"
-                id: "case-study-1"
-                label: "Case study 1"
+                id: "case-study"
+                label: "Case study"
           - file: "03-self-care"
             label: "**3.** Self-care"
             children:
@@ -9256,8 +9256,8 @@ works:
                 id: "self-compassion"
                 label: "Self-compassion"
               - file: "03-self-care"
-                id: "case-study-1"
-                label: "Case study 1"
+                id: "case-study"
+                label: "Case study"
           - file: "04-using-empathy-and-kindness"
             label: "**4.** Using empathy and kindness to help others"
             children:
@@ -9283,8 +9283,8 @@ works:
                 id: "managing-peer-group-meetings"
                 label: "Managing peer group meetings"
               - file: "04-using-empathy-and-kindness"
-                id: "case-study-1"
-                label: "Case study 1"
+                id: "case-study"
+                label: "Case study"
         start-page: "0-3-contents" # At which file should users start reading?
         contents-page: "0-3-contents" # Your contents-page file, if you have one.
         footer: "" # Text that appears in the footer of this book's pages on the website.

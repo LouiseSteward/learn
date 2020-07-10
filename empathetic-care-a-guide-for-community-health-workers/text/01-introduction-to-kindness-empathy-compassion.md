@@ -166,7 +166,7 @@ It can take years of practice and self-awareness to develop compassion. When we 
 
 > It takes a long time and much practice to develop compassion.
 
-## Case study 1
+## Case study
 
 Bathandwa is a community health worker who works in her village on the mentor mother programme. Part of Bathandwa’s work is to help new mothers understand and manage exclusive breastfeeding. Bathandwa loves her work. The money she earns helps her pay her teenage daughter’s school fees. One Friday morning, a young mother comes and tells Bathandwa that she doesn’t want to breastfeed anymore.
 

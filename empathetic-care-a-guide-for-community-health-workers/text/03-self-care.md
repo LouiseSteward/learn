@@ -192,7 +192,7 @@ All the time. We must make it a priority and get into the habit of taking care o
 
 Peer support groups are not places where we moan and complain, but rather places where we can give support to each other. To be useful, peer groups need to have clear boundaries so that people feel safe to share and access support.
 
-## Case study 1
+## Case study
 
 Mavis is a 39-year-old community health worker. Mavis is a kind and eager care provider who works hard. She often takes on extra work and seems to have the perfect life with two children and a kind husband. Recently, Mavis has been struggling to sleep properly at night, she feels tired all the time and has been shouting at her children. Her husband has lost his job. Mavis is always very hard on herself and doesn’t think she works hard enough. She is frightened that others will think she is lazy if she doesn’t take on more work. The more exhausted she feels, the more she judges herself.
 

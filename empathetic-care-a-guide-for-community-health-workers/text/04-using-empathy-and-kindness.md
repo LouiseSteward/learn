@@ -178,7 +178,7 @@ Human minds have a negative bias. This means we remember bad things more often t
 
 We share gratitude when we give thanks for the good things. We can do this as individuals using a journal, or we can share gratitude with our family at the end of each day. We can also do it at the end of peer meetings. Try to think of three things to be grateful for. They don’t have to be something big. For example, we may mention being grateful for being able to share our stories, being grateful to have meaningful work, and being grateful to have kind and supportive peers.
 
-## Case study 1
+## Case study
 
 Thembakazi works as a mentor mother. Her job is to encourage new mothers to breastfeed. Thembakazi’s work performance is judged on how many mothers breastfeed. Nosipho is a young mother with depression, she does not want to breastfeed because she says her milk is bad.
 

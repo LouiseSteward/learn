@@ -177,7 +177,7 @@ When we are curious and ask questions, instead of assuming we understand, we mak
 
 > It is important to make sure you fully understand what someone has said.
 
-## Case study 1
+## Case study
 
 Ntombi is 16 years old and 6 months pregnant. She ran away from her mother’s house when she found out she was pregnant. She has not been eating properly, can’t sleep, and cries when she thinks about her mother. She tells you she feels useless and wants to end her life.
 
