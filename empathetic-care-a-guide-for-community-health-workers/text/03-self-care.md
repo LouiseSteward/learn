@@ -19,7 +19,7 @@ Take the chapter quiz before and after you read this chapter.
 * [Setting boundaries](#setting-boundaries)
 * [Mindfulness](#mindfulness)
 * [Self-compassion](#self-compassion)
-* [Case studies](#case-study-1)
+* [Case studies](#case-study)
 {:.chapter-toc}
 
 ## Objectives

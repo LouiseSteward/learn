@@ -19,7 +19,7 @@ Take the chapter quiz before and after you read this chapter.
 * [Working with kindness](#working-with-kindness)
 * [Working with empathy](#working-with-empathy)
 * [Responding to the suffering of others](#responding-to-the-suffering-of-others)
-* [Case studies](#case-study-1)
+* [Case studies](#case-study)
 {:.chapter-toc}
 
 ## Objectives

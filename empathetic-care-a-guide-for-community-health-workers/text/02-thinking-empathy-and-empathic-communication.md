@@ -19,7 +19,7 @@ Take the chapter quiz before and after you read this chapter.
 * [The importance of listening](#the-importance-of-listening)
 * [Communicating with body language](#communicating-with-body-language)
 * [Asking questions](#asking-questions)
-* [Case studies](#case-study-1)
+* [Case studies](#case-study)
 {:.chapter-toc}
 
 ## Objectives

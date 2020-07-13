@@ -20,7 +20,7 @@ Take the chapter quiz before and after you read this chapter.
 * [Helping others to keep calm](#helping-others-to-keep-calm)
 * [Helping others to feel connected](#helping-others-to-feel-connected)
 * [Managing peer group meetings](#managing-peer-group-meetings)
-* [Case studies](#case-study-1)
+* [Case studies](#case-study)
 {:.chapter-toc}
 
 ## Objectives
