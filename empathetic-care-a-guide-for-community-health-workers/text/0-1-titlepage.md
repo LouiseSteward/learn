@@ -11,7 +11,7 @@ Empathetic Care
 A guide for community health workers
 {:.titlepage-subtitle}
 
-Written by Roseanne Turner and Prof David Woods
+Written by Roseanne Turner
 {:.titlepage-author}
 
 ![Bettercare logo]({{ images }}/bettercare-logo.svg){:.titlepage-logo}

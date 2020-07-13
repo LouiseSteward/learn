@@ -19,4 +19,5 @@ SPF is a conscientious non-governmental organisation that has contributed to com
 
 May this book provide greater understanding and bring benefit to community health workers and the communities they serve.
 
-<br>*Authors: Roseanne Turner and Prof David Woods*
+<br>*Author: Roseanne Turner*
+<br>*Editor: Prof David Woods*

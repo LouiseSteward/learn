@@ -9,7 +9,7 @@ style: copyright-page
 
 First published in 2020 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Text © Roseanne Turner and Prof David Woods 2020
+Text © Roseanne Turner 2020
 
 ISBN (paperback): 978-1-928313-20-5  
 
