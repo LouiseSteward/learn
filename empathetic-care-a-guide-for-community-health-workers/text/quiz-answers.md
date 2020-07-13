@@ -7,7 +7,7 @@ style: chapter answers
 
 # Answers
 
-The sections indicate from which part of the unit the questions were taken. For each question that was answered incorrectly, please re-learn the corresponding section.
+The sections indicate from which part of the unit the questions were taken. For each question that was answered incorrectly, please relearn the corresponding section.
 
 ### Quiz 1: Introduction to kindness, empathy and compassion
 

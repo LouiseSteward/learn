@@ -19,7 +19,7 @@ Take the chapter quiz before and after you read this chapter.
 * [Setting boundaries](#setting-boundaries)
 * [Mindfulness](#mindfulness)
 * [Self-compassion](#self-compassion)
-* [Case studies](#case-study-1)
+* [Case study](#case-study)
 {:.chapter-toc}
 
 ## Objectives
@@ -39,7 +39,7 @@ When you have completed this chapter you should be able to:
 Self-care means:
 
 - Giving yourself the same kindness and care you would give anyone else
-- Recognising that our health and well-being are important
+- Recognising that our health and wellbeing are important
 - Making sure we have what we need to stay physically and mentally healthy and well.
 
 Taking care of ourselves is called self-care, and being kind to ourselves is called self-compassion. Both self-care and self-compassion are very important parts of making sure we are strong enough to be kind and take care of others.
@@ -72,7 +72,7 @@ When we give care to others, we need to make sure we are strong and healthy. We 
 
 ### 3-5 Why do we need to be mentally well when we care for others?
 
-Mental health conditions affect our mood, thinking and behaviour. When we are mentally healthy, we can be patient, calm, kind and empathic to those who need our kindness and care. This can be difficult if we are feeling tired, depressed, sad, anxious, or are struggling to think clearly. Poor mental health makes it difficult to connect with other people. Care workers are at risk of mental health problems.
+Mental health conditions affect our mood, thinking and behaviour. When we are mentally healthy, we can be patient, calm, kind and empathic to those who need our kindness and care. This can be difficult if we are feeling tired, depressed, sad, anxious or are struggling to think clearly. Poor mental health makes it difficult to connect with other people. Care workers are at risk of mental health problems.
 
 ### 3-6 How do we take care of our mental health needs?
 
@@ -98,7 +98,7 @@ Work boundaries are clear guidelines about the work we can do (scope of practice
 
 ### 3-10 What other boundaries are important at work?
 
-There are many work boundaries. Two main boundaries are about maintaining confidentiality and not accepting gifts and favours. When we work in positions of power, like giving care to those who feel weak and vulnerable, it is especially important that people can trust us to not to share their secrets and not use their vulnerability against them.
+There are many work boundaries. Two main boundaries are about maintaining confidentiality and not accepting gifts and favours. When we work in positions of power, like giving care to those who feel weak and vulnerable, it is especially important that people can trust us to not share their secrets and not use their vulnerability against them.
 
 ### 3-11 What is the confidentiality boundary in care work?
 
@@ -132,27 +132,27 @@ Mindfulness is the same as self-awareness. Mindfulness means we become fully awa
 
 ### 3-16 Why are humans not more mindful and self-aware?
 
-Humans get into the bad habit of thinking too much, and this distracts us from what is happening in our body. Modern technology like cell phones and computers distracts us even more. It is good to be able to think, but this can be very tiring if we always think about things which have already happened, or worry about things which may never happen in the future.
+Humans get into the bad habit of thinking too much, and this distracts us from what is happening in our body. Modern technology like cellphones and computers distracts us even more. It is good to be able to think, but this can be very tiring if we always think about things which have already happened, or worry about things which may never happen in the future.
 
 ### 3-17 How can we become more mindful?
 
-It can take years of practice before we are able to be mindful all the time. We start by practicing for a few minutes a day and slowly make the practice time longer. Mindfulness is a habit we need to build. There are many ways of practicing mindfulness and we do not need any equipment to start. We just need to focus on our breath and try to notice when we get distracted, so we can bring our focus back. Mindfulness is about noticing when we get distracted and being able to bring our attention back. Slowly we will be able to become more and more aware of what is happening in our body. This will help us to be empathic and compassionate.
+It can take years of practice before we are able to be mindful all the time. We start by practising for a few minutes a day and slowly make the practice time longer. Mindfulness is a habit we need to build. There are many ways of practising mindfulness and we do not need any equipment to start. We just need to focus on our breath and try to notice when we get distracted, so we can bring our focus back. Mindfulness is about noticing when we get distracted and being able to bring our attention back. Slowly we will be able to become more and more aware of what is happening in our body. This will help us to be empathic and compassionate.
 
-> Start by practicing mindfulness for a few minutes each day and slowly make the practice time longer to build a habit of mindfulness.
+> Start by practising mindfulness for a few minutes each day and slowly make the practice time longer to build a habit of mindfulness.
 
 ### 3-18 What can we focus our attention on to learn mindfulness?
 
-There are many, many ways to practice mindfulness. We can try to focus on our breath, or any sensations and movement of our body, or we can focus on a sound such as the ticking of a clock. Mindfulness is noticing when we become distracted and then bringing our attention back with kindness.
+There are many, many ways to practise mindfulness. We can try to focus on our breath, or any sensations and movement of our body, or we can focus on a sound such as the ticking of a clock. Mindfulness is noticing when we become distracted and then bringing our attention back with kindness.
 
 ### 3-19 How can one focus on the breath?  
 
-To do this practice, sit on a chair and make yourself comfortable. Keep your back straight and feet flat on the floor. Breathe out slowly and completely through your nose. Hold it for as long as is comfortable. Breathe in slowly and fully through your nose. Hold it. Keep going for a few more breaths. See if you can notice what parts of your chest move when you breathe. Does your tummy move? Can you feel the air moving in and out of your nostrils? If you get distracted, bring you attention back to your breath, with kindness.
+To do this practice, sit on a chair and make yourself comfortable. Keep your back straight and feet flat on the floor. Breathe out slowly and completely through your nose. Hold it for as long as is comfortable. Breathe in slowly and fully through your nose. Hold it. Keep going for a few more breaths. See if you can notice what parts of your chest move when you breathe. Does your tummy move? Can you feel the air moving in and out of your nostrils? If you get distracted, bring your attention back to your breath, with kindness.
 
 > Focusing on the breath is a good way to start learning to be mindful.
 
 ### 3-20 How can one focus on body sensations and movement?
 
-Decide to be more mindful during something like hand washing or hand sanitising. Then every time we wash our hands, we try to remember to practice mindfulness. If we forget, we are kind to ourselves and try to remember the next time. When we remember, we focus all our attention on our hands. What do our hands look like? What do we feel when we wet them and rub them on the soap? Do water and soap feel different? Can we smell the soap? Do both hands feel the same? Are there any rough areas? Are the fingers stiff? Does washing make our hands feel different to how they felt before washing? We focus our mind on our hands and the sensations in our hands. If we notice we are distracted and have forgotten about our hands, we bring our attention back with kindness.
+Decide to be more mindful during something like hand washing or hand sanitising. Then every time we wash our hands, we try to remember to practise mindfulness. If we forget, we are kind to ourselves and try to remember the next time. When we remember, we focus all our attention on our hands. What do our hands look like? What do we feel when we wet them and rub them on the soap? Do water and soap feel different? Can we smell the soap? Do both hands feel the same? Are there any rough areas? Are the fingers stiff? Does washing make our hands feel different to how they felt before washing? We focus our mind on our hands and the sensations in our hands. If we notice we are distracted and have forgotten about our hands, we bring our attention back with kindness.
 
 ### 3-21 Are there any problems with becoming more mindful?
 
@@ -192,7 +192,7 @@ All the time. We must make it a priority and get into the habit of taking care o
 
 Peer support groups are not places where we moan and complain, but rather places where we can give support to each other. To be useful, peer groups need to have clear boundaries so that people feel safe to share and access support.
 
-## Case study 1
+## Case study
 
 Mavis is a 39-year-old community health worker. Mavis is a kind and eager care provider who works hard. She often takes on extra work and seems to have the perfect life with two children and a kind husband. Recently, Mavis has been struggling to sleep properly at night, she feels tired all the time and has been shouting at her children. Her husband has lost his job. Mavis is always very hard on herself and doesn’t think she works hard enough. She is frightened that others will think she is lazy if she doesn’t take on more work. The more exhausted she feels, the more she judges herself.
 

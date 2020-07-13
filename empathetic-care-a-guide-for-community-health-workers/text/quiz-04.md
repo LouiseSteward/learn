@@ -20,7 +20,7 @@ Please choose the *one*, most correct answer to each question or statement.
 3.  What does S.T.O.P. stand for?
     - Think carefully before we make any important decision.
     - Do not leave the hospital grounds while we are still on duty.
-    + It is a reminder to calm down and a way to practice mindfulness at work.
+    + It is a reminder to calm down and a way to practise mindfulness at work.
 4.  What is a way to make people feel safe?
     - Tell them to relax as you are in charge.
     + Make them feel welcome and respected.
@@ -35,7 +35,7 @@ Please choose the *one*, most correct answer to each question or statement.
     - Ignore the bad behaviour as it is normal.
 7.  What does grounding mean?
     + Helping people move out of their emotions and back to the present.
-    - Not allowing visitors to adolescents if the misbehave.
+    - Not allowing visitors to adolescents if they misbehave.
     - Making sure that patients do not leave the hospital grounds.
 8.  How can we help people who are isolated from their loved ones?
     - Tell them to be strong and remember the good times.
