@@ -37,7 +37,7 @@ When you have completed this chapter you should be able to:
 
 Self-care means:
 
-- Giving ourself the same kindness and care you would give anyone else
+- Giving ourselves the same kindness and care we would give anyone else
 - Recognising that our health and wellbeing are important
 - Making sure we have what we need to stay physically and mentally healthy and well.
 
