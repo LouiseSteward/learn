@@ -17,7 +17,6 @@ Take the chapter quiz before and after you read this chapter.
 * [Objectives](#objectives)
 * [Self-care](#self-care)
 * [Setting boundaries](#setting-boundaries)
-* [Mindfulness](#mindfulness)
 * [Self-compassion](#self-compassion)
 * [Case study](#case-study)
 {:.chapter-toc}
@@ -38,7 +37,7 @@ When you have completed this chapter you should be able to:
 
 Self-care means:
 
-- Giving yourself the same kindness and care you would give anyone else
+- Giving ourself the same kindness and care you would give anyone else
 - Recognising that our health and wellbeing are important
 - Making sure we have what we need to stay physically and mentally healthy and well.
 
@@ -56,7 +55,7 @@ When we spend our time helping others, we forget that we experience the same str
 
 ### 3-3 Is it selfish to take care of ourselves?
 
-No. It’s not selfish at all. It’s the best thing we can do to help others. When we feel physically and mentally strong, we think clearly and have more energy. This allows us to do more at work and also to have better relationships with our friends and family. It is not possible to help lift others up when we are down on the floor.
+No. It’s not selfish at all. It’s the best thing we can do to help others. When we feel physically and mentally strong, we think clearly and have more energy. This allows us to do more at work and also to have better relationships with our friends and family. It is not possible to help lift others up when we are down on the ground.
 
 ### 3-4 How do we take care of our physical needs?
 
@@ -112,83 +111,85 @@ Children, adolescents and the people we take care of need to know they can get h
 
 > Accepting gifts or favours is similar to accepting a bribe.
 
-## Mindfulness
+## Self-compassion
 
-### 3-13 Why is feeling connected important for care providers?
+### 3-13 What is self-compassion?
+
+Scientists have found there are three very important parts to self-compassion. The first part is feeling connected to others and realising we are not alone in our struggles. Secondly, we need to learn to give ourselves the same kindness we would give to a close friend. Lastly, we need to become more mindful about what we are experiencing. 
+
+### 3-14 Why is feeling connected important for care providers?
 
 Humans need each other to survive. When we work in stressful areas, it is especially important to feel that we belong and can connect safely with other people. Peer support groups are an important way in which we support each other. When we share stories with peers who experience the same struggles as we do, we are better able to see we are not alone. We can see everyone has their areas of strength and we all struggle with different problems. This is a very important part of self-compassion.
 
-### 3-14 What is self-compassion?
+### 3-15 What is self-kindness?
 
-Self-compassion is about giving ourselves the same understanding and kindness we would give a close friend. If we spoke to our friends the way we speak to ourselves, we would have no friends left. We are worthy of our own kindness more than anyone else in the world. When we know how to be kind to ourselves, then we begin to understand how to be kind to others. Being mindful and self-aware is an important part of self-compassion.
+Self-kindness means giving ourselves the same understanding and kindness we would give a close friend. If we spoke to our friends the way we sometimes speak to ourselves, we would have no friends left. We are as worthy of our own kindness as anyone else in the world. When we know how to be kind to ourselves, then we begin to understand how to be kind to others. Being mindful and self-aware is an important part of self-compassion.
 
-> Self-compassion is applying kindness and understanding to yourself.
+> Part of self-compassion is applying kindness and accepting yourself.
 
-### 3-15 What is mindfulness?
+### 3-16 What is mindfulness?
 
 Mindfulness is the same as self-awareness. Mindfulness means we become fully aware of what is happening in our body in the present moment. Most of the time, we don’t really notice our body until something goes wrong. We may not notice our hands until we hurt a finger and then we notice just how much that finger does. When we train in mindfulness, we try to notice the feelings in our body. This is an important part of feeling empathy.
 
 > Mindfulness is being fully aware of what we are experience at that moment.
 
-### 3-16 Why are humans not more mindful and self-aware?
+### 3-17 Why are humans not more mindful and self-aware?
 
 Humans get into the bad habit of thinking too much, and this distracts us from what is happening in our body. Modern technology like cellphones and computers distracts us even more. It is good to be able to think, but this can be very tiring if we always think about things which have already happened, or worry about things which may never happen in the future.
 
-### 3-17 How can we become more mindful?
+### 3-18 How can we become more mindful?
 
 It can take years of practice before we are able to be mindful all the time. We start by practising for a few minutes a day and slowly make the practice time longer. Mindfulness is a habit we need to build. There are many ways of practising mindfulness and we do not need any equipment to start. We just need to focus on our breath and try to notice when we get distracted, so we can bring our focus back. Mindfulness is about noticing when we get distracted and being able to bring our attention back. Slowly we will be able to become more and more aware of what is happening in our body. This will help us to be empathic and compassionate.
 
 > Start by practising mindfulness for a few minutes each day and slowly make the practice time longer to build a habit of mindfulness.
 
-### 3-18 What can we focus our attention on to learn mindfulness?
+### 3-19 What can we focus our attention on to learn mindfulness?
 
 There are many, many ways to practise mindfulness. We can try to focus on our breath, or any sensations and movement of our body, or we can focus on a sound such as the ticking of a clock. Mindfulness is noticing when we become distracted and then bringing our attention back with kindness.
 
-### 3-19 How can one focus on the breath?  
+### 3-20 How can one focus on the breath?  
 
 To do this practice, sit on a chair and make yourself comfortable. Keep your back straight and feet flat on the floor. Breathe out slowly and completely through your nose. Hold it for as long as is comfortable. Breathe in slowly and fully through your nose. Hold it. Keep going for a few more breaths. See if you can notice what parts of your chest move when you breathe. Does your tummy move? Can you feel the air moving in and out of your nostrils? If you get distracted, bring your attention back to your breath, with kindness.
 
 > Focusing on the breath is a good way to start learning to be mindful.
 
-### 3-20 How can one focus on body sensations and movement?
+### 3-21 How can one focus on body sensations and movement?
 
 Decide to be more mindful during something like hand washing or hand sanitising. Then every time we wash our hands, we try to remember to practise mindfulness. If we forget, we are kind to ourselves and try to remember the next time. When we remember, we focus all our attention on our hands. What do our hands look like? What do we feel when we wet them and rub them on the soap? Do water and soap feel different? Can we smell the soap? Do both hands feel the same? Are there any rough areas? Are the fingers stiff? Does washing make our hands feel different to how they felt before washing? We focus our mind on our hands and the sensations in our hands. If we notice we are distracted and have forgotten about our hands, we bring our attention back with kindness.
 
-### 3-21 Are there any problems with becoming more mindful?
+### 3-22 Are there any problems with becoming more mindful?
 
 Sometimes, when we are mindful we start to notice things we don’t like about ourselves. If we are not able to show self-compassion, we may start to feel more stressed. It is very important that we learn to be kind and not judge ourselves when we are distracted or do things wrong. No one is perfect. We should be kind to ourselves, and try to do better next time.
 
-## Self-compassion
-
-### 3-22 How do we take care of our emotional needs?
+### 3-23 How do we take care of our emotional needs?
 
 The best way to take care of our emotional needs is to be kind to ourselves. As we become more mindful, we start to notice how we judge and criticise ourselves all the time. Kindness doesn’t mean we indulge and pamper ourselves. Kindness means we accept that, like everyone else in the world, we are not perfect. Everyone struggles at times. We are no different from other people. Like anyone else, all we can do is try our best.
 
-### 3-23 Will self-compassion make us lazy?
+### 3-24 Will self-compassion make us lazy?
 
 No. It is not correct to think that judging, blaming and punishing ourselves makes us work harder, or that being kind will make us lazy. Questioning ourselves all the time makes us anxious, depressed and less able to work properly. Many studies show that when people are kind to themselves, they are more willing to try new things, have better mental health and can be more empathic.
 
 > Self-compassion makes us more empathic and effective in our work.
 
-### 3-24 Is self-compassion the same as self-pity?
+### 3-25 Is self-compassion the same as self-pity?
 
 No. Self-compassion is not about feeling sorry for yourself. Self-compassion is understanding that we are trying our best in difficult circumstances. We need to be kind to ourselves and stop criticising and judging ourselves. It is self-judgement that makes people feel like victims and sorry for themselves. If we are kind to ourselves, we are more able to take control of our lives, and face and accept the challenges we experience.
 
-### 3-25 Does being kind to ourselves make us weak?
+### 3-26 Does being kind to ourselves make us weak?
 
 No. Self-compassion is not weakness. It is the most powerful way of coping and developing resilience. When we think we must be strong all the time, we get stuck and struggle a lot. No one is strong all the time. Everyone feels frightened, hopeless, inadequate and out of their depth at times. When we can accept that and be kind to ourselves, we very quickly feel powerful again.
 
-### 3-26 Will self-compassion make us less successful?
+### 3-27 Will self-compassion make us less successful?
 
 We live in a very competitive world. Many people think they must be better than others to be successful and important. We may think we must keep pushing ourselves to achieve. None of this is true. Everyone has value and no one is perfect. It’s almost impossible to be above average all the time. Sometimes we do shine, but mostly we are just ordinary. That is good enough, as long as we do our best.
 
-### 3-27 When should we practise self-care and self-compassion?
+### 3-28 When should we practise self-care and self-compassion?
 
 All the time. We must make it a priority and get into the habit of taking care of ourselves. We need to look after our physical needs and attend to our emotional needs, especially when we feel stressed.
 
 > We need to practise self-care and self-compassion all the time.
 
-### 3-28 How can peer support groups help?
+### 3-29 How can peer support groups help?
 
 Peer support groups are not places where we moan and complain, but rather places where we can give support to each other. To be useful, peer groups need to have clear boundaries so that people feel safe to share and access support.
 

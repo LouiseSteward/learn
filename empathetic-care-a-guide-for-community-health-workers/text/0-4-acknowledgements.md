@@ -7,7 +7,7 @@ style: frontmatter
 
 # Acknowledgements
 
-*Empathetic Care: A guide for community health workers* has been developed specifically for community health workers by Bettercare. Much of the learning methodology has been adapted from the Perinatal Education Programme course books for health professionals.
+*Empathetic Care: A guide for community health workers* has been developed specifically for community health workers by Bettercare. Much of the learning methodology has been adapted from the Perinatal Education Programme course books for health professionals and much of the material for this book has been drawn from the work of psychologists Kristen Neff, Richard Davidson and Paul Ekman.
 
 We acknowledge all the participants of the **Skills to Care Learning Programme** who have made suggestions and offered constructive criticism during the development of this course book. It is only through constant feedback from colleagues and participants that the content of the course book can be improved.
 
