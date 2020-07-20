@@ -45,10 +45,10 @@ The sections indicate from which part of the unit the questions were taken. For 
 4. b (3-8)
 5. c (3-9)
 6. b (3-12)
-7. a (3-13)
-8. c (3-15)
-9. c (3-19)
-10. a (3-21)
+7. a (3-14)
+8. c (3-16)
+9. c (3-20)
+10. a (3-22)
 {:.keep-together}
 
 ### Quiz 4: Using empathy and kindness to help others
