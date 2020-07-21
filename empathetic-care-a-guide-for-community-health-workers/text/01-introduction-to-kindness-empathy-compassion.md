@@ -42,7 +42,7 @@ Care means to support or look after someone. When we give care, we show people t
 
 ### 1-2 When do people need our care?
 
-People need care from others when they are vulnerable or suffering. Their problems may be physical, emotional or both:
+People need care from others when they are vulnerable or suffering. Their problems may be physical, emotional or&nbsp;both:
 
 - Physical problems might be pain, weakness or fever.
 - Emotional (feelings) problems might be feeling frightened, angry or unhappy.
@@ -76,6 +76,7 @@ It can be very difficult to be kind to some people and show respect, especially 
 ### 1-7 How can we be kind to everyone?
 
 Before we can give kindness to anyone, we need to have kindness to give. We get kindness when we feel cared for and can be kind to ourselves. Self-awareness, or noticing our own thoughts and emotions, is an important part of being kind to ourselves and others. There are some skills we can learn which will help us understand and be kind to others. These skills are called empathic communication skills.
+{:.tighten-8}
 
 ## Working with empathy
 
@@ -88,6 +89,7 @@ Empathy is being able to share and understand what other people are feeling.
 ### 1-9 What is empathic communication?
 
 Communication (*unxibelelwano*) is the way we understand other people. Most communication happens without language and often without us knowing it is happening. This is called non-verbal communication. Empathic communication is learning to listen to the whole person, and not just their words. When we listen in this way the other person feels we have seen and understood them. Sometimes this is all they need.
+{:.tighten-8}
 
 > Empathic communication is listening to the whole person, not just their words.
 
@@ -103,12 +105,14 @@ We need both feeling and thinking empathy to be able to be kind and take care of
 ### 1-11 What is feeling empathy?
 
 Feeling empathy is what we feel when we see someone else suffering. It is what happens when we '*feel with*' other people. We all have cells in our brains called mirror neurons which change when we see someone else suffering. This allows us to really feel what other people feel. These feelings in ourselves are not as strong in us as they are in the other person. We may not even notice what we are feeling if we are not aware. You may have seen how when one baby starts to cry, other babies start to cry too. Sometimes when we see someone get a fright and start to run, we also jump up and run. Have you ever rubbed your head when you see someone bump their head? This is because of feeling empathy when we share the feelings of others.
+{:.loosen-8}
 
 > Feeling empathy is what we feel when we see someone else suffering.
 
 ### 1-12 How do we learn feeling empathy?
 
 We do not have to learn how to have feeling empathy. Feeling empathy happens automatically from the time we are born. Everyone has different experiences when they are babies, so even though feeling empathy is automatic, everyone gives different meanings to their feelings. Some people have more feeling empathy than others.
+{:.loosen-8}
 
 ### 1-13 What is thinking empathy?
 
