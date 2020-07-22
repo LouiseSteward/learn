@@ -41,10 +41,12 @@ We often think people talk and communicate with language (the use of words). But
 ### 2-2 How can we help people to trust us?
 
 Trust is a very important part of taking care of others. When people feel vulnerable, they look for connection and help from those they trust. Feeling vulnerable means feeling small, afraid and uncertain. Care providers must create trust very quickly.
+{:.tighten-10}
 
 When people are vulnerable they are more frightened and stressed than normal. Fear usually makes us behave in one of two ways. These responses are called the fight and flight response. The fight response is to stand and fight. The flight response is to run away. When people feel stressed and afraid, and they are in fight or flight mode, it is very hard for them to relax or think clearly.
 
 People in fight or flight mode are more sensitive to the body language of others. Care providers can use this sensitivity to help clients feel safe. To do this we must make sure our bodies are sending the right message.
+{:.loosen-8}
 
 ### 2-3 How can we use our body language to relax people?
 
@@ -150,6 +152,7 @@ We must be careful with our voice tone when we use 'why' at the start of an open
 ### 2-14 When do we need to use open questions?
 
 Open questions are an important part of thinking empathy. We use open questions to hear the other person’s view and to understand what is happening. Depending on where we work, we may also need to use open questions to explore recent life events, as well as social and health problems.
+{:.tighten-8}
 
 ### 2-15 Will I cause harm if I reflect emotions incorrectly?
 
@@ -168,6 +171,7 @@ With practice, this will become easier and easier to do, both in ourselves and i
 ### 2-16 Why should we always check that we have understood properly?
 
 A very important part of thinking empathy is to check that we have understood correctly. This allows the person to think about how they are feeling and correct us if we are wrong. It also allows us to separate ourselves from their experience. When we respond we will be able to respond with compassion. We must ask and not tell the other person what they feel. We can try to use questions like:
+{:.tighten-8}
 
 - Did you say&nbsp;…?
 - Am I correct in thinking that&nbsp;…?

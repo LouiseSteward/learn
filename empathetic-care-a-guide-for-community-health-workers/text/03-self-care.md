@@ -40,6 +40,7 @@ Self-care means:
 - Giving ourselves the same kindness and care we would give anyone else
 - Recognising that our health and wellbeing are important
 - Making sure we have what we need to stay physically and mentally healthy and well.
+{:.allow-break}
 
 Taking care of ourselves is called self-care, and being kind to ourselves is called self-compassion. Both self-care and self-compassion are very important parts of making sure we are strong enough to be kind and take care of others.
 
@@ -49,7 +50,8 @@ Taking care of ourselves is called self-care, and being kind to ourselves is cal
 
 Care work can be very stressful because we hear about other people’s problems all day long. This can make us think that other people have more or bigger problems than we do. We then judge ourselves harshly when we struggle, even though care workers may need more support than other people. It can be easy to forget to look after ourselves when we are focused on helping others.
 
-When we spend our time helping others, we forget that we experience the same stress and worries as other people in the community. We may think we have to be strong for other people and should not waste time looking after ourselves. This is not true, because in order to help others, we have to make sure we take extra care of ourselves.
+When we spend our time helping others, we forget that we experience the same stress and worries as other people in the com&shy;munity. We may think we have to be strong for other people and should not waste time looking after ourselves. This is not true, because in order to help others, we have to make sure we take extra care of ourselves.
+{:.tighten-15}
 
 > We need to take care of ourselves so that we are able to take care of others.
 
@@ -150,6 +152,7 @@ There are many, many ways to practise mindfulness. We can try to focus on our br
 ### 3-20 How can one focus on the breath?  
 
 To do this practice, sit on a chair and make yourself comfortable. Keep your back straight and feet flat on the floor. Breathe out slowly and completely through your nose. Hold it for as long as is comfortable. Breathe in slowly and fully through your nose. Hold it. Keep going for a few more breaths. See if you can notice what parts of your chest move when you breathe. Does your tummy move? Can you feel the air moving in and out of your nostrils? If you get distracted, bring your attention back to your breath, with kindness.
+{:.loosen-8}
 
 > Focusing on the breath is a good way to start learning to be mindful.
 
@@ -168,6 +171,7 @@ The best way to take care of our emotional needs is to be kind to ourselves. As 
 ### 3-24 Will self-compassion make us lazy?
 
 No. It is not correct to think that judging, blaming and punishing ourselves makes us work harder, or that being kind will make us lazy. Questioning ourselves all the time makes us anxious, depressed and less able to work properly. Many studies show that when people are kind to themselves, they are more willing to try new things, have better mental health and can be more empathic.
+{:.loosen-5}
 
 > Self-compassion makes us more empathic and effective in our work.
 
@@ -178,6 +182,7 @@ No. Self-compassion is not about feeling sorry for yourself. Self-compassion is 
 ### 3-26 Does being kind to ourselves make us weak?
 
 No. Self-compassion is not weakness. It is the most powerful way of coping and developing resilience. When we think we must be strong all the time, we get stuck and struggle a lot. No one is strong all the time. Everyone feels frightened, hopeless, inadequate and out of their depth at times. When we can accept that and be kind to ourselves, we very quickly feel powerful again.
+{:.loosen-5}
 
 ### 3-27 Will self-compassion make us less successful?
 

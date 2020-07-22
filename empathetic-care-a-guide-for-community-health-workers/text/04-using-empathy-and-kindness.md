@@ -56,6 +56,7 @@ Care workers spend a lot of time with people who need help, as well as with thos
 ### 4-4 How does being calm help with thinking?
 
 Imagine a small river or pool of water. When the water is moving fast or is being stirred up by strong winds, it is not possible to see to the bottom. When the water is calm, things settle at the bottom and the water becomes clear. Then it is possible to see through the water. Our minds are like pools of water. If we are calm, emotions settle and it is easier to think clearly.
+{:.tighten-10}
 
 ## Keeping ourselves calm
 
@@ -73,6 +74,7 @@ S.T.O.P. is a reminder to calm down and a way to practise mindfulness at work:
 - P = Proceed and go ahead with what you need to do. You will find you are much calmer and able to work better.
 
 > We should practise the four steps of S.T.O.P. to become calm and mindful.
+> {:.tighten-8}
 
 ## Helping others to keep calm
 
@@ -97,6 +99,7 @@ Adolescents also experience strong emotions which they may find frightening. Str
 ### 4-11 Should we ignore bad behaviour in adolescents?
 
 No. Bad behaviour, especially if people or animals are harmed and things are broken, is never acceptable. We must always focus on the reason for the behaviour first. No one can think clearly during strong emotions. Shouting, threatening and hitting make things worse. Shouting at someone to calm down is a waste of time and makes things worse. When everyone is calm, we can talk about any bad behaviour and set clear boundaries.
+{:.tighten-5}
 
 Adolescents can try to manage stress by dancing to loud music, going for a run, playing a drum, or even chopping wood. Anything which is rhythmic will help bring calm.
 
@@ -165,6 +168,7 @@ Always start on time. It can be useful to start the group with a relaxation acti
 ### 4-24 What size groups are best?
 
 Small groups of between three and six people give everyone a chance to talk and listen to each other. Once everyone has had a turn in the small group, get a few people from each small group to give feedback to the whole group. Doing this will keep the large group connected. Feedback to the whole group gives the small groups time to reflect on what was said, and allows everyone to get a sense of what was discussed in the smaller groups. It’s not important to share all the stories or break confidence as only the important messages need to be shared. Reflection also gives us time to think and gives a deeper understanding of our shared struggles.
+{:.loosen-10}
 
 > Small groups work better than large groups as they allow everyone to participate.
 
