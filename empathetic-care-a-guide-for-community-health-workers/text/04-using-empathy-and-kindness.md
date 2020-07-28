@@ -28,7 +28,7 @@ Take the chapter quiz before and after you read this chapter.
 When you have completed this chapter you should be able to:
 
 1. Explain why keeping calm is important when helping others.
-2. Use S.T.O.P to calm ourselves.
+2. Use S.T.O.P. to calm ourselves.
 3. Help others to keep calm and feel safe.
 4. Use grounding to help people move away from a very emotional state.
 5. Use practical ways to help isolated people to feel connected.
