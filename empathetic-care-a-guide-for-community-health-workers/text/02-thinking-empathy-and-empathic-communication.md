@@ -1,6 +1,6 @@
 ---
 title: Thinking empathy and empathic communication
-quiz-id: 
+quiz-id: 510
 ---
 
 {% include metadata %}
