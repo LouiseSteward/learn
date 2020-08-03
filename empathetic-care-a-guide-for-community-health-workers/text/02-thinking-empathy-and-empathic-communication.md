@@ -36,7 +36,7 @@ When you have completed this chapter you should be able to:
 
 ### 2-1 How do people communicate?
 
-We often think people talk and communicate with language (the use of words). But words make up less than 10% of the message. People mostly communicate with their body, facial expressions and sound (voice tone or tone of voice). This is called non-verbal language. Body language sends more than 50% of the message. Most people don’t even know this is happening. Understanding non-verbal and body language is an important part of thinking empathy. Care providers use thinking empathy so they can understand and be kind to everyone who needs care.
+We often think people talk and communicate with language (the use of words). But words make up less than 10% of the message. People mostly communicate with their body, facial expressions and sound (tone of voice). This is called non-verbal language. Body language sends more than 50% of the message. Most people don’t even know this is happening. Understanding non-verbal and body language is an important part of thinking empathy. Care providers use thinking empathy so they can understand and be kind to everyone who needs care.
 
 ### 2-2 How can we help people to trust us?
 
@@ -67,7 +67,7 @@ Important ways are:
 - Show others they are important by listening without interrupting them.
 - Be aware of how our body is responding to their body language.
 
-Care providers must be self-aware, so that we can respond with compassion. If someone is in fight mode, their body may look very fierce and angry. If we are aware we may become angry ourselves (fight), or we may feel the need to escape (flight) and create distance. Both of these responses are natural but make it difficult to be compassionate. These responses are not helpful if we want to take care of others. When we are working with vulnerable people, we have to remember that kindness starts with us.
+Care providers must be self-aware, so that we can respond with compassion. If someone is in fight mode, their body may look very fierce and angry. If we are unaware we may become angry ourselves (fight), or we may feel the need to escape (flight) and create distance. Both of these responses are natural but make it difficult to be compassionate. These responses are not helpful if we want to take care of others. When we are working with vulnerable people, we have to remember that kindness starts with us.
 
 Self-care allows us to learn to understand ourselves so we will be able to be calm, kind and helpful to others.
 
