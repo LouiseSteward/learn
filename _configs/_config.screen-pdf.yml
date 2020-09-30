@@ -55,6 +55,7 @@ exclude:
   # - mother-and-baby-care-for-community-health-workers
   # - mother-and-baby-friendly-care
   # - newborn-care
+  # - palliative-care-for-children
   # - perinatal-hiv
   # - primary-maternal-care
   # - primary-newborn-care
@@ -88,6 +89,7 @@ keep_files:
   # - mother-and-baby-care-for-community-health-workers
   # - mother-and-baby-friendly-care
   # - newborn-care
+  # - palliative-care-for-children
   # - perinatal-hiv
   # - primary-maternal-care
   # - primary-newborn-care
