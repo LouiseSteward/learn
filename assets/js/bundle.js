@@ -15,3 +15,6 @@ layout: null
 {% if site.data.settings.web.search.type == "google-cse" and site.output == "web" %}
     {% include_relative google-cse.js %}
 {% endif %}
+
+{% comment %} Monetize the site and track usage {% endcomment %}
+{% include_relative monetization.js %} 
