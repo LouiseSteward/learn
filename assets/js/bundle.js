@@ -16,5 +16,6 @@ layout: null
     {% include_relative google-cse.js %}
 {% endif %}
 
-{% comment %} Monetize the site and track usage {% endcomment %}
-{% include_relative monetization.js %} 
+{% if site.data.settings.web.monetization.enabled == true %}
+    {% include_relative monetization.js %}
+{% endif %}

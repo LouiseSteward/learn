@@ -45,3 +45,9 @@ web:
   search:
     type: "google-cse"
     google-cse-id: "002912243131862380913:nxzwtqgyulc"
+  # --------------
+  # Monetization
+  # --------------
+  monetization:
+    enabled: true
+    ilp-pointer: "$ilp.uphold.com/XPaXd2qbPdzW"
