@@ -225,6 +225,11 @@
     <link rel="stylesheet" type="text/css" media="all" href="{{ path-to-styles-directory }}/{{ web-stylesheet }}" />
     {% endif %}
 
+    {% comment %}Enable web monetization{% endcomment %}
+    {% if site.data.settings.web.monetization.enabled == true %}
+        <meta name="monetization" content={{ site.data.settings.web.monetization.ilp-pointer }}>
+    {% endif %}
+
     {% include head-elements %}
 
 </head>

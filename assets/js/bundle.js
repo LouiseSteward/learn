@@ -15,3 +15,7 @@ layout: null
 {% if site.data.settings.web.search.type == "google-cse" and site.output == "web" %}
     {% include_relative google-cse.js %}
 {% endif %}
+
+{% if site.data.settings.web.monetization.enabled == true %}
+    {% include_relative monetization.js %}
+{% endif %}
