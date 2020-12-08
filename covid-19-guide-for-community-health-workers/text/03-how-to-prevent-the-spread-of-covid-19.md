@@ -34,6 +34,11 @@ Once you have finished this chapter you should be able to:
 
 ## Preventing the spread of COVID-19
 
+{% include youtube id="ogBXkJ06nN8" class="non-printing" %}
+
+Video by the [Global Health Media Project](https://globalhealthmedia.org/) made available under a [Creative Commons Attribution-NonCommercial-NoDerivatives License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+{:.non-printing}
+
 ### 3-1 Is there a vaccine for COVID-19?
 
 Unfortunately, there is no vaccine yet. This means a huge effort must be made to prevent the spread of COVID-19. There is an international effort to produce an effective vaccine against coronavirus as soon as possible. Only when a vaccine is available will immunisation be able to control and finally stop the spread of COVID-19.
