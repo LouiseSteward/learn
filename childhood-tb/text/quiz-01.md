@@ -62,7 +62,7 @@ Please choose the *one*, most correct answer to each question or statement.
 11.	What is the incidence of tuberculosis in South Africa?
 	-	Less than 50 per 100 000 people
 	-	About 100 per 100 000 people
-	+	About 500 per 100 000 people
+	+	About 600 per 100 000 people
 	-	About 1000 per 100 000 people
 12.	Primary TB infection usually occurs in:
 	+	The lung

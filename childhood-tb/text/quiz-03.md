@@ -62,7 +62,7 @@ Please choose the *one*, most correct answer to each question or statement.
 11.	The recommended initial laboratory test for confirming tuberculosis is:
 	-	smear microscopy
 	-	Line probe assay
-	+	Xpert MTB/RIF
+	+	Xpert MTB/RIF ultra
 	-	TB culture
 12.	How long does it take to get a sputum culture result with liquid culture medium?
 	-	Less than one week
@@ -71,7 +71,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	More than one month
 13.	What is the most sensitive test on sputum for TB bacilli?
 	-	Staining the smear
-	-	Xpert MTB/RIF
+	-	Xpert MTB/RIF ultra
 	-	A Heaf test
 	+	Culture
 14.	A chest X-ray is:
