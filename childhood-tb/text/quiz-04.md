@@ -26,7 +26,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	Five
 4.	Which drug is included in the first-line treatment of tuberculosis in children?
 	+	INH
-	-	Ethambutol
+	-	Bedaquiline
 	-	Streptomycin
 	-	Amikacin
 5.	Which drug is used in the continuation phase of drug-susceptible TB in younger children?
@@ -85,7 +85,7 @@ Please choose the *one*, most correct answer to each question or statement.
 	-	The intensive phase is too short
 	-	The patient develops severe hepatitis
 16.	Patients with multi-drug-resistant tuberculosis are resistant to:
-	+	INH and rifampicin
+	+	At least INH and rifampicin
 	-	All anti-TB drugs
 	-	Kanamycin and capreomycin
 	-	BCG
