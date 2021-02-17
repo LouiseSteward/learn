@@ -7,6 +7,11 @@ title: Skin conditions photographs
 # Photographs
 {:.space-below-1}
 
+{% if site.output == "print-pdf" %}
+See these images in colour online at [bettercare.co.za/learn/chc/photos](https://bettercare.co.za/learn/chc/photos).
+{:.wide}
+{% endif %}
+
 ## Skin conditions
 {:.wide}
 
