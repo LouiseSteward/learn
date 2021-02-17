@@ -4396,6 +4396,9 @@ works:
               - label: "Case studies"
                 file: "15"
                 id: "case-study-1"
+          - label: "Skin-conditions: photographs"
+            file: "z-photographs"
+            id: "photographs"
         start-page: "0-3-contents" # At which file should users start reading?
         contents-page: "0-3-contents" # Your contents-page file, if you have one.
         footer: "" # Text that appears in the footer of this book's pages on the website.
@@ -5048,13 +5051,6 @@ works:
         format: "Digital download" # e.g. Paperback, Digital download, Digital online
         identifier: "" # e.g. ISBN or UUID
         image: "cover.jpg"
-        files:
-          - "0-0-cover"
-          - "0-1-titlepage"
-          - "0-2-copyright"
-          - "0-3-contents"
-          - "01"
-          - "02"
   # - directory: "childhood-critical-care"
   #   title: "Childhood Critical Care"
   #   subtitle: ""
