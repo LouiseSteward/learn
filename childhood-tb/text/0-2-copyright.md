@@ -7,7 +7,7 @@ style: copyright-page
 
 *Childhood TB: Care and treatment in the clinic*
 
-First published in 2010 by [Bettercare](http://bettercare.co.za). Updated: May 2011, February 2015 (layout), May 2017 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2010 by [Bettercare](http://bettercare.co.za). Updated: May 2011, February 2015 (layout), May 2017 (significant changes), February 2021. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © David Woods and Robert Gie 2010
 

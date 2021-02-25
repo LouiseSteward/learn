@@ -1,10 +1,10 @@
-title: Childhood TB. Quiz 3. Diagnosis of childhood tuberculosis
+title: Childhood TB. Quiz 3. Diagnosis of childhood tuberculosis 
 
 
 The clinical diagnosis of tuberculosis in children:
 -	Is usually easy to confirm
 -	Can be confirmed with a few special investigations
-+	Is often difficult to confirm
++	Is confirmed only when other infections have been excluded
 -	Usually cannot be confirmed
 
 What is used in a Mantoux skin test?
@@ -27,8 +27,8 @@ When should a Mantoux skin test be read?
 
 A Mantoux skin test is positive when:
 -	The area of induration is 0 to 4 mm.
--	The area of induration is 5 to 9 mm.
-+	The area of induration is 10 mm or more.
+-	The area of induration is 2 to 5 mm in HIV-infected children.
++	The area of induration is 10 mm or more in children without immunosuppression.
 -	The area of redness is 15 mm or more.
 
 What does a positive Mantoux skin test indicate?
@@ -61,11 +61,11 @@ How can staff protect themselves against TB infection when collecting sputum?
 -	Wear a N95 respirator
 -	Keep all the windows closed
 
-A sputum smear is usually stained for TB bacilli with:
--	Ziehl-Neelsen stain
--	Gram’s stain
-+	Indian ink stain
--	Aniline stain
+The recommended initial laboratory test for confirming tuberculosis is:
+-	smear microscopy
+-	Line probe assay
++	Xpert MTB/RIF ultra
+-	TB culture
 
 How long does it take to get a sputum culture result with liquid culture medium?
 -	Less than one week
@@ -75,7 +75,7 @@ How long does it take to get a sputum culture result with liquid culture medium?
 
 What is the most sensitive test on sputum for TB bacilli?
 -	Staining the smear
--	Measuring the pH
+-	Xpert MTB/RIF ultra
 -	A Heaf test
 +	Culture
 

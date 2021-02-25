@@ -8,7 +8,7 @@ style: title-page page-1
 Childhood TB
 {:.titlepage-title}
 
-Care and treatment in the primary care facility
+Care and treatment in the clinic
 {:.titlepage-subtitle}
 
 Written by David Woods and Robert Gie
